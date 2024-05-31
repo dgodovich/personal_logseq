@@ -1,0 +1,15 @@
+- International grad programs??? No idea if it's worth it at all but it doesn't take that much effort to at least look into it a little bit
+- There are obviously a ton of cool researchers everywhere, but it's a lot harder to go abroad
+- Would be super epic
+-
+- Haase group at EMBL Barcelona
+- EMBL Barcelona in general sounds cool
+- Cambridge CSCI - Cambridge Stem Cell Institute with Bertie Gottgens who Kat works with
+	- New discovery research platform for tissue scale biology
+	- Look into papers coming out of this group / groups in this institute
+		- I know Gottgens is working on sc stuff which is transferrable, but I wonder how much interest I have in the questions that he's asking
+		- Hey now I am working with someone from the Gottgens lab and I know that I'm not all that interested in their work, it's all blood
+	- Mekayla Storer sounds cool
+		- [https://www.stemcells.cam.ac.uk/people/pi/storer](https://www.stemcells.cam.ac.uk/people/pi/storer)
+		- Relatively new / small lab
+		- Postdoc at Sick Kids[

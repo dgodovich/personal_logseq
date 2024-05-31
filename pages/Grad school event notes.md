@@ -1,0 +1,192 @@
+- WCGS Open houses are scheduled to take place on October 10 and November 1
+- 9/12 4pm Intro to graduate school with Tom Magaldi Associate Dean GSK
+	- Mostly information I already know
+	- Types of schools that offer phds
+		- Large unversities, eg stanford, unc, etc etc
+		- Medical school, e.g. mayo clinic, ut southwestern
+		- Stand alone graduate schools, e.g. GSK, Scripps research, St Judes, Rockefeller, CSHL
+		- Partnerships, e.g. Salk institute, NIH, MD Anderson
+			- Research organizations that do not have their own graduate schools
+			- Like Salk is at UC San Diego, so you can work in their labs but degree is from somewhere else
+			- NIH is with Hopkins, Georgetown, other nearby places
+	- Some universities have multiple programs to apply to
+		- Multiple schools in one program
+			- Medical and graduate school share a phd program
+			- Harvard, Umich, UC Riverside
+		- Two schools, two programs.
+			- Separated Medical school and graduate school applications
+			- Weill Cornell Medical vs Cornell Ithaca
+			- NYU medical vs NYU Graduate school
+			- Upenn medical vs Upenn graduate school
+	- Identify important aspects of phd programs, get resources and advice from mentors and colleagues to narrow the list down
+	- Apply to 5 - 10 programs, good to be strategic about it
+	- Factors to consider
+		- Research
+			- Areas of expertise
+			- Basic vs translational
+			- Number of faculty working in
+			   area you're interested in
+		- Location
+			- City vs rural, close to
+			   family. Hub of biomedical science
+			- Culture, entertainment,
+			   diversity, etc etc
+		- Structure
+			- Type of university as listed above, that matters a lot
+		- Collaboration opportunities
+		- Expectations for graduation
+		- Course structure
+		- Resources
+			- Science and stipend/benefits
+			   and other things
+			- Housing
+			- Level of funding
+		- Class size
+		- Community
+			- Program leadership access
+			- Relationship with faculty
+	- How do you find graduate programs
+		- AAMC, ABRCMS (big conference), Grad career fair at NIH
+	- Funding needs to care for the science and the scientist - stipend, relocation benefit, conferece travel, awards
+		- Subsidized housing, insurance, cost of living
+	- Funding mechanisms
+		- Individual fellowships, Training Grants, faculty grants, graduate school itself, teaching, other
+	- Questions to ask about stipends
+		- Is it guaranteed and for how long?
+		- Is teaching required, for how long, how much do you get paid?
+		- Do you get a bonus for getting individual fellowships
+		- What happens if you come in with NSF GRFP? Or other
+	- Offering technical writing courses, fellowship writing support, DEI, etc
+	- Apply in the same way as college - reach, target, safety
+	- Types of phd programs
+		- Umbrella programs have many tracks for one application, other programs have track upfront
+	- Online application replaces CV sometimes. Typically two to three rec letters from Pis if possible.
+		- GRE mostly optional
+- Day 2
+	- GSK overview notes
+		- I don't really need to pay attention to this too much I think
+		- Hey its my lab
+		- All coursework in first year. Minimum 2, can do 3 5 week rotations
+		- Cancer Biology / Cancer Engineering program - I would be more interested in cancer engineering
+		  (like with Huangfu)
+		- Average 6 year program
+		- 10-12 class size, very many mentors available, that do teach you
+	- Weill Cornell
+		- BCMB - Cell, structural, dev, molecular biology, biochem
+		- Also programs in pharma, immunology, physiology, many more
+		- Larger program - 60-70 students, each program is a bit smaller, 10-20
+		- 164 faculty at Sloan Kettering, 429 at Weill Cornell / HSS, 60 research areas
+		- Defense average 5.8 years, coursework can be up to 2 years but focused in year one
+		- Can work with faculty members in any program
+		- Guaranteed stipend, no TA requirement. Students have health insurance. Guaranteed affordable housing
+	- Computational Biology and Medicine program
+		- Tri- I, so in all SKI, Weill Cornell, and Rockefeller
+		- A bit faster graduation 5.5 years, average 4+ publications
+		- Program is computational but can pursue combination projects
+		- 17 MSK faculty, 11 Rockefeller faculty, 23 Weill cornell, 11 Cornell ithaca
+		- Interview decisions are made about 2 weeks after, very quickly
+	- Personal Statement
+		- Individual faculty read 20 - 60 applications, deans 400-1000, goal is to get an interview
+		- Short essay 500-1000 words that introduces your personal reasons, experiences, and interest in particular program. Schools can have specific prompts that you have to answer
+		- Appropriate to mention faculty members you are interested in in the personal statement
+		- Focus on presenting research experiences, both big picture and your contribution, and how skills have prepared your for the next steps
+		- Try to make your unrelated experiences cohesive
+		- Where do you start
+		  writing
+			- Think about aspirations, goals, story, challenges, strengths, weaknesses
+			- Capture all ideas first, start early. Edit later
+			- Potentially address covid impact?
+		- Putting experiences from your resume use statement to reflect impact on you, not others
+			- Resume/CV has numbers info and outcomes
+			- Statement has why does this matter for you, what did you think about it
+				- ICK! Impacted x kids, whatever is for resume
+				- But I was impacted by seeing the magic that children experiencing science for the first time blah blah blah
+		- Talk to people about it! Especially check admissions committee people (i.e. Kat)
+		- Will be read by 20 - 50 people, so don't be shy
+		- Really really really edit grammar
+		- Gotta address the prompts
+		- Include yourself, but it is always about research at the end of the day
+- Fellowships and Funding 9/14
+	- NIH F31 or NSF GRFP are the biggest government PhD awards
+	- Scientific foundation or professional society; HHMI
+	- Internal awards
+	- Also public charities/foundations, non-profits, NGO, Industry, etc
+	- Can apply as primary contact (as the PI of the grant), or together with your advisor
+	- High success rate >25%, can apply for multiple
+	- PhD programs are still fully funded typically in the us
+	- Applying before or year 1 is good for techs / postbac students - like me
+	- NIH F31 is a standard fellowship after candidacy exam, so in 3rd year
+	- For NSF GRFP:
+		- Use current research project with some data and propose new aims
+		- Ok if project changes, especially if applying before graduate school, it's ok to change labs in grad school
+		- Demonstrate your ability to prepare a 3 year research proposal
+		- Field is based on the research your are proposing
+		- Proposal does not reflect the thesis research that you will be doing, it's more about showing how you prepare one - totally ok to do something completely different
+	- For NIH F31:
+		- Use thesis lab project and proposal
+		- Should have publication or award or something, more substantial data
+		- Needs convincing feasibility for at least 1 / 3-4 aims
+	- Mention in personal statement if you are applying, also bring up in interviews
+	- "I have submitted an NSF GRFP application, in which I indicated a sincere interest in
+	  conducting thesis research in a phd program where I can do blah blah … I
+	  proposed … I'm excited to do this research at …. In the labs of …."
+	- Demonstrate that you know how to get funding  and ready to write a research proposal
+	- Grants and fellowships offices at each institution. Pivot grant database access (MSK
+	  access)
+	- For GRFP, consider broad impact for STEM - teaching, etc. Can only apply once
+	- Deadline is October 16 - 20
+	- Do lit review (obviously), get preliminary data
+	- Aims Section
+		- Specific Aims page for NIH F31
+		- Arial 11pt font 0.5 in margins
+		- One page executive summary, WRITE THIS FIRST, serves as your outline. Send page to anyone who writes rec letter, because they're also gonna want to check it out
+		- Has to have everything about your project. Must be concise, precise. Really critical
+		- Study section is when grants are decided. 3 people get your grant to read fully, everyone else
+		  only has one page. So its really really important
+	- Intro paragraph 1/4 page
+		- Opening sentence
+		- Current knowledge and gaps, which needs to be filled
+		- Statement of need
+	- What/Why/Who paragraph
+		- Long term goal, overall objective, central hypothesis
+		- Keep narrowing funnel as you add information
+	- Specifics (numbered)
+		- Aims - 2 maybe 3 hypothesis
+		- First should be airtight, second can be a bit more wishy washy. Should not depend on first
+	- Payoff
+		- 2 sentences, could be longer depending on how much you have above. Whitespace on the page is ok
+		- Highlight deliverables, why it's imporant
+		- Tie in to funding agency
+	- Longer sections that address research strategy
+		- NIH fellowship asks for 6 pages with 2 sections - significance, innovation
+			- Signficance - why is your problem important, why are the effects of the solution?
+				- ~1-1.5 page out of 6
+				- Intro paragraph, scientific premise. Add in preliminary data if you have it
+				- Summarize scientific premise with figures
+				- Expected contributions to project
+			- Innovation - methods, How will you do this
+				- Consider relevant
+				  biological variables
+				- Anticipated results
+				- Paragraph about obstacles,
+				  alternative explationations
+	- Reading fellowships starts at 100 and gets deductions
+	- Importance: is research low impact? Is it not very significant or exciting?
+	- 1000% make sure that you are not missing literature findings
+	- Good controls, include alternative models
+	- Other things for fellowship applications:
+		- Project abstract summary  - summarize your research / career goals, succinct description.
+			- Write this last
+		- Project narrative / lay summary - read press releases from communications office for baseline
+		- Biosketch - NIH CV up to 5 pages, right now probably around 1. Very specific for NIH
+	- Personal statement
+	- Positions / honors
+	- Contributions to science
+	- Additional info - undergrad / grad courses
+	- They suggest to start 4 months in advance
+	- Do I need to base the NSF-GRFP on my data or can I do it based on a literary review, pose a hypothesis and write/plan out an experimental design?
+		- Ushma Neill       4:51 PM
+			- Either one! If you’re planning to stay in the lab you’re in now, or one that is in an adjacent
+			  topic, then yes- use data to demonstrate feasibility. otherwise, you can use
+			  that data to show that YOU GOT THIS. you know how to do the kind of experiments
+			  that are needed in your proposal
