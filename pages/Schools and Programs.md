@@ -2,13 +2,13 @@
 	- These are all domestic
 	- Separate page for international - [[We go international?]]
 -
-- Duke
+- [[Duke]]
 	- [check out these faculty members](https://sites.duke.edu/dukeregenerationcenter/affiliated-faculty/)
 - [[UCSF]]
 - Caltech
 	- Marianne Bronner
 - Stanford
-- Harvard
+- [[Harvard]]
 - Johns Hopkins
 - Wake Forest
 	- I remember liking this program but I should revisit
