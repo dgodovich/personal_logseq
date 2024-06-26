@@ -8,8 +8,12 @@
 - Caltech
 	- Marianne Bronner
 - Stanford
+- Berkeley
+	- Richard Harland
 - [[Harvard]]
 - Johns Hopkins
 - Wake Forest
 	- I remember liking this program but I should revisit
 - UCLA
+	- Eddy De Robertis
+-
