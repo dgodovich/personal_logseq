@@ -9,4 +9,5 @@
 		- [here's the actual presidential budget that outlines the points (page 129-130)](https://www.whitehouse.gov/wp-content/uploads/2024/03/budget_fy2025.pdf)
 		- One potential angle is through the CHIPS and Science Act which broadly allocates money for semiconductor manufacturing and biotech along with that
 			- So maybe something about method development? but that sounds hard
-	-
+- [Wiilam's GRFP application](https://www.williamxie.nyc/grfp.html)
+-
