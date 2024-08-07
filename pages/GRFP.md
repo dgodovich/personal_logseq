@@ -1,4 +1,6 @@
 - I gotta start thinking / working on this if I hope to submit in time
 - Due in october
+	- October 16, 2024
+	- Life Sciences
 - [Description](https://new.nsf.gov/funding/opportunities/nsf-graduate-research-fellowship-program-grfp/nsf24-591/solicitation)
 -
