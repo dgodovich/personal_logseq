@@ -2,5 +2,7 @@
 - Due in october
 	- October 16, 2024
 	- Life Sciences
+	- **Reference Letters Must be Submitted by October 11, 2024 (Friday) 5:00 p.m. EASTERN TIME**
 - [Description](https://new.nsf.gov/funding/opportunities/nsf-graduate-research-fellowship-program-grfp/nsf24-591/solicitation)
+-
 -
