@@ -3,11 +3,14 @@
 	- October 16, 2024
 	- Life Sciences
 	- **Reference Letters Must be Submitted by October 11, 2024 (Friday) 5:00 p.m. EASTERN TIME**
+		- 3 letters
 - [Description](https://new.nsf.gov/funding/opportunities/nsf-graduate-research-fellowship-program-grfp/nsf24-591/solicitation)
 	- NSF prioritizes research aligned with the budget statement, which makes sense
 		- Unfortunately this doesn't involve life science unless I can think of a way to connect it to climate change which seems tenuous at best
 		- [here's the actual presidential budget that outlines the points (page 129-130)](https://www.whitehouse.gov/wp-content/uploads/2024/03/budget_fy2025.pdf)
 		- One potential angle is through the CHIPS and Science Act which broadly allocates money for semiconductor manufacturing and biotech along with that
 			- So maybe something about method development? but that sounds hard
+- Things to keep in mind
+	- [Reviewer guidelines 1](**https://www.nsfgrfp.org/reviewers/review-process/**)
 - [Wiilam's GRFP application](https://www.williamxie.nyc/grfp.html)
 -
