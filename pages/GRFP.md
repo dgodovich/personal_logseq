@@ -1,1 +1,1 @@
-- I gotta
+- I gotta start thinking / working on this if I hope to submit in time
