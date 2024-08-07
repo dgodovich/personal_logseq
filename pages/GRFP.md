@@ -13,7 +13,9 @@
 - Things to keep in mind
 	- [Reviewer guidelines 1](https://www.nsfgrfp.org/reviewers/review-process/)
 	- [Reviewer guidelines 2](https://www.nsf.gov/bfa/dias/policy/merit_review/mrfaqs.jsp)
-	- [Reddit thread from a reviewer]
-	- (https://www.reddit.com/r/GradSchool/comments/ft094n/comments_from_a_grfp_reviewer/)
-- [Wiilam's GRFP application](https://www.williamxie.nyc/grfp.html)
+	- [Reddit thread from a reviewer](https://www.reddit.com/r/GradSchool/comments/ft094n/comments_from_a_grfp_reviewer/)
+- Successful applications
+	- [Wiilam's GRFP application](https://www.williamxie.nyc/grfp.html)
+	- [Some guy William found useful](https://www.alexhunterlang.com/nsf-fellowship)
+	-
 -
