@@ -4,5 +4,7 @@
 	- Life Sciences
 	- **Reference Letters Must be Submitted by October 11, 2024 (Friday) 5:00 p.m. EASTERN TIME**
 - [Description](https://new.nsf.gov/funding/opportunities/nsf-graduate-research-fellowship-program-grfp/nsf24-591/solicitation)
-	- NSF prioritizes resear
+	- NSF prioritizes research aligned with the budget statement, which makes sense
+		- Unfortunately this doesn't involve life science unless I can think of a way to connect it to climate change which seems tenuous at best
+		-
 -
