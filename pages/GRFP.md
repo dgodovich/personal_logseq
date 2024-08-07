@@ -11,6 +11,9 @@
 		- One potential angle is through the CHIPS and Science Act which broadly allocates money for semiconductor manufacturing and biotech along with that
 			- So maybe something about method development? but that sounds hard
 - Things to keep in mind
-	- [Reviewer guidelines 1](**https://www.nsfgrfp.org/reviewers/review-process/**)
+	- [Reviewer guidelines 1](https://www.nsfgrfp.org/reviewers/review-process/)
+	- [Reviewer guidelines 2](https://www.nsf.gov/bfa/dias/policy/merit_review/mrfaqs.jsp)
+	- [Reddit thread from a reviewer]
+	- (https://www.reddit.com/r/GradSchool/comments/ft094n/comments_from_a_grfp_reviewer/)
 - [Wiilam's GRFP application](https://www.williamxie.nyc/grfp.html)
 -
