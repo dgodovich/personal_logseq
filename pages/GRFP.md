@@ -6,5 +6,5 @@
 - [Description](https://new.nsf.gov/funding/opportunities/nsf-graduate-research-fellowship-program-grfp/nsf24-591/solicitation)
 	- NSF prioritizes research aligned with the budget statement, which makes sense
 		- Unfortunately this doesn't involve life science unless I can think of a way to connect it to climate change which seems tenuous at best
-		-
+		- [here's the actual presidential budget that outlines the points (page 129-130)(https://www.whitehouse.gov/wp-content/uploads/2024/03/budget_fy2025.pdf)
 -
