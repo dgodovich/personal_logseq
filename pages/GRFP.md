@@ -17,5 +17,6 @@
 - Successful applications
 	- [Wiilam's GRFP application](https://www.williamxie.nyc/grfp.html)
 	- [Some guy William found useful](https://www.alexhunterlang.com/nsf-fellowship)
+	- [Epic compilation of successful applicants](https://docs.google.com/spreadsheets/d/1xoezGhbtcpg3BvNdag2F5dTQM-Xl2EELUgAfG1eUg0s/edit?gid=0#gid=0)
 	-
 -
