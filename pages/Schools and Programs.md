@@ -1,7 +1,8 @@
 - List of all schools I am interested in / thinking about
 	- These are all domestic
 	- Separate page for international - [[We go international?]]
--
+- testing testing
+- [[new page]]
 - [[Duke]]
 	- [check out these faculty members](https://sites.duke.edu/dukeregenerationcenter/affiliated-faculty/)
 - [[UCSF]]
