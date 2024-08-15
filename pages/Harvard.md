@@ -1,1 +1,2 @@
-- There's an axolotl regeneration lab that looked cool
+- Whited Lab
+	- There's an axolotl regeneration lab that looked cool
