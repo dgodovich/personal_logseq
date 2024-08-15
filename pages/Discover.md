@@ -1,0 +1,24 @@
+- Cash back options (as of [[Aug 14th, 2024]] )
+	- For clothes
+		- Nike 20%
+		- American Eagle 15%
+		- Banana Republic 15%
+		- Gap 15%
+		- L.L. Bean 15%
+		- Macys 15%
+		- Old Navy 15%
+		- Under armor 15%
+		- JCPenney 10%
+		- Kohls 10%
+		- Marshalls 10%
+		- Nordstrom / rack 10%
+		- TJMaxx 10%
+		- Target 5%
+	- Misc
+		- REI 10%
+		- Sunglasses Hut 15%
+		- Gamestop 10%
+		- Fandango 10%
+		- AMC Theaters 20%
+	- Food
+		-
