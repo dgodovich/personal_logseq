@@ -1,0 +1,1 @@
+- Cover for my power strip switch
