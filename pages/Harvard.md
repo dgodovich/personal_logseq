@@ -1,2 +1,5 @@
-- Whited Lab
-	- There's an axolotl regeneration lab that looked cool
+- Labs
+	- [Whited Lab](https://www.whitedlab.com/)
+		- Axolotl regeneration lab that looked cool
+		- Mildly concerning that there are very few students who graduated? But there are some there now
+	-
