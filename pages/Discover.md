@@ -10,11 +10,6 @@
 		- Under armor 15%
 		- JCPenney 10%
 		- Kohls 10%
-		-
-		-
-		-
-		-
-		-
 		- Marshalls 10%
 		- Nordstrom / rack 10%
 		- TJMaxx 10%
@@ -26,4 +21,13 @@
 		- Fandango 10%
 		- AMC Theaters 20%
 	- Food
-		-
+-
+- really my options are
+	- american eagle
+	- gap
+	- old navy
+	- tjmaxx
+	- jcpenney
+	- macy
+	- marshalls
+	- kohls
