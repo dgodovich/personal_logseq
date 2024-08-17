@@ -39,4 +39,5 @@
 		- i.e. I don't really want to be in something like Ithaca or Bing?
 		- I did like Bing after some time, and I think I would like it more now, but for something like a PhD in which I will be at this school for ~6 years I would like it to be in a more interesting and developed location
 	- I do not want to be in New York City, and probably not NYS as well
-		- One exception to this is a [[Tri-I]]  school
+		- One exception to this is a [[Tri-I]]  school because of Kat's recommendation making it almost a safety
+		- For NYS, I can make exceptions for something really far like Rochester or Buffalo, but I don't think there are school there that I want to apply forT
