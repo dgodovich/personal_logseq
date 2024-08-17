@@ -7,21 +7,32 @@
 	- [[Harvard]]
 	- [[Rockefeller]] / [[Tri-I]]
 - State Schools
-	- [[Berkeley]]
-	- [[UCLA]]
+  collapsed:: true
+	- California
+		- [[Berkeley]]
+		- [[UCLA]]
+		- [[UCSF]]
 	- [[UVA]]
 	- [[UT]]
-	- UMich
-	- UNC
+	- [[UMich]]
+	- [[UNC]]
 - West coast
+  collapsed:: true
 	- [[Caltech]]
 	- Stanford
+	- [[Berkeley]]
+	- [[UCLA]]
+	- [[UCSF]]
 - East coast
+  collapsed:: true
 	- [[Johns Hopkins]]
 	- [[UPenn]]
 	- [[Wake Forest]]
 	- [[Cornell]]
 	- [[Duke]]
 - Middle Country
+  collapsed:: true
 	- [[Wustl]]
+	-
+- General considerations
 	-
