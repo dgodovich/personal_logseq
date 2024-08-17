@@ -12,16 +12,18 @@
 	- [[UCLA]]
 	- [[UVA]]
 	- [[UT]]
--
+	- UMich
+	- UNC
+- West coast
+- East coast
+	- [[Johns Hopkins]]
+	- UPenn
 - Caltech
 	- Marianne Bronner
 - Stanford
 - Johns Hopkins
 - Wake Forest
 	- I remember liking this program but I should revisit
-- UPenn
-	- Mary mullins
-		- BMP
 - Cornell
 - wustl
 	- Lila Solnica-Krezel
