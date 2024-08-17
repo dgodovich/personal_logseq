@@ -11,7 +11,11 @@
 - State Schools
 	- Berkeley
 		- Richard Harland
-- Ivys
+	- UCLA
+		- Eddy De Robertis
+	- UVA
+		- Ray Keller
+	- [[UT]]
 -
 - Caltech
 	- Marianne Bronner
@@ -19,16 +23,10 @@
 - Johns Hopkins
 - Wake Forest
 	- I remember liking this program but I should revisit
-- UCLA
-	- Eddy De Robertis
-- UVA
-	- Ray Keller
 - UPenn
 	- Mary mullins
 		- BMP
 - Cornell
 - wustl
 	- Lila Solnica-Krezel
-- UT
-	- John Wallingford
 -
