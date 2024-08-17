@@ -37,4 +37,6 @@
 - General considerations
 	- I think I want to be in at least a small city
 		- i.e. I don't really want to be in something like Ithaca or Bing?
-		- I did like Bing after some time, and I think I would like it more now, but for something like a PhD in which I will be at this school for
+		- I did like Bing after some time, and I think I would like it more now, but for something like a PhD in which I will be at this school for ~6 years I would like it to be in a more interesting and developed location
+	- I do not want to be in New York City, and probably not NYS as well
+		- One exception to this is a [[Tri-I]]  school
