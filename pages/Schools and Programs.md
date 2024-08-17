@@ -7,7 +7,6 @@
 	- [[Harvard]]
 	- [[Rockefeller]] / [[Tri-I]]
 - State Schools
-  collapsed:: true
 	- California
 		- [[Berkeley]]
 		- [[UCLA]]
