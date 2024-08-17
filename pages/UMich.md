@@ -1,4 +1,5 @@
 - It's really just Ann Arbor, the rest of them are tiny
 - Whole bunch of people I know here
 	- Nathan, Alice, some other people from hunter
-	- Gianna Paier is doing a p
+	- Gianna Paier is doing a  BME PhD there rn, can probably talk to her
+-
