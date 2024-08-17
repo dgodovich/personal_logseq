@@ -15,16 +15,14 @@
 	- UMich
 	- UNC
 - West coast
+	- [[Caltech]]
+	- Stanford
 - East coast
 	- [[Johns Hopkins]]
-	- UPenn
-- Caltech
-	- Marianne Bronner
-- Stanford
-- Johns Hopkins
-- Wake Forest
-	- I remember liking this program but I should revisit
-- Cornell
+	- [[UPenn]]
+	- [[Wake Forest]]
+		-
+	- Cornell
 - wustl
 	- Lila Solnica-Krezel
 -
