@@ -35,4 +35,6 @@
 	- [[Wustl]]
 	-
 - General considerations
-	-
+	- I think I want to be in at least a small city
+		- i.e. I don't really want to be in something like Ithaca or Bing?
+		- I did like Bing after some time, and I think I would like it more now, but for something like a PhD in which I will be at this school for
