@@ -1,0 +1,1 @@
+- [check out these faculty members](https://sites.duke.edu/dukeregenerationcenter/affiliated-faculty/)

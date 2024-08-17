@@ -3,7 +3,6 @@
 	- Separate page for international - [[We go international?]]
 - Top contenders / [[Schools I am applying to]]
 	- [[Duke]]
-		- [check out these faculty members](https://sites.duke.edu/dukeregenerationcenter/affiliated-faculty/)
 	- [[UCSF]]
 	- [[Harvard]]
 	- [[Rockefeller]] / [[Tri-I]]
@@ -21,8 +20,8 @@
 	- [[Johns Hopkins]]
 	- [[UPenn]]
 	- [[Wake Forest]]
-		-
-	- Cornell
-- wustl
-	- Lila Solnica-Krezel
--
+	- [[Cornell]]
+	- [[Duke]]
+- Middle Country
+	- [[Wustl]]
+	-
