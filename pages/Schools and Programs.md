@@ -1,15 +1,21 @@
 - List of all schools I am interested in / thinking about
 	- These are all domestic
 	- Separate page for international - [[We go international?]]
-- [[Duke]]
-	- [check out these faculty members](https://sites.duke.edu/dukeregenerationcenter/affiliated-faculty/)
-- [[UCSF]]
+- Top contenders / [[Schools I am applying to]]
+	- [[Duke]]
+		- [check out these faculty members](https://sites.duke.edu/dukeregenerationcenter/affiliated-faculty/)
+	- [[UCSF]]
+	- [[Harvard]]
+	- Rockefeller / [[Tri-I]]
+		- Amy Shyer
+- State Schools
+	- Berkeley
+		- Richard Harland
+- Ivys
+-
 - Caltech
 	- Marianne Bronner
 - Stanford
-- Berkeley
-	- Richard Harland
-- [[Harvard]]
 - Johns Hopkins
 - Wake Forest
 	- I remember liking this program but I should revisit
@@ -21,8 +27,6 @@
 	- Mary mullins
 		- BMP
 - Cornell
-- Rockefeller
-	- Amy Shyer
 - wustl
 	- Lila Solnica-Krezel
 - UT
