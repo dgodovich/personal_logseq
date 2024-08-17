@@ -6,15 +6,11 @@
 		- [check out these faculty members](https://sites.duke.edu/dukeregenerationcenter/affiliated-faculty/)
 	- [[UCSF]]
 	- [[Harvard]]
-	- Rockefeller / [[Tri-I]]
-		- Amy Shyer
+	- [[Rockefeller]] / [[Tri-I]]
 - State Schools
-	- Berkeley
-		- Richard Harland
-	- UCLA
-		- Eddy De Robertis
-	- UVA
-		- Ray Keller
+	- [[Berkeley]]
+	- [[UCLA]]
+	- [[UVA]]
 	- [[UT]]
 -
 - Caltech
