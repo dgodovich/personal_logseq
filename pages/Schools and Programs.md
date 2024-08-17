@@ -30,8 +30,8 @@
 	- [[Cornell]]
 	- [[Duke]]
 - Middle Country
-  collapsed:: true
 	- [[Wustl]]
+	- [[Stowers Institute]]
 	-
 - General considerations
 	- I want to be in at least a small city
