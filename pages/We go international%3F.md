@@ -1,3 +1,4 @@
+- We do not go international is the conclusion
 - International grad programs??? No idea if it's worth it at all but it doesn't take that much effort to at least look into it a little bit
 - There are obviously a ton of cool researchers everywhere, but it's a lot harder to go abroad
 - Would be super epic
@@ -12,4 +13,4 @@
 	- Mekayla Storer sounds cool
 		- [https://www.stemcells.cam.ac.uk/people/pi/storer](https://www.stemcells.cam.ac.uk/people/pi/storer)
 		- Relatively new / small lab
-		- Postdoc at Sick Kids[
+		- Postdoc at Sick Kids
