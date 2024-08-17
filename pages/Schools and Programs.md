@@ -44,6 +44,6 @@
 		- This really extends out to the NYC metro area (which covers all of NYS)
 			- e.g. I don't really want to be at Princeton because the city for Princeton is actually just New York. I have a pretty good understanding of what it would be like to live in Princeton
 	- I will most likely be in a dev bio department because of my interests
-		-
+		- It could be really anything ranging from dev bio to bioengineering and I can find that out once I get there
+	- I want a program that has rotations
 	- I should make a spreadsheet
-	-
