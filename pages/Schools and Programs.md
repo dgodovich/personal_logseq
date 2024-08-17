@@ -46,5 +46,5 @@
 		- It could be really anything ranging from dev bio to bioengineering and I can find that out once I get there
 	- I want a program that has rotations
 	- I should make a spreadsheet
-	- How the hell do I actually narrow down to programs I want to appy to
+	- How the hell do I actually narrow down to programs I want to apply to??
 -
