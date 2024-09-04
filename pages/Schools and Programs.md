@@ -6,6 +6,7 @@
 	- [[UCSF]]
 	- [[Harvard]]
 	- [[Rockefeller]] / [[Tri-I]]
+	- [[UW]]
 - State Schools
 	- California
 		- [[Berkeley]]
@@ -15,6 +16,7 @@
 	- [[UT]]
 	- [[UMich]]
 	- [[UNC]]
+	- [[UW]]
 - West coast
   collapsed:: true
 	- [[Caltech]]
