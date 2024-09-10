@@ -193,6 +193,14 @@
 			- Working on actual lab problems / questions - sounds fun
 			- Fairly significant amount of time to prep for each interview
 				- Especially if it's in person
+				- Zoom interview you might not know
+			- Professors that you mention in your application frequently show up in interviews
+			- Need to be able to talk scientifically
+			- Try to have as many questions as possible
+				- Do you like it here?
+				- How many students do you have? Trying to figure out their mentorship style
+				- One thing Kat mentioned today was to pay attention to authorship from each student
+					- Shyer rodrigues lab publishes very high but not every student gets a first author paper
 - Last year notes
   collapsed:: true
 	- WCGS Open houses are scheduled to take place on October 10 and November 1
