@@ -2,4 +2,4 @@
 - Whole bunch of people I know here
 	- Nathan, Alice, some other people from hunter
 	- Gianna Paier is doing a  BME PhD there rn, can probably talk to her
--
+- Kat thinks this is a more safety school, so maybe I will be applying

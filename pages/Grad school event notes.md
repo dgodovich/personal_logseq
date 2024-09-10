@@ -2,6 +2,32 @@
 	- Day 1
 		- Julie Nadal presenting, she's the assistant dean for the graduate school
 		- NIH postbac, grad at Albert Einstein, has been at NYAS, Johns Hopkins, and now GSK
+		- She thinks the metric for graduation is published research, which is a little different than what I thought it would be
+			- Thesis is a combination of peer reviewed papers
+		- PhD program structure
+		  collapsed:: true
+			- Year 1
+				- Classes, rotations, select thesis lab
+				- Sometimes you don't rotate, but I won't be doing that
+				- Rotations
+					- Short 5 - 10 week research experiences in labs led by PIs you are interested in
+					- 1 - 3, up to 5 rotations
+					- Sometimes concurrent with courses, sometimes separated depending on institute
+						- GSK separates it, Weill Cornell does not
+					- Mentorship from PI and usually a postdoc or phd student
+			- Year 2
+				- Some more classes but not always (program dependent)
+					- GSK finishes in year 1
+				- Some research
+				- Qualifying exam, moving into candidacy
+					- Combination of oral and written exam
+			- Year 2 - 5
+				- Do research
+				- Teach if you want to or an available option
+					- GSK does not? Probably?
+				- Skill development
+			- Year 6
+				- Finish and defend
 		-
 - Last year notes
   collapsed:: true
