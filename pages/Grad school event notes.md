@@ -133,6 +133,9 @@
 			- Experience conducting research
 			- Evidence you will succeed in curriculum
 			- Commitment to pursuing a PhD
+		- Q&A
+			- don't be arrogant (confidence vs arrogance)
+			-
 - Last year notes
   collapsed:: true
 	- WCGS Open houses are scheduled to take place on October 10 and November 1
