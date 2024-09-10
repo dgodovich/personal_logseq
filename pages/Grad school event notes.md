@@ -25,10 +25,49 @@
 				- Do research
 				- Teach if you want to or an available option
 					- GSK does not? Probably?
+					- Not much - teaching fellows
 				- Skill development
 			- Year 6
 				- Finish and defend
-		-
+		- Schools that offer phds
+		  collapsed:: true
+			- Large Universities - with undergrad program
+				- i.e. Stanford, UNC, Johns Hopkins, etc
+				- Many programs, teaching is readily available
+			- Associated with a medical school
+				- e.g. Mayo clinic, Albert Einstein, UT Southwestern
+				- Medical focus, translational research
+			- Stand Alone graduate schools
+				- e.g. GSK, Scripps Research, St Judes
+				- No medical school - some other affiliate
+			- Partnerships
+				- e.g. Salk, NIH, MD Anderson
+				- institutes that have degrees from another university
+		- Schools have a lot of phd programs that are related
+		  collapsed:: true
+			- some programs bridge graduate and medical schools
+				- two schools, one program e.g. Harvard, UMich, UCRiverside
+				- two schools, two programs - e.g. cornell, NYU med and grad, Penn
+			- Johns hopkins is notoriously bad for this
+		- Choosing a program
+			- paradox of choice
+			- how do you know what program is right for you
+			- Identify the most important aspects of PhD programs
+				- Research
+					- Areas of expertise
+						- Be fairly broad for this
+					- Basic and/or translational
+					- number of faculty
+						- don't apply for just one faculty member, very risky
+				- Location
+				- structure
+				- money
+				-
+			- Use resources and advice from colleagues and mentors to narrow the list
+			- Apply to a select group of schools
+				- entirely up to you
+				- consider scale, money you can spend, how hard is it to get in, what happens if you do not get in
+			-
 - Last year notes
   collapsed:: true
 	- WCGS Open houses are scheduled to take place on October 10 and November 1
