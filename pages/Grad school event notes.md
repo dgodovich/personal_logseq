@@ -163,7 +163,12 @@
 				- Need to have reflection about how you think in your statement
 					- e.g. everyone has been affected by cancer, but how has it impacted you is unique. That part needs to come through
 				- extreme confidence or lack of
-			-
+			- interview is the same as the rest of it - scientific story, where is that going, broader
+				- tell me about the most exciting question you worked on
+				- where is the field going in 5 years
+				- know the research of the person interviewing you
+				- figuring out if you actually did what you said you did
+				- it's a conversation about your interests, what you want to do, take the field. forward looking thought is very valuable (scientists love that)
 - Last year notes
   collapsed:: true
 	- WCGS Open houses are scheduled to take place on October 10 and November 1
