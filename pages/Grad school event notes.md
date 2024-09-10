@@ -188,6 +188,11 @@
 			- Prepare questions for your interviewers in advance
 			- STAR method
 				- situation, task, action, result
+			- PIs like to question the fundamentals of what you are doing - you have to know it very well
+			- Tell me about something that wasn't on your application materials
+			- Working on actual lab problems / questions - sounds fun
+			- Fairly significant amount of time to prep for each interview
+				- Especially if it's in person
 - Last year notes
   collapsed:: true
 	- WCGS Open houses are scheduled to take place on October 10 and November 1
