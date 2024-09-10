@@ -186,6 +186,8 @@
 					- location
 			- Review your application materials
 			- Prepare questions for your interviewers in advance
+			- STAR method
+				- situation, task, action, result
 - Last year notes
   collapsed:: true
 	- WCGS Open houses are scheduled to take place on October 10 and November 1
