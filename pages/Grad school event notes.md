@@ -152,11 +152,16 @@
 					- Why are you interested in what you are
 				- Don't sweep things under the rug, you can address is in your personal statement
 				- Take first paragraph and last paragraph of statement and see if there's anything specific about you - there is no other person who could have put this statement together (in my nearby community)
+				  background-color:: yellow
 				- Experience showing that you have worked through adversity
 				- This guy cannot emphasize enough how important the personal statement is
 				- tailoring to the program
 			- Everything in science (life) is a story - you need to tell the story of yourself (as a scientist)
-		-
+			- What part of the application are you harshest on?
+				- Personal / scientific statement (duh)
+			- mistakes
+				- Need to have reflection about how you think in your statement
+					- e.g. everyone has been affected by cancer, but how has it impacted you is unique. That part needs to come through
 - Last year notes
   collapsed:: true
 	- WCGS Open houses are scheduled to take place on October 10 and November 1
