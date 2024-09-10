@@ -162,6 +162,8 @@
 			- mistakes
 				- Need to have reflection about how you think in your statement
 					- e.g. everyone has been affected by cancer, but how has it impacted you is unique. That part needs to come through
+				- extreme confidence or lack of
+			-
 - Last year notes
   collapsed:: true
 	- WCGS Open houses are scheduled to take place on October 10 and November 1
