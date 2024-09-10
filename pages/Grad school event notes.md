@@ -146,6 +146,16 @@
 		- admission committee Panel
 			- What areas do you wish student would emphasize in their materials?
 				- How do you think about science? Details are important but your thought process is more important
+				- Where are you coming from, where are you going to?
+				- Personal statement is about you as a scientist
+					- Explain clearly about what you have done, what you want to do
+					- Why are you interested in what you are
+				- Don't sweep things under the rug, you can address is in your personal statement
+				- Take first paragraph and last paragraph of statement and see if there's anything specific about you - there is no other person who could have put this statement together (in my nearby community)
+				- Experience showing that you have worked through adversity
+				- This guy cannot emphasize enough how important the personal statement is
+				- tailoring to the program
+			-
 		-
 - Last year notes
   collapsed:: true
