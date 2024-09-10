@@ -1,141 +1,152 @@
 - This year notes
 	- Day 1
 		- Julie Nadal presenting, she's the assistant dean for the graduate school
-		- NIH postbac, grad at Albert Einstein, has been at NYAS, Johns Hopkins, and now GSK
-		- She thinks the metric for graduation is published research, which is a little different than what I thought it would be
-			- Thesis is a combination of peer reviewed papers
-		- PhD program structure
 		  collapsed:: true
-			- Year 1
-				- Classes, rotations, select thesis lab
-				- Sometimes you don't rotate, but I won't be doing that
-				- Rotations
-					- Short 5 - 10 week research experiences in labs led by PIs you are interested in
-					- 1 - 3, up to 5 rotations
-					- Sometimes concurrent with courses, sometimes separated depending on institute
-						- GSK separates it, Weill Cornell does not
-					- Mentorship from PI and usually a postdoc or phd student
-			- Year 2
-				- Some more classes but not always (program dependent)
-					- GSK finishes in year 1
-				- Some research
-				- Qualifying exam, moving into candidacy
-					- Combination of oral and written exam
-			- Year 2 - 5
-				- Do research
-				- Teach if you want to or an available option
-					- GSK does not? Probably?
-					- Not much - teaching fellows
-				- Skill development
-			- Year 6
-				- Finish and defend
-		- Schools that offer phds
-		  collapsed:: true
-			- Large Universities - with undergrad program
-				- i.e. Stanford, UNC, Johns Hopkins, etc
-				- Many programs, teaching is readily available
-			- Associated with a medical school
-				- e.g. Mayo clinic, Albert Einstein, UT Southwestern
-				- Medical focus, translational research
-			- Stand Alone graduate schools
-				- e.g. GSK, Scripps Research, St Judes
-				- No medical school - some other affiliate
-			- Partnerships
-				- e.g. Salk, NIH, MD Anderson
-				- institutes that have degrees from another university
-		- Schools have a lot of phd programs that are related
-		  collapsed:: true
-			- some programs bridge graduate and medical schools
-				- two schools, one program e.g. Harvard, UMich, UCRiverside
-				- two schools, two programs - e.g. cornell, NYU med and grad, Penn
-			- Johns hopkins is notoriously bad for this
-		- Choosing a program
-		  collapsed:: true
-			- paradox of choice
-			- how do you know what program is right for you
-			- Identify the most important aspects of PhD programs
-				- Research
-				  collapsed:: true
-					- Areas of expertise
-						- Be fairly broad for this
-					- Basic and/or translational
-					- number of faculty
-						- don't apply for just one faculty member, very risky
-				- Location
-				- structure
-				  collapsed:: true
-					- type of university
-					- collaborations
-					- rotation and course structure
-					- expectations for graduation - publish, thesis, etc
-				- money / resources
-				  collapsed:: true
-					- facilities, stipend, benefits, housing
-					- research support important too
-						- cores, university tech, microscopes, whatever
-				- Class size - this seems not super important?
-				- Community
-				  collapsed:: true
-					- You will be spending a lot of time here, so you should try to make sure that it's a good one
-				- Do your best to maximize these for your specific needs
-			- Use resources and advice from colleagues and mentors to narrow the list
-			- Apply to a select group of schools
-				- entirely up to you
-				- consider scale, money you can spend, how hard is it to get in, what happens if you do not get in
-			- How to find programs
-				- AAMC, ABRCMS, Office of intramural training and education at nih
-		- Caring for the science and the scientist
-			- Medical/dental insurance
-			- stipend
-			- conference travel, relocation costs, subsidized housing
-		- Funding mechanisms
-		  collapsed:: true
-			- Where is your stipend coming from?
-			- individual fellowship
-			- faculty money
-			- graduate school
-			- teaching
-				- This could be conditional based on teaching
-			- training grants
-			- Questions to ask
-				- Is it guaranteed? For how long?
-				- Is is conditional on anything (teaching)?
-				- Do you get a bonus for getting external funding like F31 or GRFP?
-		- Development
-		  collapsed:: true
-			- Training for well rounded science
-			- technical training
-			- fellowship writing
-			- career development
-			- teaching
-				- Do I want to try to get a certificate for this?
-			- etc
-		- Application process
-		  collapsed:: true
-			- Types of programs
+			- NIH postbac, grad at Albert Einstein, has been at NYAS, Johns Hopkins, and now GSK
+			- She thinks the metric for graduation is published research, which is a little different than what I thought it would be
+				- Thesis is a combination of peer reviewed papers
+			- PhD program structure
 			  collapsed:: true
-				- Umbrella program
-					- Apply, interview in umbrella program, accept to one program
-					- Choose track in program
-				- Designated track
-					- e.g. GSK has cancer bio and cancer eng
-					- All application is specific to that track, not the other one
-			- Parts of application
-				- fee - try to get fee waivers if I can at all? GSK is free
-				- Online application - basically a CV
-				- Personal statement - probably the most important part of the application
-					- Why do you want to come to this school? Who are you?
-				- 3x letter of rec - less generic the better (I gotta talk to Adela)
-				- Official transcript
-				- GRE is pretty much optional, you can send if you want (or if they let you)
-		- What are grad programs looking for
-			- Passion for science and research
-			- Experience conducting research
-			- Evidence you will succeed in curriculum
-			- Commitment to pursuing a PhD
-		- Q&A
-			- don't be arrogant (confidence vs arrogance)
-			-
+				- Year 1
+					- Classes, rotations, select thesis lab
+					- Sometimes you don't rotate, but I won't be doing that
+					- Rotations
+						- Short 5 - 10 week research experiences in labs led by PIs you are interested in
+						- 1 - 3, up to 5 rotations
+						- Sometimes concurrent with courses, sometimes separated depending on institute
+							- GSK separates it, Weill Cornell does not
+						- Mentorship from PI and usually a postdoc or phd student
+				- Year 2
+					- Some more classes but not always (program dependent)
+						- GSK finishes in year 1
+					- Some research
+					- Qualifying exam, moving into candidacy
+						- Combination of oral and written exam
+				- Year 2 - 5
+					- Do research
+					- Teach if you want to or an available option
+						- GSK does not? Probably?
+						- Not much - teaching fellows
+					- Skill development
+				- Year 6
+					- Finish and defend
+			- Schools that offer phds
+			  collapsed:: true
+				- Large Universities - with undergrad program
+					- i.e. Stanford, UNC, Johns Hopkins, etc
+					- Many programs, teaching is readily available
+				- Associated with a medical school
+					- e.g. Mayo clinic, Albert Einstein, UT Southwestern
+					- Medical focus, translational research
+				- Stand Alone graduate schools
+					- e.g. GSK, Scripps Research, St Judes
+					- No medical school - some other affiliate
+				- Partnerships
+					- e.g. Salk, NIH, MD Anderson
+					- institutes that have degrees from another university
+			- Schools have a lot of phd programs that are related
+			  collapsed:: true
+				- some programs bridge graduate and medical schools
+					- two schools, one program e.g. Harvard, UMich, UCRiverside
+					- two schools, two programs - e.g. cornell, NYU med and grad, Penn
+				- Johns hopkins is notoriously bad for this
+			- Choosing a program
+			  collapsed:: true
+				- paradox of choice
+				- how do you know what program is right for you
+				- Identify the most important aspects of PhD programs
+					- Research
+					  collapsed:: true
+						- Areas of expertise
+							- Be fairly broad for this
+						- Basic and/or translational
+						- number of faculty
+							- don't apply for just one faculty member, very risky
+					- Location
+					- structure
+					  collapsed:: true
+						- type of university
+						- collaborations
+						- rotation and course structure
+						- expectations for graduation - publish, thesis, etc
+					- money / resources
+					  collapsed:: true
+						- facilities, stipend, benefits, housing
+						- research support important too
+							- cores, university tech, microscopes, whatever
+					- Class size - this seems not super important?
+					- Community
+					  collapsed:: true
+						- You will be spending a lot of time here, so you should try to make sure that it's a good one
+					- Do your best to maximize these for your specific needs
+				- Use resources and advice from colleagues and mentors to narrow the list
+				- Apply to a select group of schools
+					- entirely up to you
+					- consider scale, money you can spend, how hard is it to get in, what happens if you do not get in
+				- How to find programs
+					- AAMC, ABRCMS, Office of intramural training and education at nih
+			- Caring for the science and the scientist
+				- Medical/dental insurance
+				- stipend
+				- conference travel, relocation costs, subsidized housing
+			- Funding mechanisms
+			  collapsed:: true
+				- Where is your stipend coming from?
+				- individual fellowship
+				- faculty money
+				- graduate school
+				- teaching
+					- This could be conditional based on teaching
+				- training grants
+				- Questions to ask
+					- Is it guaranteed? For how long?
+					- Is is conditional on anything (teaching)?
+					- Do you get a bonus for getting external funding like F31 or GRFP?
+			- Development
+			  collapsed:: true
+				- Training for well rounded science
+				- technical training
+				- fellowship writing
+				- career development
+				- teaching
+					- Do I want to try to get a certificate for this?
+				- etc
+			- Application process
+			  collapsed:: true
+				- Types of programs
+				  collapsed:: true
+					- Umbrella program
+						- Apply, interview in umbrella program, accept to one program
+						- Choose track in program
+					- Designated track
+						- e.g. GSK has cancer bio and cancer eng
+						- All application is specific to that track, not the other one
+				- Parts of application
+					- fee - try to get fee waivers if I can at all? GSK is free
+					- Online application - basically a CV
+					- Personal statement - probably the most important part of the application
+						- Why do you want to come to this school? Who are you?
+					- 3x letter of rec - less generic the better (I gotta talk to Adela)
+					- Official transcript
+					- GRE is pretty much optional, you can send if you want (or if they let you)
+			- What are grad programs looking for
+				- Passion for science and research
+				- Experience conducting research
+				- Evidence you will succeed in curriculum
+				- Commitment to pursuing a PhD
+			- Q&A
+			  collapsed:: true
+				- don't be arrogant (confidence vs arrogance)
+				- figuring out student happiness
+					- it's all about talking to students
+					- Happens mostly at interview or after acceptance, kind of hard to judge at application phase
+					- Talk to people you know at that institute
+						- How do they feel about the city? The program? their cohort?
+						- Research support? Rotations?
+		- admission committee Panel
+			- What areas do you wish student would emphasize in their materials?
+				- How do you think about science? Details are important but your thought process is more important
+		-
 - Last year notes
   collapsed:: true
 	- WCGS Open houses are scheduled to take place on October 10 and November 1
