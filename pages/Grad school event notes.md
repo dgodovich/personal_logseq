@@ -50,10 +50,12 @@
 				- two schools, two programs - e.g. cornell, NYU med and grad, Penn
 			- Johns hopkins is notoriously bad for this
 		- Choosing a program
+		  collapsed:: true
 			- paradox of choice
 			- how do you know what program is right for you
 			- Identify the most important aspects of PhD programs
 				- Research
+				  collapsed:: true
 					- Areas of expertise
 						- Be fairly broad for this
 					- Basic and/or translational
@@ -61,13 +63,43 @@
 						- don't apply for just one faculty member, very risky
 				- Location
 				- structure
-				- money
-				-
+				  collapsed:: true
+					- type of university
+					- collaborations
+					- rotation and course structure
+					- expectations for graduation - publish, thesis, etc
+				- money / resources
+				  collapsed:: true
+					- facilities, stipend, benefits, housing
+					- research support important too
+						- cores, university tech, microscopes, whatever
+				- Class size - this seems not super important?
+				- Community
+				  collapsed:: true
+					- You will be spending a lot of time here, so you should try to make sure that it's a good one
+				- Do your best to maximize these for your specific needs
 			- Use resources and advice from colleagues and mentors to narrow the list
 			- Apply to a select group of schools
 				- entirely up to you
 				- consider scale, money you can spend, how hard is it to get in, what happens if you do not get in
-			-
+			- How to find programs
+				- AAMC, ABRCMS, Office of intramural training and education at nih
+		- Caring for the science and the scientist
+			- Medical/dental insurance
+			- stipend
+			- conference travel, relocation costs, subsidized housing
+		- Funding mechanisms
+			- Where is your stipend coming from?
+			- individual fellowship
+			- faculty money
+			- graduate school
+			- teaching
+				- This could be conditional based on teaching
+			- training grants
+			- Questions to ask
+				- Is it guaranteed? For how long?
+				- Is is conditional on anything (teaching)?
+				- Do you get a bonus for getting external funding like
 - Last year notes
   collapsed:: true
 	- WCGS Open houses are scheduled to take place on October 10 and November 1
