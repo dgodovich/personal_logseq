@@ -144,6 +144,7 @@
 						- How do they feel about the city? The program? their cohort?
 						- Research support? Rotations?
 		- admission committee Panel
+		  collapsed:: true
 			- What areas do you wish student would emphasize in their materials?
 				- How do you think about science? Details are important but your thought process is more important
 				- Where are you coming from, where are you going to?
@@ -169,6 +170,11 @@
 				- know the research of the person interviewing you
 				- figuring out if you actually did what you said you did
 				- it's a conversation about your interests, what you want to do, take the field. forward looking thought is very valuable (scientists love that)
+		- Interview tips and panel with current students
+			- Opportunity for conversation about motivation and your story
+			- Assess fit of program - you are also interviewing them
+			- Probably interview with 5 - 8 faculty, many 1 on 1
+			- Everything is in the context of science
 - Last year notes
   collapsed:: true
 	- WCGS Open houses are scheduled to take place on October 10 and November 1
