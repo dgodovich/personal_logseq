@@ -89,6 +89,7 @@
 			- stipend
 			- conference travel, relocation costs, subsidized housing
 		- Funding mechanisms
+		  collapsed:: true
 			- Where is your stipend coming from?
 			- individual fellowship
 			- faculty money
@@ -99,7 +100,39 @@
 			- Questions to ask
 				- Is it guaranteed? For how long?
 				- Is is conditional on anything (teaching)?
-				- Do you get a bonus for getting external funding like
+				- Do you get a bonus for getting external funding like F31 or GRFP?
+		- Development
+		  collapsed:: true
+			- Training for well rounded science
+			- technical training
+			- fellowship writing
+			- career development
+			- teaching
+				- Do I want to try to get a certificate for this?
+			- etc
+		- Application process
+		  collapsed:: true
+			- Types of programs
+			  collapsed:: true
+				- Umbrella program
+					- Apply, interview in umbrella program, accept to one program
+					- Choose track in program
+				- Designated track
+					- e.g. GSK has cancer bio and cancer eng
+					- All application is specific to that track, not the other one
+			- Parts of application
+				- fee - try to get fee waivers if I can at all? GSK is free
+				- Online application - basically a CV
+				- Personal statement - probably the most important part of the application
+					- Why do you want to come to this school? Who are you?
+				- 3x letter of rec - less generic the better (I gotta talk to Adela)
+				- Official transcript
+				- GRE is pretty much optional, you can send if you want (or if they let you)
+		- What are grad programs looking for
+			- Passion for science and research
+			- Experience conducting research
+			- Evidence you will succeed in curriculum
+			- Commitment to pursuing a PhD
 - Last year notes
   collapsed:: true
 	- WCGS Open houses are scheduled to take place on October 10 and November 1
