@@ -155,7 +155,7 @@
 				- Experience showing that you have worked through adversity
 				- This guy cannot emphasize enough how important the personal statement is
 				- tailoring to the program
-			-
+			- Everything in science (life) is a story - you need to tell the story of yourself (as a scientist)
 		-
 - Last year notes
   collapsed:: true
