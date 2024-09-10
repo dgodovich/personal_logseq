@@ -175,6 +175,17 @@
 			- Assess fit of program - you are also interviewing them
 			- Probably interview with 5 - 8 faculty, many 1 on 1
 			- Everything is in the context of science
+			- Interview format
+				- Mostly online now, but it depends on the program
+				- GSK is online in January
+				- Campus visit in March for accepted students
+			- Campus visits
+				- Pay attention to the environment
+					- students
+					- community
+					- location
+			- Review your application materials
+			- Prepare questions for your interviewers in advance
 - Last year notes
   collapsed:: true
 	- WCGS Open houses are scheduled to take place on October 10 and November 1
