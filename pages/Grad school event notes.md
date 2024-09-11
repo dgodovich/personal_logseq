@@ -201,7 +201,12 @@
 			- Personal statement is a trailer for the movie of the interview (and series of grad school)
 			- Many people with different kinds of scientific backgrounds will read it
 			- Must spend some amount of time to tailor to the specific program
-			-
+				- Can have the same skeleton and some of the research
+			- intro middle end
+				- who are you, why do you want to go to grad school
+				- research and the bulk
+			- Dry and boring and just about science is fine, but some humor is fine
+				-
 - Last year notes
 	- WCGS Open houses are scheduled to take place on October 10 and November 1
 	- 9/12 4pm Intro to graduate school with Tom Magaldi Associate Dean GSK
