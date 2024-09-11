@@ -1,2 +1,3 @@
 - Amy Shyer
+	- several bad / questionable things about her lab
 - Ali Brivanlou

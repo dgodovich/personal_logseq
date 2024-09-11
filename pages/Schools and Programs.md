@@ -5,7 +5,7 @@
 	- [[Duke]]
 	- [[UCSF]]
 	- [[Harvard]]
-	- [[Rockefeller]] / [[Tri-I]]
+	- Something in New York [[Rockefeller]] / [[Tri-I]] / [[Princeton]]
 	- [[UW]]
 - State Schools
 	- California
@@ -18,19 +18,18 @@
 	- [[UNC]]
 	- [[UW]]
 - West coast
-  collapsed:: true
 	- [[Caltech]]
 	- Stanford
 	- [[Berkeley]]
 	- [[UCLA]]
 	- [[UCSF]]
 - East coast
-  collapsed:: true
 	- [[Johns Hopkins]]
 	- [[UPenn]]
 	- [[Wake Forest]]
 	- [[Cornell]]
 	- [[Duke]]
+	- [[Princeton]]
 - Middle Country
 	- [[Wustl]]
 	- [[Stowers Institute]]
