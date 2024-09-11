@@ -11,6 +11,7 @@
 				- Benefits
 				- Anyone I know there / general connections
 		- Ask recommenders
+		  collapsed:: true
 			- Dr. Jin
 				- Email with updated resume
 				- Include a refresher of the small project I did with her
@@ -52,5 +53,9 @@
 		- 11/18 - 11/24
 		- 11/25 - 12/1
 			- Finish
+- December
+	- Wait for interviews
+	- Prep as much as possible
+		- TODO write thoughts about how to prep for interviews, this is low priority
 -
 - Applications due December 1st
