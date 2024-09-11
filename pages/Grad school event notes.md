@@ -2,11 +2,11 @@
 	- Day 1
 		- Julie Nadal presenting, she's the assistant dean for the graduate school
 		  collapsed:: true
+			- This is the same presentation as last year
 			- NIH postbac, grad at Albert Einstein, has been at NYAS, Johns Hopkins, and now GSK
 			- She thinks the metric for graduation is published research, which is a little different than what I thought it would be
 				- Thesis is a combination of peer reviewed papers
 			- PhD program structure
-			  collapsed:: true
 				- Year 1
 					- Classes, rotations, select thesis lab
 					- Sometimes you don't rotate, but I won't be doing that
@@ -31,7 +31,6 @@
 				- Year 6
 					- Finish and defend
 			- Schools that offer phds
-			  collapsed:: true
 				- Large Universities - with undergrad program
 					- i.e. Stanford, UNC, Johns Hopkins, etc
 					- Many programs, teaching is readily available
@@ -45,18 +44,15 @@
 					- e.g. Salk, NIH, MD Anderson
 					- institutes that have degrees from another university
 			- Schools have a lot of phd programs that are related
-			  collapsed:: true
 				- some programs bridge graduate and medical schools
 					- two schools, one program e.g. Harvard, UMich, UCRiverside
 					- two schools, two programs - e.g. cornell, NYU med and grad, Penn
 				- Johns hopkins is notoriously bad for this
 			- Choosing a program
-			  collapsed:: true
 				- paradox of choice
 				- how do you know what program is right for you
 				- Identify the most important aspects of PhD programs
 					- Research
-					  collapsed:: true
 						- Areas of expertise
 							- Be fairly broad for this
 						- Basic and/or translational
@@ -64,19 +60,16 @@
 							- don't apply for just one faculty member, very risky
 					- Location
 					- structure
-					  collapsed:: true
 						- type of university
 						- collaborations
 						- rotation and course structure
 						- expectations for graduation - publish, thesis, etc
 					- money / resources
-					  collapsed:: true
 						- facilities, stipend, benefits, housing
 						- research support important too
 							- cores, university tech, microscopes, whatever
 					- Class size - this seems not super important?
 					- Community
-					  collapsed:: true
 						- You will be spending a lot of time here, so you should try to make sure that it's a good one
 					- Do your best to maximize these for your specific needs
 				- Use resources and advice from colleagues and mentors to narrow the list
@@ -90,7 +83,6 @@
 				- stipend
 				- conference travel, relocation costs, subsidized housing
 			- Funding mechanisms
-			  collapsed:: true
 				- Where is your stipend coming from?
 				- individual fellowship
 				- faculty money
@@ -103,7 +95,6 @@
 					- Is is conditional on anything (teaching)?
 					- Do you get a bonus for getting external funding like F31 or GRFP?
 			- Development
-			  collapsed:: true
 				- Training for well rounded science
 				- technical training
 				- fellowship writing
@@ -112,9 +103,7 @@
 					- Do I want to try to get a certificate for this?
 				- etc
 			- Application process
-			  collapsed:: true
 				- Types of programs
-				  collapsed:: true
 					- Umbrella program
 						- Apply, interview in umbrella program, accept to one program
 						- Choose track in program
@@ -135,7 +124,6 @@
 				- Evidence you will succeed in curriculum
 				- Commitment to pursuing a PhD
 			- Q&A
-			  collapsed:: true
 				- don't be arrogant (confidence vs arrogance)
 				- figuring out student happiness
 					- it's all about talking to students
@@ -171,6 +159,7 @@
 				- figuring out if you actually did what you said you did
 				- it's a conversation about your interests, what you want to do, take the field. forward looking thought is very valuable (scientists love that)
 		- Interview tips and panel with current students
+		  collapsed:: true
 			- Opportunity for conversation about motivation and your story
 			- Assess fit of program - you are also interviewing them
 			- Probably interview with 5 - 8 faculty, many 1 on 1
@@ -201,11 +190,15 @@
 				- How many students do you have? Trying to figure out their mentorship style
 				- One thing Kat mentioned today was to pay attention to authorship from each student
 					- Shyer rodrigues lab publishes very high but not every student gets a first author paper
+	- Day 2
+		- Program overviews 4 - 5pm, I skip. Should be the same as last year
+			- Or if I do go, don't really pay attention
+		- Personal statement
+			- Also probably the same as last year but I think I want to hear it again
 - Last year notes
   collapsed:: true
 	- WCGS Open houses are scheduled to take place on October 10 and November 1
 	- 9/12 4pm Intro to graduate school with Tom Magaldi Associate Dean GSK
-	  collapsed:: true
 		- Mostly information I already know
 		- Types of schools that offer phds
 			- Large unversities, eg stanford, unc, etc etc
@@ -269,7 +262,6 @@
 		- Online application replaces CV sometimes. Typically two to three rec letters from Pis if possible.
 			- GRE mostly optional
 	- Day 2
-	  collapsed:: true
 		- GSK overview notes
 			- I don't really need to pay attention to this too much I think
 			- Hey its my lab
@@ -314,7 +306,6 @@
 			- Gotta address the prompts
 			- Include yourself, but it is always about research at the end of the day
 	- Fellowships and Funding 9/14
-	  collapsed:: true
 		- NIH F31 or NSF GRFP are the biggest government PhD awards
 		- Scientific foundation or professional society; HHMI
 		- Internal awards
