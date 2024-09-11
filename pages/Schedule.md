@@ -1,0 +1,18 @@
+- September
+	- Main goals
+		- Have draft of general personal statement
+		- Finalized list of programs
+			- Spreadsheet with specific information for each one
+				- Specific writing prompts if any
+				- Faculty
+				- Location
+				- Stipend
+				- Benefits
+				- Anyone I know there / general connections
+			-
+- October
+	-
+- November
+	-
+-
+- Applications due December 1st
