@@ -196,9 +196,9 @@
 		- Personal statement
 			- Also probably the same as last year but I think I want to hear it again
 - Last year notes
-  collapsed:: true
 	- WCGS Open houses are scheduled to take place on October 10 and November 1
 	- 9/12 4pm Intro to graduate school with Tom Magaldi Associate Dean GSK
+	  collapsed:: true
 		- Mostly information I already know
 		- Types of schools that offer phds
 			- Large unversities, eg stanford, unc, etc etc
