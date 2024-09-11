@@ -2,4 +2,10 @@
 	- journal club
 		- Reading and presenting science, listening to other people in journal club
 		- Learning from graduate students
-		- My own project - first time approaching a scientific question and having to figure it out essentially on my own (no / little help from phd students)
+	- My own project
+		- first time approaching a scientific question and having to figure it out essentially on my own (no / little help from phd students)
+- Quality / Cresilon / industry
+	- Don't phrase it that I didn't like it, better to say that I learned this and that and I became more sure that I liked this
+- Should probably talk about TA experience and how I want to continue it
+	- Thread with ICK! ? + tutoring + RockEDU Science Saturday
+- I like lean style more than lede
