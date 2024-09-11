@@ -197,8 +197,12 @@
 			- If you have research experience, you need to be able to explain how it fits in to broader field and scientific progress
 		- Personal statement
 			- Also probably the same as last year but I think I want to hear it again
+			- Assess your aptitude and prep for graduate work (from consuming to creating knowledge)
+			- Personal statement is a trailer for the movie of the interview (and series of grad school)
+			- Many people with different kinds of scientific backgrounds will read it
+			- Must spend some amount of time to tailor to the specific program
+			-
 - Last year notes
-  collapsed:: true
 	- WCGS Open houses are scheduled to take place on October 10 and November 1
 	- 9/12 4pm Intro to graduate school with Tom Magaldi Associate Dean GSK
 	  collapsed:: true
@@ -266,6 +270,7 @@
 			- GRE mostly optional
 	- Day 2
 		- GSK overview notes
+		  collapsed:: true
 			- I don't really need to pay attention to this too much I think
 			- Hey its my lab
 			- All coursework in first year. Minimum 2, can do 3 5 week rotations
@@ -274,6 +279,7 @@
 			- Average 6 year program
 			- 10-12 class size, very many mentors available, that do teach you
 		- Weill Cornell
+		  collapsed:: true
 			- BCMB - Cell, structural, dev, molecular biology, biochem
 			- Also programs in pharma, immunology, physiology, many more
 			- Larger program - 60-70 students, each program is a bit smaller, 10-20
@@ -282,6 +288,7 @@
 			- Can work with faculty members in any program
 			- Guaranteed stipend, no TA requirement. Students have health insurance. Guaranteed affordable housing
 		- Computational Biology and Medicine program
+		  collapsed:: true
 			- Tri- I, so in all SKI, Weill Cornell, and Rockefeller
 			- A bit faster graduation 5.5 years, average 4+ publications
 			- Program is computational but can pursue combination projects
