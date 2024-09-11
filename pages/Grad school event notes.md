@@ -193,6 +193,8 @@
 	- Day 2
 		- Program overviews 4 - 5pm, I skip. Should be the same as last year
 			- Or if I do go, don't really pay attention
+			- Weill cornell has in person interviews
+			- If you have research experience, you need to be able to explain how it fits in to broader field and scientific progress
 		- Personal statement
 			- Also probably the same as last year but I think I want to hear it again
 - Last year notes
