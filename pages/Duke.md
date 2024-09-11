@@ -1,1 +1,3 @@
 - [check out these faculty members](https://sites.duke.edu/dukeregenerationcenter/affiliated-faculty/)
+- [Stats](https://gradschool.duke.edu/about/statistics/)
+-

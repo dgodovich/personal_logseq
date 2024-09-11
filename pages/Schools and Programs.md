@@ -5,7 +5,7 @@
 	- [[Duke]]
 	- [[UCSF]]
 	- [[Harvard]]
-	- Something in New York [[Rockefeller]] / [[Tri-I]] / [[Princeton]]
+	- Something in New York [[Rockefeller]] / [[Tri-I]] / [[Princeton]] / [[Cornell]]
 	- [[UW]]
 - State Schools
 	- California
@@ -17,6 +17,7 @@
 	- [[UMich]]
 	- [[UNC]]
 	- [[UW]]
+	  collapsed:: true
 - West coast
 	- [[Caltech]]
 	- Stanford
