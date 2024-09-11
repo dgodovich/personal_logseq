@@ -1,0 +1,5 @@
+- Dr Jin section
+	- journal club
+		- Reading and presenting science, listening to other people in journal club
+		- Learning from graduate students
+		- My own project - first time approaching a scientific question and having to figure it out essentially on my own (no / little help from phd students)

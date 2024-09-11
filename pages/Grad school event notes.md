@@ -215,6 +215,7 @@
 				- Too many details about personal story (i.e. not relating to research)or about someone else
 				- Not addressing obvious weaknesses
 				- Not specifying why you're doing that program or sounding excited about that program
+			- Pick a list of schools including reach target and aim
 - Last year notes
 	- WCGS Open houses are scheduled to take place on October 10 and November 1
 	- 9/12 4pm Intro to graduate school with Tom Magaldi Associate Dean GSK
