@@ -1,0 +1,9 @@
+- University of Washington in Seattle
+- Genome Sciences has most of the interesting people, but they have other departments
+	- [department link](https://www.gs.washington.edu/index.htm)
+	- Nobu Hamazaki
+	- Jay Shendure
+	- Cole Trapnell
+- Molecular and Cell bio is the other department I would consider applying to (could do both ig)
+	- [department link](https://mcb-seattle.edu/)
+-
