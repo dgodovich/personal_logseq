@@ -206,7 +206,9 @@
 				- who are you, why do you want to go to grad school
 				- research and the bulk
 			- Dry and boring and just about science is fine, but some humor is fine
-				-
+				- If I want to show my personality I think I have to make some jokes
+				- Try to make space to make the story
+			- Do I include my maimonides experience? I could address it in my statement probably, but I wonder if I could just completely avoid it
 - Last year notes
 	- WCGS Open houses are scheduled to take place on October 10 and November 1
 	- 9/12 4pm Intro to graduate school with Tom Magaldi Associate Dean GSK
