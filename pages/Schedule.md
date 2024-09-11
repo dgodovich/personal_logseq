@@ -1,18 +1,56 @@
 - September
 	- Main goals
-		- Have draft of general personal statement
-		- Finalized list of programs
+		- First draft of general personal statement
+		- Finalized list of programs I'm applying to
 			- Spreadsheet with specific information for each one
+			  collapsed:: true
 				- Specific writing prompts if any
 				- Faculty
 				- Location
 				- Stipend
 				- Benefits
 				- Anyone I know there / general connections
+		- Ask recommenders
+			- Dr. Jin
+				- Email with updated resume
+				- Include a refresher of the small project I did with her
+			- Adela
+				- Try to get coffee or a drink with her and ask in person
+			- Kat
+				- Already asked / aware
+		- Update resume / make CV
+	- Weekly breakdown
+		- 9/2 - 8
+		  collapsed:: true
+			- Past and I did not really do anything
+		- 9/9 - 15
+			-
+		- 9/16 - 22
+			-
+		- 9/23 - 29
+		  id:: 66e10d2f-64e3-4784-8e46-b68012918fb7
 			-
 - October
-	-
+	- Main Goals
+		- Revising personal statement
+			- Editing with Sheina
+		- Researching faculty
+		- Writing specific sections for each program
+	- Weekly Breakdown
+		- 9/30 - 10/6
+			- This is mostly the NAC so I probably won't be able to do anything
+			- Don't think about it
+		- 10/7 - 10/13
+		- 10/14 - 10/20
+		- 10/21 - 10/27
+		- 10/28 - 11/3
 - November
-	-
+	- Main Goals
+	- Weekly Breakdown
+		- 11/4 - 11/10
+		- 11/11 - 11/17
+		- 11/18 - 11/24
+		- 11/25 - 12/1
+			- Finish
 -
 - Applications due December 1st
