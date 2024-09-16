@@ -1,0 +1,20 @@
+- Schools attending
+	- Einstein
+	- Baylor
+	- IU Med school
+	- Johns Hopkins Med school
+	- NYU med school
+	- Penn State
+	- RPI
+	- Stowers
+		- interested
+	- UT MD Anderson
+		- interested
+	- UB Med school
+	- Notre Dame
+	- Pitt Med school
+	- UT Southwestern
+		- interested
+	- Van Andel institute
+	- WUSTL biomed
+		- interested

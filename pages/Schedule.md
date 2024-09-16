@@ -41,6 +41,7 @@
 		- 9/30 - 10/6
 			- This is mostly the NAC so I probably won't be able to do anything
 			- Don't think about it
+			- 10/1 [[Virtual Grad School Fair]]
 		- 10/7 - 10/13
 		- 10/14 - 10/20
 		- 10/21 - 10/27
