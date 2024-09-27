@@ -11,12 +11,12 @@
 				- Benefits
 				- Anyone I know there / general connections
 		- Ask recommenders
-		  collapsed:: true
 			- Dr. Jin
-				- Email with updated resume
 				- Include a refresher of the small project I did with her
+				- Emailed to ask and she accepted, need to respond with CV
 			- Adela
-				- Try to get coffee or a drink with her and ask in person
+				- Asked
+				- Need to write this letter
 			- Kat
 				- Already asked / aware
 		- Update resume / make CV
@@ -25,11 +25,12 @@
 		  collapsed:: true
 			- Past and I did not really do anything
 		- 9/9 - 15
-			-
+			- I made this schedule and then did not do anything for the entire month of september
 		- 9/16 - 22
-			-
+			- I made this schedule and then did not do anything for the entire month of september
 		- 9/23 - 29
 		  id:: 66e10d2f-64e3-4784-8e46-b68012918fb7
+			- [[Sep 26th, 2024]] I have not written a single sentence of my personal statement
 			-
 - October
 	- Main Goals
