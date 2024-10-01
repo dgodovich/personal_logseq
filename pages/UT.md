@@ -1,1 +1,9 @@
 - John Wallingford
+- UT Southwestern
+	- in Dallas
+	- Umbrella program
+	- Comp bio is in BME application
+	- Everything else is in umbrella BBS (basic biomedical sciences)
+		- Can apply to both and admissions committees are separated
+	- Lots of overlap between labs, cross-appointed faculty
+	-
