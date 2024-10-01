@@ -3,4 +3,5 @@
 		- xchen32@jhu.edu
 	- aflynn12@jhu.edu for CMDB program - in Kreiger arts and sciences
 	- BME and BCMD program is in school of medicine
+	- BME has no fixed curriculum
 	-
