@@ -1,0 +1,3 @@
+- [[Virtual Grad School Fair]]
+	- professor Xin Chen is doing cool stuff with epigenetics (but every professor is cool to talk to)
+	-
