@@ -3,4 +3,4 @@
 - Talk to Maya or Matthew about what they thought about St Louis
 -
 - [[Virtual Grad School Fair]] Talking to WUSTL
-	-
+	- that was useless
