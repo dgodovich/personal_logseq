@@ -1,3 +1,6 @@
 - [[Virtual Grad School Fair]]
 	- professor Xin Chen is doing cool stuff with epigenetics (but every professor is cool to talk to)
+		- xchen32@jhu.edu
+	- aflynn12@jhu.edu for CMDB program - in Kreiger arts and sciences
+	- BME and BCMD program is in school of medicine
 	-
