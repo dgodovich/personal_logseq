@@ -13,4 +13,13 @@
 	- 50-75% of day could be doing something you like doing
 	- Unstructured environment of grad school can be difficult to motivate on something you are
 - yale, penn, berkeley, stanford
--
+- Computeatoin people feel frustrated with pace of experiments because it's so much slower
+	- they have intentions of working in the lab but then it ends up being very painful
+	- Satisfaction you can get from experimental results
+	- Try to do experiments all in one big batch which does not go well
+- Error rate
+	- Experimental work in molecular biology requires being able to string together many things
+	- "Good hands" - where does this happen? intuition, experience
+	- Fundamental limiter is your error rate (multitasking ability)
+	- The best experimentalist have a compulsion to do things the right way
+	- hard to diagnose
