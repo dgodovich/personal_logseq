@@ -1,0 +1,4 @@
+- Arjun Raj at Penn responded to me asking for mentoring so I'm having a call with him
+- Extremely early in the morning so forgive any typos I might make
+-
+-
