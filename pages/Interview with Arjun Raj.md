@@ -2,3 +2,15 @@
 - Extremely early in the morning so forgive any typos I might make
 -
 - Really important to identify your strengths
+- What kind of scientist are you? Identify what you're passionate about and what motivates you
+	- What do you like to do every day?
+		- i.e. I want to play tetris
+	- 3 types of scientists
+		- gearhead - method focused, making new method
+		- analysts - working with data
+		- dreamers - ideas
+	- Know what bucket you're in and accept that as early as possible
+	- 50-75% of day could be doing something you like doing
+	- Unstructured environment of grad school can be difficult to motivate on something you are
+- yale, penn, berkeley, stanford
+-

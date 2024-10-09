@@ -6,6 +6,7 @@
 	- [[UCSF]]
 	- [[Harvard]]
 	- Something in New York [[Rockefeller]] / [[Tri-I]] / [[Princeton]] / [[Cornell]]
+		- Princeton has more going on in regeneration
 	- [[UW]]
 - State Schools
 	- California
