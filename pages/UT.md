@@ -1,1 +1,14 @@
 - John Wallingford
+- UT Southwestern
+	- in Dallas
+	- Umbrella program
+	- Comp bio is in BME application
+	- Everything else is in umbrella BBS (basic biomedical sciences)
+		- Can apply to both and admissions committees are separated
+		- Because I have interests in both I probably wouldn't have to change much
+	- Lots of overlap between labs, cross-appointed faculty
+	- BBS requires 2 rotations can do up to 4, can start in summer
+		- 6-8 weeks
+	- BME and comp bio has a rotation system that's similar
+	- comentorship is common
+	- joint labs are popular
