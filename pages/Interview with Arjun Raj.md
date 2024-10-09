@@ -23,3 +23,4 @@
 	- Fundamental limiter is your error rate (multitasking ability)
 	- The best experimentalist have a compulsion to do things the right way
 	- hard to diagnose
+- There are successful people who are disatrously disorganzied but they probably are not experimentalists
