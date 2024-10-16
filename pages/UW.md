@@ -17,5 +17,6 @@
 			- [Kelly Stevens](https://mcb-seattle.edu/faculty_profiles/stevens-kelly/)
 			- [Wendy Thomas](https://mcb-seattle.edu/faculty_profiles/thomas-wendy/)
 			- [Rong Tian](https://mcb-seattle.edu/faculty_profiles/tian-rong/)
-			-
+			- Valerie Daggett
+			- Hao Yuan Kueh
 -
