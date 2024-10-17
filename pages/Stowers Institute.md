@@ -1,1 +1,7 @@
 - Alejandro Sánchez Alvarado
+- This shit is tiny
+	- [Retention and Placement stats](https://www.stowers.org/gradschool/our-grad-school/retention)
+	- They admit like 5 students a year and the program has only been around for 12 years
+	- Very small alumni network and really not that much of a student body
+	- This is especially a consideration in Kansas City where there isn't as much to do
+-

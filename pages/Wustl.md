@@ -1,6 +1,8 @@
 - Lila Solnica-Krezel
 - Kat thinks this is a safety school
 - Talk to Maya or Matthew about what they thought about St Louis
+	- Maya gave a raving review which nice
+		- Grad students are separated but still can be included in campus life, and st louis has enough areas that you can find a niche in the city
 -
 - [[Virtual Grad School Fair]] Talking to WUSTL
 	- that was useless

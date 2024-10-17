@@ -9,6 +9,10 @@
 		- Princeton has more going on in regeneration
 	- [[UW]]
 	- [[Johns Hopkins]]
+	- Other top contenders
+		- [[Stanford]]
+		- [[Berkeley]]
+		- [[UT]]
 - State Schools
 	- California
 		- [[Berkeley]]
@@ -22,7 +26,7 @@
 	  collapsed:: true
 - West coast
 	- [[Caltech]]
-	- Stanford
+	- [[Stanford]]
 	- [[Berkeley]]
 	- [[UCLA]]
 	- [[UCSF]]
