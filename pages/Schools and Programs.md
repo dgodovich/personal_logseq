@@ -8,6 +8,7 @@
 	- Something in New York [[Rockefeller]] / [[Tri-I]] / [[Princeton]] / [[Cornell]]
 		- Princeton has more going on in regeneration
 	- [[UW]]
+	- [[Johns Hopkins]]
 - State Schools
 	- California
 		- [[Berkeley]]
