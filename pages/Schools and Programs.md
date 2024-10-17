@@ -4,6 +4,7 @@
 - Top contenders / [[Schools I am applying to]]
 	- [[Duke]]
 	- [[UCSF]]
+		- grad only, hard to teach
 	- [[Harvard]]
 	- Something in New York [[Rockefeller]] / [[Tri-I]] / [[Princeton]] / [[Cornell]]
 		- Princeton has more going on in regeneration
@@ -12,7 +13,10 @@
 	- Other top contenders
 		- [[Stanford]]
 		- [[Berkeley]]
-		- [[UT]]
+		- [[UT]] (southwestern)
+			- grad only, hard to teach
+		- [[Wustl]]
+		- Uchicago?
 - State Schools
 	- California
 		- [[Berkeley]]

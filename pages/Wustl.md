@@ -6,3 +6,5 @@
 -
 - [[Virtual Grad School Fair]] Talking to WUSTL
 	- that was useless
+- [Stats](https://gradstudies.artsci.wustl.edu/glance)
+-
