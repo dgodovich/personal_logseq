@@ -13,7 +13,7 @@
 	- Other top contenders
 		- [[Stanford]]
 		- [[Berkeley]]
-		- [[UT]] (southwestern)
+		- [[UT Southwestern]]
 			- grad only, hard to teach
 		- [[Wustl]]
 		- Uchicago?
@@ -23,7 +23,7 @@
 		- [[UCLA]]
 		- [[UCSF]]
 	- [[UVA]]
-	- [[UT]]
+	- [[UT Southwestern]]
 	- [[UMich]]
 	- [[UNC]]
 	- [[UW]]
