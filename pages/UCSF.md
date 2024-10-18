@@ -4,5 +4,6 @@
 - [Main website](https://graduate.ucsf.edu/)
 	- [dev bio](https://dscb.ucsf.edu/)
 	- [dev bio admissions page](https://dscb.ucsf.edu/admissions)
-	-
-	-
+- [Stats](https://graduate.ucsf.edu/admission/graduate-program-statistics/phd-program-statistics)
+	- [dev bio specific tables](https://graduate.ucsf.edu/admission/graduate-program-statistics/phd-program-statistics/program-stats-dscb)
+	- This is probably the most selective program I'm applying to, it's 10% or less acceptance rate
