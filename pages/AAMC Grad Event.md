@@ -1,1 +1,11 @@
-- Make sure that you have a drive for scientific research, that your values/skills/interests align, and
+- Make sure that you have a drive for scientific research, that your values/skills/interests align, and career goals match
+	- Yes I have done this
+- Check that programs have track record of getting to where you want to go career wise
+- Breadth of science
+	- Do I want umbrella program or departmental? I think they often end up being similar enough because of tons of crosslisting
+- Support services are important, but I am mostly going to large institutes
+- Climate and moral of the program
+	- Try to access student happiness, will you fit in?
+- Ideal timeline
+	- Most programs have dropped GRE requirements, I have it if I need it
+	-
