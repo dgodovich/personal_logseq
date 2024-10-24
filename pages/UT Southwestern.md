@@ -22,4 +22,5 @@
 	- Dev bio
 		- [Benjamin Levi](https://profiles.utsouthwestern.edu/profile/198600/benjamin-levi.html)
 		- [Hao Zhu](https://profiles.utsouthwestern.edu/profile/134601/hao-zhu.html)
+		- [Robert Tower](https://profiles.utsouthwestern.edu/profile/206568/robert-tower.html)
 		-

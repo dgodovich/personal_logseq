@@ -8,4 +8,13 @@
 	- Try to access student happiness, will you fit in?
 - Ideal timeline
 	- Most programs have dropped GRE requirements, I have it if I need it
+	- Double check that no one needs an official transcript for the application
+	- Visits and interviews are Jan/Feb/March
+	- April 15 is the final deadline
+	- Respond to all offers
+- Personal statement
+	- Explain the data of your application, provide context and motivation
+	- Every school has slightly different prompts and structure, important to follow that
+	- Clear description of your research experience, primarily focusing on why you did it (lab and field)
+	- Great to structure it to tell your story - connect the separate events into one cohesive thread
 	-
