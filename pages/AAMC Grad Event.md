@@ -1,0 +1,1 @@
+- Make sure that you have a drive for scientific research, that your values/skills/interests align, and
