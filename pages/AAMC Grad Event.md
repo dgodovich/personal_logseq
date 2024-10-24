@@ -25,3 +25,5 @@
 		- coursework
 		- science around you (not just what you're interested in, more generally the department)
 	- Try to find similarities between my top choices and the second list
+	- Identify safeties by NIH grant money maybe
+	- Look at lab alumni placements
