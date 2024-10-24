@@ -21,4 +21,7 @@
 	- I think this is a correlation not causation thing, the people who are organized and can get there stuff early are more likely to get in
 	- Applying early doesn't get you in to graduate school, but maybe it makes you more like someone who does
 - Choosing where to apply
-	-
+	- If you're between two programs at a school and the faculty are pretty similar, look into
+		- coursework
+		- science around you (not just what you're interested in, more generally the department)
+	- Try to find similarities between my top choices and the second list
