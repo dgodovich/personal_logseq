@@ -17,4 +17,8 @@
 	- Every school has slightly different prompts and structure, important to follow that
 	- Clear description of your research experience, primarily focusing on why you did it (lab and field)
 	- Great to structure it to tell your story - connect the separate events into one cohesive thread
+- Strong recommendation to apply early
+	- I think this is a correlation not causation thing, the people who are organized and can get there stuff early are more likely to get in
+	- Applying early doesn't get you in to graduate school, but maybe it makes you more like someone who does
+- Choosing where to apply
 	-
