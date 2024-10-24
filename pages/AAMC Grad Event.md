@@ -27,3 +27,5 @@
 	- Try to find similarities between my top choices and the second list
 	- Identify safeties by NIH grant money maybe
 	- Look at lab alumni placements
+- Letter of rec
+	- David Van Vactor gave a very good point that your letter writers should be mentors who have invested time in you and understand your research experience and motivation for graduate school. Try to communicate with them why you are applying, send your personal statement
