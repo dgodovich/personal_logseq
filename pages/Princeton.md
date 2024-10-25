@@ -3,4 +3,10 @@
 	- tissue polarity and epithelial patterning
 - [Jean Schwarzbauer](https://molbio.princeton.edu/people/jean-e-schwarzbauer)
 	- ECM organization
--
+- [Jared Toettcher](https://molbio.princeton.edu/people/jared-e-toettcher)
+	- Cell signaling processing, specifically RTK
+- [Daniel Cohen](https://mae.princeton.edu/people/faculty/cohen)
+	- Engineering artificial cell arrangements
+	- Very interesting, I don't know anything about this
+- [Celeste Nelson](https://cbe.princeton.edu/people/celeste-nelson)
+	- cell cooperation and signal integration
