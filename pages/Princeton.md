@@ -1,2 +1,6 @@
 - Stas
+- [Danelle Devenport](https://molbio.princeton.edu/people/danelle-devenport)
+	- tissue polarity and epithelial patterning
+- [Jean Schwarzbauer](https://molbio.princeton.edu/people/jean-e-schwarzbauer)
+	- ECM organization
 -
