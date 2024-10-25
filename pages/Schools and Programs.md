@@ -6,16 +6,17 @@
 	- [[UCSF]]
 		- grad only, hard to teach
 	- [[Harvard]]
-	- Something in New York [[Rockefeller]] / [[Tri-I]] / [[Princeton]] / [[Cornell]]
-		- Princeton has more going on in regeneration
+	- [[Princeton]]
+		- Something in New York [[Rockefeller]] / [[Tri-I]] / [[Princeton]] / [[Cornell]]
+			- Princeton has more going on in regeneration
 	- [[UW]]
 	- [[Johns Hopkins]]
+	- [[UT Southwestern]]
+		- grad only, hard to teach
+	- [[Wustl]]
 	- Other top contenders
 		- [[Stanford]]
 		- [[Berkeley]]
-		- [[UT Southwestern]]
-			- grad only, hard to teach
-		- [[Wustl]]
 		- Uchicago?
 - State Schools
 	- California
