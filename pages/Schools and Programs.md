@@ -17,7 +17,6 @@
 	- Other top contenders
 		- [[Stanford]]
 		- [[Berkeley]]
-		- Uchicago?
 - State Schools
 	- California
 		- [[Berkeley]]
