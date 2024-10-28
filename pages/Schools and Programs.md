@@ -14,9 +14,8 @@
 	- [[UT Southwestern]]
 		- grad only, hard to teach
 	- [[Wustl]]
-	- Other top contenders
-		- [[Stanford]]
-		- [[Berkeley]]
+	- [[Stanford]]
+	- [[Berkeley]]
 - State Schools
 	- California
 		- [[Berkeley]]
