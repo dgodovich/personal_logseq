@@ -1,22 +1,20 @@
-- List of all schools I am interested in / thinking about
-	- These are all domestic
-	- Separate page for international - [[We go international?]]
-- Top contenders / [[Schools I am applying to]]
-	- [[Duke]]
+- [[Schools I am applying to]]
+	- [[Duke]] - Durham / Research Triangle
 	- [[UCSF]]
-		- grad only, hard to teach
 	- [[Harvard]]
 	- [[Princeton]]
-		- Something in New York [[Rockefeller]] / [[Tri-I]] / [[Princeton]] / [[Cornell]]
-			- Princeton has more going on in regeneration
 	- [[UW]]
 	- [[Johns Hopkins]]
 	- [[UT Southwestern]]
-		- grad only, hard to teach
 	- [[Wustl]]
 	- [[Stanford]]
 	- [[Berkeley]]
+- List of all schools I am interested in / thinking about
+  collapsed:: true
+	- These are all domestic
+	- Separate page for international - [[We go international?]]
 - State Schools
+  collapsed:: true
 	- California
 		- [[Berkeley]]
 		- [[UCLA]]
@@ -28,23 +26,29 @@
 	- [[UW]]
 	  collapsed:: true
 - West coast
+  collapsed:: true
 	- [[Caltech]]
 	- [[Stanford]]
 	- [[Berkeley]]
 	- [[UCLA]]
 	- [[UCSF]]
 - East coast
+  collapsed:: true
 	- [[Johns Hopkins]]
 	- [[UPenn]]
 	- [[Wake Forest]]
 	- [[Cornell]]
 	- [[Duke]]
 	- [[Princeton]]
+		- Something in New York [[Rockefeller]] / [[Tri-I]] / [[Princeton]] / [[Cornell]]
+			- Princeton has more going on in regeneration
 - Middle Country
+  collapsed:: true
 	- [[Wustl]]
 	- [[Stowers Institute]]
 	-
 - General considerations
+  collapsed:: true
 	- I want to be in at least a small city
 		- i.e. I don't really want to be in something like Ithaca or Bing?
 		- I did like Bing after some time, and I think I would like it more now, but for something like a PhD in which I will be at this school for ~6 years I would like it to be in a more interesting and developed location

@@ -1,4 +1,5 @@
 - John Wallingford
+- grad only, hard to teach
 - UT Southwestern
 	- in Dallas
 	- Umbrella program

@@ -8,3 +8,9 @@
 	- that was useless
 - [Stats](https://gradstudies.artsci.wustl.edu/glance)
 -
+- Essays
+	- DBBS Essay 1
+		- For one or more of your research experiences, a) describe your research project(s) and specific contributions to the work in the most comprehensive way possible, including the question, the approach, the results, and the interpretation; b) discuss your motivations for graduate study; and c) relate a fundamental biological, biomedical, or data science question that most intrigues you, highlighting potential [Washington University DBBS faculty mentors](https://dbbs.wustl.edu/our-people/faculty/).
+	- DBBS Essay 2
+		- Diversity statement
+	-
