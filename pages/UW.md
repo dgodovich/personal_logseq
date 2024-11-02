@@ -1,17 +1,15 @@
-- University of Washington in Seattle
-- Genome Sciences has most of the interesting people, but they have other departments
-  collapsed:: true
-	- [department link](https://www.gs.washington.edu/index.htm)
-	- Nobu Hamazaki
-	- Jay Shendure
-	- Cole Trapnell
-- Molecular and Cell bio is the other department I would consider applying to (could do both ig)
-	- [department link](https://mcb-seattle.edu/)
-	- I think it's better to do MCB - a lot of the genome bio people I am interested in are crosslisted, and the same is true for bioengineering
-	- Would rather not do both even if there's a lot of overlap. Better to actually pick the correct program and save time and money
-	- Faculty of interest:
+- Program Information:
+	- Genome Sciences has most of the interesting people, but they have other departments
+		- [department link](https://www.gs.washington.edu/index.htm)
+	- Molecular and Cell bio is the other department I would consider applying to (could do both ig)
+		- [department link](https://mcb-seattle.edu/)
+		- I think it's better to do MCB - a lot of the genome bio people I am interested in are crosslisted, and the same is true for bioengineering
+		- Would rather not do both even if there's a lot of overlap. Better to actually pick the correct program and save time and money
+- Faculty:
+	- MCB Faculty of interest:
 		- Need to select 6 from UW and 6 from Fred Hutch
 		- Bioengineering overlaps:
+		  collapsed:: true
 			- [Jennifer Davis](https://mcb-seattle.edu/faculty_profiles/davis-jennifer/)
 			- [cecilia giachelli](https://mcb-seattle.edu/faculty_profiles/giachelli-cecilia/)
 			- [Kelly Stevens](https://mcb-seattle.edu/faculty_profiles/stevens-kelly/)
@@ -20,6 +18,7 @@
 			- Valerie Daggett
 			- Hao Yuan Kueh
 		- Genome Sciences overlaps: (bit too many lol)
+		  collapsed:: true
 			- 'Philip Abitua'
 			- 'David Baker'
 			- 'Trevor Bedford'
@@ -56,4 +55,14 @@
 			- 'Andrew Stergachis'
 			- 'Cole Trapnell'
 			- 'Paul Valdmanis'
+	- Genome Sciences faculty
+	  collapsed:: true
+		- Nobu Hamazaki
+		- Jay Shendure
+		- Cole Trapnell
+- Writing Prompts:
+	-
+- Other application notes:
+	- These guys have a lot of supplementary writing prompts which is going to be annoying
+-
 -

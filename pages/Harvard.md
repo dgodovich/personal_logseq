@@ -1,8 +1,18 @@
-- Labs
-	- [Whited Lab](https://www.whitedlab.com/)
-		- Axolotl regeneration lab that looked cool
-		- Mildly concerning that there are very few students who graduated? But there are some there now
-		- One of the students here did her undergrad at Berkeley and worked with Richard Harland there
-- There's the stem cell institute, the medical school, and harvard itself
-	- Pretty sure you can apply to all of them together, but they have their own websites and stuff
--
+- Program Information:
+	- There's the stem cell institute, the medical school, and harvard itself
+		- Pretty sure you can apply to all of them together, but they have their own websites and stuff
+	- Stem Cell institute does not have a direct application, you apply to one of the 14 Life Sciences programs at Harvard GSAS (graduate school of arts and sciences) and then you can work in a Stem Cell and Regenerative medicine lab
+	- Programs to think about:
+		- BBS - basic biological sciences
+		- MCB - Molecular and cell biology
+			-
+- Faculty:
+	- Labs
+		- [Whited Lab](https://www.whitedlab.com/)
+			- Axolotl regeneration lab that looked cool
+			- Mildly concerning that there are very few students who graduated? But there are some there now
+			- One of the students here did her undergrad at Berkeley and worked with Richard Harland there
+- Writing Prompts:
+	-
+- Other application notes:
+	-

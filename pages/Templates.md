@@ -6,4 +6,6 @@
 	- Faculty:
 		-
 	- Writing Prompts:
-	-
+		-
+	- Other application notes:
+		-

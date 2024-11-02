@@ -1,19 +1,19 @@
-- John Wallingford
-- grad only, hard to teach
-- UT Southwestern
-	- in Dallas
-	- Umbrella program
-	- Comp bio is in BME application
-	- Everything else is in umbrella BBS (basic biomedical sciences)
-		- Can apply to both and admissions committees are separated
-		- Because I have interests in both I probably wouldn't have to change much
-	- Lots of overlap between labs, cross-appointed faculty
-	- BBS requires 2 rotations can do up to 4, can start in summer
-		- 6-8 weeks
-	- BME and comp bio has a rotation system that's similar
-	- comentorship is common
-	- joint labs are popular
-- I probably apply to umbrella BBS program
+- Program Information:
+	- grad only, hard to teach
+	- Notes from talking to Lisa Gardner one of the assistant deans
+		- in Dallas
+		- Umbrella program
+		- Comp bio is in BME application
+		- Everything else is in umbrella BBS (basic biomedical sciences)
+			- Can apply to both and admissions committees are separated
+			- Because I have interests in both I probably wouldn't have to change much
+		- Lots of overlap between labs, cross-appointed faculty
+		- BBS requires 2 rotations can do up to 4, can start in summer
+			- 6-8 weeks
+		- BME and comp bio has a rotation system that's similar
+		- comentorship is common
+		- joint labs are popular
+- Faculty:
 	- BME faculty I'm interested in
 		- [W. Matthew Petroll, Ph.D.](https://profiles.utsouthwestern.edu/profile/15671/?_ga=2.37906400.2141188467.1670444942-2030558487.1669062189)
 		- [Kareem Azab, Ph.D.](https://profiles.utsouthwestern.edu/profile/212311/abd-el-kareem-azab.html)
@@ -24,4 +24,8 @@
 		- [Benjamin Levi](https://profiles.utsouthwestern.edu/profile/198600/benjamin-levi.html)
 		- [Hao Zhu](https://profiles.utsouthwestern.edu/profile/134601/hao-zhu.html)
 		- [Robert Tower](https://profiles.utsouthwestern.edu/profile/206568/robert-tower.html)
-		-
+	- John Wallingford
+- Writing Prompts:
+	-
+- Other application notes:
+	-

@@ -1,4 +1,9 @@
--
-- [check out these faculty members](https://sites.duke.edu/dukeregenerationcenter/affiliated-faculty/)
-- [Stats](https://gradschool.duke.edu/about/statistics/)
-- scraped csv of faculty members
+- Program Information:
+	- [Stats](https://gradschool.duke.edu/about/statistics/)
+- Faculty:
+	- [check out these faculty members](https://sites.duke.edu/dukeregenerationcenter/affiliated-faculty/)
+	- scraped csv of faculty members available at web_scraping
+- Writing Prompts:
+	-
+- Other application notes:
+	-

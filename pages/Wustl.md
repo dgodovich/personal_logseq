@@ -1,16 +1,16 @@
-- Lila Solnica-Krezel
-- Kat thinks this is a safety school
-- Talk to Maya or Matthew about what they thought about St Louis
-	- Maya gave a raving review which nice
-		- Grad students are separated but still can be included in campus life, and st louis has enough areas that you can find a niche in the city
--
-- [[Virtual Grad School Fair]] Talking to WUSTL
-	- that was useless
-- [Stats](https://gradstudies.artsci.wustl.edu/glance)
--
-- Essays
+- Program Information:
+	- Vagelos Biomedical Sciences program
+	- Kat thinks this is a safety school
+	- Talk to Maya or Matthew about what they thought about St Louis
+		- Maya gave a raving review which nice
+			- Grad students are separated but still can be included in campus life, and st louis has enough areas that you can find a niche in the city
+	- [Stats](https://gradstudies.artsci.wustl.edu/glance)
+- Faculty:
+	- Lila Solnica-Krezel
+- Writing Prompts:
 	- DBBS Essay 1
 		- For one or more of your research experiences, a) describe your research project(s) and specific contributions to the work in the most comprehensive way possible, including the question, the approach, the results, and the interpretation; b) discuss your motivations for graduate study; and c) relate a fundamental biological, biomedical, or data science question that most intrigues you, highlighting potential [Washington University DBBS faculty mentors](https://dbbs.wustl.edu/our-people/faculty/).
 	- DBBS Essay 2
 		- Diversity statement
+- Other application notes:
 	-

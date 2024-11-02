@@ -1,11 +1,16 @@
-- Graduate only which is a downside for teaching, but maybe you can TA early grad courses later on
-- Can only apply to one (1) UCSF graduate program per year
-	- So can't do dev bio and bioengineering I think
-- [Main website](https://graduate.ucsf.edu/)
-	- [dev bio](https://dscb.ucsf.edu/)
-	- [dev bio admissions page](https://dscb.ucsf.edu/admissions)
-- [Stats](https://graduate.ucsf.edu/admission/graduate-program-statistics/phd-program-statistics)
-	- [dev bio specific tables](https://graduate.ucsf.edu/admission/graduate-program-statistics/phd-program-statistics/program-stats-dscb)
-	- This is probably the most selective program I'm applying to, it's 10% or less acceptance rate
-- scraped csv of faculty members
-- grad only, hard to teach
+- Program Information:
+	- Graduate only which is a downside for teaching, but maybe you can TA early grad courses later on
+	- Can only apply to one (1) UCSF graduate program per year
+		- So can't do dev bio and bioengineering
+	- [Main website](https://graduate.ucsf.edu/)
+		- [dev bio](https://dscb.ucsf.edu/)
+		- [dev bio admissions page](https://dscb.ucsf.edu/admissions)
+	- [Stats](https://graduate.ucsf.edu/admission/graduate-program-statistics/phd-program-statistics)
+		- [dev bio specific tables](https://graduate.ucsf.edu/admission/graduate-program-statistics/phd-program-statistics/program-stats-dscb)
+		- This is probably the most selective program I'm applying to, it's 10% or less acceptance rate
+- Faculty:
+	- scraped csv of faculty members
+- Writing Prompts:
+	-
+- Other application notes:
+	-
