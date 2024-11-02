@@ -1,14 +1,16 @@
-- [[Schools I am applying to]]
+- [[Schools I am applying to]] (not in any particular order)
 	- [[Duke]] - Durham / Research Triangle
-	- [[UCSF]]
-	- [[Harvard]]
-	- [[Princeton]]
-	- [[UW]]
-	- [[Johns Hopkins]]
-	- [[UT Southwestern]]
-	- [[Wustl]]
-	- [[Stanford]]
-	- [[Berkeley]]
+	- [[UCSF]] - SF
+	- [[Harvard]] - Boston
+	- [[Princeton]] - Princeton (NYC)
+	- [[UW]] - Seattle
+	- [[Johns Hopkins]] - Baltimore
+	- [[UT Southwestern]] - Dallas
+	- [[Wustl]] - St Louis
+	- [[Stanford]] - SF
+	- [[Berkeley]] - SF
+- [[Schedule]]
+	- I'm gonna pretend that I followed this
 - List of all schools I am interested in / thinking about
   collapsed:: true
 	- These are all domestic
