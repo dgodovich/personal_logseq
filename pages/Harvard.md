@@ -4,8 +4,14 @@
 	- Stem Cell institute does not have a direct application, you apply to one of the 14 Life Sciences programs at Harvard GSAS (graduate school of arts and sciences) and then you can work in a Stem Cell and Regenerative medicine lab
 	- Programs to think about:
 		- BBS - basic biological sciences
+			- This is the umbrella program which has like 800 labs or something insane like that
+			- Very large program, so many people (students and faculty), but you get access to everything at Harvard (and some at MIT too I think)
 		- MCB - Molecular and cell biology
-			-
+			- Smaller program, some restriction on what you can do
+				- I think you can still work with basically any faculty member though? I could be wrong but it doesn't seem like you're limited to the ones hosted in the department
+			- Smaller program in a big school feels like a better fit for me than the gigantic one
+				- I feel like I want a close knit cohort? That seems like something I would enjoy
+			- I will go here
 - Faculty:
 	- Labs
 		- [Whited Lab](https://www.whitedlab.com/)
