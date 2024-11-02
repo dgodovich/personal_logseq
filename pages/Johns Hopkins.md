@@ -1,7 +1,9 @@
 - Program Information:
-	- BME and BCMB are in the medical school
-	- CMDB is in the Arts and Sciences school
+	- [BCMB](https://bcmb.bs.jhmi.edu/) is in the medical school
+	- [CMDB](https://cmdb.jhu.edu/) is in the Arts and Sciences school
 	- Those have different applications
+	- either way its an umbrella
+	- [stats](https://cmdb.jhu.edu/program-stats/) for cmdb
 - Faculty:
 	-
 - Writing Prompts:
