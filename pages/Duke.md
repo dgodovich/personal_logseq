@@ -1,9 +1,16 @@
 - Program Information:
 	- [Stats](https://gradschool.duke.edu/about/statistics/)
+	- Graduate school is divided into Medical school, arts and sciences, and engineering (and others)
+		- Medical school has the [Office of Biomedical Graduate Education](https://medschool.duke.edu/education/biomedical-phd-programs/office-biomedical-graduate-education) that covers all the programs I care about like dev and stem cell bio, cmb, etc
+		-
+		-
 - Faculty:
 	- [check out these faculty members](https://sites.duke.edu/dukeregenerationcenter/affiliated-faculty/)
 	- scraped csv of faculty members available at web_scraping
 - Writing Prompts:
-	-
+	- **Statement of Purpose Guidelines**
+		- The mission of the Developmental and Stem Cell Biology (DSCB) PhD Program is to train the next generation of scientists in principles of development, stem cell biology, and regeneration through targeted coursework, lab research, and interactions within the DSCB community. The diverse backgrounds, research expertise, and perspectives of our community enable us to enrich and personalize this training. Our goal is to develop each students’ confidence, independent critical thinking, academic rigor, and the intellectual curiosity and creativity to synthesize new ideas and communicate them effectively
+	- Optional Video Essay:
+		- How would a Duke PhD training experience help you achieve your academic and professional goals? Max video length 2 minutes; record externally and provide URL in application.
 - Other application notes:
-	-
+	- [Departmental guidance on applications](https://medschool.duke.edu/education/biomedical-phd-programs/developmental-stem-cell-biology-program/prospective-dscb-students)
