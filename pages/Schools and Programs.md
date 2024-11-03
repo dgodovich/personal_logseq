@@ -1,14 +1,34 @@
 - [[Schools I am applying to]] (not in any particular order)
-	- [[Duke]] - Durham / Research Triangle
-	- [[UCSF]] - SF
-	- [[Harvard]] - Boston
-	- [[Princeton]] - Princeton (NYC)
-	- [[UW]] - Seattle
-	- [[Johns Hopkins]] - Baltimore
-	- [[UT Southwestern]] - Dallas
-	- [[Wustl]] - St Louis
-	- [[Stanford]] - SF
-	- [[Berkeley]] - SF
+	- [[Duke]]
+		- Durham / Research Triangle
+		- Developmental and Stem Cell Biology
+	- [[UCSF]]
+		- SF
+		- Developmental and Stem Cell Biology
+	- [[Harvard]]
+		- Boston
+		- Stem Cell and Regenerative Biology department, but PhD program probably MCB
+	- [[Princeton]]
+		- Princeton (NYC)
+		- Molecular Biology with interest in Cell Biology, Development and Cancer track
+	- [[UW]]
+		- Seattle
+		- Molecular and Cell Biology
+	- [[Johns Hopkins]]
+		- Baltimore
+		- BCMB or CMB?
+	- [[UT Southwestern]]
+		- Dallas
+		- BBS umbrella, interest in Dev Bio or Cell and Molecular bio tracks
+	- [[Wustl]]
+		- St Louis
+		- Developmental, Regenerative and Stem Cell Biology
+	- [[Stanford]]
+		- SF
+		- Stem Cell Biology and Regenerative Medicine
+	- [[Berkeley]]
+		- SF
+		- MCB?
 - [[Schedule]]
 	- I'm gonna pretend that I followed this
 - List of all schools I am interested in / thinking about
