@@ -1,5 +1,6 @@
 - Program Information:
 	- [Stats](https://gradschool.duke.edu/about/statistics/)
+		- [dev bio specific stats](https://gradschool.duke.edu/about/statistics/developmental-and-stem-cell-biology-phd-admissions-and-enrollment-statistics/)
 	- Graduate school is divided into Medical school, arts and sciences, and engineering (and others)
 		- Medical school has the [Office of Biomedical Graduate Education](https://medschool.duke.edu/education/biomedical-phd-programs/office-biomedical-graduate-education) that covers all the programs I care about like dev and stem cell bio, cmb, etc
 		-
@@ -14,3 +15,8 @@
 		- How would a Duke PhD training experience help you achieve your academic and professional goals? Max video length 2 minutes; record externally and provide URL in application.
 - Other application notes:
 	- [Departmental guidance on applications](https://medschool.duke.edu/education/biomedical-phd-programs/developmental-stem-cell-biology-program/prospective-dscb-students)
+	- GRE
+		- not required but can submit
+	- Virtual Interview
+	- Admissions decisions sent out by end of February
+	- Admitted Student visits are March 6 - 8
