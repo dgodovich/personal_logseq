@@ -1,10 +1,11 @@
 - Program Information:
 	- [Stats](https://gradschool.duke.edu/about/statistics/)
 		- [dev bio specific stats](https://gradschool.duke.edu/about/statistics/developmental-and-stem-cell-biology-phd-admissions-and-enrollment-statistics/)
+		- a bit under 20% acceptance rate
 	- Graduate school is divided into Medical school, arts and sciences, and engineering (and others)
 		- Medical school has the [Office of Biomedical Graduate Education](https://medschool.duke.edu/education/biomedical-phd-programs/office-biomedical-graduate-education) that covers all the programs I care about like dev and stem cell bio, cmb, etc
-		-
-		-
+	- Dev bio is not degree granting, you get it from one of the other departments
+		- But I will be applying directly to it
 - Faculty:
 	- [check out these faculty members](https://sites.duke.edu/dukeregenerationcenter/affiliated-faculty/)
 	- scraped csv of faculty members available at web_scraping
