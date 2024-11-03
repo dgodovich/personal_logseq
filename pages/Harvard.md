@@ -19,6 +19,8 @@
 			- Mildly concerning that there are very few students who graduated? But there are some there now
 			- One of the students here did her undergrad at Berkeley and worked with Richard Harland there
 - Writing Prompts:
-	-
+	- Describe your reasons and motivations for pursuing a PhD in molecular and cellular biology, noting experiences that shaped your research ambitions as well as briefly indicating your scientific and career objectives. Your statement should not exceed 1,000 words.
 - Other application notes:
-	-
+	- [[GRE]] not accepted!
+	- HILS program - can apply to multiple on one application I think, so do both MCB and BBS?
+-

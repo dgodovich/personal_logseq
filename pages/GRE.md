@@ -1,0 +1,13 @@
+- Most every school is optional on the GRE, I don't think any I'm applying to require it
+- $35 per sending score, so I'm not sure that it's worth it if it's optional for everything?
+- Duke and Johns Hopkins already have it
+	- But to the wrong department which is funny
+	- DUKE UNIVERSITY (5156) BIOMEDICAL/MEDICAL ENGINEERING (1603)
+	- Johns Hopkins University, School of Engineering (4655)
+	- I wonder if this is transferrable
+- Optional:
+	- Princeton
+	- Duke
+	- UCSF
+- Not accepted:
+	- Harvard
