@@ -7,7 +7,7 @@
 		- Developmental and Stem Cell Biology
 	- [[Harvard]]
 		- Boston
-		- Stem Cell and Regenerative Biology department, but PhD program probably MCB
+		- Stem Cell and Regenerative Biology department, but PhD program MCB
 	- [[Princeton]]
 		- Princeton (NYC)
 		- Molecular Biology with interest in Cell Biology, Development and Cancer track
