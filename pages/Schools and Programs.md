@@ -2,7 +2,7 @@
 	- [[Duke]]
 		- Durham / Research Triangle
 		- Developmental and Stem Cell Biology
-	- [[UCSF]]
+	- [[UCSF]] !!
 		- SF
 		- Developmental and Stem Cell Biology? Joint berkeley bme?
 	- [[Harvard]]
@@ -14,7 +14,7 @@
 	- [[UW]]
 		- Seattle
 		- Molecular and Cell Biology
-	- [[Johns Hopkins]]
+	- [[Johns Hopkins]] !!
 		- Baltimore
 		- BCMB or CMB?
 	- [[UT Southwestern]]

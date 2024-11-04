@@ -17,6 +17,7 @@
 		- joint labs are popular
 - Faculty:
 	- BME faculty I'm interested in
+	  collapsed:: true
 		- [W. Matthew Petroll, Ph.D.](https://profiles.utsouthwestern.edu/profile/15671/?_ga=2.37906400.2141188467.1670444942-2030558487.1669062189)
 		- [Kareem Azab, Ph.D.](https://profiles.utsouthwestern.edu/profile/212311/abd-el-kareem-azab.html)
 		- [Muhammad Rizwan, Ph.D.](https://profiles.utsouthwestern.edu/profile/230758/muhammad-rizwan.html?_ga=2.34651553.1431091962.1666626000-912785567.1663946212)
