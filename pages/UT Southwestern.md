@@ -1,7 +1,8 @@
 - Program Information:
 	- [Website](https://www.utsouthwestern.edu/education/graduate-school/application-and-admissions/basic-sciences.html)
 	- grad only, hard to teach
-	- Notes from talking to Lisa Gardner one of the assistant deans
+	- Notes from talking to Lisa Gardner, one of the assistant deans
+	  collapsed:: true
 		- in Dallas
 		- Umbrella program
 		- Comp bio is in BME application
@@ -12,7 +13,7 @@
 		- BBS requires 2 rotations can do up to 4, can start in summer
 			- 6-8 weeks
 		- BME and comp bio has a rotation system that's similar
-		- comentorship is common
+		- co-mentorship is common
 		- joint labs are popular
 - Faculty:
 	- BME faculty I'm interested in
@@ -27,7 +28,14 @@
 		- [Robert Tower](https://profiles.utsouthwestern.edu/profile/206568/robert-tower.html)
 	- John Wallingford
 - Writing Prompts:
-	-
+	- Research Statement
+		- Your essay is a chance for us to get to know you as a scientist and potential student in our programs. **In two pages or less,** please:
+			- 1. State your reasons for pursuing a Ph.D. in your chosen field.
+			- 2. Clearly and concisely, describe your previous research activities,  including when and where the work was done, your role in the work, experimental background and results, and whether any of these research activities resulted in a presentation or publication.
+			- 3. Indicate why you feel UT Southwestern might be a good fit for you.
+		- To upload your personal statement, click the Browse button and then Upload below. Pdf file only. File cannot be larger than 16 MB.
+	- Personal Statement
+		- Describe educational, personal, cultural, economic or other life experiences, that have shaped your journey. Have these experiences provided unique perspective(s) that you would contribute to your program, field or profession?
 - Other application notes:
 	- [[GRE]]
 		- not required, not clear if they take it or not

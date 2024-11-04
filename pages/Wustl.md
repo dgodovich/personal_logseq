@@ -12,5 +12,14 @@
 		- For one or more of your research experiences, a) describe your research project(s) and specific contributions to the work in the most comprehensive way possible, including the question, the approach, the results, and the interpretation; b) discuss your motivations for graduate study; and c) relate a fundamental biological, biomedical, or data science question that most intrigues you, highlighting potential [Washington University DBBS faculty mentors](https://dbbs.wustl.edu/our-people/faculty/).
 	- DBBS Essay 2
 		- Diversity statement
+		- Our training environment values diversity of experience as a driver of innovation. Drawing on your life experiences (personal and/or professional), please provide a statement showcasing examples of core strengths (e.g., courage, creativity, perseverance, determination) that forged your leadership characteristics and resolve. How will these traits enrich the diversity of our biosciences training community?
+	- Brief Descriptions
+		- Please use the following space for a fifteen-word descriptive sentence of current and/or recent research experience. If invited for an interview, this sentence is shared with students, faculty and other applicants to provide an overview of your research experience. (Example: molecular and genetic basis of cancer pathogenesis.) Maximum 15 words.
+		- Please use the following space for a fifteen-word descriptive sentence of research interests in graduate school. If invited for an interview, this sentence is shared with students, faculty and other applicants to provide an overview of your research interests. (Example: Exploring regulatory networks in metabolism.) Maximum 15 words.
+	- Experience
+		- At the heart of the application is the research experience. For your most substantive research experiences (including industry, professional, postbac, internship and academic, except lab work related to courses) please provide the following information: mentor name, institution/company, brief project description, length of your participation on the project in months, and the approximate hours per week that you worked on the project up to Dec. 1 of this year.
 - Other application notes:
-	-
+	- [[GRE]]
+		- Not required, not listed as optional so maybe they just don't take it
+	- Recruitment onsite visit Feb 20 -22
+	- virtual interview some time in january
