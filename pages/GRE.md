@@ -9,5 +9,6 @@
 	- Princeton
 	- Duke
 	- UCSF
+	- UW
 - Not accepted:
 	- Harvard

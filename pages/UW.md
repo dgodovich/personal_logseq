@@ -64,5 +64,7 @@
 	-
 - Other application notes:
 	- These guys have a lot of supplementary writing prompts which is going to be annoying
--
+	- [[GRE]]
+		- Please note that the MCB Program ***does not*** require GRE scores. However you are welcome to discuss your GRE scores in the application if you think it’s appropriate.
+		- I guess that means don't send? Maybe in one of their many writing prompts I can put it in?
 -

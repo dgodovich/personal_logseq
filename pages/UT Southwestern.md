@@ -1,4 +1,5 @@
 - Program Information:
+	- [Website](https://www.utsouthwestern.edu/education/graduate-school/application-and-admissions/basic-sciences.html)
 	- grad only, hard to teach
 	- Notes from talking to Lisa Gardner one of the assistant deans
 		- in Dallas
@@ -28,4 +29,6 @@
 - Writing Prompts:
 	-
 - Other application notes:
-	-
+	- [[GRE]]
+		- not required, not clear if they take it or not
+	- No application fee!
