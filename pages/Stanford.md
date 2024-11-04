@@ -3,6 +3,7 @@
 - Faculty:
 	-
 - Writing Prompts:
-	-
+	- *[Bioscience Supplement] "Describe an Interesting Biological or Biomedical Problem"*
+	- Please use this space on the application to tell us about an interesting scientific problem which you could see yourself pursuing during graduate school. Put another way, tell us about your “dream biological or biomedical PhD project”! If you have too many, you are welcome to state that and pick one that you are most excited about.
 - Other application notes:
 	-

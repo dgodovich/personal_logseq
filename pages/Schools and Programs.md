@@ -26,7 +26,7 @@
 	- [[Stanford]]
 		- SF
 		- Stem Cell Biology and Regenerative Medicine
-	- [[Berkeley]]
+	- [[Berkeley]] !!
 		- SF
 		- MCB?
 - [[Schedule]]
