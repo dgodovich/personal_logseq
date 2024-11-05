@@ -2,9 +2,9 @@
 	- [[Duke]]
 		- Durham / Research Triangle
 		- Developmental and Stem Cell Biology
-	- [[UCSF]] !!
+	- [[UCSF/Berkeley]]
 		- SF
-		- Developmental and Stem Cell Biology? Joint berkeley bme?
+		- Joint UCSF/ berkeley bme
 	- [[Harvard]]
 		- Boston
 		- Stem Cell and Regenerative Biology department, but PhD program MCB
@@ -14,9 +14,9 @@
 	- [[UW]]
 		- Seattle
 		- Molecular and Cell Biology
-	- [[Johns Hopkins]] !!
+	- [[Johns Hopkins]]
 		- Baltimore
-		- BCMB or CMB?
+		- BME
 	- [[UT Southwestern]]
 		- Dallas
 		- BBS umbrella, interest in Dev Bio or Cell and Molecular bio tracks
@@ -26,9 +26,6 @@
 	- [[Stanford]]
 		- SF
 		- Stem Cell Biology and Regenerative Medicine
-	- [[Berkeley]] !!
-		- SF
-		- MCB?
 - [[Schedule]]
 	- I'm gonna pretend that I followed this
 - List of all schools I am interested in / thinking about
@@ -40,7 +37,7 @@
 	- California
 		- [[Berkeley]]
 		- [[UCLA]]
-		- [[UCSF]]
+		- [[UCSF/Berkeley]]
 	- [[UVA]]
 	- [[UT Southwestern]]
 	- [[UMich]]
@@ -53,7 +50,7 @@
 	- [[Stanford]]
 	- [[Berkeley]]
 	- [[UCLA]]
-	- [[UCSF]]
+	- [[UCSF/Berkeley]]
 - East coast
   collapsed:: true
 	- [[Johns Hopkins]]

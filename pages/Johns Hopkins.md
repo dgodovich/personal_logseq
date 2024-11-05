@@ -3,6 +3,7 @@
 	- [CMDB](https://cmdb.jhu.edu/) is in the Arts and Sciences school
 	- Those have different applications
 	- either way its an umbrella
+	- I think I actually do BME here, that's what has the most faculty I'm interested in
 	- [stats](https://cmdb.jhu.edu/program-stats/) for cmdb
 - Faculty:
 	-

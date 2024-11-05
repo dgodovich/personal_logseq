@@ -1,0 +1,37 @@
+- Program Information:
+	- I'm doing the joint bioengineering program with UC Berkeley and UCSF, that has the most faculty that I'm interested in
+	- Graduate only which is a downside for teaching, but maybe you can TA early grad courses later on
+		- Berkeley fixes that problem
+	- Can only apply to one (1) UCSF graduate program per year
+		- So can't do dev bio and bioengineering
+		- I'm doing bioeng
+	- [Main website](https://graduate.ucsf.edu/)
+		- [dev bio](https://dscb.ucsf.edu/)
+		- [dev bio admissions page](https://dscb.ucsf.edu/admissions)
+	- [Stats](https://graduate.ucsf.edu/admission/graduate-program-statistics/phd-program-statistics)
+		- [dev bio specific tables](https://graduate.ucsf.edu/admission/graduate-program-statistics/phd-program-statistics/program-stats-dscb)
+		- This is probably the most selective program I'm applying to, it's 10% or less acceptance rate
+- Faculty:
+	- scraped csv of faculty members for UCSF dev bio, not super relevant anymore
+	- [BioE Tissue engineering faculty](https://bioegrad.berkeley.edu/faculty/faculty-by-research-area?tx_subject_area=tissue)
+	-
+	-
+- Writing Prompts:
+	-
+- Other application notes:
+-
+-
+- Program Information:
+	- [website](https://mcb.berkeley.edu/grad/prospective-students/admissions-and-recruitment)
+	-
+- Faculty:
+	- Richard Harland
+	- https://mcb.berkeley.edu/faculty/cdp/nabhana
+	- https://mcb.berkeley.edu/faculty/CDB/hariharani.html
+	- [interesting not wound healing lab](https://fletchlab.berkeley.edu/research/)
+	- [Neural crest research](https://mcb.berkeley.edu/faculty/ggd/martikm)
+- Writing Prompts:
+	-
+- Other application notes:
+	- [[GRE]]
+		- No
