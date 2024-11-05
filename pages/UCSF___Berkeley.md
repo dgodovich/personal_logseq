@@ -14,7 +14,18 @@
 - Faculty:
 	- scraped csv of faculty members for UCSF dev bio, not super relevant anymore
 	- [BioE Tissue engineering faculty](https://bioegrad.berkeley.edu/faculty/faculty-by-research-area?tx_subject_area=tissue)
-	-
+	- Tammy Chang
+	- Zev Gartner
+	- Xiaohua Gong
+	- Kevin Healy
+	- Amy E. Herr
+	- Chris Hsiung
+	- Guo Huang
+	- Matthew Kutys
+	- Seung-Wuk Lee
+	- Grace O'Connell
+	- Deepak Srivastava
+	- Valerie Weaver
 	-
 - Writing Prompts:
 	-
