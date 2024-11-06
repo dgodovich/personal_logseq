@@ -34,7 +34,7 @@
 	- [[Stanford]] SF
 		- Stem Cell Biology and Regenerative Medicine
 		- [Application Website](https://applygrad.stanford.edu/portal/grad-app)
-		-
+		- rec to dr jin sent
 - [[Schedule]]
 	- I'm gonna pretend that I followed this
 - List of all schools I am interested in / thinking about
