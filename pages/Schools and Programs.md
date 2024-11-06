@@ -6,6 +6,7 @@
 	- [[UCSF/Berkeley]] SF
 		- Joint UCSF/ berkeley bme
 		- [Application Website](https://gradapp.berkeley.edu/apply/?_ga=2.101205697.1389077666.1684431286-1279699581.1683569673)
+		- rec to dr jin sent
 	- [[Harvard]] Boston
 		- Stem Cell and Regenerative Biology department, but PhD program MCB
 		- [Application website](https://apply.gsas.harvard.edu/portal/apply_now)
@@ -24,10 +25,16 @@
 		- rec to dr jin sent
 	- [[UT Southwestern]] Dallas
 		- BBS umbrella, interest in Dev Bio or Cell and Molecular bio tracks
+		- [Application Website](https://apply.utsouthwestern.edu/grad/Security/Login.aspx?ReturnUrl=%2fgrad)
+		- rec to dr jin sent
 	- [[Wustl]] St Louis
 		- Developmental, Regenerative and Stem Cell Biology
+		- [Application Website](https://gradadmit.wustl.edu/account/login)
+		- rec to dr jin sent
 	- [[Stanford]] SF
 		- Stem Cell Biology and Regenerative Medicine
+		- [Application Website](https://applygrad.stanford.edu/portal/grad-app)
+		-
 - [[Schedule]]
 	- I'm gonna pretend that I followed this
 - List of all schools I am interested in / thinking about
