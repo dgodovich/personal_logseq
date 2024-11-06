@@ -2,16 +2,26 @@
 	- [[Duke]] Durham / Research Triangle
 		- Developmental and Stem Cell Biology
 		- [Application website](https://applygp.duke.edu/apply/?sr=ff282888-94bf-4e9e-af2b-868e6f1c72a1)
+		- rec to dr jin sent
 	- [[UCSF/Berkeley]] SF
 		- Joint UCSF/ berkeley bme
+		- [Application Website](https://gradapp.berkeley.edu/apply/?_ga=2.101205697.1389077666.1684431286-1279699581.1683569673)
 	- [[Harvard]] Boston
 		- Stem Cell and Regenerative Biology department, but PhD program MCB
+		- [Application website](https://apply.gsas.harvard.edu/portal/apply_now)
+		- rec to dr jin sent
 	- [[Princeton]] Princeton (NYC)
 		- Molecular Biology with interest in Cell Biology, Development and Cancer track
+		- [Application Website](https://graduate-apply.princeton.edu/apply/)
+		- rec to dr jin sent
 	- [[UW]] Seattle
 		- Molecular and Cell Biology
+		- [Application Website](https://apply.grad.uw.edu/account/login?r=/portal/gr_app)
+		- rec to dr jin sent
 	- [[Johns Hopkins]] Baltimore
 		- BME
+		- [Application Website](https://applygrad.jhu.edu/apply/?sr=61ab0eb5-7ac7-4dc0-9347-062f46b0ca6a)
+		- rec to dr jin sent
 	- [[UT Southwestern]] Dallas
 		- BBS umbrella, interest in Dev Bio or Cell and Molecular bio tracks
 	- [[Wustl]] St Louis

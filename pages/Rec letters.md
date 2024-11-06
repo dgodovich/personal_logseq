@@ -1,0 +1,7 @@
+- Sha Jin
+	- 607-777-5718
+	- sjin@binghamton.edu
+	- Binghamton University
+	- Professor & Director of Undergraduate Studies
+	- Undergraduate Research Advisor
+-
