@@ -25,3 +25,4 @@
 	- Virtual Interview
 	- Admissions decisions sent out by end of February
 	- Admitted Student visits are March 6 - 8
+	- #fee $95
