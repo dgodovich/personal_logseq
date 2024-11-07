@@ -12,6 +12,8 @@
 			- Smaller program in a big school feels like a better fit for me than the gigantic one
 				- I feel like I want a close knit cohort? That seems like something I would enjoy
 			- I will go here
+	- [HILS program application info](https://gsas.harvard.edu/programs/life-sciences/applying-life-sciences-program)
+	-
 - Faculty:
 	- Labs
 		- [Whited Lab](https://www.whitedlab.com/)
@@ -23,4 +25,5 @@
 - Other application notes:
 	- [[GRE]] not accepted!
 	- HILS program - can apply to multiple on one application I think, so do both MCB and BBS?
+	- #fee $105
 -
