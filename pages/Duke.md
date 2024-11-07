@@ -12,6 +12,8 @@
 	- Varghese
 	-
 - Writing Prompts:
+	- Write a statement (1-2 pages, single-spaced, in a 12-point font) indicating your purposes and objectives in undertaking graduate study, your special interests and plans, and your strengths and weaknesses in your chosen field. Briefly describe any research projects or any independent research in which you have actively participated and indicate how this has influenced your career interest and desire to pursue graduate studies. If COVID-19 has affected your previous academic
+	   or research progress or experience, you may include that information here.
 	- **Statement of Purpose Guidelines**
 		- The mission of the Developmental and Stem Cell Biology (DSCB) PhD Program is to train the next generation of scientists in principles of development, stem cell biology, and regeneration through targeted coursework, lab research, and interactions within the DSCB community. The diverse backgrounds, research expertise, and perspectives of our community enable us to enrich and personalize this training. Our goal is to develop each students’ confidence, independent critical thinking, academic rigor, and the intellectual curiosity and creativity to synthesize new ideas and communicate them effectively
 	- Optional Video Essay:
