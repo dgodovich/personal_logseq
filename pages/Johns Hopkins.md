@@ -8,7 +8,11 @@
 - Faculty:
 	-
 - Writing Prompts:
-	-
+	- Basis of interest and career objectives
+		- Please provide a statement (one page maximum) indicating the basis of your interest in graduate study and your career objectives. Please include a discussion of any research experience you have had and mention which faculty members you would be most interested in working with and why.
+	- Personal Statement
+		- Optional: Provide an additional statement (one page maximum) to tell us about an aspect of your identity or a life experience that has shaped you as an individual and how that influenced what you would like to pursue at Hopkins. This can be a future goal or experience that is academic, extracurricular, or social and may relate or include discussion of any aspect of your identity such as gender, gender identity, sexual orientation, race, nationality, ethnicity, socio-economic status, political affiliation, first-generation status, religion, etc.
+	- The personal background statement is optional. If you choose to submit a personal statement, please upload a single document that includes both the basis of interest and personal statements (two pages maximum, one page per statement).
 - Other application notes:
 	- [[Virtual Grad School Fair]]
 		- professor Xin Chen is doing cool stuff with epigenetics (but every professor is cool to talk to)
@@ -16,3 +20,4 @@
 		- aflynn12@jhu.edu for CMDB program - in Kreiger arts and sciences
 		- BME and BCMD program is in school of medicine
 		- BME has no fixed curriculum
+	- #fee $115

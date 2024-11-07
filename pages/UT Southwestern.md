@@ -40,4 +40,4 @@
 - Other application notes:
 	- [[GRE]]
 		- not required, not clear if they take it or not
-	- No application fee!
+	- #fee 0

@@ -1,9 +1,23 @@
 - Program Information:
 	- [stem cell institute](https://med.stanford.edu/stemcell)
 - Faculty:
-	-
+	- Need to select 8 faculty, up to 12 slots
+	- [Biosciences faculty](https://biosciences.stanford.edu/program-overview/biosciences-faculty-database/)
+		- This is for all departments not just stem cell and regen
 - Writing Prompts:
+	- Statement of Purpose
+		- Because each Home Program requires significant original research activities in fulfillment of the requirements for the PhD degree, the admissions committees are interested in obtaining as much information as possible about your previous research experiences. Those who already have such experience are in a better position to know whether they are truly interested in performing laboratory research as part of a graduate program. Please include specific information about your research experience in your Statement of Purpose. You may also use the Statement to amplify your comments about your choice of Home Program(s), and how your past experiences and current interests are related to your choice.
+		- The Statement of Purpose should not exceed **two pages in length, single-spaced, and font size 12**. Make sure to set your computer to Western European or other English-language settings. We cannot guarantee the ability to access your statement if it is submitted in other fonts.
+	- Enriching the Learning Community
+		- Stanford University welcomes graduate applications from individuals with a broad range of experiences, interests, and backgrounds who would contribute to our community of scholars. We invite you to share the lived experiences, demonstrated values, perspectives, and/or activities that shape you as a scholar and would help you to make a distinctive contribution to Stanford University. Your statement should not exceed 500 words in length.
 	- *[Bioscience Supplement] "Describe an Interesting Biological or Biomedical Problem"*
-	- Please use this space on the application to tell us about an interesting scientific problem which you could see yourself pursuing during graduate school. Put another way, tell us about your “dream biological or biomedical PhD project”! If you have too many, you are welcome to state that and pick one that you are most excited about.
+		- Please use this space on the application to tell us about an interesting scientific problem which you could see yourself pursuing during graduate school. Put another way, tell us about your “dream biological or biomedical PhD project”! If you have too many, you are welcome to state that and pick one that you are most excited about.
+	- Foundations of Graduate Study
+		- Responses to the following questions are **only expected** for those applying to **Biomedical Data Science** and/or the **Immunology Computational and Systems Track**, but others may respond as well.
+		- For each of the following areas, please describe your experience, as acquired through coursework, research, or other projects, or your plans for obtaining or expanding such experience, ideally before starting your PhD.
+		- Multivariate mathematics (calc and linear)
+		- probability and statistics
+		- computation (including fundamentals of computer science and software engineering)
 - Other application notes:
-	-
+	- #fee $125
+	- [[GRE]] Not considered

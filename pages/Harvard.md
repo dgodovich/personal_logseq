@@ -13,15 +13,32 @@
 				- I feel like I want a close knit cohort? That seems like something I would enjoy
 			- I will go here
 	- [HILS program application info](https://gsas.harvard.edu/programs/life-sciences/applying-life-sciences-program)
-	-
 - Faculty:
+	- Application only asks for two faculty members
 	- Labs
 		- [Whited Lab](https://www.whitedlab.com/)
 			- Axolotl regeneration lab that looked cool
 			- Mildly concerning that there are very few students who graduated? But there are some there now
 			- One of the students here did her undergrad at Berkeley and worked with Richard Harland there
 - Writing Prompts:
-	- Describe your reasons and motivations for pursuing a PhD in molecular and cellular biology, noting experiences that shaped your research ambitions as well as briefly indicating your scientific and career objectives. Your statement should not exceed 1,000 words.
+	- Molecules, Cells, and Organisms Supplements
+		- Your Research: Past Experience and Future Interest
+		- What do you consider your most significant scientific discovery?
+			- Cite an example in which you personally had a substantial impact.
+			- If you have not yet had a significant research experience, describe a scientific discovery that in particular motivated you to pursue research.
+			- Using simple language, describe what you or others did, why, and what it means.
+		- Describe where your main future interest lies within one of the following research areas:
+			- Molecular Mechanism
+			- Cell and Developmental Biology
+			- Neurobiology
+			- Molecular Ecology and Evolution
+	- Statement of Purpose
+		- The [statement of purpose](https://gsas.harvard.edu/apply/applying-degree-programs/completing-your-application/statement-purpose-and-writing-sample) is very important to programs when deciding whether to admit a candidate. Your statement should be focused, informative, and convey your research interests and qualifications. You should describe your reasons and motivations for pursuing a graduate degree in our chosen degree program, noting the experiences that shaped your research ambitions, indicating briefly your career objectives, and concisely stating your past work in your intended field of study and in related fields.
+		- Describe your reasons and motivations for pursuing a PhD in molecular and cellular biology, noting experiences that shaped your research ambitions as well as briefly indicating your scientific and career objectives. Your statement should not exceed 1,000 words.
+	- Personal Statement
+		- Please describe the personal experiences that led you to pursue graduate education and how these experiences will contribute to the academic environment and/or community in your program or Harvard Griffin GSAS. These may include social and cultural experiences, leadership positions, community engagement, equity and inclusion efforts, other opportunities, or challenges. Your statement should be no longer than 500 words.
+		- Please note that there is no expectation to share detailed sensitive information and you should refrain from including anything that you would not feel at ease sharing. Please also note that the Personal Statement should complement rather than duplicate the content provided in the Statement of Purpose.
+		- Upload your personal statement as a Microsoft Word document or a PDF file. Please note that any website addresses included in your document will be passed along to the admissions committee as plain text. If you would like the committee to review the content of those websites, you may use the Digital Portfolio section of this application to upload website hyperlinks.
 - Other application notes:
 	- [[GRE]] not accepted!
 	- HILS program - can apply to multiple on one application I think, so do both MCB and BBS?

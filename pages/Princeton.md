@@ -1,6 +1,7 @@
 - Program Information:
 	- [Main website](https://molbio.princeton.edu/graduate)
 	- [Application info website](https://gradschool.princeton.edu/academics/degrees-requirements/fields-study/molecular-biology)
+	- [Princeton grad apps info](https://gradschool.princeton.edu/admission-onboarding/prepare)
 	-
 	-
 - Faculty:
@@ -17,8 +18,13 @@
 	- [Celeste Nelson](https://cbe.princeton.edu/people/celeste-nelson)
 		- cell cooperation and signal integration
 - Writing Prompts:
-	-
+	- Academic Statement of Purpose
+		- Please explain why you are applying to a graduate program at Princeton. Outline your goals for graduate study, discuss your current academic and future career plans specifically related to the program. Include any relevant academic and professional experiences that have influenced your decision to apply for graduate admission. The statement should not exceed 1,000 words
+	- Personal Statement
+		- Princeton is strongly committed to welcoming students with diverse experiences. Describe a personal experience that influenced your decision to pursue graduate study. Explain how the lessons from this experience would enrich Princeton’s residential scholarly community.
+		- The essay must be written in English and should not exceed 250 words. No specific formatting is required.
 - Other application notes:
 	- Interview weekends are in January or February
 	- All decisions by March 15
 	- GRE optional
+	- #fee $75

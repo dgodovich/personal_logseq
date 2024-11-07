@@ -61,10 +61,23 @@
 		- Jay Shendure
 		- Cole Trapnell
 - Writing Prompts:
-	-
+	- Please provide a bullet-point list of your different research experiences including summer research internships, academic year research, post-baccalaureate, and/or work-related experiences. For each experience, include a very brief description and include the Institution, Department, lab head name, project title, and start/end date.
+	  1500 character max
+	- What is your total amount of full-time research experience? Full-time is considered 100% effort for at least 40 hours per week. Please state your experience in months and/or years. (100 character limit).
+		- not really writing but its in this section
+	- What is your total amount of part-time research experience? Part-time is considered anything less than 100% effort. Please state your experience in months and/or years with the effort of percentage and hours per week. For example: 9 months at 25% (10 hours/week).
+		- not really writing but its in this section
+	- Tell us about your most successful or interesting research experience and which qualities helped facilitate your research. (3000 character limit).
+	- Why is obtaining a PhD necessary to your future goals? (1500 character limit)
+	- What areas of molecular and cellular biology research interest you and why are you specifically drawn to the MCB Seattle Program? (1500 character limit)
+	- Describe a time that you encountered a significant event or obstacle, scientific or otherwise? How did you handle it? (3000 character limit).
+	- What do you expect to be challenging about graduate school? What strategies would you use to manage these challenges? (1500 character limit).
+	- Which MCB faculty members’ research are you most interested in and why? Your choices can include faculty at all our partner institutes. [MCB Faculty profiles](https://mcb-seattle.edu/directory/faculty/) (1000 character limit)
+	- Is there any information pertinent to your application that you would like to add that was not covered in the previous questions? (1500 character limit)
 - Other application notes:
 	- These guys have a lot of supplementary writing prompts which is going to be annoying
 	- [[GRE]]
 		- Please note that the MCB Program ***does not*** require GRE scores. However you are welcome to discuss your GRE scores in the application if you think it’s appropriate.
 		- I guess that means don't send? Maybe in one of their many writing prompts I can put it in?
+	- #fee 90 I think
 -

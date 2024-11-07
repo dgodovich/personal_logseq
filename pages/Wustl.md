@@ -26,3 +26,4 @@
 		- Not required, not listed as optional so maybe they just don't take it
 	- Recruitment onsite visit Feb 20 -22
 	- virtual interview some time in january
+	- #fee $45
