@@ -30,7 +30,7 @@
 - Writing Prompts:
 	-
 - Other application notes:
--
+	- #fee 135
 -
 - Program Information:
 	- [website](https://mcb.berkeley.edu/grad/prospective-students/admissions-and-recruitment)
