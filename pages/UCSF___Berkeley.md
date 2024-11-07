@@ -26,10 +26,17 @@
 	- Grace O'Connell
 	- Deepak Srivastava
 	- Valerie Weaver
+	- berkeley mcb Faculty:
+		- Richard Harland
+		- https://mcb.berkeley.edu/faculty/cdp/nabhana
+		- https://mcb.berkeley.edu/faculty/CDB/hariharani.html
+		- [interesting not wound healing lab](https://fletchlab.berkeley.edu/research/)
+		- [Neural crest research](https://mcb.berkeley.edu/faculty/ggd/martikm)
 	-
 - Writing Prompts:
 	- Statement of Purpose
-		- Please describe your aptitude and motivation for graduate study in your area of specialization, including your preparation for this field of study, your academic plans or research interests, and your future career goals. Please be specific about why UC Berkeley would be a good intellectual fit for you.
+		- Please describe your aptitude and motivation for graduate study in your area of specialization, including your preparation for this field of study, your academic plans or research interests, and your future career goals. Please be specific about why UC Berkeley/UCSF would be a good intellectual fit for you. Brevity is appreciated – no more than two pages.
+		- [Graduate writing guide](https://grad.berkeley.edu/admissions/steps-to-apply/requirements/statement-purpose/)
 	- Personal History Statement
 		- Please describe how your personal background and experiences influenced your decision to pursue a graduate degree. In this section, you may also include any relevant information on the following:
 			- How you have overcome barriers to access higher education
@@ -38,20 +45,9 @@
 			- Your research focusing on underserved populations or related issues of inequality
 			- Your leadership among such groups
 			- *The Personal History Statement should not duplicate the Statement of Purpose.*
+		- [Graduate writing guide](https://grad.berkeley.edu/admissions/steps-to-apply/requirements/personal-statement/)
 - Other application notes:
 	- #fee 135
--
-- Program Information:
-	- [website](https://mcb.berkeley.edu/grad/prospective-students/admissions-and-recruitment)
-	-
-- Faculty:
-	- Richard Harland
-	- https://mcb.berkeley.edu/faculty/cdp/nabhana
-	- https://mcb.berkeley.edu/faculty/CDB/hariharani.html
-	- [interesting not wound healing lab](https://fletchlab.berkeley.edu/research/)
-	- [Neural crest research](https://mcb.berkeley.edu/faculty/ggd/martikm)
-- Writing Prompts:
-	-
-- Other application notes:
+	- Interviews and visits will be Wed–Fri, February 19-21, 2025, and Wed–Fri, February 26-28, 2025
 	- [[GRE]]
-		- No
+		- institution code for Berkeley is 4833 and the Department code is 1603

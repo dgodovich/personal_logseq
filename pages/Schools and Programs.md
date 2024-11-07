@@ -91,3 +91,9 @@
 	- I should make a spreadsheet
 	- How the hell do I actually narrow down to programs I want to apply to??
 -
+-
+- {{query }}
+  query-table:: true
+  query-sort-by:: block
+  query-sort-desc:: false
+-
