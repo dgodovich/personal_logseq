@@ -16,6 +16,7 @@
 	- [BioE Tissue engineering faculty](https://bioegrad.berkeley.edu/faculty/faculty-by-research-area?tx_subject_area=tissue)
 	- Tammy Chang
 	- Zev Gartner
+		- This guy is from the gut dewetting interview and talk I went to, very cool (that was his postdoc)
 	- Xiaohua Gong
 	- Kevin Healy
 	- Amy E. Herr
