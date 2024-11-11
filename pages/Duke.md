@@ -9,6 +9,7 @@
 - Faculty:
 	- [check out these faculty members in the duke regeneration center](https://sites.duke.edu/dukeregenerationcenter/affiliated-faculty/)
 		- none of them have primary appointments in dev bio which is interesting
+		- But a lot of them are in the dev bio department?? whatever
 	- scraped csv of faculty members available at web_scraping
 	- Varghese
 	-
