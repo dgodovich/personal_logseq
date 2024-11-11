@@ -9,7 +9,7 @@
 - Faculty:
 	- [check out these faculty members in the duke regeneration center](https://sites.duke.edu/dukeregenerationcenter/affiliated-faculty/)
 		- none of them have primary appointments in dev bio which is interesting
-		- But a lot of them are in the dev bio department?? whatever
+			- Oh it's because no one has a primary appointment in dev bio lmao
 	- scraped csv of faculty members available at web_scraping
 	- Varghese is not in the regeneration center but also looks cool
 	- was about to write Poss but he's moving his lab to UW (wisconsin)
