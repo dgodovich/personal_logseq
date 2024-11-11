@@ -7,7 +7,8 @@
 	- Dev bio is not degree granting, you get it from one of the other departments
 		- But I will be applying directly to it
 - Faculty:
-	- [check out these faculty members](https://sites.duke.edu/dukeregenerationcenter/affiliated-faculty/)
+	- [check out these faculty members in the duke regeneration center](https://sites.duke.edu/dukeregenerationcenter/affiliated-faculty/)
+		- none of them have primary appointments in dev bio which is interesting
 	- scraped csv of faculty members available at web_scraping
 	- Varghese
 	-
