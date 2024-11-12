@@ -49,6 +49,9 @@
 		- [Graduate writing guide](https://grad.berkeley.edu/admissions/steps-to-apply/requirements/personal-statement/)
 - Other application notes:
 	- #fee 135
-	- Interviews and visits will be Wed–Fri, February 19-21, 2025, and Wed–Fri, February 26-28, 2025
+	- notified of status by the end of January
+	- [[Interviews]]
+		- Wed–Fri, February 19-21, 2025, and Wed–Fri, February 26-28, 2025
+		- Visit at the same time (i.e. in person)
 	- [[GRE]]
 		- institution code for Berkeley is 4833 and the Department code is 1603

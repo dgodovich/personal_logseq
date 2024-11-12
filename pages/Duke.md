@@ -32,7 +32,8 @@
 	- [Departmental guidance on applications](https://medschool.duke.edu/education/biomedical-phd-programs/developmental-stem-cell-biology-program/prospective-dscb-students)
 	- GRE
 		- not required but can submit
-	- Virtual Interview
+	- [[Interviews]]
+		- Virtual
 	- Admissions decisions sent out by end of February
 	- Admitted Student visits are March 6 - 8
 	- #fee $95
