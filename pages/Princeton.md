@@ -24,7 +24,9 @@
 		- Princeton is strongly committed to welcoming students with diverse experiences. Describe a personal experience that influenced your decision to pursue graduate study. Explain how the lessons from this experience would enrich Princeton’s residential scholarly community.
 		- The essay must be written in English and should not exceed 250 words. No specific formatting is required.
 - Other application notes:
-	- Interview weekends are in January or February
+	- [[Interviews]]
+		- weekends are in January or February
+		- probably in-person
 	- All decisions by March 15
 	- GRE optional
 	- #fee $75

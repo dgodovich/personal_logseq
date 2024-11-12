@@ -80,4 +80,6 @@
 		- Please note that the MCB Program ***does not*** require GRE scores. However you are welcome to discuss your GRE scores in the application if you think it’s appropriate.
 		- I guess that means don't send? Maybe in one of their many writing prompts I can put it in?
 	- #fee 90 I think
+	- [[Interviews]]
+		- interview in person in January and February
 -

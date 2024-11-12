@@ -24,6 +24,8 @@
 - Other application notes:
 	- [[GRE]]
 		- Not required, not listed as optional so maybe they just don't take it
-	- Recruitment onsite visit Feb 20 -22
-	- virtual interview some time in january
+	- #visit Recruitment onsite visit Feb 20 -22
+	- [[Interviews]]
+		- virtual
+		- some time in january
 	- #fee $45

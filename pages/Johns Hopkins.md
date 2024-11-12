@@ -21,3 +21,7 @@
 		- BME and BCMD program is in school of medicine
 		- BME has no fixed curriculum
 	- #fee $115
+	- [[Interviews]]
+		- virtual (phone, zoom, etc)
+		- Invitations and interviews both happen in January
+		- Selected applicants will be invited for in-person campus visit in late Feb or early march

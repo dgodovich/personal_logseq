@@ -1,0 +1,20 @@
+- UCSF/Berkeley
+	-
+- Stanford
+	- in person and super late, March 6 - 8
+- Harvard
+	- Unclear
+- UT Southwestern
+	- anytime jan - march??
+	- probably in person
+- Princeton
+	- in jan or feb
+	- unclear if in person
+- UW
+	- in person in jan or feb
+- WashU
+	- virtual
+- Duke
+	- virtual
+- JHU
+	- virtual in january

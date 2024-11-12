@@ -41,3 +41,9 @@
 	- [[GRE]]
 		- not required, not clear if they take it or not
 	- #fee 0
+	- [[Interviews]]
+		- in-person I think
+		- **January–March:**
+		- Interviews and offers made
+		- Admitted student visits
+	- rolling interviews offers???? What the hell that's crazy
