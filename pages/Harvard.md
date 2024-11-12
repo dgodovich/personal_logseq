@@ -20,6 +20,7 @@
 			- Axolotl regeneration lab that looked cool
 			- Mildly concerning that there are very few students who graduated? But there are some there now
 			- One of the students here did her undergrad at Berkeley and worked with Richard Harland there
+	-
 - Writing Prompts:
 	- Molecules, Cells, and Organisms Supplements
 		- Your Research: Past Experience and Future Interest
