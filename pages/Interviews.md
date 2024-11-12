@@ -1,19 +1,21 @@
 - UCSF/Berkeley
-	-
+	- in person
+	- Wed–Fri, February 19-21 or February 26-28
 - Stanford
 	- in person and super late, March 6 - 8
-- Harvard
-	- Unclear
+- UW
+	- in person in jan or feb
 - UT Southwestern
 	- anytime jan - march??
 	- probably in person
 - Princeton
 	- in jan or feb
 	- unclear if in person
-- UW
-	- in person in jan or feb
+- Harvard
+	- Unclear
 - WashU
 	- virtual
+	- all the other programs have early january dates so probably then
 - Duke
 	- virtual
 - JHU

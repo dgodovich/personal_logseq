@@ -27,5 +27,5 @@
 	- #visit Recruitment onsite visit Feb 20 -22
 	- [[Interviews]]
 		- virtual
-		- some time in january
+		- some time in january, probably early
 	- #fee $45
