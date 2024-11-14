@@ -41,7 +41,7 @@
 		- not required, not clear if they take it or not
 	- #fee 0
 	- [[Interviews]]
-		- in-person I think
+		- virtual
 		- **January–March:**
 		- Interviews and offers made
 		- Admitted student visits

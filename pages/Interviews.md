@@ -5,14 +5,14 @@
 	- in person and super late, March 6 - 8
 - UW
 	- in person in jan or feb
-- UT Southwestern
-	- anytime jan - march??
-	- probably in person
 - Princeton
 	- in jan or feb
 	- unclear if in person
 - Harvard
 	- Unclear
+- UT Southwestern
+	- anytime jan - march??
+	- virtual
 - WashU
 	- virtual
 	- all the other programs have early january dates so probably then
