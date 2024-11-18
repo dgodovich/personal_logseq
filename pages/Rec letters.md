@@ -6,8 +6,8 @@
 	- Undergraduate Research Advisor
 -
 - Adela Selimaj
-	- Quality Control Manager
 	- Cresilon, Inc.
+	- Quality Control Manager
+	- Internship Supervisor
 	- ​347-435-2226, ext. 154
 	- aselimaj@cresilon.com
-	- Internship Supervisor
