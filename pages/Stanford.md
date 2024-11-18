@@ -4,6 +4,7 @@
 	- Need to select 8 faculty, up to 12 slots
 	- [Biosciences faculty](https://biosciences.stanford.edu/program-overview/biosciences-faculty-database/)
 		- This is for all departments not just stem cell and regen
+	- [Lucy OBrian](https://www.stemdynamics.org/research)
 	- Guosong Hong did the see through mouse skin with dye paper
 		- he's in material science in the engineering department but still cool
 - Writing Prompts:
