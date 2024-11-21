@@ -12,7 +12,7 @@
 	- Duke
 	- UCSF/Berkeley
 	- Harvard
-	- Princeton
+	- Princeton (250 words)
 	- Johns Hopkins
 	- UT Southwestern
 	- Wustl DBBS Essay 2
