@@ -11,9 +11,13 @@
 		- epidermal wound healing
 	- [Philip Beachy](https://pbeachy.stanford.edu/)
 		- hedgehog
-	- [Lay Teng Ang](https://anglab.stanford.edu/research)
+	- [Lay Teng Ang](https://anglab.stanford.edu/research) and Kyle Loh? Colab lab?
 		- pretty straightforward stem cell stuff - not top choice
-	-
+	- [Tushar Desai](https://desailab.stanford.edu/)
+		- lung
+	- [Stefan Heller](https://hellerlab-stanford.net/)
+		- ear regeneration
+		- except the seem more interested in drugs / pharmacology
 	- Guosong Hong did the see through mouse skin with dye paper
 		- he's in material science in the engineering department but still cool
 - [[Writing Prompts]]
