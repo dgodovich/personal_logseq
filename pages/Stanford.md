@@ -5,7 +5,14 @@
 	- [Biosciences faculty](https://biosciences.stanford.edu/program-overview/biosciences-faculty-database/)
 		- This is for all departments not just stem cell and regen
 	- [Lucy O'Brian](https://www.stemdynamics.org/research)
+		- fly gut organization
 	- [Anthony Oro](https://med.stanford.edu/orolab.html)
+	- [Michael Longaker](https://www.longakerlab.com/profiles)
+		- epidermal wound healing
+	- [Philip Beachy](https://pbeachy.stanford.edu/)
+		- hedgehog
+	- [Lay Teng Ang](https://anglab.stanford.edu/research)
+		- pretty straightforward stem cell stuff - not top choice
 	-
 	- Guosong Hong did the see through mouse skin with dye paper
 		- he's in material science in the engineering department but still cool
