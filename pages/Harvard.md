@@ -46,4 +46,6 @@
 	- #fee $105
 	- [[Interviews]]
 		- Unclear
+	- [[Deadline]]
+		- Dec 01, 2024 | 05:00 pm
 -
