@@ -27,3 +27,5 @@
 	- [[Interviews]]
 		- week of January 20, 2025 start to reach out for interviews, hear by mid Feb
 		- Wednesday, March 5 - Saturday, March 8, 2025
+	- [[Deadline]]
+		- 12/03/2024 11:59 p.m. Pacific Time

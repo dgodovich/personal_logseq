@@ -38,4 +38,4 @@
 	- Admitted Student visits are March 6 - 8
 	- #fee $95
 	- [[Deadline]]
-		-
+		- 12/02/2024 11:59pm

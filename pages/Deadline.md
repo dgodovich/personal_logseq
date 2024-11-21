@@ -1,0 +1,12 @@
+- 12/1
+	- Harvard
+	- UT Southwestern
+	- UCSF/Berkeley
+	- Priceton
+	- WashU
+- 12/2
+	- Duke
+	- UW
+- 12/3
+	- Stanford
+	- Johns Hopkins

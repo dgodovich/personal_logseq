@@ -29,3 +29,6 @@
 		- virtual
 		- some time in january, probably early
 	- #fee $45
+	- [[Deadline]]
+		- December 1, at 11:59PM EST.
+-

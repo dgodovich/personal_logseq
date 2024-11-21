@@ -82,4 +82,6 @@
 	- #fee 90 I think
 	- [[Interviews]]
 		- interview in person in January and February
+	- [[Deadline]]
+		- 12/02/2024 11:59 Pacific Time (12/02)
 -

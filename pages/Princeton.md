@@ -28,5 +28,9 @@
 		- weekends are in January or February
 		- probably in-person
 	- All decisions by March 15
-	- GRE optional
+	- [[GRE]]
+		- optional
 	- #fee $75
+	- [[Deadline]]
+		- December 1, 2024, 11:59 p.m. EST
+	-
