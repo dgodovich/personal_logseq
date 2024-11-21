@@ -17,7 +17,7 @@
 		- Very interesting, I don't know anything about this
 	- [Celeste Nelson](https://cbe.princeton.edu/people/celeste-nelson)
 		- cell cooperation and signal integration
-- Writing Prompts:
+- [[Writing Prompts]]
 	- Academic Statement of Purpose
 		- Please explain why you are applying to a graduate program at Princeton. Outline your goals for graduate study, discuss your current academic and future career plans specifically related to the program. Include any relevant academic and professional experiences that have influenced your decision to apply for graduate admission. The statement should not exceed 1,000 words
 	- Personal Statement

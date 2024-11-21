@@ -34,7 +34,7 @@
 		- [interesting not wound healing lab](https://fletchlab.berkeley.edu/research/)
 		- [Neural crest research](https://mcb.berkeley.edu/faculty/ggd/martikm)
 	-
-- Writing Prompts:
+- [[Writing Prompts]]
 	- Statement of Purpose
 		- Please describe your aptitude and motivation for graduate study in your area of specialization, including your preparation for this field of study, your academic plans or research interests, and your future career goals. Please be specific about why UC Berkeley/UCSF would be a good intellectual fit for you. Brevity is appreciated – no more than two pages.
 		- [Graduate writing guide](https://grad.berkeley.edu/admissions/steps-to-apply/requirements/statement-purpose/)

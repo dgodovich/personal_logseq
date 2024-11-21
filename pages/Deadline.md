@@ -2,7 +2,7 @@
 	- Harvard
 	- UT Southwestern
 	- UCSF/Berkeley
-	- Priceton
+	- Princeton
 	- WashU
 - 12/2
 	- Duke

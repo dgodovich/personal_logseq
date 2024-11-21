@@ -1,0 +1,19 @@
+- Personal Statement
+	- Duke
+	- UCSF/Berkeley
+	- Princeton (1000 words)
+	- Harvard (1000 words)
+	- Hopkins (one page - maybe also research focus)
+- Research Statement
+	- UT Southwestern
+	- Wustl DBBS Essay 1
+	- Stanford?
+- Life Experiences Statement
+	- Duke
+	- UCSF/Berkeley
+	- Harvard
+	- Princeton
+	- Johns Hopkins
+	- UT Southwestern
+	- Wustl DBBS Essay 2
+	- Stanford

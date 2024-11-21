@@ -14,7 +14,7 @@
 	- Varghese is not in the regeneration center but also looks cool
 	- was about to write Poss but he's moving his lab to UW (wisconsin)
 	-
-- Writing Prompts:
+- [[Writing Prompts]]
 	- Write a statement (1-2 pages, single-spaced, in a 12-point font) indicating your purposes and objectives in undertaking graduate study, your special interests and plans, and your strengths and weaknesses in your chosen field. Briefly describe any research projects or any independent research in which you have actively participated and indicate how this has influenced your career interest and desire to pursue graduate studies. If COVID-19 has affected your previous academic
 	   or research progress or experience, you may include that information here.
 		- **Statement of Purpose Guidelines**

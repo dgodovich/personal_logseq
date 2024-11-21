@@ -28,7 +28,7 @@
 		- [Hao Zhu](https://profiles.utsouthwestern.edu/profile/134601/hao-zhu.html)
 		- [Robert Tower](https://profiles.utsouthwestern.edu/profile/206568/robert-tower.html)
 	- John Wallingford
-- Writing Prompts:
+- [[Writing Prompts]]
 	- Research Statement
 		- Your essay is a chance for us to get to know you as a scientist and potential student in our programs. **In two pages or less,** please:
 			- 1. State your reasons for pursuing a Ph.D. in your chosen field.

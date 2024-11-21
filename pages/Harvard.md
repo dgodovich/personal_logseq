@@ -21,7 +21,7 @@
 			- Mildly concerning that there are very few students who graduated? But there are some there now
 			- One of the students here did her undergrad at Berkeley and worked with Richard Harland there
 	-
-- Writing Prompts:
+- [[Writing Prompts]]
 	- Molecules, Cells, and Organisms Supplements
 		- Your Research: Past Experience and Future Interest
 		- What do you consider your most significant scientific discovery?

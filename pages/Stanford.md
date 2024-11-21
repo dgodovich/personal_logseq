@@ -7,7 +7,7 @@
 	- [Lucy O'Brian](https://www.stemdynamics.org/research)
 	- Guosong Hong did the see through mouse skin with dye paper
 		- he's in material science in the engineering department but still cool
-- Writing Prompts:
+- [[Writing Prompts]]
 	- Statement of Purpose
 		- Because each Home Program requires significant original research activities in fulfillment of the requirements for the PhD degree, the admissions committees are interested in obtaining as much information as possible about your previous research experiences. Those who already have such experience are in a better position to know whether they are truly interested in performing laboratory research as part of a graduate program. Please include specific information about your research experience in your Statement of Purpose. You may also use the Statement to amplify your comments about your choice of Home Program(s), and how your past experiences and current interests are related to your choice.
 		- The Statement of Purpose should not exceed **two pages in length, single-spaced, and font size 12**. Make sure to set your computer to Western European or other English-language settings. We cannot guarantee the ability to access your statement if it is submitted in other fonts.
