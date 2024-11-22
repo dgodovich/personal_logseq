@@ -14,10 +14,16 @@
 	- [Lay Teng Ang](https://anglab.stanford.edu/research) and Kyle Loh? Colab lab?
 		- pretty straightforward stem cell stuff - not top choice
 	- [Tushar Desai](https://desailab.stanford.edu/)
-		- lung
+		- lung, particularly wnt signaling
+	- [Roeland Nusse](https://web.stanford.edu/group/nusselab/cgi-bin/lab/)
+		- also looking at wnt signaling
 	- [Stefan Heller](https://hellerlab-stanford.net/)
 		- ear regeneration
 		- except the seem more interested in drugs / pharmacology
+	- [Joanna Wysocka](https://wysocka.stanford.edu/)
+		- neural crest
+		- not regeneration, but it is cell organization
+		-
 	- Guosong Hong did the see through mouse skin with dye paper
 		- he's in material science in the engineering department but still cool
 - [[Writing Prompts]]
