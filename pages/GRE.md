@@ -10,7 +10,6 @@
 -
 - Optional:
 	- Princeton
-	- Duke
 	- UCSF/Berkeley
 	- UW
 	- Wustl
@@ -19,6 +18,7 @@
 	- Harvard
 	- Stanford
 - Already has it:
+	- Duke
 	- Johns Hopkins
 		- it automatically associated with my application which is nice
 		- That didn't happen with Duke so maybe they don't have it
