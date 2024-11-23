@@ -34,6 +34,10 @@
 					- So really do bring in my qualifications and experience as an educator. That's through TAing, tutoring, connect in place, edumate. Even when things were hard, my response was to help others and elevate them - especially if they were coming from underserved populations that were even more at risk (not so sure about including that last part, it sounds kind of forced)
 		- Idea: overarching theme here is complexity?
 			- I think  I also have to tell the story of how I came to be interested in what I am in interested in.
+				- I came to college with some interest in BME / tissue engineering / regeneration but I didn't really understand it
+				- Exposure in Dr. Jin's lab to tissue engineering for the purpose of generating functional islet cells as a treatment for diabetes - kind of like doing exogenous regeneration? Cell therapies are maybe like that in a way
+				- Kat's lab I really expand what I'm doing and my interest slightly shifts towards dev bio rather than tissue engineering. I'm now more interested in how cells form tissues and applying that understanding to regeneration rather than going the other way around
+				- I mean this is pretty similar to what Sheina has been saying I have to do the whole time, it's just focusing in on the specifics for research and cutting wyssmont, maimonides, and cresilon out. I think those can get included in the life experiences statement?
 			- statement of purpose takeaway is
 				- I want to understand complex systems and my system of choice is regeneration
 				- I understand that science is in of itself a complex system, here is my engagement with that and my current understanding
