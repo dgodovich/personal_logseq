@@ -1,4 +1,4 @@
-- Personal Statement
+- Statement of Purpose
 	- Duke
 	- UCSF/Berkeley
 	- Princeton (1000 words)
@@ -17,3 +17,5 @@
 	- UT Southwestern
 	- Wustl DBBS Essay 2
 	- Stanford
+-
+- Thinking about this more, I am completely changing the format of my statement. I think the Statement of purpose and the research statements are actually the same essay. Maybe there can be some small changes in the structure, but I do think that I can submit pretty much the same exact essay for all of these schools. It's the same thing for the personal  / life exper
