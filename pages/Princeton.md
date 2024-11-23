@@ -19,7 +19,7 @@
 		- cell cooperation and signal integration
 - [[Writing Prompts]]
 	- Academic Statement of Purpose
-		- Please explain why you are applying to a graduate program at Princeton. Outline your goals for graduate study, discuss your current academic and future career plans specifically related to the program. Include any relevant academic and professional experiences that have influenced your decision to apply for graduate admission. The statement should not exceed 1,000 words
+		- Please explain why you are applying to a graduate program at Princeton. Outline your goals for graduate study, discuss your current academic and future career plans specifically related to the program. Include any relevant academic and professional experiences that have influenced your decision to apply for graduate admission. HThe statement should not exceed 1,000 words
 	- Personal Statement
 		- Princeton is strongly committed to welcoming students with diverse experiences. Describe a personal experience that influenced your decision to pursue graduate study. Explain how the lessons from this experience would enrich Princeton’s residential scholarly community.
 		- The essay must be written in English and should not exceed 250 words. No specific formatting is required.
