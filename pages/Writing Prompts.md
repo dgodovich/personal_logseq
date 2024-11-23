@@ -33,6 +33,7 @@
 				- I think I should bring in teaching here - do not shy away from my stated career goal of being a professor. I like teaching and I like research. The way to combine those things is in a professorship.
 					- So really do bring in my qualifications and experience as an educator. That's through TAing, tutoring, connect in place, edumate. Even when things were hard, my response was to help others and elevate them - especially if they were coming from underserved populations that were even more at risk (not so sure about including that last part, it sounds kind of forced)
 		- Idea: overarching theme here is complexity?
+			- I think  I also have to tell the story of how I came to be interested in what I am in interested in.
 			- statement of purpose takeaway is
 				- I want to understand complex systems and my system of choice is regeneration
 				- I understand that science is in of itself a complex system, here is my engagement with that and my current understanding
