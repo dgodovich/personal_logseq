@@ -18,4 +18,31 @@
 	- Wustl DBBS Essay 2
 	- Stanford
 -
-- Thinking about this more, I am completely changing the format of my statement. I think the Statement of purpose and the research statements are actually the same essay. Maybe there can be some small changes in the structure, but I do think that I can submit pretty much the same exact essay for all of these schools. It's the same thing for the personal  / life exper
+- Thinking about this more, I am completely changing the format of my statement. I think the Statement of purpose and the research statements are actually the same essay. Maybe there can be some small changes in the structure, but I do think that I can submit pretty much the same exact essay for all of these schools. It's the same thing for the personal  / life experiences statement - they're really all asking for the same thing just in very slightly different ways.
+	- Statement of Purpose
+		- Competence
+			- What research have I done
+			- What did I do in that research? What was the question? Results? Interpretation?
+		- Commitment
+			- What challenges have I faced while doing research?
+			- Do I understand the difficulties of doing science?
+		- What am I going to write
+			- Why do I want to pursue a PhD?
+				- Science is exciting. What science have I done?
+			- Need to talk about career goals
+				- I think I should bring in teaching here - do not shy away from my stated career goal of being a professor. I like teaching and I like research. The way to combine those things is in a professorship.
+					- So really do bring in my qualifications and experience as an educator. That's through TAing, tutoring, connect in place, edumate. Even when things were hard, my response was to help others and elevate them - especially if they were coming from underserved populations that were even more at risk (not so sure about including that last part, it sounds kind of forced)
+	- Life Experiences Statement
+		- How did I get here?
+		- I think here is where I do the born into a family of engineers, have always sought to combine engineering and biology yada yada
+			- The story arc that was laid out in the earlier draft of my personal statement goes here
+				- Start with BME at Bing -> wyssmont to try pure engineering
+				- Lab for more bio experience
+				- Cresilon for industry bio experience
+				- MSK for really combining both
+					- Maybe I can mention the cytoo chamber project? That was fun and also a real application of two disparate skillsets
+			- One thought here is that this statement is a lot shorter for all the programs (1 page, 500 words), so I don't have all that much space
+				- My points need to be very condensed
+				- Would be nice to have space for more of a specific story about resilience or some other buzzword personal traits
+					- Fencing integrity failure?
+					- Bulk rnaseq late night?
