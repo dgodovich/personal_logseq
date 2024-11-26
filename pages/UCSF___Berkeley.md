@@ -15,7 +15,7 @@
 	- scraped csv of faculty members for UCSF dev bio, not super relevant anymore
 	- [BioE Tissue engineering faculty](https://bioegrad.berkeley.edu/faculty/faculty-by-research-area?tx_subject_area=tissue)
 	- Tammy Chang
-	- Zev Gartner
+	- *Zev Gartner*
 		- This guy is from the gut dewetting interview and talk I went to, very cool (that was his postdoc)
 	- Xiaohua Gong
 	- Kevin Healy
@@ -26,7 +26,7 @@
 	- Seung-Wuk Lee
 	- Grace O'Connell
 	- Deepak Srivastava
-	- Valerie Weaver
+	- *Valerie Weaver*
 	- berkeley mcb Faculty:
 		- Richard Harland
 		- https://mcb.berkeley.edu/faculty/cdp/nabhana
