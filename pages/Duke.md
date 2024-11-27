@@ -15,7 +15,17 @@
 	- was about to write Poss but he's moving his lab to UW (wisconsin)
 		- this also means probably no Stefano because his work in regeneration was with Poss
 		- Woon's friend said something about Dave sherwood also leaving to wisconsin? But I don't see that anywhere
-	- Nenad Bursac, PhD
+	- [Nenad Bursac](https://bursaclab.pratt.duke.edu/)
+		- cardiac and skeletal muscle regeneration
+	- [Akankshi Munjal](https://www.munjallab.com/)
+		- morphogenesis in the zebrafish ear
+	- [Dave Sherwood](https://sites.duke.edu/sherwoodlab/)
+		- ECM and tissue remodeling
+	- [Shyni Varghese](https://varghese.pratt.duke.edu/)
+		- scaffolds and tissue engineering
+	- [Donald Fox](https://www.foxlabduke.com/)
+		- codon bias and hypertrophy in regeneration
+	-
 	-
 - [[Writing Prompts]]
 	- Write a statement (1-2 pages, single-spaced, in a 12-point font) indicating your purposes and objectives in undertaking graduate study, your special interests and plans, and your strengths and weaknesses in your chosen field. Briefly describe any research projects or any independent research in which you have actively participated and indicate how this has influenced your career interest and desire to pursue graduate studies. If COVID-19 has affected your previous academic
