@@ -25,7 +25,7 @@
 		- scaffolds and tissue engineering
 	- [Donald Fox](https://www.foxlabduke.com/)
 		- codon bias and hypertrophy in regeneration
-	- [Stefano Di Talia]? not sure
+	- [Stefano Di Talia](https://sites.duke.edu/ditalialab/)? not sure
 	-
 	-
 - [[Writing Prompts]]
