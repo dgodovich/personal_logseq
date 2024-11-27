@@ -19,6 +19,7 @@
 		- cardiac and skeletal muscle regeneration
 	- [Akankshi Munjal](https://www.munjallab.com/)
 		- morphogenesis in the zebrafish ear
+		- young PI! lab is only a few years old
 	- [Dave Sherwood](https://sites.duke.edu/sherwoodlab/)
 		- ECM and tissue remodeling
 	- [Shyni Varghese](https://varghese.pratt.duke.edu/)
