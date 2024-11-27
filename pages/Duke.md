@@ -13,6 +13,8 @@
 	- scraped csv of faculty members available at web_scraping
 	- Varghese is not in the regeneration center but also looks cool
 	- was about to write Poss but he's moving his lab to UW (wisconsin)
+		- this also means probably no Stefano because his work in regeneration was with Poss
+		- Woon's friend said something about Dave sherwood also leaving to wisconsin? But I don't see that anywhere
 	- Nenad Bursac, PhD
 	-
 - [[Writing Prompts]]
