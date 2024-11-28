@@ -36,6 +36,7 @@
 		- Stanford University welcomes graduate applications from individuals with a broad range of experiences, interests, and backgrounds who would contribute to our community of scholars. We invite you to share the lived experiences, demonstrated values, perspectives, and/or activities that shape you as a scholar and would help you to make a distinctive contribution to Stanford University. Your statement should not exceed 500 words in length.
 	- *[Bioscience Supplement] "Describe an Interesting Biological or Biomedical Problem"*
 		- Please use this space on the application to tell us about an interesting scientific problem which you could see yourself pursuing during graduate school. Put another way, tell us about your “dream biological or biomedical PhD project”! If you have too many, you are welcome to state that and pick one that you are most excited about.
+		- This actually is fairly similar to the harvard supplement? Maybe can use the same writing, at least as a starting point
 	- Foundations of Graduate Study
 		- Responses to the following questions are **only expected** for those applying to **Biomedical Data Science** and/or the **Immunology Computational and Systems Track**, but others may respond as well.
 		- For each of the following areas, please describe your experience, as acquired through coursework, research, or other projects, or your plans for obtaining or expanding such experience, ideally before starting your PhD.

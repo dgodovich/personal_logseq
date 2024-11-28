@@ -1,3 +1,10 @@
+- | Jul 31 2021 |  |
+  | 170  | Verbal  |
+  | 99 | Verbal percentile |
+  | 165  | Quant |
+  | 70 | Quant percentile |
+  | 5.0  | Writing |
+  | 92 | Writing percentile |
 - Most every school is optional on the GRE, I don't think any I'm applying to require it
 - $35 per sending score, so I'm not sure that it's worth it if it's optional for everything?
 - Duke and Johns Hopkins already have it
