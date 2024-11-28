@@ -9,7 +9,7 @@
 	- [[Harvard]] Boston
 		- Stem Cell and Regenerative Biology department, but PhD program MCB
 		- [Application website](https://apply.gsas.harvard.edu/portal/apply_now)
-		- additional essay for MCB
+		- additional essay(s) (2x 500 words) for MCB
 	- [[Princeton]] Princeton (NYC)
 		- Molecular Biology with interest in Cell Biology, Development and Cancer track
 		- [Application Website](https://graduate-apply.princeton.edu/apply/)

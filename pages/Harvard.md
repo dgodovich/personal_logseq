@@ -16,6 +16,10 @@
 	- Harvard has too many things
 		- [Stem cell institute](https://hsci.harvard.edu/home)
 		- [Developmental and Regenerative Biology Department](https://drb.hms.harvard.edu/)
+		- [Department of Stem Cell and Regenerative Biology](https://hscrb.harvard.edu/)
+			- what is the difference?? HSCRB vs DRB
+			- seems like DRB is the school of HSCRB but is not one that you apply to, confusion
+			-
 		-
 - Faculty:
 	- Application only asks for two faculty members
@@ -26,15 +30,24 @@
 			- One of the students here did her undergrad at Berkeley and worked with Richard Harland there
 		- [Marissa Gredler](https://www.mcb.harvard.edu/directory/marissa-gredler/?referral=mco-profiles)
 			- She was a postdoc in the zallen lab lmao, brand new lab. Don't list on application but could be cool to talk to
-		-
+		- [Paola Arlotta](https://hscrb.harvard.edu/labs/arlotta-lab/)
+			- nervous regeneration? Not my top choice probably
+		- [Kara McKinley](https://www.mckinleylab.org/)
+			- uterus and intestinal lining regeneration
+		- [Mansi Srivastava](http://www.srivastavalab.org/)
+			- regeneration and development in worms (not c elegans)
+		- [Amy Wagers](https://hscrb.harvard.edu/labs/wagers-lab/)
+			- blood and stem cells
+		- [Ya-Chieh Hsu](https://hsulaboratory.org/)
+			- skin wound healing
 	-
 - [[Writing Prompts]]
 	- Molecules, Cells, and Organisms Supplements
 		- Your Research: Past Experience and Future Interest
-		- What do you consider your most significant scientific discovery?
-			- Cite an example in which you personally had a substantial impact.
-			- If you have not yet had a significant research experience, describe a scientific discovery that in particular motivated you to pursue research.
-			- Using simple language, describe what you or others did, why, and what it means.
+			- What do you consider your most significant scientific discovery?
+				- Cite an example in which you personally had a substantial impact.
+				- If you have not yet had a significant research experience, describe a scientific discovery that in particular motivated you to pursue research.
+				- Using simple language, describe what you or others did, why, and what it means.
 		- Describe where your main future interest lies within one of the following research areas:
 			- Molecular Mechanism
 			- Cell and Developmental Biology
