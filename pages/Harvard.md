@@ -20,6 +20,9 @@
 			- Axolotl regeneration lab that looked cool
 			- Mildly concerning that there are very few students who graduated? But there are some there now
 			- One of the students here did her undergrad at Berkeley and worked with Richard Harland there
+		- [Marissa Gredler](https://www.mcb.harvard.edu/directory/marissa-gredler/?referral=mco-profiles)
+			- She was a postdoc in the zallen lab lmao, brand new lab. Don't list on application but could be cool to talk to
+		-
 	-
 - [[Writing Prompts]]
 	- Molecules, Cells, and Organisms Supplements
