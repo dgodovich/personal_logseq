@@ -7,15 +7,18 @@
 - Faculty:
 	- Stas
 	- [Danelle Devenport](https://molbio.princeton.edu/people/danelle-devenport)
+		- [lab site](https://www.devenportlab.org/)
 		- tissue polarity and epithelial patterning
 	- [Jean Schwarzbauer](https://molbio.princeton.edu/people/jean-e-schwarzbauer)
 		- ECM organization
 	- [Jared Toettcher](https://molbio.princeton.edu/people/jared-e-toettcher)
 		- Cell signaling processing, specifically RTK
 	- [Daniel Cohen](https://mae.princeton.edu/people/faculty/cohen)
+		- [lab site](https://cohengroup.princeton.edu/)
 		- Engineering artificial cell arrangements
 		- Very interesting, I don't know anything about this
 	- [Celeste Nelson](https://cbe.princeton.edu/people/celeste-nelson)
+		- [lab site](https://cmngroup.princeton.edu/)
 		- cell cooperation and signal integration
 - [[Writing Prompts]]
 	- Academic Statement of Purpose
