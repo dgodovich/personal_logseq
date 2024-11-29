@@ -13,25 +13,25 @@
 		- This is probably the most selective program I'm applying to, it's 10% or less acceptance rate
 - Faculty:
 	- scraped csv of faculty members for UCSF dev bio, not super relevant anymore
+	- *[Zev Gartner](https://gartnerlab.ucsf.edu/)*
+		- This guy is from the gut dewetting interview and talk I went to, very cool (that was his postdoc)
+	- *[Valerie Weaver](https://weaverlab.ucsf.edu/)*
+	- *[Kevin Healy](https://biomaterials.berkeley.edu/)*
 	- [BioE Tissue engineering faculty](https://bioegrad.berkeley.edu/faculty/faculty-by-research-area?tx_subject_area=tissue)
 	- Tammy Chang
-	- [Zev Gartner](https://gartnerlab.ucsf.edu/)
-		- This guy is from the gut dewetting interview and talk I went to, very cool (that was his postdoc)
-	- Xiaohua Gong
-	- Kevin Healy
-	- Amy E. Herr
-	- Chris Hsiung
+	- [Xiaohua Gong](https://bioegrad.berkeley.edu/people/xiaohua-gong)
+	- [Amy E. Herr](https://herrlab.berkeley.edu/)
+	- [Chris Hsiung](https://www.hsiunglab.org/)
 	- Guo Huang
 	- Matthew Kutys
 	- Seung-Wuk Lee
-	- Grace O'Connell
+	- [Grace O'Connell](https://oconnell.berkeley.edu/)
 	- Deepak Srivastava
-	- [Valerie Weaver](https://weaverlab.ucsf.edu/)
+	- [Daniel Fletcher](https://fletchlab.berkeley.edu/research/)
 	- berkeley mcb Faculty:
 		- Richard Harland
 		- https://mcb.berkeley.edu/faculty/cdp/nabhana
 		- https://mcb.berkeley.edu/faculty/CDB/hariharani.html
-		- [Daniel Fletcher](https://fletchlab.berkeley.edu/research/)
 		- [Neural crest research](https://mcb.berkeley.edu/faculty/ggd/martikm)
 	-
 - [[Writing Prompts]]
