@@ -11,12 +11,14 @@
 	- [Stats](https://graduate.ucsf.edu/admission/graduate-program-statistics/phd-program-statistics)
 		- [dev bio specific tables](https://graduate.ucsf.edu/admission/graduate-program-statistics/phd-program-statistics/program-stats-dscb)
 		- This is probably the most selective program I'm applying to, it's 10% or less acceptance rate
+	- [BioE program handbook](https://bioegrad.berkeley.edu/wp-content/uploads/BerkeleyUCSF_BioEHandbook_2022-23_FINAL.pdf)
 - Faculty:
 	- scraped csv of faculty members for UCSF dev bio, not super relevant anymore
 	- *[Zev Gartner](https://gartnerlab.ucsf.edu/)*
 		- This guy is from the gut dewetting interview and talk I went to, very cool (that was his postdoc)
 	- *[Valerie Weaver](https://weaverlab.ucsf.edu/)*
 	- *[Kevin Healy](https://biomaterials.berkeley.edu/)*
+	- [Grace O'Connell](https://oconnell.berkeley.edu/)
 	- [BioE Tissue engineering faculty](https://bioegrad.berkeley.edu/faculty/faculty-by-research-area?tx_subject_area=tissue)
 	- Tammy Chang
 	- [Xiaohua Gong](https://bioegrad.berkeley.edu/people/xiaohua-gong)
@@ -25,7 +27,6 @@
 	- Guo Huang
 	- Matthew Kutys
 	- Seung-Wuk Lee
-	- [Grace O'Connell](https://oconnell.berkeley.edu/)
 	- Deepak Srivastava
 	- [Daniel Fletcher](https://fletchlab.berkeley.edu/research/)
 	- berkeley mcb Faculty:
