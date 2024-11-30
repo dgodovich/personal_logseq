@@ -22,6 +22,8 @@
 		- [Muhammad Rizwan, Ph.D.](https://profiles.utsouthwestern.edu/profile/230758/muhammad-rizwan.html?_ga=2.34651553.1431091962.1666626000-912785567.1663946212)
 	- Cell and Molecular bio
 		- [Siqi Liu , Ph.D.](https://www.siqiliulab.org/)
+			- bruh another Elaine Fuchs postdoc
+			- very new lab - postdoc work was published a bit over a year ago
 	- Dev bio
 		- [Benjamin Levi](https://levilaboratory.com/)
 			- Center for Organogenesis Research and Trauma
