@@ -24,9 +24,12 @@
 		- [Siqi Liu , Ph.D.](https://www.siqiliulab.org/)
 	- Dev bio
 		- [Benjamin Levi](https://levilaboratory.com/)
+			- Center for Organogenesis Research and Trauma
 		- [Hao Zhu](https://cri.utsw.edu/faculty/hao-zhu/)
+			- chair of the childrens medical center Tissue Regeneration Program
 		- [Robert Tower](https://labs.utsouthwestern.edu/tower-lab)
-	- John Wallingford
+			- mostly single cell, lets not do this guy
+	-
 - [[Writing Prompts]]
 	- Research Statement
 		- Your essay is a chance for us to get to know you as a scientist and potential student in our programs. **In two pages or less,** please:
