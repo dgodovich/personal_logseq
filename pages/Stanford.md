@@ -17,6 +17,7 @@
 		- lung, particularly wnt signaling
 	- [Roeland Nusse](https://web.stanford.edu/group/nusselab/cgi-bin/lab/)
 		- also looking at wnt signaling
+		- wait this is the dude looking at wnt signaling
 	- [Stefan Heller](https://hellerlab-stanford.net/)
 		- ear regeneration
 		- except the seem more interested in drugs / pharmacology
