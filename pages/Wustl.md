@@ -12,7 +12,7 @@
 - Faculty:
 	- [Lila Solnica-Krezel](https://lsklab.wustl.edu/research-interests/)
 		- gastrulation and morphogenesis
-	- Tony Tsai
+	- [Tony Tsai](https://sites.wustl.edu/tsailab/)
 		- also gastrulation but a new lab, and I think looking at things from a more biophysical perspective
 	- Theres a lot of people doing regeneration related things
 	- Xiaowei Li
