@@ -15,7 +15,7 @@
 	- virtual
 - WashU
 	- virtual
-	- all the other programs at washu have early january dates so probably then
+	- Jan 9 & 10
 	- They have on-site recruitement feb 20-22
 - Duke
 	- virtual

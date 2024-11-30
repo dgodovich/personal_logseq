@@ -27,7 +27,7 @@
 	- #visit Recruitment onsite visit Feb 20 -22
 	- [[Interviews]]
 		- virtual
-		- some time in january, probably early
+		- Jan 9 & 10
 	- #fee $45
 	- [[Deadline]]
 		- December 1, at 11:59PM EST.
