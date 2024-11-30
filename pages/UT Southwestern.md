@@ -1,6 +1,10 @@
 - Program Information:
 	- [Website](https://www.utsouthwestern.edu/education/graduate-school/application-and-admissions/basic-sciences.html)
 	- grad only, hard to teach
+		- HealthStreet (https://www.utsouthwestern.edu/about-us/community/healthstreet/)
+			- Program for health screenings and education
+			- I’m not a medical professional, but I do know biology! Would be cool to participate
+		- Other community engagement with K-12 students and volunteering to further teaching goals
 	- Notes from talking to Lisa Gardner, one of the assistant deans
 		- in Dallas
 		- Umbrella program
