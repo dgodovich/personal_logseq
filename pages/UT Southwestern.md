@@ -2,7 +2,6 @@
 	- [Website](https://www.utsouthwestern.edu/education/graduate-school/application-and-admissions/basic-sciences.html)
 	- grad only, hard to teach
 	- Notes from talking to Lisa Gardner, one of the assistant deans
-	  collapsed:: true
 		- in Dallas
 		- Umbrella program
 		- Comp bio is in BME application
@@ -22,11 +21,11 @@
 		- [Kareem Azab, Ph.D.](https://profiles.utsouthwestern.edu/profile/212311/abd-el-kareem-azab.html)
 		- [Muhammad Rizwan, Ph.D.](https://profiles.utsouthwestern.edu/profile/230758/muhammad-rizwan.html?_ga=2.34651553.1431091962.1666626000-912785567.1663946212)
 	- Cell and Molecular bio
-		- [Siqi Liu , Ph.D.](https://profiles.utsouthwestern.edu/profile/81814/siqi-liu.html)
+		- [Siqi Liu , Ph.D.](https://www.siqiliulab.org/)
 	- Dev bio
-		- [Benjamin Levi](https://profiles.utsouthwestern.edu/profile/198600/benjamin-levi.html)
-		- [Hao Zhu](https://profiles.utsouthwestern.edu/profile/134601/hao-zhu.html)
-		- [Robert Tower](https://profiles.utsouthwestern.edu/profile/206568/robert-tower.html)
+		- [Benjamin Levi](https://levilaboratory.com/)
+		- [Hao Zhu](https://cri.utsw.edu/faculty/hao-zhu/)
+		- [Robert Tower](https://labs.utsouthwestern.edu/tower-lab)
 	- John Wallingford
 - [[Writing Prompts]]
 	- Research Statement
