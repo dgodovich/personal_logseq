@@ -7,18 +7,19 @@
 		- Would rather not do both even if there's a lot of overlap. Better to actually pick the correct program and save time and money
 - Faculty:
 	- MCB Faculty of interest:
+		- UW
+			- [Andrea Wills](https://sites.uw.edu/willslab2/research/)
+			- **[Kelly Stevens](https://mcb-seattle.edu/faculty_profiles/stevens-kelly/)**
+			- [cecilia giachelli](https://mcb-seattle.edu/faculty_profiles/giachelli-cecilia/)
+		- Fred Hutch
+			-
 		- Need to select 6 from UW and 6 from Fred Hutch
 		- Bioengineering overlaps:
-		  collapsed:: true
-			- [Jennifer Davis](https://mcb-seattle.edu/faculty_profiles/davis-jennifer/)
-			- [cecilia giachelli](https://mcb-seattle.edu/faculty_profiles/giachelli-cecilia/)
-			- [Kelly Stevens](https://mcb-seattle.edu/faculty_profiles/stevens-kelly/)
 			- [Wendy Thomas](https://mcb-seattle.edu/faculty_profiles/thomas-wendy/)
 			- [Rong Tian](https://mcb-seattle.edu/faculty_profiles/tian-rong/)
 			- Valerie Daggett
 			- Hao Yuan Kueh
 		- Genome Sciences overlaps: (bit too many lol)
-		  collapsed:: true
 			- 'Philip Abitua'
 			- 'David Baker'
 			- 'Trevor Bedford'
