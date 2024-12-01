@@ -6,7 +6,9 @@
 		- I think it's better to do MCB - a lot of the genome bio people I am interested in are crosslisted, and the same is true for bioengineering
 		- Would rather not do both even if there's a lot of overlap. Better to actually pick the correct program and save time and money
 	- [Institute for Stem Cell and Regenerative Medicine](https://iscrm.uw.edu/)
-		-
+		- fellowship programs
+		- symposia
+		- community engagement
 - Faculty:
 	- MCB Faculty of interest:
 		- UW
@@ -15,9 +17,11 @@
 			- **[Kelly Stevens](https://mcb-seattle.edu/faculty_profiles/stevens-kelly/)**
 				- artificial human tissues, bioprinting
 				- BMES Young investigator
-			- [cecilia giachelli](https://mcb-seattle.edu/faculty_profiles/giachelli-cecilia/)
 			- [Jeff Rasmussen](https://jraslab.org/)
 			- [Claudia Vásquez](https://sites.uw.edu/vasquezlab/research/)
+			- [Ronald Kwon](https://sites.uw.edu/msblgroup/research/)
+			- [cecilia giachelli](https://mcb-seattle.edu/faculty_profiles/giachelli-cecilia/)
+			- Jay Shendure?
 		- Fred Hutch
 			-
 		- Need to select 6 from UW and 6 from Fred Hutch
