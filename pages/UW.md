@@ -16,7 +16,7 @@
 				- xenopus regeneration
 			- **[Kelly Stevens](https://mcb-seattle.edu/faculty_profiles/stevens-kelly/)**
 				- artificial human tissues, bioprinting
-				- BMES Young investigator
+				- BMES mid career investigator award
 			- [Jeff Rasmussen](https://jraslab.org/)
 			- [Claudia Vásquez](https://sites.uw.edu/vasquezlab/research/)
 			- [Ronald Kwon](https://sites.uw.edu/msblgroup/research/)
