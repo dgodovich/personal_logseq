@@ -9,21 +9,45 @@
 		- fellowship programs
 		- symposia
 		- community engagement
+	- [some other center](https://bioe.uw.edu/kelly-stevens-co-leads-new-nih-funded-center-to-reduce-disparities-in-biomaterials-research/)
 - Faculty:
 	- MCB Faculty of interest:
 		- UW
 			- [Andrea Wills](https://sites.uw.edu/willslab2/research/)
 				- xenopus regeneration
-			- **[Kelly Stevens](https://mcb-seattle.edu/faculty_profiles/stevens-kelly/)**
+			- **[Kelly Stevens](http://www.kellystevensscience.com/)**
 				- artificial human tissues, bioprinting
 				- BMES mid career investigator award
-			- [Jeff Rasmussen](https://jraslab.org/)
-			- [Claudia Vásquez](https://sites.uw.edu/vasquezlab/research/)
 			- [Ronald Kwon](https://sites.uw.edu/msblgroup/research/)
-			- [cecilia giachelli](https://mcb-seattle.edu/faculty_profiles/giachelli-cecilia/)
-			- Jay Shendure?
+				- muscle development and regeneration and biomaterials
+			- [Jeff Rasmussen](https://jraslab.org/)
+				- zebrafish to gain molecular and cellular insights into neuronal and tissue plasticity, both during development and following injury skin
+			- [Claudia Vásquez](https://sites.uw.edu/vasquezlab/research/)
+				- molecular and physical mechanisms that cells use to build our organs. The goal of our lab is to dissect the emergent properties cells used to build complex higher-order tissue structures
+				- fly
+			- [Min (Mia) Yang](https://www.yang-lab-uw.com/research)
+				- micropatterns
+			- Also interesting but not gonna list
+			  collapsed:: true
+				- [cecilia giachelli](https://mcb-seattle.edu/faculty_profiles/giachelli-cecilia/)
+				- Jay Shendure?
+					- not taking students
+				- Young kwon
+				-
 		- Fred Hutch
-			-
+			- [Susan Parkhurst](https://research.fredhutch.org/parkhurst/en.html)
+				- Very cool work on single cell injuries and mechanobiology
+			- [Kevin Cheung](https://kevincheunglab.org/research/)
+				- collective tumor migration
+			- [Jarrod  Dudakov](https://dudakovlab.org/our-research/)
+				- t cell development and regeneration
+			- [Slobodan Beronja](https://research.fredhutch.org/beronja/en.html)
+				- regulation of epithelial growth
+			- [Christina Termini](https://research.fredhutch.org/termini/en.html)
+				- blood
+			- [Brandon Hadland](https://research.fredhutch.org/hadland/en.html)
+				- blood
+		-
 		- Need to select 6 from UW and 6 from Fred Hutch
 		- Bioengineering overlaps:
 			- [Wendy Thomas](https://mcb-seattle.edu/faculty_profiles/thomas-wendy/)
