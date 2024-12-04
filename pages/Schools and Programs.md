@@ -1,4 +1,4 @@
--
+- [Google sheet from reddit](https://docs.google.com/spreadsheets/d/1PyZQYSXY2JAG2x--fZFClshIMkmmHwhx7Ez58VaGoFc/edit?gid=1252869988#gid=1252869988)
 - [[Schools I am applying to]] (not in any particular order)
 	- [[Duke]] Durham / Research Triangle
 		- Developmental and Stem Cell Biology
