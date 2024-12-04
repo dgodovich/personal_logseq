@@ -1,3 +1,4 @@
+-
 - [[Schools I am applying to]] (not in any particular order)
 	- [[Duke]] Durham / Research Triangle
 		- Developmental and Stem Cell Biology
