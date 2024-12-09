@@ -22,6 +22,9 @@
 		- [Application Website](https://applygrad.jhu.edu/apply/?sr=61ab0eb5-7ac7-4dc0-9347-062f46b0ca6a)
 	- [[UT Southwestern]] Dallas
 		- BBS umbrella, interest in Dev Bio or Cell and Molecular bio tracks
+		- [[Dec 9th, 2024]] Apparently interview requests went out 12/6 :(
+			- maybe I still get (they say priority deadline for rec letters is 12/10 which hasn't happened yet)
+			- gah stressful
 		- [Application Website](https://apply.utsouthwestern.edu/grad/Security/Login.aspx?ReturnUrl=%2fgrad)
 	- [[Wustl]] St Louis
 		- Developmental, Regenerative and Stem Cell Biology
