@@ -2,7 +2,8 @@
 	- in person
 	- Wed–Fri, February 19-21 or February 26-28
 - Stanford
-	- in person and super late, March 6 - 8
+	- in person
+	- March 6 - 8
 - UW
 	- in person in jan or feb
 - Princeton
