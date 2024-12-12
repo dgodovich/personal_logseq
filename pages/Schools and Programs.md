@@ -1,25 +1,31 @@
 - [reddit thread AMA with current boston area grad students](https://www.reddit.com/r/gradadmissions/comments/1h52llk/we_are_phd_students_in_computational_biology/)
 - [Google sheet from reddit](https://docs.google.com/spreadsheets/d/1PyZQYSXY2JAG2x--fZFClshIMkmmHwhx7Ez58VaGoFc/edit?gid=1252869988#gid=1252869988)
+	- [sheet from last year for time reference](https://docs.google.com/spreadsheets/d/1aSYBktWKtf_MEPw7TQVcxdwTJAXesi_Ws9PpBLe3eH0/edit?gid=0#gid=0)
 - [[Schools I am applying to]] (not in any particular order)
 	- [[Duke]] Durham / Research Triangle
 		- Developmental and Stem Cell Biology
 		- [Application website](https://applygp.duke.edu/apply/?sr=ff282888-94bf-4e9e-af2b-868e6f1c72a1)
+		- Expecting to heart back ~12/18
 	- [[UCSF/Berkeley]] SF
 		- Joint UCSF/ berkeley bme
 		- [Application Website](https://gradapp.berkeley.edu/apply/?_ga=2.101205697.1389077666.1684431286-1279699581.1683569673)
+		- Expecting early Jan
 	- [[Harvard]] Boston
 		- Stem Cell and Regenerative Biology department, but PhD program MCB
 		- [Application website](https://apply.gsas.harvard.edu/portal/apply_now)
-		- additional essay(s) (2x 500 words) for MCB
+		- Expecting to hear back ~12/18
 	- [[Princeton]] Princeton (NYC)
 		- Molecular Biology with interest in Cell Biology, Development and Cancer track
 		- [Application Website](https://graduate-apply.princeton.edu/apply/)
+		- Expecting to hear back by ~1/10
 	- [[UW]] Seattle
 		- Molecular and Cell Biology
 		- [Application Website](https://apply.grad.uw.edu/account/login?r=/portal/gr_app)
+		- Expecting around late december
 	- [[Johns Hopkins]] Baltimore
 		- BME
 		- [Application Website](https://applygrad.jhu.edu/apply/?sr=61ab0eb5-7ac7-4dc0-9347-062f46b0ca6a)
+		- Expecting early Jan
 	- [[UT Southwestern]] Dallas
 		- BBS umbrella, interest in Dev Bio or Cell and Molecular bio tracks
 		- [[Dec 9th, 2024]] Apparently interview requests went out 12/6 :(
@@ -29,10 +35,12 @@
 	- [[Wustl]] St Louis
 		- Developmental, Regenerative and Stem Cell Biology
 		- [Application Website](https://gradadmit.wustl.edu/account/login)
+		- Expecting late december
 	- [[Stanford]] SF
 		- Stem Cell Biology and Regenerative Medicine
 		- [Application Website](https://applygrad.stanford.edu/portal/grad-app)
 		- one additional essay
+		- Expecting call early Jan / email mid
 - [[Schedule]]
 	- I'm gonna pretend that I followed this
 - List of all schools I am interested in / thinking about
