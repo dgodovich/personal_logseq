@@ -1,38 +1,42 @@
-- UCSF/Berkeley
-	- in person
-	- Wed–Fri, February 19-21 or February 26-28
-- Stanford
-	- in person
-	- March 6 - 8
-- UW
-	- in person in jan or feb
-	- Last year they had two options
-		- Last week of Jan (W 24th - F 26th)
-		- Second week of Feb (W 7th - F 9th)
-- Princeton
-	- in jan or feb
-	- In person most likely
-	- Last year if was in person
-		- Middle week of jan: Jan 18-21
-		- First week of feb: Feb 1-4
-- Harvard
-	- Most likely in person
-	- Last year
-		- no info for MCO
-		- other programs were middle / late Jan
-- UT Southwestern
-	- anytime jan - march??
-		- rolling bruh
-	- virtual
-- WashU
-	- virtual
-	- Jan 9 & 10
-	- They have on-site recruitement feb 20-22
-- Duke
-	- virtual
-	- last year
-		- early / mid jan
-- JHU
-	- virtual in january
-	- last year
-		- early / mid jan
+- What I got
+	- [[Duke]]
+-
+- Expected timeline
+	- UCSF/Berkeley
+		- in person
+		- Wed–Fri, February 19-21 or February 26-28
+	- Stanford
+		- in person
+		- March 6 - 8
+	- UW
+		- in person in jan or feb
+		- Last year they had two options
+			- Last week of Jan (W 24th - F 26th)
+			- Second week of Feb (W 7th - F 9th)
+	- Princeton
+		- in jan or feb
+		- In person most likely
+		- Last year if was in person
+			- Middle week of jan: Jan 18-21
+			- First week of feb: Feb 1-4
+	- Harvard
+		- Most likely in person
+		- Last year
+			- no info for MCO
+			- other programs were middle / late Jan
+	- UT Southwestern
+		- anytime jan - march??
+			- rolling bruh
+		- virtual
+	- WashU
+		- virtual
+		- Jan 9 & 10
+		- They have on-site recruitement feb 20-22
+	- Duke
+		- virtual
+		- last year
+			- early / mid jan
+	- JHU
+		- virtual in january
+		- last year
+			- early / mid jan

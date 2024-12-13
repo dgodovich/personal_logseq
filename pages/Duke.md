@@ -1,4 +1,5 @@
 - Program Information:
+  collapsed:: true
 	- [Stats](https://gradschool.duke.edu/about/statistics/)
 		- [dev bio specific stats](https://gradschool.duke.edu/about/statistics/developmental-and-stem-cell-biology-phd-admissions-and-enrollment-statistics/)
 		- a bit under 20% acceptance rate
@@ -6,6 +7,11 @@
 		- Medical school has the [Office of Biomedical Graduate Education](https://medschool.duke.edu/education/biomedical-phd-programs/office-biomedical-graduate-education) that covers all the programs I care about like dev and stem cell bio, cmb, etc
 	- Dev bio is not degree granting, you get it from one of the other departments
 		- But I will be applying directly to it
+- Interview
+	- 4 30min zoom interviews between 1/6 and 1/21
+		- 2 faculty
+		- 2 admissions committee
+	-
 - Faculty:
 	- [check out these faculty members in the duke regeneration center](https://sites.duke.edu/dukeregenerationcenter/affiliated-faculty/)
 		- none of them have primary appointments in dev bio which is interesting
@@ -30,6 +36,7 @@
 	-
 	-
 - [[Writing Prompts]]
+  collapsed:: true
 	- Write a statement (1-2 pages, single-spaced, in a 12-point font) indicating your purposes and objectives in undertaking graduate study, your special interests and plans, and your strengths and weaknesses in your chosen field. Briefly describe any research projects or any independent research in which you have actively participated and indicate how this has influenced your career interest and desire to pursue graduate studies. If COVID-19 has affected your previous academic
 	   or research progress or experience, you may include that information here.
 		- **Statement of Purpose Guidelines**
@@ -44,6 +51,7 @@
 	- Optional Video Essay:
 		- How would a Duke PhD training experience help you achieve your academic and professional goals? Max video length 2 minutes; record externally and provide URL in application.
 - Other application notes:
+  collapsed:: true
 	- [Departmental guidance on applications](https://medschool.duke.edu/education/biomedical-phd-programs/developmental-stem-cell-biology-program/prospective-dscb-students)
 	- GRE
 		- not required but can submit
