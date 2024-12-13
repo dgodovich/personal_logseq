@@ -11,7 +11,12 @@
 	- 4 30min zoom interviews between 1/6 and 1/21
 		- 2 faculty
 		- 2 admissions committee
-	-
+	- 1/13 6pm info session with students
+		- In addition, we will host a virtual informational session on January 13th at 6:00 pm EST, to introduce you to program leadership, answer questions and meet with current DSCB student leaders.
+	- 1/21 6pm poster session
+		- On January 21st at 6:00 pm EST we will host a Gathertown virtual poster session & social activities with current students and faculty. This will be a great opportunity to meet the students, learn about their experience in the program and living in Durham.
+	- Also coffee chat availability
+		- 1/15 or 1/17 9-10am or 4-5pm
 - Faculty:
 	- [check out these faculty members in the duke regeneration center](https://sites.duke.edu/dukeregenerationcenter/affiliated-faculty/)
 		- none of them have primary appointments in dev bio which is interesting
