@@ -7,6 +7,12 @@
 		- [Application website](https://applygp.duke.edu/apply/?sr=ff282888-94bf-4e9e-af2b-868e6f1c72a1)
 		- INTERVIEW!!!
 			- heard back 12/13
+			- 1/7 4-4:30 dave sherwood
+			- 1/9 3:30 - 4 Don Fox
+				- conflicts with the washu interview
+				- will have to reschedule
+			- 1/21 1:30 - 2 Jeremy Kay
+			- 1/21 2:30 - 3 Shyni Varghese
 	- [[UCSF/Berkeley]] SF
 		- Joint UCSF/ berkeley bme
 		- [Application Website](https://gradapp.berkeley.edu/apply/?_ga=2.101205697.1389077666.1684431286-1279699581.1683569673)
@@ -36,7 +42,8 @@
 	- [[Wustl]] St Louis
 		- Developmental, Regenerative and Stem Cell Biology
 		- [Application Website](https://gradadmit.wustl.edu/account/login)
-		- Expecting late december
+		- INTERVIEW!!
+			- 1/9 whole day
 	- [[Stanford]] SF
 		- Stem Cell Biology and Regenerative Medicine
 		- [Application Website](https://applygrad.stanford.edu/portal/grad-app)
