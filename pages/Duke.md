@@ -17,6 +17,12 @@
 		- On January 21st at 6:00 pm EST we will host a Gathertown virtual poster session & social activities with current students and faculty. This will be a great opportunity to meet the students, learn about their experience in the program and living in Durham.
 	- Also coffee chat availability
 		- 1/15 or 1/17 9-10am or 4-5pm
+	- 1/7 4-4:30 dave sherwood
+	- 1/9 3:30 - 4 Don Fox
+		- conflicts with the washu interview
+		- will have to reschedule
+	- 1/21 1:30 - 2 Jeremy Kay
+	- 1/21 2:30 - 3 Shyni Varghese
 - Faculty:
 	- [check out these faculty members in the duke regeneration center](https://sites.duke.edu/dukeregenerationcenter/affiliated-faculty/)
 		- none of them have primary appointments in dev bio which is interesting

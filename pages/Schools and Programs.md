@@ -44,6 +44,8 @@
 		- [Application Website](https://gradadmit.wustl.edu/account/login)
 		- INTERVIEW!!
 			- 1/9 whole day
+			- schedule and more info pending
+			-
 	- [[Stanford]] SF
 		- Stem Cell Biology and Regenerative Medicine
 		- [Application Website](https://applygrad.stanford.edu/portal/grad-app)

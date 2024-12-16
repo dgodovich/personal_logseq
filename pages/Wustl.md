@@ -8,7 +8,9 @@
 	- [admissions page](https://dbbs.wustl.edu/programs/developmental-regenerative-stem-cell-biology/)
 	- [Institute of Clinical and Translational Sciences](https://icts.wustl.edu/)
 	- [Center of Regenerative Medicine](https://regenerativemedicine.wustl.edu/)
-	-
+- Interview
+	- 1/9 whole day
+	- 2/20 - 22 is the onsite visit
 - Faculty:
 	- [Lila Solnica-Krezel](https://lsklab.wustl.edu/research-interests/)
 		- gastrulation and morphogenesis
@@ -23,6 +25,7 @@
 		- neural axon regeneration
 	-
 - [[Writing Prompts]]
+  collapsed:: true
 	- DBBS Essay 1
 		- For one or more of your research experiences, a) describe your research project(s) and specific contributions to the work in the most comprehensive way possible, including the question, the approach, the results, and the interpretation; b) discuss your motivations for graduate study; and c) relate a fundamental biological, biomedical, or data science question that most intrigues you, highlighting potential [Washington University DBBS faculty mentors](https://dbbs.wustl.edu/our-people/faculty/).
 	- DBBS Essay 2
