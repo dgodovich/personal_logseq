@@ -1,5 +1,4 @@
 - Program Information:
-  collapsed:: true
 	- [Stats](https://gradschool.duke.edu/about/statistics/)
 		- [dev bio specific stats](https://gradschool.duke.edu/about/statistics/developmental-and-stem-cell-biology-phd-admissions-and-enrollment-statistics/)
 		- a bit under 20% acceptance rate

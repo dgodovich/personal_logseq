@@ -2,7 +2,7 @@
 	- [Main website](https://molbio.princeton.edu/graduate)
 	- [Application info website](https://gradschool.princeton.edu/academics/degrees-requirements/fields-study/molecular-biology)
 	- [Princeton grad apps info](https://gradschool.princeton.edu/admission-onboarding/prepare)
-	-
+	- [stats](https://gradschool.princeton.edu/about/program-metrics/admission-statistics)
 	-
 - Faculty:
 	- Stas
