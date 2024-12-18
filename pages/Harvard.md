@@ -1,4 +1,5 @@
 - Program Information:
+  collapsed:: true
 	- There's the stem cell institute, the medical school, and harvard itself
 		- Pretty sure you can apply to all of them together, but they have their own websites and stuff
 	- Stem Cell institute does not have a direct application, you apply to one of the 14 Life Sciences programs at Harvard GSAS (graduate school of arts and sciences) and then you can work in a Stem Cell and Regenerative medicine lab
@@ -22,6 +23,7 @@
 			-
 		-
 - Faculty:
+  collapsed:: true
 	- Application only asks for two faculty members
 	- Labs
 		- [Jessica Whited](https://www.whitedlab.com/)
@@ -44,6 +46,7 @@
 			- Not in MCB
 	-
 - [[Writing Prompts]]
+  collapsed:: true
 	- Molecules, Cells, and Organisms Supplements
 		- Your Research: Past Experience and Future Interest
 			- What do you consider your most significant scientific discovery?
@@ -63,6 +66,7 @@
 		- Please note that there is no expectation to share detailed sensitive information and you should refrain from including anything that you would not feel at ease sharing. Please also note that the Personal Statement should complement rather than duplicate the content provided in the Statement of Purpose.
 		- Upload your personal statement as a Microsoft Word document or a PDF file. Please note that any website addresses included in your document will be passed along to the admissions committee as plain text. If you would like the committee to review the content of those websites, you may use the Digital Portfolio section of this application to upload website hyperlinks.
 - Other application notes:
+  collapsed:: true
 	- [[GRE]] not accepted!
 	- HILS program - can apply to multiple on one application I think, so do both MCB and BBS?
 	- #fee $105
