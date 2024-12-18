@@ -40,7 +40,7 @@
 		- BME
 		- [Application Website](https://applygrad.jhu.edu/apply/?sr=61ab0eb5-7ac7-4dc0-9347-062f46b0ca6a)
 		- Expecting early Jan
-	- [[UT Southwestern]] soft reject
+	- [[UT Southwestern]] soft reject ?
 	  collapsed:: true
 		- BBS umbrella, interest in Dev Bio or Cell and Molecular bio tracks
 		- soft reject?
