@@ -1,0 +1,12 @@
+- Interview
+	- Duke
+	- WashU
+- Reject
+	- Harvard
+	- UT (probably)
+- Pending
+	- Princeton
+	- Stanford
+	- UW
+	- Johns Hopkins
+	- UCSF/Berkeley

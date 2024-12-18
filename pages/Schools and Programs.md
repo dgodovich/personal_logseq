@@ -6,6 +6,7 @@
 		- Developmental and Stem Cell Biology
 		- [Application website](https://applygp.duke.edu/apply/?sr=ff282888-94bf-4e9e-af2b-868e6f1c72a1)
 		- INTERVIEW!!!
+		  background-color:: green
 			- heard back 12/13
 			- 1/7 4-4:30 dave sherwood
 			- 1/9 3:30 - 4 Don Fox
@@ -21,6 +22,7 @@
 		- Stem Cell and Regenerative Biology department, but PhD program MCB
 		- [Application website](https://apply.gsas.harvard.edu/portal/apply_now)
 		- Rejected
+		  background-color:: red
 			- Came exactly on 12/18
 			- Expecting to hear back ~12/18
 	- [[Princeton]] Princeton (NYC)
@@ -37,17 +39,20 @@
 		- Expecting early Jan
 	- [[UT Southwestern]] Dallas
 		- BBS umbrella, interest in Dev Bio or Cell and Molecular bio tracks
+		- soft reject?
+		  background-color:: pink
 		- [[Dec 9th, 2024]] Apparently interview requests went out 12/6 :(
 			- maybe I still get (they say priority deadline for rec letters is 12/10 which hasn't happened yet)
 			- gah stressful
+			- second wave on 12/13, soft reject?
 		- [Application Website](https://apply.utsouthwestern.edu/grad/Security/Login.aspx?ReturnUrl=%2fgrad)
 	- [[Wustl]] St Louis
 		- Developmental, Regenerative and Stem Cell Biology
 		- [Application Website](https://gradadmit.wustl.edu/account/login)
 		- INTERVIEW!!
+		  background-color:: green
 			- 1/9 whole day
 			- schedule and more info pending
-			-
 	- [[Stanford]] SF
 		- Stem Cell Biology and Regenerative Medicine
 		- [Application Website](https://applygrad.stanford.edu/portal/grad-app)
