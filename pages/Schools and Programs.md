@@ -20,7 +20,9 @@
 	- [[Harvard]] Boston
 		- Stem Cell and Regenerative Biology department, but PhD program MCB
 		- [Application website](https://apply.gsas.harvard.edu/portal/apply_now)
-		- Expecting to hear back ~12/18
+		- Rejected
+			- Came exactly on 12/18
+			- Expecting to hear back ~12/18
 	- [[Princeton]] Princeton (NYC)
 		- Molecular Biology with interest in Cell Biology, Development and Cancer track
 		- [Application Website](https://graduate-apply.princeton.edu/apply/)
