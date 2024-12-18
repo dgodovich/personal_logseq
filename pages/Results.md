@@ -1,11 +1,11 @@
 - Interview
-	- Duke
-	- WashU
+	- Duke (virtual)
+	- WashU (virtual)
+	- Princeton (in person)
 - Reject
 	- Harvard
 	- UT (probably)
 - Pending
-	- Princeton
 	- Stanford
 	- UW
 	- Johns Hopkins

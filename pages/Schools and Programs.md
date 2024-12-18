@@ -28,7 +28,11 @@
 	- [[Princeton]] Princeton (NYC)
 		- Molecular Biology with interest in Cell Biology, Development and Cancer track
 		- [Application Website](https://graduate-apply.princeton.edu/apply/)
-		- Expecting to hear back by ~1/10
+		- INTERVIEW!!!
+		  background-color:: green
+			- 1/23 - 26 or 2/6 - 9
+				- 2/6 - 9 intersects with ski so I guess 1/23 - 26
+			- in person hehe
 	- [[UW]] Seattle
 		- Molecular and Cell Biology
 		- [Application Website](https://apply.grad.uw.edu/account/login?r=/portal/gr_app)
