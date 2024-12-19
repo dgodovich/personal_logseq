@@ -1,0 +1,16 @@
+- Details
+	- 1/11 - 12 Killington
+	- John, Ike, Emily, Oliver, Matthew, Joel, Niko, Me (8 people)
+- Airbnb options
+	- [Rutland entire home](https://www.airbnb.com/rooms/1295852285110206442?adults=7&search_mode=regular_search&check_in=2025-01-11&check_out=2025-01-12&source_impression_id=p3_1734639745_P3w07fcluVtbap4p&previous_page_section_name=1000&federated_search_id=e85fc71e-5b83-4f37-b438-5a9af509eb6e)
+		- Has hot tub
+		- new listing so cheap, but no reviews
+		- The dude has a different airbnb that has a lot more reviews
+		- In a town
+		- 759 non refundable total
+	- [Mendon home](https://www.airbnb.com/rooms/1192704665605933390?adults=8&search_mode=regular_search&amenities%5B%5D=25&check_in=2025-01-11&check_out=2025-01-12&source_impression_id=p3_1734640283_P3t5jHCWzLvp9xTd&previous_page_section_name=1000&federated_search_id=a8f301fe-6313-419c-9ff9-e6de6858860e&guests=8)
+		- same dude as above but this one is not in a town
+		- Not quite as cheap, has a hot tub
+		- 1033 non refundable total
+	- [No hot tub]
+	-
