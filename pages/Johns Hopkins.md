@@ -5,6 +5,7 @@
 	- either way its an umbrella
 	- I think I actually do BME here, that's what has the most faculty I'm interested in
 	- [stats](https://cmdb.jhu.edu/program-stats/) for cmdb
+	- [stats for bme](https://oira.jhu.edu/phd-statistics/)
 	- https://www.bme.jhu.edu/academics/graduate/phd-program/
 - Faculty:
 	- Warren Grayson or whatever his name is

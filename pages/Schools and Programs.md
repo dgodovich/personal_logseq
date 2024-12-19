@@ -10,7 +10,7 @@
 	- [[Stanford]] SF
 		- Stem Cell Biology and Regenerative Medicine
 		- [Application Website](https://applygrad.stanford.edu/portal/grad-app)
-		- Expecting call early Jan / email mid
+		- Expecting 3rd week of January
 	- [[Duke]] Durham / Research Triangle
 		- Developmental and Stem Cell Biology
 		- [Application website](https://applygp.duke.edu/apply/?sr=ff282888-94bf-4e9e-af2b-868e6f1c72a1)
@@ -27,7 +27,7 @@
 	- [[UW]] Seattle
 		- Molecular and Cell Biology
 		- [Application Website](https://apply.grad.uw.edu/account/login?r=/portal/gr_app)
-		- Expecting around late december
+		- Expecting around late december?
 	- [[Princeton]] Princeton (NYC)
 		- Molecular Biology with interest in Cell Biology, Development and Cancer track
 		- [Application Website](https://graduate-apply.princeton.edu/apply/)
@@ -39,7 +39,7 @@
 	- [[Johns Hopkins]] Baltimore
 		- BME
 		- [Application Website](https://applygrad.jhu.edu/apply/?sr=61ab0eb5-7ac7-4dc0-9347-062f46b0ca6a)
-		- Expecting early Jan
+		- Expecting early Jan?
 	- [[UT Southwestern]] soft reject ?
 	  collapsed:: true
 		- BBS umbrella, interest in Dev Bio or Cell and Molecular bio tracks
