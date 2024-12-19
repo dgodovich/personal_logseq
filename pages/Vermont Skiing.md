@@ -7,10 +7,12 @@
 		- new listing so cheap, but no reviews
 		- The dude has a different airbnb that has a lot more reviews
 		- In a town
-		- 759 non refundable total
+		- 765 non refundable total
 	- [Mendon home](https://www.airbnb.com/rooms/1192704665605933390?adults=8&search_mode=regular_search&amenities%5B%5D=25&check_in=2025-01-11&check_out=2025-01-12&source_impression_id=p3_1734640283_P3t5jHCWzLvp9xTd&previous_page_section_name=1000&federated_search_id=a8f301fe-6313-419c-9ff9-e6de6858860e&guests=8)
 		- same dude as above but this one is not in a town
 		- Not quite as cheap, has a hot tub
 		- 1033 non refundable total
-	- [No hot tub]
+	- [Mendon big home](https://www.airbnb.com/rooms/53510105?adults=7&search_mode=regular_search&check_in=2025-01-11&check_out=2025-01-12&source_impression_id=p3_1734640491_P3zB3q0i_cM8s7fT&previous_page_section_name=1000&federated_search_id=0b0b22a3-bd72-43c7-b1d4-512d447e19ad)
+		- no hot tub but has jacuzzi I think
+		- 964 non refundable total
 	-
