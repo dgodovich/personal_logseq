@@ -7,6 +7,7 @@
 		- Joint UCSF/ berkeley bme
 		- [Application Website](https://gradapp.berkeley.edu/apply/?_ga=2.101205697.1389077666.1684431286-1279699581.1683569673)
 		- Expecting early Jan
+			- Last year was second thursday / friday 11 - 12
 	- [[Stanford]] SF
 		- Stem Cell Biology and Regenerative Medicine
 		- [Application Website](https://applygrad.stanford.edu/portal/grad-app)
@@ -40,6 +41,7 @@
 		- BME
 		- [Application Website](https://applygrad.jhu.edu/apply/?sr=61ab0eb5-7ac7-4dc0-9347-062f46b0ca6a)
 		- Expecting early Jan?
+			- Last year was right after new years
 	- [[UT Southwestern]]
 		- BBS umbrella, interest in Dev Bio or Cell and Molecular bio tracks
 		- INTERVIEW!
