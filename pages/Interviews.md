@@ -28,9 +28,11 @@
 - Expected timeline
 	- UW
 		- in person in jan or feb
-		- Last year they had two options
-			- Last week of Jan (W 24th - F 26th)
-			- Second week of Feb (W 7th - F 9th)
+		- People got invites on grad cafe 12/19 and I did not
+			- One of them says that you have to select which date by 12/23 which is monday, so not looking great
+		- From grad cafe:
+			- Jan 29 – Feb 1
+			- Feb 12-15, 2025 (conflicts with skiing)
 	- JHU
 		- virtual in january
 		- last year

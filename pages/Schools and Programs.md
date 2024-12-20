@@ -24,7 +24,7 @@
 		  background-color:: green
 			- 1/9 whole day
 			- schedule and more info pending
-	- [[UW]] Seattle
+	- [[UW]] soft reject?
 		- Molecular and Cell Biology
 		- [Application Website](https://apply.grad.uw.edu/account/login?r=/portal/gr_app)
 		- Expecting around late december?
