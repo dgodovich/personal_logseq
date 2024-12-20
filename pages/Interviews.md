@@ -18,7 +18,13 @@
 		- Jan 9 & 10
 			- I asked for 1/9
 		- They have on-site recruitement feb 20-22
--
+	- UT Southwestern
+		- virtual
+		- Wednesday info session, R/F interviews (4 faculty + 1 student)
+		- options
+			- January 15 / 17 (can but not preferred because of additional time off)
+			- January 22 / 23 (can)
+			- January 22 / 24 (can't do because of princeton)
 - Expected timeline
 	- UW
 		- in person in jan or feb
@@ -35,10 +41,6 @@
 	- Stanford
 		- in person
 		- March 6 - 8
-	- UT Southwestern
-		- anytime jan - march??
-			- rolling bruh
-		- virtual
 	- Harvard
 	  collapsed:: true
 		- Most likely in person
