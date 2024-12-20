@@ -43,6 +43,8 @@
 	- [[UT Southwestern]]
 		- BBS umbrella, interest in Dev Bio or Cell and Molecular bio tracks
 		- INTERVIEW!
+		  background-color:: green
+			- I thought they rejected me lol
 		- [[Dec 9th, 2024]] Apparently interview requests went out 12/6 :(
 			- maybe I still get (they say priority deadline for rec letters is 12/10 which hasn't happened yet)
 			- gah stressful
