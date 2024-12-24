@@ -5,6 +5,8 @@
 		- Maya gave a raving review which nice
 			- Grad students are separated but still can be included in campus life, and st louis has enough areas that you can find a niche in the city
 	- [Stats](https://gradstudies.artsci.wustl.edu/glance)
+	  collapsed:: true
+		- https://gradstudies.artsci.wustl.edu/glance
 	- [admissions page](https://dbbs.wustl.edu/programs/developmental-regenerative-stem-cell-biology/)
 	- [Institute of Clinical and Translational Sciences](https://icts.wustl.edu/)
 	- [Center of Regenerative Medicine](https://regenerativemedicine.wustl.edu/)
