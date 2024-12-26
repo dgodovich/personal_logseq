@@ -16,3 +16,5 @@
 	- ESP32 has wifi connectivity so I think that's the way to do it
 - Fencing test box
 	- ESP32 based
+	- I'd like to replicate the A6 box
+-
