@@ -1,0 +1,18 @@
+- Hanukkah menorah
+	- made on breadboard
+- Advent of Code
+	- I didn't do it daily but I would still like to do all the challenges at some point
+- Profile picture generator
+	- My google (and steam and maybe some other stuff) profile picture is some green waveform image I got from somewhere like 10 years ago
+	- It's not mine though and I have no idea who or what to credit for it
+	- I don't think that's a huge deal as it's very generic (and could even be a stock image), but it would be cool to recreate something similar so I don't have to worry about that
+	- Ideas:
+		- Waveform plotter in python
+		- Use desmos to get something close to what I want?
+		- Photoshop or illustrator? I have it on my mac until I leave MSK
+- Train map
+	- I'd really like to do this before I leave the city, but maybe doing it after would also be fun
+	- At least get a prototype working
+	- ESP32 has wifi connectivity so I think that's the way to do it
+- Fencing test box
+	- ESP32 based
