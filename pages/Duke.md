@@ -17,11 +17,55 @@
 	- Also coffee chat availability
 		- 1/15 or 1/17 9-10am or 4-5pm
 	- 1/7 4-4:30 dave sherwood
-	- 1/9 3:30 - 4 Don Fox
+	- 1/8 11 - 11:30 Don Fox
 		- conflicts with the washu interview
 		- will have to reschedule
+		- moved to 1/8
 	- 1/21 1:30 - 2 Jeremy Kay
 	- 1/21 2:30 - 3 Shyni Varghese
+	- People on the email
+		- They didn't bcc to everyone which seems like a bad idea but whatever
+		- 40 people interviewing
+			- "nashaley_adorno@fas.harvard.edu"
+			  "adriana.bibo@utah.edu" <adriana.bibo@utah.edu>,
+			  "isabella.cisneros.sci@gmail.com" <isabella.cisneros.sci@gmail.com>,
+			  "hannahvictoria.consunji@gmail.com" <hannahvictoria.consunji@gmail.com>,
+			  "adcoon@gmail.com" <adcoon@gmail.com>,
+			  "sydneycrump28@gmail.com" <sydneycrump28@gmail.com>,
+			  "scdamaddio@gmail.com" <scdamaddio@gmail.com>,
+			  "tanujadesai.17@gmail.com" <tanujadesai.17@gmail.com>,
+			  "kristin.edwards02@gmail.com" <kristin.edwards02@gmail.com>,
+			  "sflores9070@gmail.com" <sflores9070@gmail.com>,
+			  "mylesford18@gmail.com" <mylesford18@gmail.com>,
+			  "annafr@bu.edu" <annafr@bu.edu>,
+			  "d.godovich@gmail.com" <d.godovich@gmail.com>,
+			  "patrickhofe@yahoo.com" <patrickhofe@yahoo.com>,
+			  "b08401055@ntu.edu.tw" <b08401055@ntu.edu.tw>,
+			  "mttj0528@gmail.com" <mttj0528@gmail.com>,
+			  "mfjarmusz@outlook.com" <mfjarmusz@outlook.com>,
+			  "jjemiso2@tnstate.edu" <jjemiso2@tnstate.edu>,
+			  "Jiahe.Jin@outlook.com" <Jiahe.Jin@outlook.com>,
+			  "ms20178@iisermohali.ac.in" <ms20178@iisermohali.ac.in>,
+			  "meghana.s.krishnan@gmail.com" <meghana.s.krishnan@gmail.com>,
+			  "kathy.gyehyun@gmail.com" <kathy.gyehyun@gmail.com>,
+			  "monaha54@msu.edu" <monaha54@msu.edu>,
+			  "camilapereaprivate@gmail.com" <camilapereaprivate@gmail.com>,
+			  "apopovici@berkeley.edu" <apopovici@berkeley.edu>,
+			  "sam2020.ramirez@gmail.com" <sam2020.ramirez@gmail.com>,
+			  "HadleyMR55@gmail.com" <HadleyMR55@gmail.com>,
+			  "emilyrsartori@gmail.com" <emilyrsartori@gmail.com>,
+			  "amitsela02@gmail.com" <amitsela02@gmail.com>,
+			  "lsheft63@gmail.com" <lsheft63@gmail.com>,
+			  "katherine.e.shelburne@gmail.com" <katherine.e.shelburne@gmail.com>,
+			  "melanie.staszewski@yahoo.com" <melanie.staszewski@yahoo.com>,
+			  "tsteinberg01@gmail.com" <tsteinberg01@gmail.com>,
+			  "ana.stratan@gmail.com" <ana.stratan@gmail.com>,
+			  "mariaolgatd@gmail.com" <mariaolgatd@gmail.com>,
+			  "svillasenor42@gmail.com" <svillasenor42@gmail.com>,
+			  "naveen.vridhachalam@gmail.com" <naveen.vridhachalam@gmail.com>,
+			  "Bdw378@gmail.com" <Bdw378@gmail.com>,
+			  "mmy281@nyu.edu" <mmy281@nyu.edu>,
+			  "myleszhou@outlook.com" <myleszhou@outlook.com> |
 - Faculty:
 	- [check out these faculty members in the duke regeneration center](https://sites.duke.edu/dukeregenerationcenter/affiliated-faculty/)
 		- none of them have primary appointments in dev bio which is interesting
