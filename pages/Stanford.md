@@ -4,27 +4,29 @@
 	- Need to select 8 faculty, up to 12 slots
 	- [Biosciences faculty](https://biosciences.stanford.edu/program-overview/biosciences-faculty-database/)
 		- This is for all departments not just stem cell and regen
-	- [Lucy O'Brian](https://www.stemdynamics.org/research)
-		- fly gut organization
-	- [Anthony Oro](https://med.stanford.edu/orolab.html)
 	- [Michael Longaker](https://www.longakerlab.com/profiles)
 		- epidermal wound healing
+	- [Lucy O'Brien](https://www.stemdynamics.org/research)
+		- fly gut organization
+	- [Joanna Wysocka](https://wysocka.stanford.edu/)
+		- neural crest
+		- not regeneration, but it is cell organization
+	- [Anthony Oro](https://med.stanford.edu/orolab.html)
+	- [Stefan Heller](https://hellerlab-stanford.net/)
+		- ear regeneration
+		- except the seem more interested in drugs / pharmacology
+	- [Roeland Nusse](https://web.stanford.edu/group/nusselab/cgi-bin/lab/)
+		- also looking at wnt signaling
+		- wait this is the dude looking at wnt signaling
+	- [Helen Blau](https://med.stanford.edu/blau-lab.html)
 	- [Philip Beachy](https://pbeachy.stanford.edu/)
 		- hedgehog
+	- [Jennifer Cochran](https://cochranlab.stanford.edu/research)
+		- protein design
 	- [Lay Teng Ang](https://anglab.stanford.edu/research) and Kyle Loh? Colab lab?
 		- pretty straightforward stem cell stuff - not top choice
 	- [Tushar Desai](https://desailab.stanford.edu/)
 		- lung, particularly wnt signaling
-	- [Roeland Nusse](https://web.stanford.edu/group/nusselab/cgi-bin/lab/)
-		- also looking at wnt signaling
-		- wait this is the dude looking at wnt signaling
-	- [Stefan Heller](https://hellerlab-stanford.net/)
-		- ear regeneration
-		- except the seem more interested in drugs / pharmacology
-	- [Joanna Wysocka](https://wysocka.stanford.edu/)
-		- neural crest
-		- not regeneration, but it is cell organization
-		-
 	- Guosong Hong did the see through mouse skin with dye paper
 		- he's in material science in the engineering department but still cool
 - [[Writing Prompts]]
