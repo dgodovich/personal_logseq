@@ -26,6 +26,7 @@
 	- People on the email
 		- They didn't bcc to everyone which seems like a bad idea but whatever
 		- 40 people interviewing
+		  collapsed:: true
 			- "nashaley_adorno@fas.harvard.edu"
 			  "adriana.bibo@utah.edu" <adriana.bibo@utah.edu>,
 			  "isabella.cisneros.sci@gmail.com" <isabella.cisneros.sci@gmail.com>,
