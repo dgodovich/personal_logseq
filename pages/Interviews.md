@@ -26,13 +26,6 @@
 			- January 22 / 23 (can)
 			- January 22 / 24 (can't do because of princeton)
 - Expected timeline
-	- UW
-		- in person in jan or feb
-		- People got invites on grad cafe 12/19 and I did not
-			- One of them says that you have to select which date by 12/23 which is monday, so not looking great
-		- From grad cafe:
-			- Jan 29 – Feb 1
-			- Feb 12-15, 2025 (conflicts with skiing)
 	- JHU
 		- virtual in january
 		- last year
@@ -43,6 +36,14 @@
 	- Stanford
 		- in person
 		- March 6 - 8
+	- UW
+	  collapsed:: true
+		- in person in jan or feb
+		- People got invites on grad cafe 12/19 and I did not
+			- One of them says that you have to select which date by 12/23 which is monday, so not looking great
+		- From grad cafe:
+			- Jan 29 – Feb 1
+			- Feb 12-15, 2025 (conflicts with skiing)
 	- Harvard
 	  collapsed:: true
 		- Most likely in person
