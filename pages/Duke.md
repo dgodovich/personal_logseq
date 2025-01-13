@@ -6,6 +6,17 @@
 		- Medical school has the [Office of Biomedical Graduate Education](https://medschool.duke.edu/education/biomedical-phd-programs/office-biomedical-graduate-education) that covers all the programs I care about like dev and stem cell bio, cmb, etc
 	- Dev bio is not degree granting, you get it from one of the other departments
 		- But I will be applying directly to it
+- Info session
+	- Campus is contiguous - eveything isvey close by (medical school, engineeing, biology)
+	- over 60 facutly in DSCB
+	- DSCB currently has 41 students
+	- earn a certificate in Dev bio, but phd granting department is a different one, most students are in CMB
+	- Adjacent to the undergrad campus as well
+	- Smaller program with around 8 students matriculating a year
+		- Strong community because of this, I have seen this with Woon
+		- Monday night student only meetings
+		- Niche buddies - get paired up with a more senior student
+		-
 - Interview
 	- 4 30min zoom interviews between 1/6 and 1/21
 		- 2 faculty
