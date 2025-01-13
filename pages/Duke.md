@@ -106,7 +106,6 @@
 	- Optional Video Essay:
 		- How would a Duke PhD training experience help you achieve your academic and professional goals? Max video length 2 minutes; record externally and provide URL in application.
 - Other application notes:
-  collapsed:: true
 	- [Departmental guidance on applications](https://medschool.duke.edu/education/biomedical-phd-programs/developmental-stem-cell-biology-program/prospective-dscb-students)
 	- GRE
 		- not required but can submit
