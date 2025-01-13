@@ -16,7 +16,16 @@
 		- Strong community because of this, I have seen this with Woon
 		- Monday night student only meetings
 		- Niche buddies - get paired up with a more senior student
-		-
+	- Duke regeneration center is built out of the DSCB program
+		- I talked to Don fox who is one of the directors
+		- And Ken Poss who's leaving was the director
+	- OBGE (office of biomedical graduate education)
+	- BioCoRE (I think woon told me about this)
+		- incoming students apply to this and then you can do an early-statr summer program which I don't really want to do...
+		- Can still participate in activities even if you do not apply / don't get in
+	- Grad students can indeed get Duke basketball tickets
+	- Certificates for teaching, industry internships, clinical shadowing (molecular scholars)
+	-
 - Interview
 	- 4 30min zoom interviews between 1/6 and 1/21
 		- 2 faculty
