@@ -67,6 +67,7 @@
 			  "Bdw378@gmail.com" <Bdw378@gmail.com>,
 			  "mmy281@nyu.edu" <mmy281@nyu.edu>,
 			  "myleszhou@outlook.com" <myleszhou@outlook.com> |
+		- at least one of these people (sydney crump) was also interviewing at WashU
 - Faculty:
 	- [check out these faculty members in the duke regeneration center](https://sites.duke.edu/dukeregenerationcenter/affiliated-faculty/)
 		- none of them have primary appointments in dev bio which is interesting
