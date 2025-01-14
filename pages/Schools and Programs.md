@@ -3,15 +3,6 @@
 	- [sheet from last year for time reference](https://docs.google.com/spreadsheets/d/1aSYBktWKtf_MEPw7TQVcxdwTJAXesi_Ws9PpBLe3eH0/edit?gid=0#gid=0)
 - [[Interviews]]
 - [[Schools I am applying to]] (not in any particular order)
-	- [[UCSF/Berkeley]] SF
-		- Joint UCSF/ berkeley bme
-		- [Application Website](https://gradapp.berkeley.edu/apply/?_ga=2.101205697.1389077666.1684431286-1279699581.1683569673)
-		- Expecting early Jan
-			- Last year was second thursday / friday 11 - 12
-	- [[Stanford]] SF
-		- Stem Cell Biology and Regenerative Medicine
-		- [Application Website](https://applygrad.stanford.edu/portal/grad-app)
-		- Expecting 3rd week of January
 	- [[Duke]] Durham / Research Triangle
 		- Developmental and Stem Cell Biology
 		- [Application website](https://applygp.duke.edu/apply/?sr=ff282888-94bf-4e9e-af2b-868e6f1c72a1)
@@ -33,11 +24,6 @@
 			- 1/23 - 26 or 2/6 - 9
 				- 2/6 - 9 intersects with ski so I guess 1/23 - 26
 			- in person hehe
-	- [[Johns Hopkins]] Baltimore
-		- BME
-		- [Application Website](https://applygrad.jhu.edu/apply/?sr=61ab0eb5-7ac7-4dc0-9347-062f46b0ca6a)
-		- Expecting early Jan?
-			- Last year was right after new years
 	- [[UT Southwestern]]
 		- BBS umbrella, interest in Dev Bio or Cell and Molecular bio tracks
 		- INTERVIEW!
@@ -48,6 +34,25 @@
 			- gah stressful
 			- second wave on 12/13, soft reject?
 		- [Application Website](https://apply.utsouthwestern.edu/grad/Security/Login.aspx?ReturnUrl=%2fgrad)
+	- [[Stanford]] SF
+		- Stem Cell Biology and Regenerative Medicine
+		- [Application Website](https://applygrad.stanford.edu/portal/grad-app)
+		- Expecting 3rd week of January
+		- not looking good
+	- [[Johns Hopkins]] Baltimore
+		- BME
+		- [Application Website](https://applygrad.jhu.edu/apply/?sr=61ab0eb5-7ac7-4dc0-9347-062f46b0ca6a)
+		- Expecting early Jan?
+			- Last year was right after new years
+		- not looking good
+	- [[UCSF/Berkeley]] rejected
+	  collapsed:: true
+		- Rejected
+		  background-color:: red
+		- Joint UCSF/ berkeley bme
+		- [Application Website](https://gradapp.berkeley.edu/apply/?_ga=2.101205697.1389077666.1684431286-1279699581.1683569673)
+		- Expecting early Jan
+			- Last year was second thursday / friday 11 - 12
 	- [[UW]] rejected
 	  collapsed:: true
 		- Rejected
