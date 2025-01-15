@@ -39,7 +39,10 @@
 		- [Application Website](https://applygrad.stanford.edu/portal/grad-app)
 		- Expecting 3rd week of January
 		- not looking good
-	- [[Johns Hopkins]] Baltimore
+	- [[Johns Hopkins]] rejected
+	  collapsed:: true
+		- Rejected
+		  background-color:: red
 		- BME
 		- [Application Website](https://applygrad.jhu.edu/apply/?sr=61ab0eb5-7ac7-4dc0-9347-062f46b0ca6a)
 		- Expecting early Jan?
