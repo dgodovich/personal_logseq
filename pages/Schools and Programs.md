@@ -16,6 +16,9 @@
 		  background-color:: green
 			- 1/9 whole day
 			- schedule and more info pending
+		- ACCEPTED!!
+		  background-color:: blue
+			- lets fucking gooooo
 	- [[Princeton]] Princeton (NYC)
 		- Molecular Biology with interest in Cell Biology, Development and Cancer track
 		- [Application Website](https://graduate-apply.princeton.edu/apply/)
@@ -35,6 +38,7 @@
 			- second wave on 12/13, soft reject?
 		- [Application Website](https://apply.utsouthwestern.edu/grad/Security/Login.aspx?ReturnUrl=%2fgrad)
 	- [[Stanford]] SF
+	  collapsed:: true
 		- Stem Cell Biology and Regenerative Medicine
 		- [Application Website](https://applygrad.stanford.edu/portal/grad-app)
 		- Expecting 3rd week of January
