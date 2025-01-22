@@ -19,6 +19,18 @@
 		- BME and comp bio has a rotation system that's similar
 		- co-mentorship is common
 		- joint labs are popular
+- Interview / info session
+	- Good Afternoon and thank you for joining us to learn more about the Genetics, Development, and Disease Program!
+	- https://www.utsouthwestern.edu/education/graduate-school/programs/genetics-and-development/
+	- Program Coordinator: Andy Altmoyer
+	  Andrew.Altmoyer@UTSouthwestern.edu
+	  (214)648-0729
+	  Philip.Brown@UTSoutwestern.edu - Kimberly Reynolds Lab
+	  Camila.PerezLujan@UTSouthwestern.edu - Edward Grow Lab
+	  Lizz - Elizabeth.Maurais@UTSouthwestern.edu - Peter LY Lab
+	  Possible Tracks:
+	- https://www.utsouthwestern.edu/education/graduate-school/programs/mechanisms-of-disease/
+	- https://www.utsouthwestern.edu/education/graduate-school/programs/molecular-metabolism-diseases/ https://www.utsouthwestern.edu/education/graduate-school/programs/molecular-metabolism-diseases/
 - Faculty:
 	- BME faculty I'm interested in
 		- [W. Matthew Petroll, Ph.D.](https://profiles.utsouthwestern.edu/profile/15671/?_ga=2.37906400.2141188467.1670444942-2030558487.1669062189)
@@ -37,6 +49,7 @@
 			- mostly single cell, lets not do this guy
 	-
 - [[Writing Prompts]]
+  collapsed:: true
 	- Research Statement
 		- Your essay is a chance for us to get to know you as a scientist and potential student in our programs. **In two pages or less,** please:
 			- 1. State your reasons for pursuing a Ph.D. in your chosen field.
@@ -46,6 +59,7 @@
 	- Personal Statement
 		- Describe educational, personal, cultural, economic or other life experiences, that have shaped your journey. Have these experiences provided unique perspective(s) that you would contribute to your program, field or profession?
 - Other application notes:
+  collapsed:: true
 	- [[GRE]]
 		- not required, not clear if they take it or not
 	- #fee 0
