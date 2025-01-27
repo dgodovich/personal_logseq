@@ -12,7 +12,9 @@
 - Interview
 	- 1/9 whole day
 	- 2/20 - 22 is the onsite visit
+		- 18 offers (I think, based on the email that was sent out)
 - Faculty:
+  collapsed:: true
 	- Need 5 to 10 ranked list for onsite visit
 	- [Duygu Özpolat](https://bduyguozpolat.org/)
 		- germ cell regeneration
@@ -21,9 +23,20 @@
 		- There's other people working on similar things
 			- [Victoria Cavalli](https://sites.wustl.edu/cavallilab/)
 			- [Philip Williams](https://sites.wustl.edu/williams/gallery/)
-			-
+	- [David Rudnick](https://profiles.wustl.edu/en/persons/david-rudnick)
+		- liver
 	- [Tony Tsai](https://sites.wustl.edu/tsailab/)
 		- also gastrulation but a new lab, and I think looking at things from a more biophysical perspective
+	- [Helen McNeill](https://mcneilllab.wustl.edu/)
+		- Hippo pathway
+	- [David Ornitz](https://ornitzlab.wustl.edu/)
+		- FGF signaling
+	- [Lori Setton](https://profiles.wustl.edu/en/persons/lori-setton)
+		- BME
+	- [Thorold Theunissen](https://theunissenlab.wustl.edu/)
+		- gastruloids and stem cell models
+	- [Lavinia Sheets](https://oto.wustl.edu/items/sheets-lab/)
+		- ear
 	- [Lila Solnica-Krezel](https://lsklab.wustl.edu/research-interests/)
 		- gastrulation and morphogenesis
 	- Theres a lot of people doing regeneration related things
