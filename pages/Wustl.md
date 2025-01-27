@@ -18,6 +18,10 @@
 		- germ cell regeneration
 	- [Mayssa Mokalled](https://www.mokalledlab.com/)
 		- neural axon regeneration
+		- There's other people working on similar things
+			- [Victoria Cavalli](https://sites.wustl.edu/cavallilab/)
+			- [Philip Williams](https://sites.wustl.edu/williams/gallery/)
+			-
 	- [Tony Tsai](https://sites.wustl.edu/tsailab/)
 		- also gastrulation but a new lab, and I think looking at things from a more biophysical perspective
 	- [Lila Solnica-Krezel](https://lsklab.wustl.edu/research-interests/)
