@@ -13,18 +13,16 @@
 	- 1/9 whole day
 	- 2/20 - 22 is the onsite visit
 - Faculty:
-	- [Lila Solnica-Krezel](https://lsklab.wustl.edu/research-interests/)
-		- gastrulation and morphogenesis
-	- [Tony Tsai](https://sites.wustl.edu/tsailab/)
-		- also gastrulation but a new lab, and I think looking at things from a more biophysical perspective
-	- Theres a lot of people doing regeneration related things
-	- Xiaowei Li
-		- working on biomaterials but doesn't have a lab website so dunno
+	- Need 5 to 10 ranked list for onsite visit
 	- [Duygu Özpolat](https://bduyguozpolat.org/)
 		- germ cell regeneration
 	- [Mayssa Mokalled](https://www.mokalledlab.com/)
 		- neural axon regeneration
-	-
+	- [Tony Tsai](https://sites.wustl.edu/tsailab/)
+		- also gastrulation but a new lab, and I think looking at things from a more biophysical perspective
+	- [Lila Solnica-Krezel](https://lsklab.wustl.edu/research-interests/)
+		- gastrulation and morphogenesis
+	- Theres a lot of people doing regeneration related things
 - [[Writing Prompts]]
   collapsed:: true
 	- DBBS Essay 1
