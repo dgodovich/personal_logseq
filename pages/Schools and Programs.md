@@ -9,6 +9,9 @@
 		- INTERVIEW!!!
 		  background-color:: green
 			- heard back 12/13
+		- ACCEPTED!!!!
+		  background-color:: blue
+			- holy shit
 	- [[Wustl]] St Louis
 		- Developmental, Regenerative and Stem Cell Biology
 		- [Application Website](https://gradadmit.wustl.edu/account/login)
