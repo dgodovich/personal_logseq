@@ -6,7 +6,13 @@
 		- Medical school has the [Office of Biomedical Graduate Education](https://medschool.duke.edu/education/biomedical-phd-programs/office-biomedical-graduate-education) that covers all the programs I care about like dev and stem cell bio, cmb, etc
 	- Dev bio is not degree granting, you get it from one of the other departments
 		- But I will be applying directly to it
+- Notes after acceptance
+	- Holy shit I got accepted
+	- Should arrive in Durham by August 11
+	- August 19 is new grad student orientation
+	- biocore would be earlier than this but I think I will not be doing that
 - Info session
+  collapsed:: true
 	- Campus is contiguous - eveything isvey close by (medical school, engineeing, biology)
 	- over 60 facutly in DSCB
 	- DSCB currently has 41 students
@@ -27,6 +33,7 @@
 	- Certificates for teaching, industry internships, clinical shadowing (molecular scholars)
 	-
 - Interview
+  collapsed:: true
 	- 4 30min zoom interviews between 1/6 and 1/21
 		- 2 faculty
 		- 2 admissions committee
@@ -89,6 +96,7 @@
 			  "myleszhou@outlook.com" <myleszhou@outlook.com> |
 		- at least one of these people (sydney crump) was also interviewing at WashU
 - Faculty:
+  collapsed:: true
 	- [check out these faculty members in the duke regeneration center](https://sites.duke.edu/dukeregenerationcenter/affiliated-faculty/)
 		- none of them have primary appointments in dev bio which is interesting
 			- Oh it's because no one has a primary appointment in dev bio lmao
@@ -127,6 +135,7 @@
 	- Optional Video Essay:
 		- How would a Duke PhD training experience help you achieve your academic and professional goals? Max video length 2 minutes; record externally and provide URL in application.
 - Other application notes:
+  collapsed:: true
 	- [Departmental guidance on applications](https://medschool.duke.edu/education/biomedical-phd-programs/developmental-stem-cell-biology-program/prospective-dscb-students)
 	- GRE
 		- not required but can submit

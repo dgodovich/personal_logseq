@@ -9,6 +9,8 @@
 	- [admissions page](https://dbbs.wustl.edu/programs/developmental-regenerative-stem-cell-biology/)
 	- [Institute of Clinical and Translational Sciences](https://icts.wustl.edu/)
 	- [Center of Regenerative Medicine](https://regenerativemedicine.wustl.edu/)
+- Notes after acceptance
+	- August 25th is the first day of classes, I assume there's some orientation things happening before then
 - Interview
 	- 1/9 whole day
 	- 2/20 - 22 is the onsite visit
