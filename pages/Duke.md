@@ -96,7 +96,6 @@
 			  "myleszhou@outlook.com" <myleszhou@outlook.com> |
 		- at least one of these people (sydney crump) was also interviewing at WashU
 - Faculty:
-  collapsed:: true
 	- [check out these faculty members in the duke regeneration center](https://sites.duke.edu/dukeregenerationcenter/affiliated-faculty/)
 		- none of them have primary appointments in dev bio which is interesting
 			- Oh it's because no one has a primary appointment in dev bio lmao
