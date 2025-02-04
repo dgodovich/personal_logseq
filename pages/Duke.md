@@ -113,6 +113,9 @@
 		- ECM and tissue remodeling
 	- [Shyni Varghese](https://varghese.pratt.duke.edu/)
 		- scaffolds and tissue engineering
+		- Nope
+			- I did not like talking to her at all
+			- She has never taken a dscb student and gave 0 insight about what a potential project would look like in her lab. Doesn't seem all that supportive
 	- [Donald Fox](https://www.foxlabduke.com/)
 		- codon bias and hypertrophy in regeneration
 	- [Stefano Di Talia](https://sites.duke.edu/ditalialab/)? not sure
