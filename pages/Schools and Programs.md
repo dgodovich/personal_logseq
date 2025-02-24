@@ -40,7 +40,9 @@
 			- gah stressful
 			- second wave on 12/13, soft reject?
 		- [Application Website](https://apply.utsouthwestern.edu/grad/Security/Login.aspx?ReturnUrl=%2fgrad)
-	- [[Stanford]] SF
+		- ACCEPTED!
+			- stopped using this to track stuff though
+	- [[Stanford]] rejected
 	  collapsed:: true
 		- Stem Cell Biology and Regenerative Medicine
 		- [Application Website](https://applygrad.stanford.edu/portal/grad-app)

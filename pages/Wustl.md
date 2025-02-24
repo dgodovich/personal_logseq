@@ -11,6 +11,7 @@
 	- [Center of Regenerative Medicine](https://regenerativemedicine.wustl.edu/)
 - Notes after acceptance
 	- August 25th is the first day of classes, I assume there's some orientation things happening before then
+	- August 1st first day of orientation
 - Interview
 	- 1/9 whole day
 	- 2/20 - 22 is the onsite visit
