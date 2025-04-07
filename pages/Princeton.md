@@ -6,10 +6,15 @@
 	-
 - Faculty:
   id:: c2a8a020-226e-4fa0-9bd0-c05992a63269
+  collapsed:: true
 	- Stas
+		- I don't think I will end up working with Stas, that seems like too much
+		- But, he would be a great person to continue having a relationship with, continued mentorship
 	- [Danelle Devenport](https://molbio.princeton.edu/people/danelle-devenport)
 		- [lab site](https://www.devenportlab.org/)
 		- tissue polarity and epithelial patterning
+		- She's very kind, I really liked talking to her, and the projects seem really interesting
+			- But long - it's all mouse genetics work, takes forever
 	- [Jean Schwarzbauer](https://molbio.princeton.edu/people/jean-e-schwarzbauer)
 		- ECM organization
 	- [Jared Toettcher](https://molbio.princeton.edu/people/jared-e-toettcher)
@@ -18,6 +23,7 @@
 		- [lab site](https://cohengroup.princeton.edu/)
 		- Engineering artificial cell arrangements
 		- Very interesting, I don't know anything about this
+		- He's a weird guy but seems really cool and like a very good mentor
 	- [Celeste Nelson](https://cbe.princeton.edu/people/celeste-nelson)
 		- [lab site](https://cmngroup.princeton.edu/)
 		- cell cooperation and signal integration

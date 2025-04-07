@@ -97,6 +97,7 @@
 		- at least one of these people (sydney crump) was also interviewing at WashU
 - Faculty:
   id:: e9f502cf-9f62-41b4-9019-86e028201760
+  collapsed:: true
 	- [check out these faculty members in the duke regeneration center](https://sites.duke.edu/dukeregenerationcenter/affiliated-faculty/)
 		- none of them have primary appointments in dev bio which is interesting
 			- Oh it's because no one has a primary appointment in dev bio lmao
@@ -104,14 +105,18 @@
 	- Varghese is not in the regeneration center but also looks cool
 	- was about to write Poss but he's moving his lab to UW (wisconsin)
 		- this also means probably no Stefano because his work in regeneration was with Poss
+			- They are continuing collaborations and Stefano has his own fish stuff
 		- Woon's friend said something about Dave sherwood also leaving to wisconsin? But I don't see that anywhere
+			- He is not
 	- [Nenad Bursac](https://bursaclab.pratt.duke.edu/)
 		- cardiac and skeletal muscle regeneration
 	- [Akankshi Munjal](https://www.munjallab.com/)
 		- morphogenesis in the zebrafish ear
 		- young PI! lab is only a few years old
+		- Nadia Eliora in her lab was very nice, email her if I go
 	- [Dave Sherwood](https://sites.duke.edu/sherwoodlab/)
 		- ECM and tissue remodeling
+		- Meh
 	- [Shyni Varghese](https://varghese.pratt.duke.edu/)
 		- scaffolds and tissue engineering
 		- Nope
@@ -119,7 +124,11 @@
 			- She has never taken a dscb student and gave 0 insight about what a potential project would look like in her lab. Doesn't seem all that supportive
 	- [Donald Fox](https://www.foxlabduke.com/)
 		- codon bias and hypertrophy in regeneration
+		- Talk to Rebecca in the Lai lab, she just got her phd in his lab
 	- [Stefano Di Talia](https://sites.duke.edu/ditalialab/)? not sure
+		- Yeah will probably rotate with him
+		- Woon, Yitong, Stas all agree that he is a very good mentor
+		- Dima style - physicist turned biologist
 - [[Writing Prompts]]
   collapsed:: true
 	- Write a statement (1-2 pages, single-spaced, in a 12-point font) indicating your purposes and objectives in undertaking graduate study, your special interests and plans, and your strengths and weaknesses in your chosen field. Briefly describe any research projects or any independent research in which you have actively participated and indicate how this has influenced your career interest and desire to pursue graduate studies. If COVID-19 has affected your previous academic
