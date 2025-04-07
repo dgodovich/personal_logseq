@@ -96,6 +96,7 @@
 			  "myleszhou@outlook.com" <myleszhou@outlook.com> |
 		- at least one of these people (sydney crump) was also interviewing at WashU
 - Faculty:
+  id:: e9f502cf-9f62-41b4-9019-86e028201760
 	- [check out these faculty members in the duke regeneration center](https://sites.duke.edu/dukeregenerationcenter/affiliated-faculty/)
 		- none of them have primary appointments in dev bio which is interesting
 			- Oh it's because no one has a primary appointment in dev bio lmao
@@ -119,8 +120,6 @@
 	- [Donald Fox](https://www.foxlabduke.com/)
 		- codon bias and hypertrophy in regeneration
 	- [Stefano Di Talia](https://sites.duke.edu/ditalialab/)? not sure
-	-
-	-
 - [[Writing Prompts]]
   collapsed:: true
 	- Write a statement (1-2 pages, single-spaced, in a 12-point font) indicating your purposes and objectives in undertaking graduate study, your special interests and plans, and your strengths and weaknesses in your chosen field. Briefly describe any research projects or any independent research in which you have actively participated and indicate how this has influenced your career interest and desire to pursue graduate studies. If COVID-19 has affected your previous academic
