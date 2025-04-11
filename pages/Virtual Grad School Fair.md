@@ -41,3 +41,4 @@
 	  |Van Andel|9am|8pm|
 	  |WUSTL|10am|12pm|
 -
+- #applying_to_grad_school

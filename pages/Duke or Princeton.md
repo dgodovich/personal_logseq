@@ -26,3 +26,4 @@
 		- If Princeton gives me an offer from the waitlist tomorrow or Monday, I will accept.
 		- But I am happy if they do not
 -
+- #applying_to_grad_school

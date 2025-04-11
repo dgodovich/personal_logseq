@@ -1,2 +1,2 @@
 - [Stats](https://gradschool.cornell.edu/about/program-metrics-assessments-and-outcomes/doctoral-program-statistics/)
--
+- #applying_to_grad_school

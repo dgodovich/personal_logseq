@@ -5,3 +5,4 @@
 	- Very small alumni network and really not that much of a student body
 	- This is especially a consideration in Kansas City where there isn't as much to do
 -
+- #applying_to_grad_school

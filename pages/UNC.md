@@ -1,3 +1,2 @@
-- Marianne Bronner
 -
 - #applying_to_grad_school

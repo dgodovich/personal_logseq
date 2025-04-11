@@ -1,2 +1,4 @@
 - I remember liking this program but I should revisit
 - I think they might have a joint program with [[UVA]]
+-
+- #applying_to_grad_school
