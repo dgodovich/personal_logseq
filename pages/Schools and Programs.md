@@ -2,7 +2,7 @@
 - [Google sheet from reddit](https://docs.google.com/spreadsheets/d/1PyZQYSXY2JAG2x--fZFClshIMkmmHwhx7Ez58VaGoFc/edit?gid=1252869988#gid=1252869988)
 	- [sheet from last year for time reference](https://docs.google.com/spreadsheets/d/1aSYBktWKtf_MEPw7TQVcxdwTJAXesi_Ws9PpBLe3eH0/edit?gid=0#gid=0)
 - [[Interviews]]
-- [[Schools I am applying to]] (not in any particular order)
+- Schools I am applying to
 	- [[Duke]] Durham / Research Triangle
 		- Developmental and Stem Cell Biology
 		- [Application website](https://applygp.duke.edu/apply/?sr=ff282888-94bf-4e9e-af2b-868e6f1c72a1)
@@ -12,7 +12,17 @@
 		- ACCEPTED!!!!
 		  background-color:: blue
 			- holy shit
+	- [[Princeton]] Princeton (NYC)
+		- Molecular Biology with interest in Cell Biology, Development and Cancer track
+		- [Application Website](https://graduate-apply.princeton.edu/apply/)
+		- INTERVIEW!!!
+		  background-color:: green
+			- 1/23 - 26 or 2/6 - 9
+				- 2/6 - 9 intersects with ski so I guess 1/23 - 26
+			- in person hehe
+		- Waitlist
 	- [[Wustl]] St Louis
+	  collapsed:: true
 		- Developmental, Regenerative and Stem Cell Biology
 		- [Application Website](https://gradadmit.wustl.edu/account/login)
 		- INTERVIEW!!
@@ -22,15 +32,9 @@
 		- ACCEPTED!!
 		  background-color:: blue
 			- lets fucking gooooo
-	- [[Princeton]] Princeton (NYC)
-		- Molecular Biology with interest in Cell Biology, Development and Cancer track
-		- [Application Website](https://graduate-apply.princeton.edu/apply/)
-		- INTERVIEW!!!
-		  background-color:: green
-			- 1/23 - 26 or 2/6 - 9
-				- 2/6 - 9 intersects with ski so I guess 1/23 - 26
-			- in person hehe
+		- Rescinded, offered to defer which I declined
 	- [[UT Southwestern]]
+	  collapsed:: true
 		- BBS umbrella, interest in Dev Bio or Cell and Molecular bio tracks
 		- INTERVIEW!
 		  background-color:: green
@@ -42,6 +46,7 @@
 		- [Application Website](https://apply.utsouthwestern.edu/grad/Security/Login.aspx?ReturnUrl=%2fgrad)
 		- ACCEPTED!
 			- stopped using this to track stuff though
+		- Declined
 	- [[Stanford]] rejected
 	  collapsed:: true
 		- Stem Cell Biology and Regenerative Medicine
@@ -80,7 +85,7 @@
 		  background-color:: red
 			- Came exactly on 12/18
 			- Expecting to hear back ~12/18
-- [[Schedule]]
+- [[Schedule for Grad Apps]]
 	- I'm gonna pretend that I followed this
 - List of all schools I am interested in / thinking about
   collapsed:: true
@@ -135,3 +140,5 @@
 	- I want a program that has rotations
 	- I should make a spreadsheet
 	- How the hell do I actually narrow down to programs I want to apply to??
+-
+- #applying_to_grad_school

@@ -72,3 +72,4 @@
 	- [[Deadline]]
 		- December 1, 2024 11:59 PM CT
 -
+- #applying_to_grad_school

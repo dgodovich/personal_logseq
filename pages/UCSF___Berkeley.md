@@ -58,3 +58,5 @@
 		- institution code for Berkeley is 4833 and the Department code is 1603
 	- [[Deadline]]
 		- 12/1/2024 at 8:59 PM Pacific Time
+-
+- #applying_to_grad_school

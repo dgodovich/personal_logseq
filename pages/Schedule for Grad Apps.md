@@ -61,3 +61,5 @@
 		- TODO write thoughts about how to prep for interviews, this is low priority
 -
 - Applications due December 1st
+-
+- #applying_to_grad_school

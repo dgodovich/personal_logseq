@@ -1,6 +1,0 @@
-- [[UCSF/Berkeley]]
-- [[Duke]]
-- [[Tri-I]]
-	- probably Rockefeller
-- [[Harvard]]
--

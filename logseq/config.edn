@@ -133,6 +133,7 @@
  ;; :default-home {:page "Jun 3rd, 2021"}
  ;; 3. Set "home" as the home page and display multiple pages in the right sidebar:
  ;; :default-home {:page "home", :sidebar ["Page A" "Page B"]}
+ ;; :default-home {:page "Schools and Programs"}
 
  ;; Set the default location for storing notes.
  ;; Default value: "pages"
@@ -420,4 +421,4 @@
  ;;      ;use Percent-encoding for other invalid characters
  :file/name-format :triple-lowbar
  :feature/enable-journals? true
- :default-home {:page "Schools and Programs"}}
+ }

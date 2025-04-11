@@ -29,3 +29,5 @@
 	- Johns Hopkins
 		- it automatically associated with my application which is nice
 		- That didn't happen with Duke so maybe they don't have it
+-
+- #applying_to_grad_school

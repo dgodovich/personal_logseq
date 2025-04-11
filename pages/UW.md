@@ -55,6 +55,7 @@
 			- Valerie Daggett
 			- Hao Yuan Kueh
 		- Genome Sciences overlaps: (bit too many lol)
+		  collapsed:: true
 			- 'Philip Abitua'
 			- 'David Baker'
 			- 'Trevor Bedford'
@@ -97,6 +98,7 @@
 		- Jay Shendure
 		- Cole Trapnell
 - [[Writing Prompts]]
+  collapsed:: true
 	- Please provide a bullet-point list of your different research experiences including summer research internships, academic year research, post-baccalaureate, and/or work-related experiences. For each experience, include a very brief description and include the Institution, Department, lab head name, project title, and start/end date.
 	  1500 character max
 	- What is your total amount of full-time research experience? Full-time is considered 100% effort for at least 40 hours per week. Please state your experience in months and/or years. (100 character limit).
@@ -121,3 +123,4 @@
 	- [[Deadline]]
 		- 12/02/2024 11:59 Pacific Time
 -
+- #applying_to_grad_school

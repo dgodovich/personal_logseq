@@ -29,3 +29,5 @@
 		- Selected applicants will be invited for in-person campus visit in late Feb or early march
 	- [[Deadline]]
 		- December 3, 2024, 11:59:59 pm ET
+-
+- #applying_to_grad_school
