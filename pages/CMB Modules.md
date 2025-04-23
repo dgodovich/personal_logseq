@@ -4,7 +4,16 @@
 		- Mandatory class for DSCB
 	- Cell Migration / Invasion Dev Cancer
 		- Sherwood
-	- Use of Human Genomics to Streamline Therapeutics
+	- Use of Human Genetics to Streamline Therapeutics
 		- Karra
 	- Cancer immunology
 		- Hartman
+- CMB 710B
+	- Receptor Signaling Networks
+		- Rajagopal
+	- Microscopy of Cell Biology
+		- Carlson & Cameron
+	- Diversity and Evolution of the Cytoskeletal system
+		- Onishi
+	- Stem Cell Aging
+		- Chakkalakal

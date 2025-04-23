@@ -3,15 +3,6 @@
 	- [sheet from last year for time reference](https://docs.google.com/spreadsheets/d/1aSYBktWKtf_MEPw7TQVcxdwTJAXesi_Ws9PpBLe3eH0/edit?gid=0#gid=0)
 - [[Interviews]]
 - Schools I am applying to
-	- [[Duke]] Durham / Research Triangle
-		- Developmental and Stem Cell Biology
-		- [Application website](https://applygp.duke.edu/apply/?sr=ff282888-94bf-4e9e-af2b-868e6f1c72a1)
-		- INTERVIEW!!!
-		  background-color:: green
-			- heard back 12/13
-		- ACCEPTED!!!!
-		  background-color:: blue
-			- holy shit
 	- [[Princeton]] Princeton (NYC)
 		- Molecular Biology with interest in Cell Biology, Development and Cancer track
 		- [Application Website](https://graduate-apply.princeton.edu/apply/)
@@ -21,6 +12,19 @@
 				- 2/6 - 9 intersects with ski so I guess 1/23 - 26
 			- in person hehe
 		- Waitlist
+		- And I got in
+			- Lets fucking go I'm going to Princeton
+			- Princeton man baby
+	- [[Duke]] Durham / Research Triangle
+	  collapsed:: true
+		- Developmental and Stem Cell Biology
+		- [Application website](https://applygp.duke.edu/apply/?sr=ff282888-94bf-4e9e-af2b-868e6f1c72a1)
+		- INTERVIEW!!!
+		  background-color:: green
+			- heard back 12/13
+		- ACCEPTED!!!!
+		  background-color:: blue
+			- holy shit
 	- [[Wustl]] St Louis
 	  collapsed:: true
 		- Developmental, Regenerative and Stem Cell Biology
