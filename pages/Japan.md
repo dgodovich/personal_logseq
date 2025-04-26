@@ -3,4 +3,4 @@
 	- June 17 - 24 Karuizawa / Toyama? / West coast?
 	- June 24 - July 1 Kyoto / Osaka (with John?)
 -
--
+- [[Fuji + Ryokan]]

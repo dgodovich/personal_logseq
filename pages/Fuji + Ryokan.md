@@ -1,0 +1,5 @@
+- Tattoo friendly ryokan options in Kawaguchiko
+	- Kaze no Terrace KUKUNA
+	- Wakakusa no Yado Maruei
+	- Fuji Lake Hotel
+	-
