@@ -58,7 +58,7 @@
 - December
 	- Wait for interviews
 	- Prep as much as possible
-		- TODO write thoughts about how to prep for interviews, this is low priority
+		- DONE write thoughts about how to prep for interviews, this is low priority
 -
 - Applications due December 1st
 -
