@@ -16,17 +16,9 @@
 - Shirakawa-go
 	- Gassho options
 		- all have dinner and breakfast included
-		- Ootaya
-			- 6 tatami thursday or friday 6/19 20;  22,000 yen
-			- This one is closer to the bus station and the main town
-			- slightly later dinner available (must be before 8pm)
-			- 9pm curfew
-		- Kanjya
-			- 22,550 for friday, 23,650 for saturday
-			- unclear tatami count, but says 1-2 people so probably like 6-8
-			- 9pm curfew
 		- Kidoya
 			- Friday 13,750 (cheapest by far)
+			- selected 3:30 check in
 			- 10pm curfew
 			- 6pm dinner
 			- rental yukata for 500 yen
