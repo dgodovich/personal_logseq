@@ -12,5 +12,16 @@
 		- day trip to Nikko?
 - Decide where I'm going
 	- Book literally all of that bruh
+-
+- Shirakawa-go
+	- Gassho options
+		- Furusato
+			- 8 tatami thursday 6/19 20,900 yen
+		- Ootaya
+			- 6 tatami thursday or friday 6/19 20;  22,000 yen
+		- Kanjya
+			-
+		- Kidoya
+-
 - Taipei
 - Bangkok
