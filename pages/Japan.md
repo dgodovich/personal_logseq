@@ -49,6 +49,3 @@
 			- 10pm curfew
 			- 6pm dinner
 			- rental yukata for 500 yen
--
-- Taipei
-- Bangkok
