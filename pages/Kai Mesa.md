@@ -1,0 +1,3 @@
+- Meeting [[Aug 18th, 2025]]
+	- Talking about potential rotation projects
+	-
