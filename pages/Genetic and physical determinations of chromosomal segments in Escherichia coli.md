@@ -50,7 +50,7 @@ links:: [Local library](zotero://select/library/items/K88TJKRM), [Web library](h
 			- Low frequency of transfer is the issue
 		- Hypothesis is that F+ doesn't actually exist and there's just a low proportion of *Hfr* in that population
 			- Ah I am thinking about this wrong
-			- F+ is a gene, not a cell (although similar in concept)
+			- F+ is a plasmid, not a cell (although similar in concept)
 			- What this is actually saying is that some genes are capable of being transferred, while others are not
 			- So called F+ genes can have additional mutations that make them into Hfr, and those are the ones that get transferred
 	- Pattern of chromosome transfer in *Hfr* mutants
