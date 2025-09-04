@@ -17,5 +17,8 @@
 		- Seems like a cool guy - does ironmans and half marathons with his lab
 	- [[Kai Mesa]]
 		- Central question - we lose billions of cells every day, how are they replaced?
+			- How do cells locally coordinate tissue regeneration over a lifetime? Things fall apart as you age
+		- Help to build the tissue as it's growing - mouse macrophages seed as early as E9
+		- Label individual macrophages is difficult, just image all of them
 		-
 	-
