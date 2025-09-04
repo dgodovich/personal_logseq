@@ -1,16 +1,21 @@
-- [[Sep 4th, 2025]] [[Yibin Kang]]
-	- What drives cancer metastasis? How do cancer cells modulate their fitness?
-	- Metastatic niches
-		- Something has to happen around the location of cancer leaving to organize it
-	- Bone is the most common metastatic site in breast cancer
-		- cancer associated anemia
-			- Hard to treat because drugs could make cancer worse
-			- Iron deficiency I guess isn't that treatable?
-		- Tumor colonizes bone and starts to destroy the bone matrix
-		- Tumor boundary lined with osteoclasts
-	- Iron recycling macrophages are the ones that are particularly disturbed by metastasis
-		- Bone marrow has erythroblast island macrophages that feed nascent RBC
-		- They're attracted to the tumor - probably because of the metabolism?
-			- Tumors take up features of the red blood cells so that it can survive in hypoxic conditions
-		- So there's less mature blood cells being made
+- [[Sep 4th, 2025]]
+	- [[Yibin Kang]]
+		- What drives cancer metastasis? How do cancer cells modulate their fitness?
+		- Metastatic niches
+			- Something has to happen around the location of cancer leaving to organize it
+		- Bone is the most common metastatic site in breast cancer
+			- cancer associated anemia
+				- Hard to treat because drugs could make cancer worse
+				- Iron deficiency I guess isn't that treatable?
+			- Tumor colonizes bone and starts to destroy the bone matrix
+			- Tumor boundary lined with osteoclasts
+		- Iron recycling macrophages are the ones that are particularly disturbed by metastasis
+			- Bone marrow has erythroblast island macrophages that feed nascent RBC
+			- They're attracted to the tumor - probably because of the metabolism?
+				- Tumors take up features of the red blood cells so that it can survive in hypoxic conditions
+			- So there's less mature blood cells being made
+		- Seems like a cool guy - does ironmans and half marathons with his lab
+	- [[Kai Mesa]]
+		- Central question - we lose billions of cells every day, how are they replaced?
+		-
 	-
