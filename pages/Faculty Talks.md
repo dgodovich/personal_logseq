@@ -27,5 +27,15 @@
 		- Remove bone marrow and replace with red labelled
 			- New macrophages coming from blood monocytes will be red
 			- The new ones go into the lower dermis - upper and epi are locally grown
-		-
+		- Can label individual macrophages with an inducible cre + low dosage of tamoxifen (can fine tune cre activity)
+			- Track labeled cell over time
+			- Does not move and eventually can divide
+			- Lower dermis has much more loss than division (monocyte source)
+			- Upper dermis is more balanced, but there's still more loss
+		- CSF1 (macrophage growth factor) can expand macrophage population in old mice, and it helps with blood flow too
+		- Current projects
+		  background-color:: green
+			- Development - how to locally coordinate? grad student, paw - rapidly grows in early life, what's going on with cell types there
+			- Regeneration - rebuild from scratch? postdoc, ear can regenerate, but it's very limited as to where
+			- Aging - drivers of impaired regeneration? lab manager
 	-
