@@ -49,6 +49,17 @@ links:: [Local library](zotero://select/library/items/K88TJKRM), [Web library](h
 			- Effective contacts are the same
 			- Low frequency of transfer is the issue
 		- Hypothesis is that F+ doesn't actually exist and there's just a low proportion of *Hfr* in that population
+			- Ah I am thinking about this wrong
+			- F+ is a gene, not a cell (although similar in concept)
+			- What this is actually saying is that some genes are capable of being transferred, while others are not
+			- So called F+ genes can have additional mutations that make them into Hfr, and those are the ones that get transferred
+	- Pattern of chromosome transfer in *Hfr* mutants
+		- Hfr mutants have to be different because they can only transfer some genes and not others
+		- No Hfr mutant has been found that can transfer all known markers
+			- Any gene can be transferred by some mutant, but they are distinct
+		- You can learn from any given mutant the order that they transfer things by interrupting transfer by blending
+		- chromosome starts transferring from O, and that origin determines which genes get transferred and when (but always in the same order)
+		- ![image.png](../assets/image_1757024181716_0.png)
 		-
 	-
 -
