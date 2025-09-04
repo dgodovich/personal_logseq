@@ -36,6 +36,6 @@
 		- Current projects
 		  background-color:: green
 			- Development - how to locally coordinate? grad student, paw - rapidly grows in early life, what's going on with cell types there
-			- Regeneration - rebuild from scratch? postdoc, ear can regenerate, but it's very limited as to where
-			- Aging - drivers of impaired regeneration? lab manager
+			- Regeneration - rebuild from scratch? postdoc, distal tip can regenerate, but it's very limited as to where
+			- Aging - drivers of impaired regeneration? lab manager, ear punch regeneration is dependent on age and location
 	-
