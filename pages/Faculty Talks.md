@@ -1,0 +1,11 @@
+- [[Sep 4th, 2025]] [[Yibin Kang]]
+	- What drives cancer metastasis? How do cancer cells modulate their fitness?
+	- Metastatic niches
+		- Something has to happen around the location of cancer leaving to organize it
+	- Bone is the most common metastatic site in breast cancer
+		- cancer associated anemia
+			- Hard to treat because drugs could make cancer worse
+			- Iron deficiency I guess isn't that treatable?
+		- Tumor colonizes bone and starts to destroy the bone matrix
+		- Tumor boundary lined with osteoclasts
+		-
