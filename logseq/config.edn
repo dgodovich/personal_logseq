@@ -421,5 +421,9 @@
  ;;      ;use Percent-encoding for other invalid characters
  :file/name-format :triple-lowbar
  :feature/enable-journals? true
- :graph/settings {:excluded-pages? true}
+ :graph/settings {:excluded-pages? false
+ :journal? false
+ :orphan-pages? true
+ :builtin-pages? false}
+ :zotero/settings-v2 {"default" {:type-id "6106196", :prefer-citekey? true, :include-attachments? false, :page-insert-prefix "", :overwrite-mode? false}}
  }
