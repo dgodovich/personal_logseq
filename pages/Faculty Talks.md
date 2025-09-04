@@ -20,5 +20,12 @@
 			- How do cells locally coordinate tissue regeneration over a lifetime? Things fall apart as you age
 		- Help to build the tissue as it's growing - mouse macrophages seed as early as E9
 		- Label individual macrophages is difficult, just image all of them
+		- Only macrophages in very close proximity respond to injury
+			- If you ablate proximal macrophages, there is no compensation
+		- Rac1 required to clear (phagocytosis), but there is still some recovery
+			- Loss of Rac1 also results in capillary loss over time - macrophages aren't able to efficiently clear debris
+		- Remove bone marrow and replace with red labelled
+			- New macrophages coming from blood monocytes will be red
+			- The new ones go into the lower dermis - upper and epi are locally grown
 		-
 	-
