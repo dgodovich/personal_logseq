@@ -60,6 +60,15 @@ links:: [Local library](zotero://select/library/items/K88TJKRM), [Web library](h
 		- You can learn from any given mutant the order that they transfer things by interrupting transfer by blending
 		- chromosome starts transferring from O, and that origin determines which genes get transferred and when (but always in the same order)
 		- ![image.png](../assets/image_1757024181716_0.png)
-		-
+			- This is the crux
+				- See that the order is always preserved, regardless of the actual one that comes first
+				- It can be backwards or forwards, but it is the same order (and it loops! wonder what else loops....)
+		- Bacteria must have a circular chromosome!
+		- Origin O chooses a place on the circle and that becomes the start
+		- Frequency of transmission decreases as you move along the circle
+			- Transfer polarity - some break is likely to happen during the transfer
+		- Very few recombinants become F+ or Hfr after conjugation, they stay F-
+			- Hfr gene is unlikely to transfer and is far from O
+			- Hfr recombinants pass on in the same order as their parent
 	-
 -
