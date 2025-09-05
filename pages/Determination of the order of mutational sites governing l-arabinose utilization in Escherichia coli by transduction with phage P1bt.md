@@ -41,4 +41,12 @@ links:: [Local library](zotero://select/library/items/H62XICFA), [Web library](h
 - Materials and Methods
 	- Will skim this
 	- Media has either arabinose or glucose as sugar, and w/ & w/o threonine and leucine
+	- *Escherichia coli* B/r, threonine requiring mutant, leucine requiring mutant (auxotroph)
+	- *thr leu* strain was the basis for all arabinose mutants
+		- *thr* mutant irradiated and *ara* mutant isolated
+		- Phage was grown on the *leu* mutant and transduced the *thr ara* strain
+		- selected for *ara*+ transductants
+		- One clone that was auxotrophic for leu, thr, and ara was the parent
+	- These are mutants that can't use arabinose
+	- They also make a complementary strain that is *thr+ ara leu+*
 	-
