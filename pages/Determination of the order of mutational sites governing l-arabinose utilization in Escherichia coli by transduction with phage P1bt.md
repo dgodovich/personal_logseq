@@ -69,5 +69,8 @@ links:: [Local library](zotero://select/library/items/H62XICFA), [Web library](h
 	- Order of ara sites
 		- Reciprocal crosses with pairs of ara mutants
 		- In each case the recipient is auxotrophic for thr and leu and the donor is thr+ leu+
+		- ![image.png](../assets/image_1757037132295_0.png)
+		- Crossing over has to happen multiple times and that results in combinations of phenotypes that can give you information about chromosomal positioning
+		- Select for ara+ and score for leu+ and thr+
 		-
 -
