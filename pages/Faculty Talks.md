@@ -1,3 +1,13 @@
+- [[Sep 5th, 2025]]
+	- [[Martin Jonikas]]
+		- Rubisco is normally slow, but some organisms (algae, cyanobacteria, C4 plants (corn)) are a lot faster because they concentrate CO2
+		- Algae has all of the rubisco organized into a subdomain of the chloroplast, the pyrenoid
+		- 1/3 of global CO2 assimilation happens in a pyrenoid
+		- spherical matrix packed with rubisco
+			- Large structure, 1-2 um
+		- membrane tubules traverse the center
+		- surrounded by starch sheath, thought to slow escape of CO2
+		-
 - [[Sep 4th, 2025]]
 	- [[Yibin Kang]]
 		- What drives cancer metastasis? How do cancer cells modulate their fitness?
