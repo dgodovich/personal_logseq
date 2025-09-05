@@ -7,6 +7,7 @@
 			- Large structure, 1-2 um
 		- membrane tubules traverse the center
 		- surrounded by starch sheath, thought to slow escape of CO2
+		- Very cool, foundational stuff. I think I'm not too interested but it's very exciting work
 		-
 - [[Sep 4th, 2025]]
 	- [[Yibin Kang]]
