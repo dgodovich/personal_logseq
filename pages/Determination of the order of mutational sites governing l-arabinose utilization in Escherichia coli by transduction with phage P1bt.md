@@ -71,6 +71,14 @@ links:: [Local library](zotero://select/library/items/H62XICFA), [Web library](h
 		- In each case the recipient is auxotrophic for thr and leu and the donor is thr+ leu+
 		- ![image.png](../assets/image_1757037132295_0.png)
 		- Crossing over has to happen multiple times and that results in combinations of phenotypes that can give you information about chromosomal positioning
+			- Frequency of phenotypes matters because quadruple crossovers are rarer than double
 		- Select for ara+ and score for leu+ and thr+
-		-
+		- ![image.png](../assets/image_1757037695070_0.png)
+			- Basically - when the recipient has a higher percentage with leu+ than the reciprocal, it's closer to leu+
+		- thr is kinda far away so all the numbers are low, they stop using it
+		  id:: 68ba447f-0dcf-4c3e-865a-e0b6fff6d3bc
+		- No need to do every cross since you can do placements, like a logic puzzle
+		- Use 1 2 3 as landmarks to place the other 14 mutants
+			- 21 and 19 are the same
+			-
 -
