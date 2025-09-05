@@ -80,5 +80,10 @@ links:: [Local library](zotero://select/library/items/H62XICFA), [Web library](h
 		- No need to do every cross since you can do placements, like a logic puzzle
 		- Use 1 2 3 as landmarks to place the other 14 mutants
 			- 21 and 19 are the same
-			-
+			- ![image.png](../assets/image_1757037990493_0.png)
+				- final layout
+	- Negative Interference
+		- non adjacent mutations have larger differences?
+		- Proportion of leu+ transductants in the high member decreases and the low increases
+		-
 -
