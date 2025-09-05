@@ -99,4 +99,5 @@ links:: [Local library](zotero://select/library/items/H62XICFA), [Web library](h
 			- i.e. ara-1 donor is 250:1, ara-2 donor is 50:1
 		- Something to do with group C being resistant to arabinose?
 		- Abortive transduction is when the DNA is not incorporated into the genome
+			- So the group C mutation is still there and the colony is able to barely survive?
 -
