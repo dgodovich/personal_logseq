@@ -26,7 +26,7 @@ links:: [Local library](zotero://select/library/items/K88TJKRM), [Web library](h
 			- they're all the same
 		- Two main types of donors
 			- Most are F+
-				- When mixed with F- cells they have a low frequency (10^-5)
+				- When mixed with F- cells they have a low frequency of recombination (10^-5)
 			- Some strains have a high frequency of recombination and are called *Hfr*
 				- but this is actually only for certain parts of their genome
 				- Up to 1/10
@@ -41,9 +41,9 @@ links:: [Local library](zotero://select/library/items/K88TJKRM), [Web library](h
 				- Genetic character linearly arranged on the *Hfr* chromosome penetrate in a specific order and always in the same way, starting from O (origin)
 				- Interruption of mating doesn't stop anything that already made it from being integrated
 				- Spontaneous breaks happen, so you normally don't get the whole chromosome transferred
-			- 3. Recombination, *Hfr* fragment integrates
-			- 4. Expression, now that F- has it, it makes protein
-		- Things further on the chromosome are slower to integrate and less likely
+			- 3. Recombination: *Hfr* fragment integrates
+			- 4. Expression: now that F- has it, it makes protein
+		- Things further on the chromosome are slower to integrate and less likely to be found in a recombinant
 	- The mating system of *E. coli* K-12
 		- Comparing *Hfr* and F+ - what's the difference?
 			- Effective contacts are the same
@@ -51,7 +51,6 @@ links:: [Local library](zotero://select/library/items/K88TJKRM), [Web library](h
 		- Hypothesis is that F+ doesn't actually exist and there's just a low proportion of *Hfr* in that population
 			- Ah I am thinking about this wrong
 			- F+ is a plasmid, not a cell (although similar in concept)
-			- What this is actually saying is that some genes are capable of being transferred, while others are not
 			- So called F+ genes can have additional mutations that make them into Hfr, and those are the ones that get transferred
 	- Pattern of chromosome transfer in *Hfr* mutants
 		- Hfr mutants have to be different because they can only transfer some genes and not others
