@@ -24,4 +24,21 @@ links:: [Local library](zotero://select/library/items/H62XICFA), [Web library](h
 	- thr and leu located on either side of the arabinose cluster
 	- abortive transduction tests
 	- assayed with complementation
+	- I didn't really understand that but lets get into it
+- Introduction
+	- auxotrophic salmonella mutants for tryptophan and histidine can be divided into groups based on blocks in biosynthesis
+		- Does he mean literal block like they can't do this or block like genomic chunks
+	- Mutants in different groups were linked in transduction experiments
+		- I don't know what that means either
+	- Grouping of mutant sites on the chromosome corresponds closely to grouping by functional criteria
+		- Sooo like operons? lac z y a all close together
+	- "Order of groups on the chromosome was the same as that of the sequence of biochemical reactions which they controlled"
+		- so yes like operons
+	- Most mutant site orders haven't been determined
+	- You can jointly transduce genes that are close to each other
+		- In this case thr leu and ara markers can be done together (ara in the middle)
+	- So they go about using that joint transduction strategy to locate 17 arabinose mutants
+- Materials and Methods
+	- Will skim this
+	- Media has either arabinose or glucose as sugar, and w/ & w/o threonine and leucine
 	-
