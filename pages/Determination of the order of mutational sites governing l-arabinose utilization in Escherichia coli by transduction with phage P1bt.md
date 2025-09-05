@@ -49,4 +49,24 @@ links:: [Local library](zotero://select/library/items/H62XICFA), [Web library](h
 		- One clone that was auxotrophic for leu, thr, and ara was the parent
 	- These are mutants that can't use arabinose
 	- They also make a complementary strain that is *thr+ ara leu+*
-	-
+- Results
+	- Position of ara Mutants in Relation to thr and leu
+		- ara-2 and ara-3 are on opposite ends of the arabinose region
+		- But generally arabinose is close to leu and far from thr
+			- estimated by frequencies of joint transduction
+		- Order is *thr ara leu* and not *thr leu ara* is
+			- 6% of thr+ transductants are ara+, 4% are leu+
+			- 80% of thr+ leu+ transductants are ara+, 55.4% leu+ are ara+
+			- ![image.png](../assets/image_1757035211157_0.png)
+			- ara-2 is further away, lower percent cotransduction with leu+
+	- Recombination between ara mutants
+		- nonidentical ara mutants are crossed. Recipient is auxotrophic for both, donor is + for both thr and leu
+			- select for thr leu ara triple + (on separate plates)
+			- thr+ and leu+ are similar numbers to wt donor, but ara+ is lower
+		- Estimate the distance between two ara sites by ratio of ara+ to leu+ transductants in the same experiment
+			- Looking for complementation?
+			- Ratio is ~70% with any ara mutant and wt donor and varies for the various ara mutants
+	- Order of ara sites
+		- Reciprocal crosses with pairs of ara mutants
+		- In each case the recipient is auxotrophic for thr and leu and the donor is thr+ leu+
+		-
