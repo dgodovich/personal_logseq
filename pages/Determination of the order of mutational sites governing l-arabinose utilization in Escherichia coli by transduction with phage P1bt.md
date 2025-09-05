@@ -88,5 +88,15 @@ links:: [Local library](zotero://select/library/items/H62XICFA), [Web library](h
 		- So I think negative interference means that there's more crossing over events so what that means is that the quadruple cross over that's required is more likely to happen
 	- Division of the 17 mutants into A B C groups on the basis of physiological differences
 		- arabinose metabolism requires a ketose intermediate (ribulose)
-		-
+		- Group A mutants are inhibited by arabinose and have trace keto sugar (ara 2, 13, 17, 4)
+		- Group B mutants are inhibited, but have large amounts of keto sugar (1, 16,6,23,14,15,24,8)
+			- All of them accumulate L ribulose
+		- Group C mutants is resistant to arabinose and has small amounts of keto sugar (3, 12,5,19/21)
+	- Identification of Group C mutants by Abortive Transduction
+		- minute colonies are present in group C but not in A or B when used with wt donor
+		- Do not make minute colonies when transduced by phage from group C mutants
+		- Ratio with wt is 6:1, phage from A or B ratio decreases with distance
+			- i.e. ara-1 donor is 250:1, ara-2 donor is 50:1
+		- Something to do with group C being resistant to arabinose?
+		- Abortive transduction is when the DNA is not incorporated into the genome
 -
