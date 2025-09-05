@@ -8,6 +8,9 @@
 		- membrane tubules traverse the center
 		- surrounded by starch sheath, thought to slow escape of CO2
 		- Very cool, foundational stuff. I think I'm not too interested but it's very exciting work
+	- [[Sabine Petry]]
+		- Microtubules
+		- german youth champion in pentathlon and pro basketball player in germany
 		-
 - [[Sep 4th, 2025]]
 	- [[Yibin Kang]]
