@@ -11,7 +11,9 @@
 	- [[Sabine Petry]]
 		- Microtubules
 		- german youth champion in pentathlon and pro basketball player in germany
-		-
+		- I didn't take any notes but spindle branching
+		- Also cool stuff
+		- They build a spindle
 - [[Sep 4th, 2025]]
 	- [[Yibin Kang]]
 		- What drives cancer metastasis? How do cancer cells modulate their fitness?
