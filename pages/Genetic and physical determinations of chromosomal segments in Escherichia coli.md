@@ -50,8 +50,10 @@ links:: [Local library](zotero://select/library/items/K88TJKRM), [Web library](h
 			- Low frequency of transfer is the issue
 		- Hypothesis is that F+ doesn't actually exist and there's just a low proportion of *Hfr* in that population
 			- Ah I am thinking about this wrong
-			- F+ is a plasmid, not a cell (although similar in concept)
+			- F+ is a cell that has a sex plasmid
 			- So called F+ genes can have additional mutations that make them into Hfr, and those are the ones that get transferred
+				- So what this actually is is that the F plasmid can integrate into the chromosome and that's what makes it Hfr
+				- F+ / F- crosses don't have recombinants because the plasmid alone doesn't transfer, that only happens when it's Hfr
 	- Pattern of chromosome transfer in *Hfr* mutants
 		- Hfr mutants have to be different because they can only transfer some genes and not others
 		- No Hfr mutant has been found that can transfer all known markers
@@ -69,5 +71,5 @@ links:: [Local library](zotero://select/library/items/K88TJKRM), [Web library](h
 		- Very few recombinants become F+ or Hfr after conjugation, they stay F-
 			- Hfr gene is unlikely to transfer and is far from O
 			- Hfr recombinants pass on in the same order as their parent
+- That's all part 1, he said we don't have to read part 2
 	-
--
