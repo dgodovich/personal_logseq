@@ -18,4 +18,10 @@ library-catalog:: DOI.org (Crossref)
 links:: [Local library](zotero://select/library/items/H62XICFA), [Web library](https://www.zotero.org/users/6106196/items/H62XICFA)
 
 - Notes below
--
+- Abstract
+	- arabinose mutants
+	- 3 and 4 factor transduction experiments with phage P1bt
+	- thr and leu located on either side of the arabinose cluster
+	- abortive transduction tests
+	- assayed with complementation
+	-

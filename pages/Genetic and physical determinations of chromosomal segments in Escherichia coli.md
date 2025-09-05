@@ -72,4 +72,5 @@ links:: [Local library](zotero://select/library/items/K88TJKRM), [Web library](h
 			- Hfr gene is unlikely to transfer and is far from O
 			- Hfr recombinants pass on in the same order as their parent
 - That's all part 1, he said we don't have to read part 2
+	- I will maybe come back to this
 	-
