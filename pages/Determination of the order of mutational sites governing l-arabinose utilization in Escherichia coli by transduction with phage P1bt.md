@@ -85,5 +85,8 @@ links:: [Local library](zotero://select/library/items/H62XICFA), [Web library](h
 	- Negative Interference
 		- non adjacent mutations have larger differences?
 		- Proportion of leu+ transductants in the high member decreases and the low increases
+		- So I think negative interference means that there's more crossing over events so what that means is that the quadruple cross over that's required is more likely to happen
+	- Division of the 17 mutants into A B C groups on the basis of physiological differences
+		- arabinose metabolism requires a ketose intermediate (ribulose)
 		-
 -
