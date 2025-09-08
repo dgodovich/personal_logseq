@@ -45,3 +45,19 @@ links:: [Local library](zotero://select/library/items/3L7CNS3U), [Web library](h
 	- Brij gives you cells that can't incorporate dNTPs for some reason
 		- Does not dissociate polymerase from DNA (bc you can assay with Brij present)
 		- Most polymerase does not associate with DNA and is free in the cell
+- Isolation of the mutant
+	- E. coli thy- in minimal medium was treated with an alkylating agent (MNNG) for 30 minutes
+		- N-methyl-N'-nitro-N-nitrosoguanidine
+	- This was plated out into colonies after growth and then was treated to lyse and assay for polymerase
+	- Found a clone that lacked polymerase activity eventually
+		- This is further assayed in Figure 1 by showing that it does not use the radio labelled dNTP
+- Some Properties of the mutant
+	- It still works and grows in minimal and complete media and at various temperatures
+	- Susceptible to infection with phages
+	- More sensitive to UV
+	- Plating with methylmethanesulfonate (different alkylating agent) gives very low success
+		- but there are some revertants
+- Repair or Replication
+	- Amber mutation (stop codon) recessive in partial diploids
+	- Recovery from UV is partly the responsibility of this protein
+	-
