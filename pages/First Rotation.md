@@ -18,7 +18,14 @@
 		- There's a few things that happened here
 		- There was a preprint from a different lab with a different closed loop microscopy system
 			- Jared and Harrison put this paper out earlier than they wanted to because of that, they wanted to not miss out on a wave of this tech
-			-
+			- This means that it made it into more of a tech paper than a biology paper, and there's still a lot of biology left to do
+		- Some interesting things to be done with topographical maps
+			- Use migration to move cells towards density reduction - smooth out topological gradient of cells
+			- Can also use an equivalent thing as in Harrison's vortex module to move the cells in the direction vector of lower density (gradient descent)
+				- Compare this to a global organizer, see if there's any difference
+				- There probably is a difference, but if the global one has a substantial improvement that's good enough
+		- In essence, this is moving cells around using light, which has the potential for therapeutic applications
+			- Deepika in Danelle's lab is doing very similar things
 	- 3 possibilities
 		- Continuation of work in Harrison's preprint
 			- Ok we're doing this epic
