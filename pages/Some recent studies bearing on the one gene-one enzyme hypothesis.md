@@ -17,4 +17,4 @@ links:: [Local library](zotero://select/library/items/8MF883K2), [Web library](h
 
 - Notes below
 - Assumption that a given gene is involved in the production of a single enzyme
--
+- Beadle and Tatum 1941 paper mentioned won them the nobel
