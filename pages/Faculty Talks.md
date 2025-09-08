@@ -17,6 +17,7 @@
 			- asymmetric division, only the cells destined to become gametes inherit the germ granules
 		- drosophila syncytium already has germ granules
 		- Germ granules are determinative - if you get them, you become germ cell
+		- homotypic clusters of RNAs on protein scaffold
 		-
 - [[Sep 5th, 2025]]
 	- [[Martin Jonikas]]
