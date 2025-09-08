@@ -4,6 +4,12 @@
 		- LINE-1 does self insertion into the genome
 		- Target-primed reverse transcription
 		- ORF1p and ORF2p come together with LINE-1 mRNA to make an RNP
+		- This is a very complicated process and they're going into it with both structual bio and biochemistry
+		- RNP uses PCNA
+			- maybe for base recognition?
+			- Seems to be for improved bottom strand nicking
+	- [[Liz Gavis]]
+		-
 - [[Sep 5th, 2025]]
 	- [[Martin Jonikas]]
 	  collapsed:: true
