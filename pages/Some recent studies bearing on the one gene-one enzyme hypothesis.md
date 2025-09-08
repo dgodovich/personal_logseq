@@ -31,4 +31,20 @@ links:: [Local library](zotero://select/library/items/8MF883K2), [Web library](h
 - The Selection Problem
 	- Mutants that can't grow on complete media have lost *indispensable function*
 		- Require a substance not present in complete media
-		-
+		- Require a substance that can't diffuse into the cell
+		- Require a substance that can't be used because of some inhibitor present
+	- Delbruck suggests that any gene with more than one function would likely have an indispensable function and then not be able to be detected
+	- This depends on the relative frequency of indispensable functions
+		- Assume that some genes have multiple functions:
+		- If high frequency, then finding a mutation that has two primary functions would be very hard
+		- If low, then it should be possible
+- The Frequency of Indispensable Functions in Neurospora
+	- Temperature mutants have some mutation which only applies in a specific temperature range
+	- Generally, require a growth factor at 35 deg, but not at 25 deg
+		- Some cases this is reversed
+	- Mutant should be recoverable in the temperature range at which it doesn't need supplementation
+		- Doesn't matter what the function that was lost was
+	- This is true because about half of the mutants can't grow in complete media in their temperature range
+		- some indispensable function was lost and can't be supplemented
+	- should have a random distribution of indispensable and dispensable functions in temperature alleles
+	-
