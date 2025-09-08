@@ -47,4 +47,14 @@ links:: [Local library](zotero://select/library/items/8MF883K2), [Web library](h
 	- This is true because about half of the mutants can't grow in complete media in their temperature range
 		- some indispensable function was lost and can't be supplemented
 	- should have a random distribution of indispensable and dispensable functions in temperature alleles
+	- Poisson distribution says that 71-73% of genes should be unifunctional
+- Frequency of indispensable mutations in E. coli
+	- They found 161 temperature mutants in E. coli using a 40 degree plate for 2 days and then 25 deg for 5 more days technique
+	- 37/161 were unable to grow on complete medium at 40 degree and have lost an indispensable
+	- 124 remaining were tested using auxanographic method to find their requirements
+		- 79% were classifiable in this way, found lots of different things that they needed
+	- Density of plate matters quite a bit
+		- This is likely because colonies add and subtract to the minimal media
+		- Competition for food, mutual inhibition byproducts of metabolism, and syntrophism
+		- Cross feeding of growth factors and other things from normal colonies
 	-
