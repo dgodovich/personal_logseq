@@ -1,5 +1,6 @@
 - First rotation advisor
+- This guy is pretty cool
 - [[Sep 4th, 2025]] Meeting to talk about rotation
 	- Lots of cool stuff going on in the lab, especially
-- [[One-shot design of functional protein binders with BindCraft]]
+-
 -

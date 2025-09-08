@@ -25,7 +25,8 @@
 				- Compare this to a global organizer, see if there's any difference
 				- There probably is a difference, but if the global one has a substantial improvement that's good enough
 		- In essence, this is moving cells around using light, which has the potential for therapeutic applications
-			- Deepika in Danelle's lab is doing very similar things
+			- Deepika in Danelle's lab is doing very similar things - maybe talk to her at some point?
+				- I might still want to rotate in Danelle's lab
 	- 3 possibilities
 		- Continuation of work in Harrison's preprint
 			- Ok we're doing this epic
