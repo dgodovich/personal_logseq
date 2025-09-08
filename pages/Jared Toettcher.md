@@ -1,3 +1,4 @@
 - First rotation advisor
 - [[Sep 4th, 2025]] Meeting to talk about rotation
-	- Lots of cool stuff going on in the lab, especially /zotero
+	- Lots of cool stuff going on in the lab, especially
+- /zotero

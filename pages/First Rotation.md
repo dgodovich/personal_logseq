@@ -1,0 +1,3 @@
+- [[Jared Toettcher]]
+- Starts [[Sep 8th, 2025]] through November something
+- Unclear what the project is for now

@@ -427,5 +427,5 @@
  :journal? false
  :orphan-pages? true
  :builtin-pages? false}
- :zotero/settings-v2 {"default" {:type-id "6106196", :prefer-citekey? true, :include-attachments? false, :page-insert-prefix "", :overwrite-mode? false}}
+ :zotero/settings-v2 {"default" {:type-id "6106196", :prefer-citekey? true, :include-attachments? true, :page-insert-prefix "", :overwrite-mode? false}}
  }
