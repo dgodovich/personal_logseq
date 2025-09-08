@@ -60,4 +60,4 @@ links:: [Local library](zotero://select/library/items/3L7CNS3U), [Web library](h
 - Repair or Replication
 	- Amber mutation (stop codon) recessive in partial diploids
 	- Recovery from UV is partly the responsibility of this protein
-	-
+	- Hard to prove that it's not involved in duplication - but now there's a mutant for it, so we know where it is

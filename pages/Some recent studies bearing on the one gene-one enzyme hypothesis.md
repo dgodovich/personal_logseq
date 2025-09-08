@@ -14,3 +14,7 @@ journal-abbreviation:: Cold Spring Harb Symp Quant Biol
 authors:: [[N. H. Horowitz]], [[U. Leupold]]
 library-catalog:: PubMed
 links:: [Local library](zotero://select/library/items/8MF883K2), [Web library](https://www.zotero.org/users/6106196/items/8MF883K2)
+
+- Notes below
+- Assumption that a given gene is involved in the production of a single enzyme
+-
