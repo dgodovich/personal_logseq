@@ -8,7 +8,11 @@
 		- RNP uses PCNA
 			- maybe for base recognition?
 			- Seems to be for improved bottom strand nicking
+		- Honestly very cool
 	- [[Liz Gavis]]
+		- RNA Biology x Developmental biology
+		- Maternal transcription
+		- RNA granules
 		-
 - [[Sep 5th, 2025]]
 	- [[Martin Jonikas]]
