@@ -13,7 +13,7 @@
 				- Works for developmental questions too
 					- Can you force a gastruloid to organize?
 					- Can you force LR patterning to switch?
-					-
+					- Neural crest?
 		- BindCraft binder prediction and following testing of a new optogenetic protein
 			- [[One-shot design of functional protein binders with BindCraft]]
 			- This is interesting but I think not what I want to be focusing on
