@@ -20,4 +20,5 @@
 		- Stem cell direction
 			- Symmetry breaking in gastruloids relating to RTKs
 			- [[Recording morphogen signals reveals mechanisms underlying gastruloid symmetry breaking]]
-			- Could be cool
+			- Could be cool, I didn't get to read this paper so don't know much about this direction
+			- Talk to Yang? Or lets just see what Jared says
