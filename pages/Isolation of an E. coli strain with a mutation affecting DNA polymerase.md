@@ -29,4 +29,19 @@ links:: [Local library](zotero://select/library/items/3L7CNS3U), [Web library](h
 	- They want to find the actual enzyme that does DNA replication
 		- Found a mutant that has a defect in polymerase
 - The Selective Procedure
-	-
+	- Assay polymerase in clones of a mutagenized stock until they found what they wanted
+		- Rather than trying to guess what symptoms it would have, just do exhaustive search
+	- Conditional lethal mutation is possible (based on temperature?)
+		- Grew clones at 25 or 30 degrees, assayed at 37/45 degrees
+		- But this didn't matter anyway as it turned out
+- Extraction of Polymerase
+	- Use a detergent Brij-58 to do something??
+	- Do a DNA extraction to get DNA in the pellet and polymerase (plus other proteins) in the supernatant
+	- Assay polymerase function by adding calf thymus DNA and DNA components
+		- Importantly they used H_3 labelled tyrosine
+		- Radiolabelled for detection of activity?
+	- Any method of lysis that liberates fragmented DNA with create sites for attachment of polymerase
+		- Will not give a true picture of location of polymerase in vivo
+	- Brij gives you cells that can't incorporate dNTPs for some reason
+		- Does not dissociate polymerase from DNA (bc you can assay with Brij present)
+		- Most polymerase does not associate with DNA and is free in the cell
