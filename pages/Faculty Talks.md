@@ -1,5 +1,12 @@
+- [[Sep 8th, 2025]]
+	- [[George Ghanim]]
+		- Structual biology of retrotransposition
+		- LINE-1 does self insertion into the genome
+		- Target-primed reverse transcription
+		- ORF1p and ORF2p come together with LINE-1 mRNA to make an RNP
 - [[Sep 5th, 2025]]
 	- [[Martin Jonikas]]
+	  collapsed:: true
 		- Rubisco is normally slow, but some organisms (algae, cyanobacteria, C4 plants (corn)) are a lot faster because they concentrate CO2
 		- Algae has all of the rubisco organized into a subdomain of the chloroplast, the pyrenoid
 		- 1/3 of global CO2 assimilation happens in a pyrenoid
@@ -9,6 +16,7 @@
 		- surrounded by starch sheath, thought to slow escape of CO2
 		- Very cool, foundational stuff. I think I'm not too interested but it's very exciting work
 	- [[Sabine Petry]]
+	  collapsed:: true
 		- Microtubules
 		- german youth champion in pentathlon and pro basketball player in germany
 		- I didn't take any notes but spindle branching
@@ -16,6 +24,7 @@
 		- They build a spindle
 - [[Sep 4th, 2025]]
 	- [[Yibin Kang]]
+	  collapsed:: true
 		- What drives cancer metastasis? How do cancer cells modulate their fitness?
 		- Metastatic niches
 			- Something has to happen around the location of cancer leaving to organize it
@@ -32,6 +41,7 @@
 			- So there's less mature blood cells being made
 		- Seems like a cool guy - does ironmans and half marathons with his lab
 	- [[Kai Mesa]]
+	  collapsed:: true
 		- Central question - we lose billions of cells every day, how are they replaced?
 			- How do cells locally coordinate tissue regeneration over a lifetime? Things fall apart as you age
 		- Help to build the tissue as it's growing - mouse macrophages seed as early as E9
