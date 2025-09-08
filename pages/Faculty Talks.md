@@ -18,6 +18,7 @@
 		- drosophila syncytium already has germ granules
 		- Germ granules are determinative - if you get them, you become germ cell
 		- homotypic clusters of RNAs on protein scaffold
+		- different kinds of granules that need to be mutually excluded
 		-
 - [[Sep 5th, 2025]]
 	- [[Martin Jonikas]]
