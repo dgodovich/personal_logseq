@@ -1,8 +1,27 @@
 - [[Jared Toettcher]]
 - Starts [[Sep 8th, 2025]] through November something
 - Figuring out the project
+	- I didn't take notes during the conversation but here's some thoughts after the fact
+	- Gastruloid project is pretty interesting
+		- The general direction for this is going towards symmetry breaking and what causes cell sorting
+			- McNamara paper showed that Wnt high cells at 90-96 hr of gastruloid formation are critical for organization into the A-P axis
+				- [[Recording morphogen signals reveals mechanisms underlying gastruloid symmetry breaking]]
+			- But there's still open questions about Erk signaling - Wnt and Erk are cotemporary but unclear if one induces the other or if one is necessary for the other
+			- If you dissociate Wnt high cells from the novel gastruloid and reconstitute, they still form A-P sorted gastruloids
+			- Does this happen if you have Erk high cells?
+		- This is likely to be driven by FGF
+			- This is the same thing as in the mouse embryo (Woon's project), which isn't very suprising
+		- I'm not huge on gastruloids because of the replication between papers and the difficulty in moving towards in vivo
+			- Jared very specifically doesn't want to work in vivo (no mouse colony, big pain)
+			- I think this project would be alright but it's not terribly exciting
+	- Continuation of Harrison paper
+		- There's a few things that happened here
+		- There was a preprint from a different lab with a different closed loop microscopy system
+			- Jared and Harrison put this paper out earlier than they wanted to because of that, they wanted to not miss out on a wave of this tech
+			-
 	- 3 possibilities
 		- Continuation of work in Harrison's preprint
+			- Ok we're doing this epic
 			- [[PyCLM: programming-free, closed-loop microscopy for real-time measurement, segmentation, and optogenetic stimulation]]
 			- This is kinda awesome
 			- Automated microscope control for coordinating cell movement
