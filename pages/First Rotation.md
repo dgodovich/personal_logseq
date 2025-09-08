@@ -4,8 +4,11 @@
 	- 3 possibilities
 		- Continuation of work in Harrison's preprint
 			- [[PyCLM: programming-free, closed-loop microscopy for real-time measurement, segmentation, and optogenetic stimulation]]
+			- This is kinda awesome
 		- BindCraft binder prediction and following testing of a new optogenetic protein
 			- [[One-shot design of functional protein binders with BindCraft]]
+			- This is interesting but I think not what I want to be focusing on
 		- Stem cell direction
 			- Symmetry breaking in gastruloids relating to RTKs
 			- [[Recording morphogen signals reveals mechanisms underlying gastruloid symmetry breaking]]
+			- Could be cool
