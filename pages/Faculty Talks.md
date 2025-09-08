@@ -13,6 +13,10 @@
 		- RNA Biology x Developmental biology
 		- Maternal transcription
 		- RNA granules
+		- Germ cells are characterized by the presence of germ granules
+			- asymmetric division, only the cells destined to become gametes inherit the germ granules
+		- drosophila syncytium already has germ granules
+		- Germ granules are determinative - if you get them, you become germ cell
 		-
 - [[Sep 5th, 2025]]
 	- [[Martin Jonikas]]
