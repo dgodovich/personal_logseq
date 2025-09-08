@@ -57,4 +57,8 @@ links:: [Local library](zotero://select/library/items/8MF883K2), [Web library](h
 		- This is likely because colonies add and subtract to the minimal media
 		- Competition for food, mutual inhibition byproducts of metabolism, and syntrophism
 		- Cross feeding of growth factors and other things from normal colonies
-	-
+	- They find ~25% of indispensable mutations in E. coli
+- Conclusion
+	- Low frequency of indispensable mutations
+	- This probably means that each gene makes one protein product
+	- Proteins also are not likely to be made by accretion, rather by amino acid directly with catalyst
