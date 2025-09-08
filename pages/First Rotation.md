@@ -5,6 +5,15 @@
 		- Continuation of work in Harrison's preprint
 			- [[PyCLM: programming-free, closed-loop microscopy for real-time measurement, segmentation, and optogenetic stimulation]]
 			- This is kinda awesome
+			- Automated microscope control for coordinating cell movement
+			- Loads of questions you can ask with this system / technique
+				- If you stimulate the cells to move into a wound site, does that accelerate healing?
+					- They mention that mouse epidermis healing has other things going on and RTK waves can't explain the speed, but maybe pushing the cells in would help to get started?
+					- Conversely, would you be able to hold the cells back? RTK wave going the opposite direction away from a wound - does that stop/delay healing?
+				- Works for developmental questions too
+					- Can you force a gastruloid to organize?
+					- Can you force LR patterning to switch?
+					-
 		- BindCraft binder prediction and following testing of a new optogenetic protein
 			- [[One-shot design of functional protein binders with BindCraft]]
 			- This is interesting but I think not what I want to be focusing on
