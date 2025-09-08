@@ -1,3 +1,11 @@
 - [[Jared Toettcher]]
 - Starts [[Sep 8th, 2025]] through November something
-- Unclear what the project is for now
+- Figuring out the project
+	- 3 possibilities
+		- Continuation of work in Harrison's preprint
+			- [[PyCLM: programming-free, closed-loop microscopy for real-time measurement, segmentation, and optogenetic stimulation]]
+		- BindCraft binder prediction and following testing of a new optogenetic protein
+			- [[One-shot design of functional protein binders with BindCraft]]
+		- Stem cell direction
+			- Symmetry breaking in gastruloids relating to RTKs
+			- [[Recording morphogen signals reveals mechanisms underlying gastruloid symmetry breaking]]

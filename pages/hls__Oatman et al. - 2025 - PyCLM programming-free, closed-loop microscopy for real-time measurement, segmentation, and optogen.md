@@ -1,0 +1,2 @@
+file:: [Oatman et al. - 2025 - PyCLM programming-free, closed-loop microscopy for real-time measurement, segmentation, and optogen.pdf](file://C:/Users/David/Zotero/storage/CPY5AUHG/Oatman et al. - 2025 - PyCLM programming-free, closed-loop microscopy for real-time measurement, segmentation, and optogen.pdf)
+file-path:: file://C:/Users/David/Zotero/storage/CPY5AUHG/Oatman et al. - 2025 - PyCLM programming-free, closed-loop microscopy for real-time measurement, segmentation, and optogen.pdf
