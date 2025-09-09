@@ -5,6 +5,7 @@
 		- [[Force generation by kinesin and myosin cytoskeletal motor proteins]]
 		- [[A structural change in the kinesin motor protein that drives motility]]
 	- Notes
+		- [[draws/2025-09-09-10-47-39.excalidraw]]
 		-
 - [[Sep 4th, 2025]] Cytoskeleton self assembly
   collapsed:: true
