@@ -1,5 +1,6 @@
 - [[Sep 9th, 2025]]
 	- [[Cameron Myhrvold]]
+	  collapsed:: true
 		- How does cas13 work?
 			- Can target ssRNA but not dsRNA
 			- RNA structure matters a lot
@@ -11,6 +12,7 @@
 			- Options include non specific binding + sliding length along an RNA
 			- Intra-coil diffusion along 3D RNA structure
 	- [[Jonathan Conway]]
+	  collapsed:: true
 		- Engineering guy
 		- Engineering bacteria that interact with plants
 		- mostly working with bacteria in the soil (rhizosphere)
@@ -19,7 +21,9 @@
 		- Heavily bacterial genetics focused lab
 		- Opines are secondary amines (AA + keto acid / sugar)
 			- octopine, nopaline, found in sea creatures
-		-
+		- Opine is a food for agrobacter, but they want to put it in to plants and use it to feed other bacteria
+			- Concern about tumor generation?
+		- Plant immune system is a thing apparently
 - [[Sep 8th, 2025]]
   collapsed:: true
 	- [[George Ghanim]]
