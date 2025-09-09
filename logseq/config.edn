@@ -319,7 +319,7 @@
 
  ;; Create a page for all properties.
  ;; Default value: true
- :property-pages/enabled? true
+ :property-pages/enabled? false
 
  ;; Properties to exclude from having property pages
  ;; Example usage:
@@ -427,5 +427,5 @@
  :journal? false
  :orphan-pages? true
  :builtin-pages? false}
- :zotero/settings-v2 {"default" {:type-id "6106196", :prefer-citekey? true, :include-attachments? true, :page-insert-prefix "", :overwrite-mode? false, :zotero-data-directory "C:/Users/David/Zotero"}}
+ :zotero/settings-v2 {"default" {:type-id "6106196", :prefer-citekey? true, :include-attachments? true, :page-insert-prefix "", :overwrite-mode? false, :zotero-data-directory "C:/Users/David/Zotero", :attachments-block-text "Attachments", :notes-block-text "Notes"}}
  }
