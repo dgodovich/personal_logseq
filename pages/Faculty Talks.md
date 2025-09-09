@@ -1,4 +1,14 @@
+- [[Sep 9th, 2025]]
+	- [[Cameron Myhrvold]]
+		- How does cas13 work?
+			- Can target ssRNA but not dsRNA
+			- RNA structure matters a lot
+			- Kinetics are probably the model
+				- Cas13 guide strand displaces RNA structure, and this is harder to do as the RNA is more occluded / closer to double stranded
+			-
+		- RNA binding and detection?
 - [[Sep 8th, 2025]]
+  collapsed:: true
 	- [[George Ghanim]]
 		- Structual biology of retrotransposition
 		- LINE-1 does self insertion into the genome
