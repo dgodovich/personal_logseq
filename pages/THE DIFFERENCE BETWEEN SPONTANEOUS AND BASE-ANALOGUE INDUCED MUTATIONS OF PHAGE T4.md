@@ -41,16 +41,21 @@ links:: [Local library](zotero://select/library/items/4YF9745D), [Web library](h
 		- Reversion index is ratio of revertant to visible phages
 		- Assay visible phages by growth on B
 			- permissive condition, get total phage number
+	- ![image.png](../assets/image_1757447789079_0.png)
+		-
 - Method
+  collapsed:: true
 	- 400 phages added to 20mL growth media with 10^8 bacteria (B so the phage can grow)
 	- Incubated for 24h
 	- Plate out onto lawn of B and K do determine phage titer and revertant frequency
 	- AP induction
-		- Bacteria B-97 grown with 500 ug/mL AP
+		- Bacteria B-97 in H medium + 30ug/mL adenine, 500 ug/mL AP
 		- H medium
 			- Synthetic + 20 ug/mL histidine + 0.25 ug/mL thiamine
 	- BD induction
 		- Bacteria B-97 grown in F10 + 50 ug/mL BD
 		- F10 medium
-			- 1L H medium plus 20mg glycine & methionine; 10mg leucine, valine, serine, adenine sulfate,
+			- 1L H medium plus 20mg glycine & methionine; 10mg leucine, valine, serine, adenine sulfate, guanine sulfate, uracil; 0.2mg Ca pantothenate, pyridoxine; 10 ug Vitamin B12
+		- Thymine is added and aminopterin for some reason
+	-
 -
