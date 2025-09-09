@@ -5,8 +5,9 @@
 			- RNA structure matters a lot
 			- Kinetics are probably the model
 				- Cas13 guide strand displaces RNA structure, and this is harder to do as the RNA is more occluded / closer to double stranded
-			-
-		- RNA binding and detection?
+		- Blocking the Cas13 itself rather than target
+			- this makes it way more specific because you need to have a perfect strand match to get strand displacement
+		-
 - [[Sep 8th, 2025]]
   collapsed:: true
 	- [[George Ghanim]]
