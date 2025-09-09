@@ -42,7 +42,11 @@ links:: [Local library](zotero://select/library/items/4YF9745D), [Web library](h
 		- Assay visible phages by growth on B
 			- permissive condition, get total phage number
 	- ![image.png](../assets/image_1757447789079_0.png)
-		-
+		- Spontaneous mutations (i.e. not caused by mutagenesis) have a modest reversion index with AP or BD treatment, but not that high
+		- Treatment with one mutagen allows reversion by treatment with the other?
+			- What could this mean
+			- So BU is a T analog that allows binding with C - causing a point mutation?
+			- AP acts like G so can pair with C
 - Method
   collapsed:: true
 	- 400 phages added to 20mL growth media with 10^8 bacteria (B so the phage can grow)
