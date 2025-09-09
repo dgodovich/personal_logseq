@@ -74,7 +74,12 @@ links:: [Local library](zotero://select/library/items/4YF9745D), [Web library](h
 			- This isn't real according to them
 		- Leakiness - not fully incapable of growth
 	- ![image.png](../assets/image_1757454137799_0.png)
-		-
+		- This is very hard to understand
+	- No suppressor has ever been observed
+		- They backcrossed to wt phage and those had no problems
+			- i.e. the children are normal so the mutant must have been fixed
+- Come back to discussion later
+  background-color:: yellow
 - Method
   collapsed:: true
 	- 400 phages added to 20mL growth media with 10^8 bacteria (B so the phage can grow)
