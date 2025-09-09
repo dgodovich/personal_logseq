@@ -20,3 +20,24 @@ links:: [Local library](zotero://select/library/items/45Z2AXBW), [Web library](h
 
 - [[Attachments]]
 	- [PDF](zotero://select/library/items/NGNCUW84) {{zotero-imported-file NGNCUW84, "Gennerich and Vale - 2009 - Walking the walk how kinesin and dynein coordinate their steps.pdf"}}
+- Notes
+- Introduction
+	- Kinesin goes to the + end of MT, dynein goes to - end
+	- Processivity - continuous movement
+	- Gating mechanism - one subunit pauses in an intermediate until the partner does something
+		- Different kinds of gates possible
+		- Polymer gate - binding or releasing from the MT filament
+		- nucleotide gate - ATPase cycle control
+- Overview of kinesin mechanism
+	- 2 identical heavy chains, 2 associated light chains
+	- N terminus motor domain in heavy chain + coiled coil stalk
+	- Kinesin can walk backwards if it's too heavily loaded
+	- Hand over hand walk with alternating 16nm steps
+	- Neck linker is the important part that does the rotation
+- Overview of dynein mechanism
+	- AAA family: ATPase Associated Activities
+	- 2 heavy chains + many light chains, big complex
+	- 6 AAA domains in a ring
+		- AAA1 is essential for motility
+	- MT interface is at the end of a coiled coil stalk between AAA4 and 5
+	- Also hand over hand but more irregular
