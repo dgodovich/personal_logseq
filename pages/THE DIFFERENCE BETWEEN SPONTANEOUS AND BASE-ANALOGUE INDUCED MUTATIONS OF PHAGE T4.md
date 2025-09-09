@@ -25,3 +25,6 @@ links:: [Local library](zotero://select/library/items/4YF9745D), [Web library](h
 - rII phenotype
 	- lack function necessary for phage growth in bacteria K, form r-plaques on bacteria B
 	- I think bacteria K is E.coli K12
+- T4 phage is lytic only
+	- So mutants occur during the replication of the phage? During packaging and replication? Can't be incorporated into the bacterial genome
+-
