@@ -65,6 +65,16 @@ links:: [Local library](zotero://select/library/items/4YF9745D), [Web library](h
 	- Figure 1 shows that spontaneous mutations are scattered throughout the genome equally but AP or BU mutations are not
 		- Concentrated at certain locations
 		- because that's where the bases are?
+- "No mutant could be induced to revert which cannot revert spontaneously"
+- Further examination of revertants
+	- 4 possibilities for plaque formation on K12
+		- back mutation - back to wt
+		- partial reversion - different that restores function
+		- suppressor - somewhere else
+			- This isn't real according to them
+		- Leakiness - not fully incapable of growth
+	- ![image.png](../assets/image_1757454137799_0.png)
+		-
 - Method
   collapsed:: true
 	- 400 phages added to 20mL growth media with 10^8 bacteria (B so the phage can grow)
