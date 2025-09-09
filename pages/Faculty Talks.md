@@ -13,6 +13,10 @@
 	- [[Jonathan Conway]]
 		- Engineering guy
 		- Engineering bacteria that interact with plants
+		- mostly working with bacteria in the soil (rhizosphere)
+			- Decomposition
+			- Applications in fuels, biomass. Agriculture biologics
+		- Heavily bacterial genetics focused lab
 		-
 - [[Sep 8th, 2025]]
   collapsed:: true
