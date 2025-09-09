@@ -47,3 +47,4 @@ links:: [Local library](zotero://select/library/items/45Z2AXBW), [Web library](h
 	- One motor domain must be able to influence the other in a gating mechanism
 - Evidence for two head bound state of kinesin
 - Tension also matters, not surprisingly
+- stopped taking notes because bored

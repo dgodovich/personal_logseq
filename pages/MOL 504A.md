@@ -2,6 +2,9 @@
 - [[Sep 9th, 2025]] Molecular Motors
 	- Reading
 		- [[Walking the walk: how kinesin and dynein coordinate their steps]]
+		- [[Force generation by kinesin and myosin cytoskeletal motor proteins]]
+		- [[A structural change in the kinesin motor protein that drives motility]]
+	- Notes
 		-
 - [[Sep 4th, 2025]] Cytoskeleton self assembly
   collapsed:: true
