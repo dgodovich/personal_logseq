@@ -18,4 +18,10 @@ links:: [Local library](zotero://select/library/items/4YF9745D), [Web library](h
 	- [PDF](zotero://select/library/items/XFKZHRB6) {{zotero-imported-file XFKZHRB6, "Freese - 1959 - THE DIFFERENCE BETWEEN SPONTANEOUS AND BASE-ANALOGUE INDUCED MUTATIONS OF PHAGE T4.pdf"}}
 	- [PubMed entry](http://www.ncbi.nlm.nih.gov/pubmed/16590424)
 - Notes
-	-
+- Induction of reverse mutations by base analogs 2-aminopurine (AP) and 5-bromo-deoxyuridine (BD)
+- T4 mutants induced by these base analogs in the forward direction and cane be induced to revert
+	- But proflavine induced and spontaneous mutants can't revert by the analogs
+		- Only revert spontaneously
+- rII phenotype
+	- lack function necessary for phage growth in bacteria K, form r-plaques on bacteria B
+	- I think bacteria K is E.coli K12
