@@ -28,6 +28,7 @@ links:: [Local library](zotero://select/library/items/45Z2AXBW), [Web library](h
 		- Different kinds of gates possible
 		- Polymer gate - binding or releasing from the MT filament
 		- nucleotide gate - ATPase cycle control
+-
 - Overview of kinesin mechanism
 	- 2 identical heavy chains, 2 associated light chains
 	- N terminus motor domain in heavy chain + coiled coil stalk
@@ -41,3 +42,5 @@ links:: [Local library](zotero://select/library/items/45Z2AXBW), [Web library](h
 		- AAA1 is essential for motility
 	- MT interface is at the end of a coiled coil stalk between AAA4 and 5
 	- Also hand over hand but more irregular
+		- steps between 4-32 nm and variable directionality
+-
