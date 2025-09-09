@@ -20,4 +20,5 @@ links:: [Local library](zotero://select/library/items/5YUIKCG4), [Web library](h
 	- [PDF](zotero://select/library/items/G3E9J2W8){{zotero-imported-file G3E9J2W8, "Kull and Endow - 2012 - Force generation by kinesin and myosin cytoskeletal motor proteins.pdf"}}
 - Notes
 - Kinesin and Myosin have similar structure, so probably similar force generation mechanism
-	-
+	- Meanwhile dynein is totally different
+-
