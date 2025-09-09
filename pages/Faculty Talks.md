@@ -17,6 +17,8 @@
 			- Decomposition
 			- Applications in fuels, biomass. Agriculture biologics
 		- Heavily bacterial genetics focused lab
+		- Opines are secondary amines (AA + keto acid / sugar)
+			- octopine, nopaline, found in sea creatures
 		-
 - [[Sep 8th, 2025]]
   collapsed:: true
