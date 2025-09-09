@@ -43,10 +43,17 @@ links:: [Local library](zotero://select/library/items/4YF9745D), [Web library](h
 			- permissive condition, get total phage number
 	- ![image.png](../assets/image_1757447789079_0.png)
 		- Spontaneous mutations (i.e. not caused by mutagenesis) have a modest reversion index with AP or BD treatment, but not that high
+			- I think it's bc they're not point mutations
 		- Treatment with one mutagen allows reversion by treatment with the other?
 			- What could this mean
-			- So BU is a T analog that allows binding with C - causing a point mutation?
+			- So BU is a T analog that allows binding with D - causing a point mutation?
+				- BU can bind to A or G
 			- AP acts like G so can pair with C
+				- AP can bind to T or C
+			- Yeah idk that means that they give the same mutations? so not sure why they're opposite
+		- They think the increased value is because of selective pressure on phages
+		- spontaneous reversion for treated phages is quite low
+			-
 - Method
   collapsed:: true
 	- 400 phages added to 20mL growth media with 10^8 bacteria (B so the phage can grow)
