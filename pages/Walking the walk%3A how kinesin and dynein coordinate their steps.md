@@ -38,9 +38,12 @@ links:: [Local library](zotero://select/library/items/45Z2AXBW), [Web library](h
 - Overview of dynein mechanism
 	- AAA family: ATPase Associated Activities
 	- 2 heavy chains + many light chains, big complex
-	- 6 AAA domains in a ring
+	- 6 AAA domains in a ring in each heavy chain
 		- AAA1 is essential for motility
 	- MT interface is at the end of a coiled coil stalk between AAA4 and 5
 	- Also hand over hand but more irregular
 		- steps between 4-32 nm and variable directionality
--
+- Potential pathways for head-head communication
+	- One motor domain must be able to influence the other in a gating mechanism
+- Evidence for two head bound state of kinesin
+- Tension also matters, not surprisingly
