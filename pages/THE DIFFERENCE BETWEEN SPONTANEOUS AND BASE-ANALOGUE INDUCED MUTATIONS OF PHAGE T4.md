@@ -53,7 +53,18 @@ links:: [Local library](zotero://select/library/items/4YF9745D), [Web library](h
 			- Yeah idk that means that they give the same mutations? so not sure why they're opposite
 		- They think the increased value is because of selective pressure on phages
 		- spontaneous reversion for treated phages is quite low
-			-
+			- Not clear to me why this is the case
+	- Spot test
+		- plated mutagenesis to find revertants
+		- 10x more K than B, but still a good amount of B to grow phages and for them to mutate
+		- AP and BD at edges of plate encourage mutagenesis
+			- edges of diffusion zone of analogs has plaque formation
+		- ![image.png](../assets/image_1757453459103_0.png)
+			- \# of mutants that can be induced to revert with the conditions shown
+			- Same result: spontaneous can't revert with mutagenesis, analogs can revert analog mutations
+	- Figure 1 shows that spontaneous mutations are scattered throughout the genome equally but AP or BU mutations are not
+		- Concentrated at certain locations
+		- because that's where the bases are?
 - Method
   collapsed:: true
 	- 400 phages added to 20mL growth media with 10^8 bacteria (B so the phage can grow)
