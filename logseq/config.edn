@@ -427,5 +427,5 @@
  :journal? false
  :orphan-pages? true
  :builtin-pages? false}
- :zotero/settings-v2 {"default" {:type-id "6106196", :prefer-citekey? true, :include-attachments? true, :page-insert-prefix "", :overwrite-mode? false, :zotero-data-directory "C:/Users/David/Zotero", :attachments-block-text "Attachments", :notes-block-text "Notes"}}
+ :zotero/settings-v2 {"default" {:extra-tags "", :overwrite-mode? false, :zotero-data-directory "C:/Users/David/Zotero", :include-attachments? true, :type-id "6106196", :notes-block-text "Notes", :page-insert-prefix "", :prefer-citekey? true, :attachments-block-text "Attachments"}}
  }
