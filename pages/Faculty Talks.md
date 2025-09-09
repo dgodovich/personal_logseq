@@ -7,6 +7,12 @@
 				- Cas13 guide strand displaces RNA structure, and this is harder to do as the RNA is more occluded / closer to double stranded
 		- Blocking the Cas13 itself rather than target
 			- this makes it way more specific because you need to have a perfect strand match to get strand displacement
+		- How does Cas13 search for target RNAs in a cell?
+			- Options include non specific binding + sliding length along an RNA
+			- Intra-coil diffusion along 3D RNA structure
+	- [[Jonathan Conway]]
+		- Engineering guy
+		- Engineering bacteria that interact with plants
 		-
 - [[Sep 8th, 2025]]
   collapsed:: true
