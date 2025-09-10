@@ -1,6 +1,9 @@
 - [[Jared Toettcher]]
 - Starts [[Sep 8th, 2025]] through November something
+- [[Tissue Culture]]
+-
 - Figuring out the project
+  collapsed:: true
 	- I didn't take notes during the conversation but here's some thoughts after the fact
 	- Gastruloid project is pretty interesting
 		- The general direction for this is going towards symmetry breaking and what causes cell sorting
