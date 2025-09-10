@@ -3,6 +3,20 @@
 - [[Tissue Culture]]
 - Cell line
 	- MCF10A
+		- Triple transgenic
+			- OptoEGFR, Fusion red nuclear, ERK-KTR
+			- Fusion red is stupid bright
+				- Almost problematically bright lol
+		- Human breast tissue immortalized cell line
+		- Frozen by Jared
+			- He's interested in seeing what their density patterns look like
+			- When he was imaging them / plating on fibronectin for that, he said that he noticed variability in cell densities
+				- Regions clustered high density, low density outgrowths
+			- Beena has been using a separately engineered cell line and doesn't see that - more consistent cell densities across the well
+			- Is this something intrinsic to the cell line that Jared was working with? Is it a protocol difference?
+			  background-color:: yellow
+- Questions
+	-
 - Figuring out the project
   collapsed:: true
 	- I didn't take notes during the conversation but here's some thoughts after the fact
