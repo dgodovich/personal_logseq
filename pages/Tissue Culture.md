@@ -1,2 +1,14 @@
 - [[Media Recipes]]
--
+- Notes from Jared
+	- MCF10A cells are very slow to trypsinze
+		- On the order of 30 minutes to get them to stick off the plate
+	-
+- Flask usage
+	- T25
+		- equivalent to 2 wells of a 6 well plate or a 6cm dish
+		- ~5mL media
+		- 1mL trypsin
+	- T75
+		- equivalent to a 10cm dish
+		- ~10-12mL media
+		- 2mL trypsin

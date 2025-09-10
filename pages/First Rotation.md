@@ -1,7 +1,8 @@
 - [[Jared Toettcher]]
 - Starts [[Sep 8th, 2025]] through November something
 - [[Tissue Culture]]
--
+- Cell line
+	- MCF10A
 - Figuring out the project
   collapsed:: true
 	- I didn't take notes during the conversation but here's some thoughts after the fact
