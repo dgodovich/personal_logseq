@@ -28,7 +28,11 @@
 			- Particularly against members of the same genus
 			- Effective against enterobacter
 			- Also works against cyanobacteria
-		-
+		- You can do some really wacky things
+			- What if you cleave the loop of the lasso? threaded protein that doesn't come undone
+			- Can engineer in cystine and make disulfide bonds out of that
+			- Daisy chain a bunch of these together
+			- Two interlocking peptide rings [2]catenane
 - [[Sep 9th, 2025]]
 	- [[Cameron Myhrvold]]
 	  collapsed:: true
