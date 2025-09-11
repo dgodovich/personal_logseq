@@ -5,7 +5,13 @@
 			- Capable of growing into the precise organ even with relatively severe pertubations
 		- Embryos are really good at repair, can we harness this?
 		- Reaction diffusion model for patterning
-		-
+		- working across length scales of PCP
+			- from molecular interactions / subcellular organization to tissue level
+		- Rotation student to work on basement membrane invasion
+			- yes yes yes yes
+				- I should email her about this soon
+			- melanocytes, neural crest, immune cells, cancer cells
+			- This is the super cool things
 - [[Sep 9th, 2025]]
 	- [[Cameron Myhrvold]]
 	  collapsed:: true
