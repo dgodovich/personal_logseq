@@ -4,6 +4,7 @@
 		- Organs and cells are robust
 			- Capable of growing into the precise organ even with relatively severe pertubations
 		- Embryos are really good at repair, can we harness this?
+		- Reaction diffusion model for patterning
 		-
 - [[Sep 9th, 2025]]
 	- [[Cameron Myhrvold]]
