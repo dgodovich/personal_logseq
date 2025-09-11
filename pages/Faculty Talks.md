@@ -33,6 +33,7 @@
 			- Can engineer in cystine and make disulfide bonds out of that
 			- Daisy chain a bunch of these together
 			- Two interlocking peptide rings [2]catenane
+		- Lassos bind metals? Iron, copper - could be metal chelating from cyanobacteria
 - [[Sep 9th, 2025]]
 	- [[Cameron Myhrvold]]
 	  collapsed:: true
