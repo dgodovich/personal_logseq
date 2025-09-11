@@ -1,5 +1,10 @@
 - ![MOL504_Fall2025_SP.pdf](../assets/MOL504_Fall2025_SP_1756824447343_0.pdf)
+- [[Sep 11th, 2025]] Protein Interactions
+	- How to study biophysical techniques - guest lecture
+		- Director of Biophysics core facility Venu Vandavasi
+	-
 - [[Sep 9th, 2025]] Molecular Motors
+  collapsed:: true
 	- Reading
 		- [[Walking the walk: how kinesin and dynein coordinate their steps]]
 		- [[Force generation by kinesin and myosin cytoskeletal motor proteins]]
