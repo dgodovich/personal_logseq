@@ -12,6 +12,19 @@
 				- I should email her about this soon
 			- melanocytes, neural crest, immune cells, cancer cells
 			- This is the super cool things
+	- [[James Link]]
+		- Peptide natural products
+		- Makes a knot? Lasso peptide, has a loop
+			- Isopeptide bond between N terminus and glutamic or aspartic acid side chain
+			- Loop goes through the ring, has a tail
+		- Microcin J25 and Astexin-3
+			- super high temperature resistance
+			- Protease resistant
+			- Large AA (tyrosine, tryptophan, etc) right next to the ring so it doesn't slip through
+		- Biosynthesis
+			- Posttranslational modification to get to the loop structure
+			- Chaperone protein required to help fold
+			-
 - [[Sep 9th, 2025]]
 	- [[Cameron Myhrvold]]
 	  collapsed:: true
