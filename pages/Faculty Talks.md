@@ -24,7 +24,11 @@
 		- Biosynthesis
 			- Posttranslational modification to get to the loop structure
 			- Chaperone protein required to help fold
-			-
+		- Potential for antibiotic activity
+			- Particularly against members of the same genus
+			- Effective against enterobacter
+			- Also works against cyanobacteria
+		-
 - [[Sep 9th, 2025]]
 	- [[Cameron Myhrvold]]
 	  collapsed:: true
