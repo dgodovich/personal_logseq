@@ -1,3 +1,10 @@
+- [[Sep 11th, 2025]]
+	- [[Danelle Devenport]]
+		- sabbatical this year so open to new directions
+		- Organs and cells are robust
+			- Capable of growing into the precise organ even with relatively severe pertubations
+		- Embryos are really good at repair, can we harness this?
+		-
 - [[Sep 9th, 2025]]
 	- [[Cameron Myhrvold]]
 	  collapsed:: true
