@@ -7,7 +7,6 @@
 		- Skin patterning pigmentation is the model
 		- Sugar gliders
 			- marsupial allows you to look at the embryo and put it back to keep growing
-			-
 - [[Sep 11th, 2025]]
 	- [[Danelle Devenport]]
 		- sabbatical this year so open to new directions
