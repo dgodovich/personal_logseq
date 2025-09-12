@@ -1,3 +1,11 @@
+- [[Sep 12th, 2025]]
+	- [[Ricardo Mallarino]]
+		- evo devo
+		- lab model species are super inbred with limited variation, and are artificially selected
+		- Outbred species are varied and have evolved traits
+			- But there's no molecular tools
+		- Skin pigmentation is the model
+		-
 - [[Sep 11th, 2025]]
 	- [[Danelle Devenport]]
 		- sabbatical this year so open to new directions
