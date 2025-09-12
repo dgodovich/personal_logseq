@@ -1,7 +1,9 @@
 - ![MOL504_Fall2025_SP.pdf](../assets/MOL504_Fall2025_SP_1756824447343_0.pdf)
 - [[Sep 11th, 2025]] Protein Interactions
+  collapsed:: true
 	- How to study biophysical techniques - guest lecture
 		- Director of Biophysics core facility Venu Vandavasi
+	- [[draws/2025-09-12-12-02-59.excalidraw]]
 	-
 - [[Sep 9th, 2025]] Molecular Motors
   collapsed:: true
