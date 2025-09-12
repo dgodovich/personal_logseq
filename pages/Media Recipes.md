@@ -26,4 +26,4 @@
 	- Starvation media
 		- No EGF, no Serum, no insulin
 		- Make aliquot when making growth media before adding serum, egf, insulin
-		-
+		- BSA - 0.15g per 50mL
