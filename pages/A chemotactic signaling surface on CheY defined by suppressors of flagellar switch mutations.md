@@ -32,4 +32,6 @@ links:: [Local library](zotero://select/library/items/SKRW2RXN), [Web library](h
 		- fliG cheY+ or fliM cheY+
 		- contain fliG or fliM alleles that are suppressors of cheY mutations that have been back crossed to wt
 	- Hydroxylamine mutagenesis
+- plasmid was randomly mutagenized and then transformed into tester stains which were selected
+	- Swarm test to see if they had chemotaxis
 -
