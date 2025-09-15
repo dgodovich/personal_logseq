@@ -15,4 +15,9 @@
 	- Additional shelving
 		- Can't use the space above my desk if I'm using it as a standing desk because of collisions
 		- Not sure where else that would go then :/
-		-
+		- Closet side? that works but would have to be shallower
+-
+- Apartment upgrades
+	- Shoe rack
+	- Door mat
+	- Cutlery organizer
