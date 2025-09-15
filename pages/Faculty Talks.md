@@ -26,7 +26,12 @@
 		- E.J. Conklin was in princeton way long ago doing lineage tracing on snails
 		- Cas9 molecular recorder
 			- Genetic barcode inside a cell
-			-
+		- She's very open about how they aren't perfect
+		- How does an NMP decide which branch to go down?
+			- ectodermal or mesodermal fate
+			- Tracer gives a really good readout of molecular events in the cell
+		- NMP at earlier timepoint is close to a somitic cell type, later becomes more neural
+			- Excise the NMP tip of the gastruloid
 - [[Sep 12th, 2025]]
   collapsed:: true
 	- [[Ricardo Mallarino]]
