@@ -30,7 +30,23 @@ links:: [Local library](zotero://select/library/items/MHM28KU5), [Web library](h
 	- Missense mutation often confer cold or hot sensitive properties
 - Methods
 	- I'm not 100% clear on what su+ or am- really means
+		- oh am is probably amber (yep)
 	- some complicated nomenclature going on here
 - Results
 	- Spontaneous mutants
+	- ![image.png](../assets/image_1757906324760_0.png)
+		- what a table
+		- This is the whole paper lmao
+		- Main conclusion is that there is a high probability that a missense mutant can yield a new hot or cold sensitive mutant
+			- Not all of them did but a pretty strong majority
+		- 9 cold sensitive got 8 temp sensitive mutants
+		- 13 hot got 4 cold mutants
+		- 3 amber all 3 got one or the other
+	- Suppressors were identified by the genic location of the reverting mutation
+		- If it's on a different gene, then it's a suppressor
+			- This is true because it's definitely not a back mutation or a frameshift if it's in a different gene
+		- Suppressors separated by recombination and they themselves confer the temp sensitivity
+			- ![image.png](../assets/image_1757906834405_0.png)
+			- Main takeaway from this is that they're basically the same
+			- The suppressor gene has the temperature sensitivity
 	-
