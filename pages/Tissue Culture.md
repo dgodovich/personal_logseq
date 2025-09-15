@@ -2,15 +2,20 @@
 - Notes from Jared
 	- MCF10A cells are very slow to trypsinze
 		- On the order of 30 minutes to get them to stick off the plate
-	- Thoughts on using a 96 well plate
+	- Thoughts on using a [[96 well plate]]
 		- Do's
 			- Fill wells in a rectangle or grid pattern
 			- Surround wells that you're using with a moat of DI water or PBS
 			- Use single pipet tips
-				-
+				- This doesn't apply for if you're using the whole plate but for a few wells it's better to have individual tips
+			- Fill multiple wells with slightly varying cell densities
+				- Counting isn't perfect and this helps to make sure that you will have at least 1 well that has a correct density
 		- Don'ts
 			- Use the outer wells
 			- Go in a line
+				- This is more relevant for oil immersion objectives
+				- Tracking oil in a circle is better for the microscope than going in a line
+		- [[draws/2025-09-15-11-53-26.excalidraw]]
 - Flask usage
 	- T25
 		- equivalent to 2 wells of a 6 well plate or a 6cm dish
