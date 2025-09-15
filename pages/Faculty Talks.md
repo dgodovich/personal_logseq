@@ -16,7 +16,17 @@
 			- 2A antagonizes viral defenses
 				- Somehow there's a repression of interferon production
 	- [[Michelle M. Chan]]
-		- Gastruloids
+		- Gastruloids (not again)
+			- theoretically can study human development further than 14 days
+		- Mostly genomics based
+			- Including spatial? how do you justify spatial on gastruloids?
+		- Looking for a comprehensive mammalian cell fate map
+			- Shendure paper from a while ago (Qiu Nature 2024)
+		- Neural crest -opathies have a shared
+		- E.J. Conklin was in princeton way long ago doing lineage tracing on snails
+		- Cas9 molecular recorder
+			- Genetic barcode inside a cell
+			-
 - [[Sep 12th, 2025]]
   collapsed:: true
 	- [[Ricardo Mallarino]]
