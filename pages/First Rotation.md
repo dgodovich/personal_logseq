@@ -2,7 +2,7 @@
 - Starts [[Sep 8th, 2025]] through November something
 - [[Tissue Culture]]
 - Cell line
-	- MCF10A
+	- [MCF10A](logseq://graph/personal_logseq?block-id=68c83ab3-3e3d-4519-ad31-52cbba7c00d0)
 		- Triple transgenic
 			- OptoEGFR, Fusion red nuclear, ERK-KTR
 			- Fusion red is stupid bright
@@ -16,7 +16,7 @@
 			- Is this something intrinsic to the cell line that Jared was working with? Is it a protocol difference?
 			  background-color:: yellow
 - Questions
-	-
+	- Flow cells down a density gradient
 - Figuring out the project
   collapsed:: true
 	- I didn't take notes during the conversation but here's some thoughts after the fact

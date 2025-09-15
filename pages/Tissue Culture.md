@@ -18,13 +18,26 @@
 				- Tracking oil in a circle is better for the microscope than going in a line
 		- [[draws/2025-09-15-11-53-26.excalidraw]]
 - MCF10A protocol
+  id:: 68c83ab3-3e3d-4519-ad31-52cbba7c00d0
 	- Media
 		- {{embed ((68c1dc8a-1705-4308-84d9-f586f1fed732))}}
-		- MCF10A growth medium consisted of DMEM/F12 supplemented with 5% horse serum (Invitrogen,16050122), 20 ng/mL EGF (Peprotech, AF-100-15-1MG), 0.5 µg/mL hydrocortisone (Sigma-Aldrich, H0888), 100 ng/mL cholera toxin (Sigma-Aldrich, C8052), 10 µg/mL insulin (Sigma-Aldrich I-1882,), and 1% penicillin/streptomycin.
-	- Cells were imaged on glass-bottom, black-walled 96-well plates (Cellvis, P96-1.5H-N) coated with fibronectin.
-	- Wells of 96-well plates were first incubated with 10 µg/mL fibronectin dissolved in PBS at 37°C for a minimum of 30 min. After fibronectin coating, wells were washed twice with DI water and seeded at 30,000 cells/well 1 day prior to imaging. For improved adhesion, cells were plated into 150 μL of media, then spun down in a tabletop centrifuge for 30 sec. 3 hours prior to imaging, growth medium was replaced with low-growth factor “starvation” medium. Starvation medium was identical to growth medium, but lacked horse serum, EGF, and insulin, and was supplemented with 3 mg/mL bovine serum albumin. At least 1 hour prior to imaging, medium was replaced with starvation medium containing 0.1uM nuclear dye Hoechst Janelia fluor 646 (Tocris 6804). All cells were maintained at 37°C and 5% CO2.
-- [1:38](https://toettchlab.slack.com/archives/D09ER4UAWSY/p1757612332867369)
-- when you count the cells, don't use trypan blue (but the machine will assume trypan blue so you'll divide total cell count by 2)
+		- DMEM/F12 supplemented with 5% horse serum (Invitrogen,16050122), 20 ng/mL EGF (Peprotech, AF-100-15-1MG), 0.5 µg/mL hydrocortisone (Sigma-Aldrich, H0888), 100 ng/mL cholera toxin (Sigma-Aldrich, C8052), 10 µg/mL insulin (Sigma-Aldrich I-1882,), and 1% penicillin/streptomycin.
+	- Plating for imaging
+		- 96 well plates coated with fibronectin
+			- glass bottom, black wall. Cellvis, P96-1.5H-N
+		- 10 µg/mL fibronectin dissolved in PBS at 37°C for a minimum of 30 min.
+		- After fibronectin coating, wells were washed twice with DI water
+		- Seeded at 30,000 cells/well 1 day prior to imaging.
+		  background-color:: yellow
+		- For improved adhesion, cells were plated into 150 μL of media, then spun down in a tabletop centrifuge for 30 sec.
+	- Pre-imaging starvation media change
+		- 3 hours prior to imaging
+		- growth medium was replaced with low-growth factor “starvation” medium.
+			- - horse serum, EGF, and insulin,
+			- + 3 mg/mL bovine serum albumin
+			- At least 1 hour prior to imaging, medium was replaced with starvation medium containing 0.1uM nuclear dye Hoechst Janelia fluor 646 (Tocris 6804)
+				- To get a nuclear marker, but I don't need this I think
+	- when you count the cells, don't use trypan blue (but the machine will assume trypan blue so you'll divide total cell count by 2)
 - Flask usage
   collapsed:: true
 	- T25
