@@ -49,4 +49,20 @@ links:: [Local library](zotero://select/library/items/MHM28KU5), [Web library](h
 			- ![image.png](../assets/image_1757906834405_0.png)
 			- Main takeaway from this is that they're basically the same
 			- The suppressor gene has the temperature sensitivity
-	-
+- Discussion
+	- CS mutants more readily revert to temperature sensitivity than the other way around
+		- 1/20 for CS vs 1/100 for TS
+	- Suppressor mutations are in almost all cases in proteins that interact with the parental protein
+		- There is likely some 3D interaction stuff going on
+		- Many of the suppressors are in gene 5, a capsid protein
+		- gene 1 is a structural protein associated with the capsid, gene 8 also interacts
+	- These reversions with temperature sensitivity are really useful
+		- Temporal sequencing from some other paper
+			- How does this work? maybe look at reference 4
+		- Reversion is not mutagenesis
+			- no double mutants
+			- selective by nature
+		- Function specific
+			- Has to target a very specific thing
+			- This remains true in more complex organisms
+			- Could be useful in studying covalent protein interactions
