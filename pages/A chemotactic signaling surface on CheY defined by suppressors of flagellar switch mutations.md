@@ -42,5 +42,6 @@ links:: [Local library](zotero://select/library/items/SKRW2RXN), [Web library](h
 	- Oh ok so what they do is the generate mutants and then take out the gene that restores chemotaxis and put that in a plasmid. Once you have one suppressor in a plasmid you can then transform that into different parental lines and see if that restores function in that line
 		- Basically you do an independent test to see if it's generic for that style of mutation or if it's something specific to that one allele
 		- By allele I think they mean specific DNA sequence bc E. coli doesn't have multiple copies of genes?
--
+- They show that it's not a phosphorylation thing and it's not a dimerization thing, so it's probably a protein interaction
+	- Further evidence for this is that almost all of the mutants are in AAs on the surface of the protein with side groups that point out and would be interacting
 -
