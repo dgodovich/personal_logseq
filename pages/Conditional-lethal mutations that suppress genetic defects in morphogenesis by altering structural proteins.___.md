@@ -20,4 +20,17 @@ links:: [Local library](zotero://select/library/items/MHM28KU5), [Web library](h
 	- An analysis of revertants of missense mutants in phage P22 has shown: (i) New temperature-sensitive (TS) and cold-sensitive (CS) phenotypes are often acquired concomitant with reversion. (ii) In many cases, these new phenotypes are due to second-site mutations (suppressors) that correct the original defect. (iii) Sometimes the suppressor mutation is not in the same gene as the original mutation. (iv) Extragenic suppressors are almost always in genes whose products are known to interact physically with the original gene products. (v) The suppressor mutations typically retain their TS or CS phenotypes when crossed into wild-type genetic backgrounds. (vi) Some TS and CS mutants derived by reversion can themselves be reverted to produce additional mutations.
 - Attachments
 	- [PDF](zotero://select/library/items/C89NZV78) {{zotero-imported-file C89NZV78, "Jarvik and Botstein - 1975 - Conditional-lethal mutations that suppress genetic defects in morphogenesis by altering structural p.pdf"}}
--
+- Temperature sensitive mutations are acquired at the same time as reversion
+	- due to suppressors
+- Conditional lethal mutants have an absolute selection in the nonpermissive condition
+	- This is pretty great for looking for revertants
+- Suppressors are useful but it's hard to find them because they don't have their own phenotype
+	- Unless? uwu
+	- Suppressors are often missense mutations
+	- Missense mutation often confer cold or hot sensitive properties
+- Methods
+	- I'm not 100% clear on what su+ or am- really means
+	- some complicated nomenclature going on here
+- Results
+	- Spontaneous mutants
+	-
