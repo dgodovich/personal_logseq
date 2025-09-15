@@ -1,0 +1,18 @@
+- Second monitor
+- double monitor arm
+- conditioner
+- bathrobe
+-
+- Room upgrades
+	- Nightstand
+	- Dresser?
+		- What if I retrofit drawers onto the old desk? I kinda like the idea of having two desks...
+			- Potential for a workbench? Could be cool
+		- Would go where the desk is currently
+	- Make standing desk actually work as a standing desk
+	- Some form of drawers next to desk
+		- Ikea alex?
+	- Additional shelving
+		- Can't use the space above my desk if I'm using it as a standing desk because of collisions
+		- Not sure where else that would go then :/
+		-
