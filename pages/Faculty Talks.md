@@ -1,5 +1,6 @@
 - [[Sep 15th, 2025]]
 	- [[Alex Ploss]]
+	  collapsed:: true
 		- Hepatitis virus, flavivirus
 			- Dengue, Yellow fever, zika
 		- Mostly liver infecting viruses
@@ -10,7 +11,12 @@
 			- Same vaccine is still being used
 			- Has about 1/250,000 adverse effects
 		- What's the difference between the virulent strain and the immunogenic strain? (live attenuated virus in the vaccine)
-		-
+			- 2A protein drives immune response, E drives spread
+			- E is a structural protein in the viral capsule
+			- 2A antagonizes viral defenses
+				- Somehow there's a repression of interferon production
+	- [[Michelle M. Chan]]
+		- Gastruloids
 - [[Sep 12th, 2025]]
   collapsed:: true
 	- [[Ricardo Mallarino]]
