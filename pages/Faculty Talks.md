@@ -1,4 +1,12 @@
+- [[Sep 15th, 2025]]
+	- [[Alex Ploss]]
+		- Hepatitis virus, flavivirus
+			- Dengue, Yellow fever, zika
+		- Mostly liver infecting viruses
+		- Try to be proactive rather than reactive for infectious disease treatment
+		-
 - [[Sep 12th, 2025]]
+  collapsed:: true
 	- [[Ricardo Mallarino]]
 		- evo devo
 		- lab model species are super inbred with limited variation, and are artificially selected
@@ -8,6 +16,7 @@
 		- Sugar gliders
 			- marsupial allows you to look at the embryo and put it back to keep growing
 - [[Sep 11th, 2025]]
+  collapsed:: true
 	- [[Danelle Devenport]]
 		- sabbatical this year so open to new directions
 		- Organs and cells are robust
