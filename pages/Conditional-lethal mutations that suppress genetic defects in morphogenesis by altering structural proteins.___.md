@@ -1,0 +1,23 @@
+date:: 07/1975
+issn:: "0027-8424, 1091-6490"
+issue:: 7
+doi:: 10.1073/pnas.72.7.2738
+title:: Conditional-lethal mutations that suppress genetic defects in morphogenesis by altering structural proteins.
+pages:: 2738-2742
+volume:: 72
+item-type:: [[journalArticle]]
+access-date:: 2025-09-04T20:52:13Z
+original-title:: Conditional-lethal mutations that suppress genetic defects in morphogenesis by altering structural proteins.
+language:: en
+url:: https://pnas.org/doi/full/10.1073/pnas.72.7.2738
+publication-title:: Proceedings of the National Academy of Sciences
+journal-abbreviation:: Proc. Natl. Acad. Sci. U.S.A.
+authors:: [[J Jarvik]], [[D Botstein]]
+library-catalog:: DOI.org (Crossref)
+links:: [Local library](zotero://select/library/items/MHM28KU5), [Web library](https://www.zotero.org/users/6106196/items/MHM28KU5)
+
+- [[Abstract]]
+	- An analysis of revertants of missense mutants in phage P22 has shown: (i) New temperature-sensitive (TS) and cold-sensitive (CS) phenotypes are often acquired concomitant with reversion. (ii) In many cases, these new phenotypes are due to second-site mutations (suppressors) that correct the original defect. (iii) Sometimes the suppressor mutation is not in the same gene as the original mutation. (iv) Extragenic suppressors are almost always in genes whose products are known to interact physically with the original gene products. (v) The suppressor mutations typically retain their TS or CS phenotypes when crossed into wild-type genetic backgrounds. (vi) Some TS and CS mutants derived by reversion can themselves be reverted to produce additional mutations.
+- Attachments
+	- [PDF](zotero://select/library/items/C89NZV78) {{zotero-imported-file C89NZV78, "Jarvik and Botstein - 1975 - Conditional-lethal mutations that suppress genetic defects in morphogenesis by altering structural p.pdf"}}
+-
