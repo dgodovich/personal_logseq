@@ -10,7 +10,7 @@
 	  |Pen/Strep|5 mL|yes|
 	  |BSA||0.3%|
 	- Growth media
-	  collapsed:: true
+	  id:: 68c1dc8a-1705-4308-84d9-f586f1fed732
 		- DMEM/F12 11330-032
 		- Horse Serum 16050-122
 		- EGF
