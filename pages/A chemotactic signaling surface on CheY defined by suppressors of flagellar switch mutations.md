@@ -34,4 +34,13 @@ links:: [Local library](zotero://select/library/items/SKRW2RXN), [Web library](h
 	- Hydroxylamine mutagenesis
 - plasmid was randomly mutagenized and then transformed into tester stains which were selected
 	- Swarm test to see if they had chemotaxis
+- They want to check for allele specificity
+	- I'm not sure I understand this
+	- It seems that it isn't specific?
+		- ![image.png](../assets/image_1757911652042_0.png)
+		- most of the suppressors are able to swarm across backgrounds
+	- Oh ok so what they do is the generate mutants and then take out the gene that restores chemotaxis and put that in a plasmid. Once you have one suppressor in a plasmid you can then transform that into different parental lines and see if that restores function in that line
+		- Basically you do an independent test to see if it's generic for that style of mutation or if it's something specific to that one allele
+		- By allele I think they mean specific DNA sequence bc E. coli doesn't have multiple copies of genes?
+-
 -
