@@ -4,6 +4,12 @@
 			- Dengue, Yellow fever, zika
 		- Mostly liver infecting viruses
 		- Try to be proactive rather than reactive for infectious disease treatment
+		- Viral polymerases are error prone
+			- This is a very effective way to introduce mutations and continue evolving
+		- Theiler nobel prize for the vaccine against yellow fever by culturing it in cells for a few hundred passages
+			- Same vaccine is still being used
+			- Has about 1/250,000 adverse effects
+		- What's the difference between the virulent strain and the immunogenic strain? (live attenuated virus in the vaccine)
 		-
 - [[Sep 12th, 2025]]
   collapsed:: true
