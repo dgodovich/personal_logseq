@@ -23,4 +23,13 @@ links:: [Local library](zotero://select/library/items/SKRW2RXN), [Web library](h
 - CheY interacts with the flagellar motor complex to change swim direction
 	- counterclockwise is smooth swimming, clockwise has a tumble
 	- Che for chemotaxis
-	-
+	- Active form is phosphorylated
+- Mapping dominant suppressors of mutations on CheY
+	- This helps them figure out that there is a clustering of mutations on one side of CheY (using structure data), so that's probably the active side
+- Methods
+	- This bacteria that they're using is so specifically mutated bro
+	- Mutant tester strains are motile but not chemotactic
+		- fliG cheY+ or fliM cheY+
+		- contain fliG or fliM alleles that are suppressors of cheY mutations that have been back crossed to wt
+	- Hydroxylamine mutagenesis
+		-
