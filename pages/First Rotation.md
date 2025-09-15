@@ -17,6 +17,9 @@
 			  background-color:: yellow
 - Questions
 	- Flow cells down a density gradient
+	- Simple questions
+		- Do you sterile filter the BSA?
+		- Is there a fibronectin aliquot that I should use?
 - Figuring out the project
   collapsed:: true
 	- I didn't take notes during the conversation but here's some thoughts after the fact
