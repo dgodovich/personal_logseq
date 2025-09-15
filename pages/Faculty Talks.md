@@ -31,7 +31,9 @@
 			- ectodermal or mesodermal fate
 			- Tracer gives a really good readout of molecular events in the cell
 		- NMP at earlier timepoint is close to a somitic cell type, later becomes more neural
-			- Excise the NMP tip of the gastruloid
+			- Excise the NMP tip of the gastruloid and regrow a new gastruloid
+			- Second generation has quite a bit more neural fate NMPs
+		- Spatially looking at more general things? which cell type has migrations?
 - [[Sep 12th, 2025]]
   collapsed:: true
 	- [[Ricardo Mallarino]]
