@@ -9,3 +9,6 @@
 		-
 	- Other application notes:
 		-
+-
+- 96 well plate
+	- [[draws/2025-09-15-15-28-34.excalidraw]]
