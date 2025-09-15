@@ -26,7 +26,10 @@
 		- 96 well plates coated with fibronectin
 			- glass bottom, black wall. Cellvis, P96-1.5H-N
 		- 10 µg/mL fibronectin dissolved in PBS at 37°C for a minimum of 30 min.
+			- 200 \mu\L per well
 		- After fibronectin coating, wells were washed twice with DI water
+			- Can also use PBS but sterility doesn't seem to matter that much
+			- Don't sterile filter after adding BSA, and reuse plates after imaging, so it's not a huge deal
 		- Seeded at 30,000 cells/well 1 day prior to imaging.
 		  background-color:: yellow
 		- For improved adhesion, cells were plated into 150 μL of media, then spun down in a tabletop centrifuge for 30 sec.

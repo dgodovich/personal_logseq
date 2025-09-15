@@ -19,8 +19,12 @@
 	- Flow cells down a density gradient
 	- Simple questions
 		- Do you sterile filter the BSA?
+			- No
 		- Is there a fibronectin aliquot that I should use?
 			- I assume that's what the PBS that Beena set aside is for? No need to wash any plates at any time?
+				- Yep I will make a fibronectin solution with that guy and then keep in +4
+				- Can use PBS to wash plates or fibronectin coating solution but it doesn't seem to be critical
+				- Media has pen strep in it to kill some things, and it's generally not a super sterile environment anyway
 - Figuring out the project
   collapsed:: true
 	- I didn't take notes during the conversation but here's some thoughts after the fact
