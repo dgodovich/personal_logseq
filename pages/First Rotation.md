@@ -1,6 +1,8 @@
 - [[Jared Toettcher]]
 - Starts [[Sep 8th, 2025]] through November something
 - [[Tissue Culture]]
+- [[Imaging]]
+- [[pyCLM]]
 - Cell line
 	- [MCF10A](logseq://graph/personal_logseq?block-id=68c83ab3-3e3d-4519-ad31-52cbba7c00d0)
 		- Triple transgenic
