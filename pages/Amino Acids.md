@@ -1,6 +1,6 @@
 - {{cards [[amino_acid]]}}
 - Alanine #card #amino_acid
-	- Ala; A
+	- Ala; A; methyl side chain
 - Arginine #card #amino_acid
 - Arparagine #card #amino_acid
 - Aspartic acid #card #amino_acid
@@ -8,16 +8,22 @@
 - Glutamic acid #card #amino_acid
 - Glutamine #card #amino_acid
 - Glycine #card #amino_acid
+	- Gly; G; H side chain
 - Histidine #card #amino_acid
-- Hydroxyproline #card #amino_acid
+- Proline #card #amino_acid
+	- Pro; P; cyclic amine
 - Isoleucine #card #amino_acid
+	- Ile; I; butyl side chain
 - Leucine #card #amino_acid
+	- Leu; L; isobutyl side chain
 - Lysine #card #amino_acid
 - Methionine #card #amino_acid
 - Phenylalanine #card #amino_acid
+	- Phe; F; benzyl side chain
 - Serine #card #amino_acid
 - Threonine #card #amino_acid
 - Tryptophan #card #amino_acid
 - Tyrosine #card #amino_acid
+	-
 - Valine #card #amino_acid
 	- Val; V; isopropyl side chain
