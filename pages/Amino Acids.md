@@ -1,0 +1,23 @@
+- {{cards [[amino_acid]]}}
+- Alanine #card #amino_acid
+	- Ala; A
+- Arginine #card #amino_acid
+- Arparagine #card #amino_acid
+- Aspartic acid #card #amino_acid
+- Cysteine #card #amino_acid
+- Glutamic acid #card #amino_acid
+- Glutamine #card #amino_acid
+- Glycine #card #amino_acid
+- Histidine #card #amino_acid
+- Hydroxyproline #card #amino_acid
+- Isoleucine #card #amino_acid
+- Leucine #card #amino_acid
+- Lysine #card #amino_acid
+- Methionine #card #amino_acid
+- Phenylalanine #card #amino_acid
+- Serine #card #amino_acid
+- Threonine #card #amino_acid
+- Tryptophan #card #amino_acid
+- Tyrosine #card #amino_acid
+- Valine #card #amino_acid
+	- Val; V; isopropyl side chain
