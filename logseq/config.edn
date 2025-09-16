@@ -300,7 +300,7 @@
  ;;  :charge-range    600}   ; Default value: 600
 
  ;; Favorites to list on the left sidebar
- :favorites ["MOL514" "Schools and Programs"]
+ :favorites ["MOL 504A" "MOL514" "Schools and Programs"]
 
  ;; Set flashcards interval.
  ;; Expected value:
