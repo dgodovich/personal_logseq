@@ -1,9 +1,10 @@
 - ![MOL504_Fall2025_SP.pdf](../assets/MOL504_Fall2025_SP_1756824447343_0.pdf)
-- [[Sep 16th, 2025]]
+- [[Sep 16th, 2025]] Condensates
 	- Reading
 		- [[Liquid phase condensation in cell physiology and disease]]
-			-
 		- [[Phase separation of signaling molecules promotes T cell receptor signal transduction]]
+	- [[draws/2025-09-16-10-48-05.excalidraw]]
+	-
 - [[Sep 11th, 2025]] Protein Interactions
   collapsed:: true
 	- How to study biophysical techniques - guest lecture
