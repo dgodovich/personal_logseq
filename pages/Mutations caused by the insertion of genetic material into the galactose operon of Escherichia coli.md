@@ -19,4 +19,6 @@ links:: [Local library](zotero://select/library/items/QR4VB3RP), [Web library](h
 - Attachments
 	- [PDF](zotero://select/library/items/5W7TN9PP) {{zotero-imported-file 5W7TN9PP, "Shapiro - 1969 - Mutations caused by the insertion of genetic material into the galactose operon of Escherichia coli.PDF"}}
 	- [PubMed entry](http://www.ncbi.nlm.nih.gov/pubmed/4903362)
--
+- Spontaneous extreme polar mutations?
+	- Oh polar like polarity
+	-
