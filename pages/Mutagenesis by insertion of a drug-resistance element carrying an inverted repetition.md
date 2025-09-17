@@ -54,6 +54,8 @@ links:: [Local library](zotero://select/library/items/NYX9NGTI), [Web library](h
 			- ![image.png](../assets/image_1758077173219_0.png)
 			- recA- bacteria and erf- phage can't do recombination
 			- integration is also not needed
+			- c2ts is a repressor mutant
+				- would kill the bacteria even if it was able to integrate
 		- Look for mutation caused by the insertion sequence jumping to salmonella
 			- Screen tetR transductants for auxotrophs that came from that mutation
 			- ~1% are auxotrophs
