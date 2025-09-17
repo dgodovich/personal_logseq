@@ -54,4 +54,11 @@ links:: [Local library](zotero://select/library/items/NYX9NGTI), [Web library](h
 			- ![image.png](../assets/image_1758077173219_0.png)
 			- recA- bacteria and erf- phage can't do recombination
 			- integration is also not needed
-		-
+		- Look for mutation caused by the insertion sequence jumping to salmonella
+			- Screen tetR transductants for auxotrophs that came from that mutation
+			- ~1% are auxotrophs
+			- No specificity in the required nutrient
+			- If you transfer the tetR from an auxotrophic bacteria via P22 generalized transduction, the transductant will be auxotrophic for the same thing as the donor
+				- Doesn't matter what it is and it's every time (523/523)
+			- Reversion to prototrophy is always accompanied by loss of tet resistance
+			-
