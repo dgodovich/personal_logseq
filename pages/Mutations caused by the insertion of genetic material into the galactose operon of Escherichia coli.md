@@ -74,6 +74,8 @@ links:: [Local library](zotero://select/library/items/QR4VB3RP), [Web library](h
 			- This is one panel but it gets the point across
 			- The phage that has the insertion mutation added to it is denser than the one that just has gal
 			- There is more DNA in it
+			- ![image.png](../assets/image_1758121190765_0.png)
+				- how to tell them apart
 - Insertions are on the order of 1-2kb
 - Most of this paper is control experiments to make sure that what they're seeing isn't because of a property of the mutant or of the centrifugation or the homogenate production
 - Insertions might be very common
