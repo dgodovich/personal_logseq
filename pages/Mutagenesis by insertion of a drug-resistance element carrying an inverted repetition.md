@@ -29,4 +29,20 @@ links:: [Local library](zotero://select/library/items/NYX9NGTI), [Web library](h
 	- No loss of DNA when the insertion happens
 	- This is not an example of specialized transduction
 		- Not at the phage attachment site
-	-
+	- Can go from one DNA molecule to another
+- Materials and Methods
+	- The antibiotic resistant phages can't fit all of their DNA into a phage head
+		- bro got too big
+		- Maintained as lysogens and are defective to single infection
+			- Done with a temp sensitive
+			- needs helper phage
+	- integration mutant to study generalized transduction
+- Results
+	- DNA heteroduplexes between independent phages
+		- DNA was denatured and reannealed
+		- Can contain one stand from each of the two phages
+		- Insertions in Tc-10 and Tc-106 are indistinguishable
+			- Only difference is location on the P22 genome
+		- Evidence to show that the insertions really are actually homologous
+			- self complementarity
+			-
