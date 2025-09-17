@@ -44,5 +44,14 @@ links:: [Local library](zotero://select/library/items/NYX9NGTI), [Web library](h
 		- Insertions in Tc-10 and Tc-106 are indistinguishable
 			- Only difference is location on the P22 genome
 		- Evidence to show that the insertions really are actually homologous
-			- self complementarity
-			-
+			- self complementarity is slightly obstructed by sterics
+		- branch migration?
+			- oh it's crossing over
+	- Mutagenesis of Salmonella by insertion of the tetR element
+		- Translocation of the material from R-factor to P22 genome did not impact integrity
+		- It's also capable of going from P22 into the Salmonella genome
+		- Even if you remove phage and bacterial recombination function, tetR can transfer
+			- ![image.png](../assets/image_1758077173219_0.png)
+			- recA- bacteria and erf- phage can't do recombination
+			- integration is also not needed
+		-
