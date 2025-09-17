@@ -1,0 +1,6 @@
+- [[Sep 17th, 2025]] Yang Toettcher lab
+	- Funny this is literally the same stuff I was working on
+	- Encode spatial pattern with optogenetics
+	- Drug plus light and gate
+		- Can bathe in drug and still get specificity
+	-

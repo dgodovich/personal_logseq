@@ -77,3 +77,4 @@
 			- [[Recording morphogen signals reveals mechanisms underlying gastruloid symmetry breaking]]
 			- Could be cool, I didn't get to read this paper so don't know much about this direction
 			- Talk to Yang? Or lets just see what Jared says
+- [[Lab Meetings]]
