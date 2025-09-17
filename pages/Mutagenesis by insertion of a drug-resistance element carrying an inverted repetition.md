@@ -65,4 +65,8 @@ links:: [Local library](zotero://select/library/items/NYX9NGTI), [Web library](h
 		- They found 16 his- auxotrophs, use those to locate
 		- Use complementation for individual genes to see if there's any polarity / pleiotropy
 			- If you can't get complemented by one gene, the insertion is causing polarity in the operon
-			-
+		- His operon has multiple promoters so polarity is limited to the next available promoter
+		- Use deletion mapping to exactly place the insertions, and it all lines up
+		- Can also check by using the biochemical pathway intermediates, and that also works
+- Discussion
+	-

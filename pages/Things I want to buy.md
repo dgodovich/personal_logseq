@@ -1,6 +1,5 @@
 - Second monitor
 - double monitor arm
-- conditioner
 - bathrobe
 -
 - Room upgrades
@@ -10,6 +9,11 @@
 			- Potential for a workbench? Could be cool
 		- Would go where the desk is currently
 	- Make standing desk actually work as a standing desk
+		- Not sure exactly what I need for this
+		- It does kinda work right now but it's ugly
+		- Platform for subwoofer? that seems like a stupid idea
+		- Elevate computer to about desk height would be nice
+		- Move power plugs to the surge protector on the desk
 	- Some form of drawers next to desk
 		- Ikea alex?
 	- Additional shelving
@@ -20,4 +24,3 @@
 - Apartment upgrades
 	- Shoe rack
 	- Door mat
-	- Cutlery organizer
