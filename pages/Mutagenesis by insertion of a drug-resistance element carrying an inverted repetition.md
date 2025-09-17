@@ -61,4 +61,8 @@ links:: [Local library](zotero://select/library/items/NYX9NGTI), [Web library](h
 			- If you transfer the tetR from an auxotrophic bacteria via P22 generalized transduction, the transductant will be auxotrophic for the same thing as the donor
 				- Doesn't matter what it is and it's every time (523/523)
 			- Reversion to prototrophy is always accompanied by loss of tet resistance
+	- Polarity of tetR insertions in histidine operon
+		- They found 16 his- auxotrophs, use those to locate
+		- Use complementation for individual genes to see if there's any polarity / pleiotropy
+			- If you can't get complemented by one gene, the insertion is causing polarity in the operon
 			-
