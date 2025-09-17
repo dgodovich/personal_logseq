@@ -19,4 +19,14 @@ links:: [Local library](zotero://select/library/items/NYX9NGTI), [Web library](h
 - Attachments
 	- [PDF](zotero://select/library/items/ATWWVSWC) {{zotero-imported-file ATWWVSWC, "Kleckner et al. - 1975 - Mutagenesis by insertion of a drug-resistance element carrying an inverted repetition.pdf"}}
 	- [PubMed entry](http://www.ncbi.nlm.nih.gov/pubmed/1102715)
--
+- R elements are now called transposons
+- tet resistance available on a translocalizable element
+- Introduction
+	- Using P22
+	- 8.3kb insertion with weird structure
+		- double stranded stem
+			- flanking inverted insertion sequences
+	- No loss of DNA when the insertion happens
+	- This is not an example of specialized transduction
+		- Not at the phage attachment site
+	-
