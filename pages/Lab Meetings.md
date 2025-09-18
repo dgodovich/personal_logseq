@@ -3,4 +3,6 @@
 	- Encode spatial pattern with optogenetics
 	- Drug plus light and gate
 		- Can bathe in drug and still get specificity
-	-
+	- I stopped taking notes because it got complicated and no one else was taking notes at all lol
+		- Some interesting stuff with the patterning and difficulties with cloning pretty much
+		-
