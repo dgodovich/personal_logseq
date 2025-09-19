@@ -50,4 +50,10 @@ links:: [Local library](zotero://select/library/items/8XDDI5YD), [Web library](h
 	- Recombination of the transposon gives a His+ recombinant with a reversion of the element in ara
 		- They can detect this because..... I'm not sure
 		- Something about transduction repair would be low frequency?
-		- Oh because it's kanamycin resistant
+		- Oh because it's kanamycin resistance determinant
+			- I think that means that the MudJ is a deletion that lets it accept kanamycin resistance very easily?
+		- Parental strain that gets transduced is Hol+ and Km resistant
+- Results
+	- C' indicates that only a part of C is present
+	- parent strain is his- but Hol+ because it has functional hisD but no hisC
+	-

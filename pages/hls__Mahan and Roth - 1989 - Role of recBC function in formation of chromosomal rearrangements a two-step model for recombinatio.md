@@ -37,3 +37,23 @@ file-path:: file://C:/Users/David/Zotero/storage/DYNVL343/Mahan and Roth - 1989 
   hl-page:: 3
   hl-color:: yellow
   id:: 68ccc4c8-37ef-4cb1-8ff8-e75e1fe0ac59
+- Linkage disruption at the his end point of the inversion was diagnosed as a reduction in the abilityofHis+ recombinants to inherit a kanamycin resistance marker introduced by P22 phage grown on TT11077
+  ls-type:: annotation
+  hl-page:: 3
+  hl-color:: red
+  id:: 68ccc5bc-b197-4685-b69d-e77e51ac1751
+- used to transduce His+ recombinants to kanamycin resistanc
+  ls-type:: annotation
+  hl-page:: 3
+  hl-color:: yellow
+  id:: 68ccc5cc-f056-4292-9405-34751891f015
+- C’ indicates only a fragment of the hisC gene is presen
+  ls-type:: annotation
+  hl-page:: 4
+  hl-color:: yellow
+  id:: 68ccc7b1-8537-4926-aac9-2f8b4cc27ba8
+- his material at ara is in the opposite orientation vis-&vis the normal his operon
+  ls-type:: annotation
+  hl-page:: 4
+  hl-color:: yellow
+  id:: 68ccc7b7-3e7d-469a-9afb-2a20336c8f03
