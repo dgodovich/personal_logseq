@@ -20,4 +20,6 @@ links:: [Local library](zotero://select/library/items/UAUT9PI7), [Web library](h
 
 - Attachments
 	- [PDF](zotero://select/library/items/XIQI6GE9) {{zotero-imported-file XIQI6GE9, "Smith - 1989 - Homologous recombination in E. coli Multiple pathways for multiple reasons.pdf"}}
--
+- Simple view of recombination pathways
+- RecBCD is the main pathway of recombination in E. Coli
+	- named this way for the
