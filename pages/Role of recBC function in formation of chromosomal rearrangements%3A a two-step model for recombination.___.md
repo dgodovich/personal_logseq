@@ -80,4 +80,18 @@ links:: [Local library](zotero://select/library/items/8XDDI5YD), [Web library](h
 	- Is half reciprocal even real?
 	- I have no idea what they're talking about
 	- recBC is mostly fully reciprocal, opposite to their expectations
--
+	- ![image.png](../assets/image_1758253520000_0.png)
+	- Full reciprocal - loss of his at donor
+	- Half reciprocal - retention of his at donor
+	- ![image.png](../assets/image_1758253505576_0.png)
+		- recB/C mutants have more loss of his at donor, therefore more full reciprocal
+- Discussion
+	- The frequency of recombination between direct repeats to remove an intervening segment from the chromosome is not affected by the recBC function.
+	- The overall process of excising a circle and recapturing it at a distant site is stimulated by recBC function.
+	- Inversion formation by recombination between inverse order homologies is stimulated by recBC function
+	- Circle capture and inversion require full reciprocality
+		- stimulated by recBC function
+	- Propose model with double strand break intermediate
+		- There's no way this is right, right?
+		- RecBC does need a double stranded break to start but that's gotta happen in some other way
+	-

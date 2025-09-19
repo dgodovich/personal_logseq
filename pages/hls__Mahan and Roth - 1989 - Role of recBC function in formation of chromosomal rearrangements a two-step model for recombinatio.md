@@ -103,3 +103,38 @@ file-path:: file://C:/Users/David/Zotero/storage/DYNVL343/Mahan and Roth - 1989 
   hl-page:: 6
   hl-color:: yellow
   id:: 68cccf86-4fde-45dc-8e4b-5c46f17e2b72
+- (1) The frequency of recombination between direct repeats to remove anintervening segmentfrom the chromosome is not affected by the recBC function. This result confirms an earlier observation of SCLAFANIand WECHSLER(198 1) that the segregationof a duplication is independent of recBC function (2). The overall process of excising a circle and recapturing it at a distant site is stimulated by recBC function. (3) Inversion formation by recombination between inverse order homologies is stimulated by recBC function
+  ls-type:: annotation
+  hl-page:: 6
+  hl-color:: green
+  id:: 68ccd24f-1e57-4343-bd25-90c25c6cb523
+- propose that the initial half-reciprocal event is sufficient to generate a deletion
+  ls-type:: annotation
+  hl-page:: 7
+  hl-color:: yellow
+  id:: 68ccd319-b04a-4e6c-bb3c-455736db7ac4
+- such exchange events are lethal if the double-strand break remains unrepaired
+  ls-type:: annotation
+  hl-page:: 7
+  hl-color:: yellow
+  id:: 68ccd321-506b-4522-b9cf-13aa5fc81187
+- Upon close examination, this result is also consistent with the mode
+  ls-type:: annotation
+  hl-page:: 8
+  hl-color:: blue
+  id:: 68ccd33f-991b-405d-9bff-edcbd536873b
+- these circles, like plasmids, are“unactivated
+  ls-type:: annotation
+  hl-page:: 8
+  hl-color:: yellow
+  id:: 68ccd369-6233-4747-825e-e5d4b4d9748f
+- Other circles are formed in the second step of recombination by circularization of linear molecules excised fromthedonor site
+  ls-type:: annotation
+  hl-page:: 8
+  hl-color:: yellow
+  id:: 68ccd376-7348-43de-9442-b0f3fd287f5e
+- First, RecBC can enter a duplex ata double-strand break and stimulate its repair; second, if RecBC is present within a doublestranded molecule lacking active ends, RecBC can stimulate the initial interaction of this molecule with another duplex molecul
+  ls-type:: annotation
+  hl-page:: 8
+  hl-color:: green
+  id:: 68ccd3a2-281c-4710-ad39-2a96b4eca6bc
