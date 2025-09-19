@@ -7,6 +7,13 @@
 		- Host / microbiome interactions
 			- ranging from human microbiome in the gut, skin, vagina, mouth
 			- to ocean sponges, tunicates, random other organisms
+		- Probiotics are bs
+			- they're mostly all dead and they leave your system within a day or two
+		- Lots of complicated interactions, hard to pin down what's going on in the microbiome
+		- All mucosa in the body are connected
+			- Immune cells travel between them and can spread inflammation or some other communication
+			- Microbes can't really travel between them but it's possible to transmit information
+		- Theoretically you can do personalized medicine based entirely on the microbiome
 		-
 - [[Sep 15th, 2025]]
   collapsed:: true
