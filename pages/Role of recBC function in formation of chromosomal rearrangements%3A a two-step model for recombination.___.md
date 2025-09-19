@@ -69,4 +69,13 @@ links:: [Local library](zotero://select/library/items/8XDDI5YD), [Web library](h
 - RecBC enzyme stimulates circle generation and capture
 	- Also visible in table 2
 	- ![image.png](../assets/image_1758251589769_0.png)
-		-
+		- So what I'm seeing here is that if you have a mutant in recA you get no Hol- and no His+
+			- i.e. no recombination happens at all
+			- This doesn't matter if the DNA is inverted or not
+		- I'm not convinced that there's any difference between the inverted DNA and the non inverted?
+			- Mutation in RecB10 gives a big reduction in His+ but that's true for both ara and pncB loci
+		- I guess they compare the 287 in line 3 to lines 4 and 5 that have 20 for His+
+		- so RecBC is important for both circle capture and inversion formation
+- Check if it's reciprocal or half reciprocal recombination
+	- Is half reciprocal even real?
+	-

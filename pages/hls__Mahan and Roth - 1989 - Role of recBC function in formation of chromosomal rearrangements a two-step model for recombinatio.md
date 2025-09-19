@@ -88,3 +88,13 @@ file-path:: file://C:/Users/David/Zotero/storage/DYNVL343/Mahan and Roth - 1989 
   hl-page:: 4
   hl-color:: yellow
   id:: 68ccc9cd-fb4e-4085-a15e-87c99c813160
+- presence of a recB or recC mutation causes a 15-50-fold reduction in the number of His+recombinant
+  ls-type:: annotation
+  hl-page:: 5
+  hl-color:: green
+  id:: 68cccba2-566b-4df4-8f98-f50950f61c31
+- the ratio of circle capture types and inversion typesis affected very little by the presence of a recB or recC mutatio
+  ls-type:: annotation
+  hl-page:: 5
+  hl-color:: yellow
+  id:: 68cccbaa-0044-4b21-8e61-71e19bddc16f
