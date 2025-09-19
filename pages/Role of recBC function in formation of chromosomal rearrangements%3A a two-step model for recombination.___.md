@@ -94,4 +94,5 @@ links:: [Local library](zotero://select/library/items/8XDDI5YD), [Web library](h
 	- Propose model with double strand break intermediate
 		- There's no way this is right, right?
 		- RecBC does need a double stranded break to start but that's gotta happen in some other way
+	- I'm pretty lost so not much notes on the discussion
 	-

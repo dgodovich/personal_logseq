@@ -138,3 +138,13 @@ file-path:: file://C:/Users/David/Zotero/storage/DYNVL343/Mahan and Roth - 1989 
   hl-page:: 8
   hl-color:: green
   id:: 68ccd3a2-281c-4710-ad39-2a96b4eca6bc
+- In these studies, arecBC defect causes only a 2-fold reduction in P-galactosidase appearance but a 100-fold reduction in the frequency of Lac+ recombinants
+  ls-type:: annotation
+  hl-page:: 8
+  hl-color:: yellow
+  id:: 68ccd3cf-930d-4fd6-89d5-513b68312ba4
+- RecBCacts primarily at a double-strand break in a recombinational intermediate and serves to stimulate the secondary rejoining of the bacterial chromosom
+  ls-type:: annotation
+  hl-page:: 9
+  hl-color:: yellow
+  id:: 68ccd410-5882-475a-b0aa-5591e1773756
