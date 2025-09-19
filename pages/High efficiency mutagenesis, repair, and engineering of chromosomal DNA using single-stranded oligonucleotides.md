@@ -35,4 +35,6 @@ links:: [Local library](zotero://select/library/items/IBK834SF), [Web library](h
 - Attachments
 	- [PDF](zotero://select/library/items/4S57PCTZ) {{zotero-imported-file 4S57PCTZ, "Ellis et al. - 2001 - High efficiency mutagenesis, repair, and engineering of chromosomal DNA using single-stranded oligon.pdf"}}
 - i'm very sleepy I will just skim this
--
+- yay oligos
+- use \lambda beta gene to insert ssDNA into homologous loci
+- Can direct recombination to occur at specific sites and repair point mutations, cause deletions, etc

@@ -148,3 +148,28 @@ file-path:: file://C:/Users/David/Zotero/storage/4S57PCTZ/Ellis et al. - 2001 - 
   hl-page:: 4
   hl-color:: yellow
   id:: 68cce74f-56fd-4259-8756-c3053fb89ebb
+- must assume the two targets are not independent annealing events
+  ls-type:: annotation
+  hl-page:: 4
+  hl-color:: yellow
+  id:: 68cce75c-7129-4482-8162-7539d56b4c93
+- miting event is finding the first complementary sequence
+  ls-type:: annotation
+  hl-page:: 4
+  hl-color:: blue
+  id:: 68cce766-9c3c-4c31-bc92-98c000c30c52
+- sible to create mutations in genes cloned on plasmids.
+  ls-type:: annotation
+  hl-page:: 4
+  hl-color:: yellow
+  id:: 68cce77c-1bed-408f-b381-0a0e9f0ee814
+- ecause bet is the only l gene required for ssDNA recombination, appropriate shuttle vectors containing the bet gene could be used to export this recombination system to other specie
+  ls-type:: annotation
+  hl-page:: 4
+  hl-color:: yellow
+  id:: 68cce7b3-0c4d-48c7-9325-5ec491491885
+- Thus, recombineering with ssDNA may be applicable to higher eukaryotes as well
+  ls-type:: annotation
+  hl-page:: 5
+  hl-color:: blue
+  id:: 68cce7f5-0a7d-4a07-973a-67eeed2e90a6
