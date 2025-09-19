@@ -78,4 +78,6 @@ links:: [Local library](zotero://select/library/items/8XDDI5YD), [Web library](h
 		- so RecBC is important for both circle capture and inversion formation
 - Check if it's reciprocal or half reciprocal recombination
 	- Is half reciprocal even real?
-	-
+	- I have no idea what they're talking about
+	- recBC is mostly fully reciprocal, opposite to their expectations
+-
