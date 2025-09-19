@@ -57,3 +57,34 @@ file-path:: file://C:/Users/David/Zotero/storage/DYNVL343/Mahan and Roth - 1989 
   hl-page:: 4
   hl-color:: yellow
   id:: 68ccc7b7-3e7d-469a-9afb-2a20336c8f03
+- his was done since cultures of both recA and recBC mutants accumulate appreciable numbers of inviable cells
+  ls-type:: annotation
+  hl-page:: 4
+  hl-color:: red
+  id:: 68ccc90b-db0b-4c3f-ab02-9f39fc178020
+- Table2 shows no Hol- clones in parental strains containing a recA mutation. Derivatives with either a recB or recC mutation show a nearly undiminishe
+  ls-type:: annotation
+  hl-page:: 4
+  hl-color:: green
+  id:: 68ccc913-26b7-47d4-9d43-a0b3cfa941be
+  hl-stamp:: 1758251285431
+- quires recA but does not depend on the presence of a functional recBC gene
+  ls-type:: annotation
+  hl-page:: 4
+  hl-color:: yellow
+  id:: 68ccc928-af54-454d-8a71-e7923197f966
+- The recA allele causes a >104-fold reduction in transductant frequency, while the recB and recC alleles cause an 8to 20-fold reduction in transductant frequency
+  ls-type:: annotation
+  hl-page:: 4
+  hl-color:: yellow
+  id:: 68ccc93a-0503-4b4c-8ba7-7f432a9dbc04
+- In strains with outside his sequences in the same orientation as the his operon, His+ recombinants arise only by circle captur
+  ls-type:: annotation
+  hl-page:: 4
+  hl-color:: green
+  id:: 68ccc9c1-a6ef-4c09-b845-f4f86ca85dc8
+- recB or recC mutation reduces the frequency of His+ recombinants 14- to 20-fold
+  ls-type:: annotation
+  hl-page:: 4
+  hl-color:: yellow
+  id:: 68ccc9cd-fb4e-4085-a15e-87c99c813160

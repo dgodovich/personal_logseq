@@ -56,4 +56,17 @@ links:: [Local library](zotero://select/library/items/8XDDI5YD), [Web library](h
 - Results
 	- C' indicates that only a part of C is present
 	- parent strain is his- but Hol+ because it has functional hisD but no hisC
-	-
+	- They have another strain that is the same except the construct is in the pncB locus and it's in the same orientation, not opposite to the regular operon
+- Recombination between direct order homologies is recBC independent
+	- parent becomes Hol- if the hisD inbetween Tn10s is removed
+		- This is an intrachromosomal exchange to spit out a plasmid
+		- Can also be interchromosomal where one gets a deletion and one gets a duplication, still Hol-
+	- recA mutations abolish Hol- clones
+	- recB or recC mutation have not much change of Hol- segregants
+		- these are measured as percentages because these mutants are pretty bad at being alive
+	- ((68ccc93a-0503-4b4c-8ba7-7f432a9dbc04))
+		- I'm not sure what this means
+- RecBC enzyme stimulates circle generation and capture
+	- Also visible in table 2
+	- ![image.png](../assets/image_1758251589769_0.png)
+		-
