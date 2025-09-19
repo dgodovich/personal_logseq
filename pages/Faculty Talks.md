@@ -1,4 +1,15 @@
+- [[Sep 19th, 2025]]
+	- [[Ralph Kleiner]]
+		- RNA chemical biology
+		- tRNA non canonical RNA nucleotitdes
+		- Did not really process that information
+	- [[Mohamed Donia]]
+		- Host / microbiome interactions
+			- ranging from human microbiome in the gut, skin, vagina, mouth
+			- to ocean sponges, tunicates, random other organisms
+		-
 - [[Sep 15th, 2025]]
+  collapsed:: true
 	- [[Alex Ploss]]
 	  collapsed:: true
 		- Hepatitis virus, flavivirus
