@@ -1,2 +1,45 @@
 file:: [Pardee et al. - 1959 - The genetic control and cytoplasmic expression of “Inducibility” in the synthesis of β-galactosidase.pdf](file://C:/Users/David/Zotero/storage/FQILA4T9/Pardee et al. - 1959 - The genetic control and cytoplasmic expression of “Inducibility” in the synthesis of β-galactosidase.pdf)
 file-path:: file://C:/Users/David/Zotero/storage/FQILA4T9/Pardee et al. - 1959 - The genetic control and cytoplasmic expression of “Inducibility” in the synthesis of β-galactosidase.pdf
+
+- [:span]
+  ls-type:: annotation
+  hl-page:: 1
+  hl-color:: yellow
+  id:: 68d06ef1-3d3b-4a50-b320-996b87353b6b
+  hl-type:: area
+  hl-stamp:: 1758490352526
+- [:span]
+  ls-type:: annotation
+  hl-page:: 1
+  hl-color:: yellow
+  id:: 68d06f03-c415-4d8f-a6d5-ce5eb5217558
+  hl-type:: area
+  hl-stamp:: 1758490370111
+- [:span]
+  ls-type:: annotation
+  hl-page:: 2
+  hl-color:: red
+  id:: 68d06f70-d66c-4f02-9b5c-bf37e7e2db81
+  hl-type:: area
+  hl-stamp:: 1758490479798
+- [:span]
+  ls-type:: annotation
+  hl-page:: 2
+  hl-color:: red
+  id:: 68d06f89-3d53-4645-ad5c-242882d65f87
+  hl-type:: area
+  hl-stamp:: 1758490504785
+- [:span]
+  ls-type:: annotation
+  hl-page:: 3
+  hl-color:: red
+  id:: 68d07060-dc23-4499-af84-43c3640fb5b7
+  hl-type:: area
+  hl-stamp:: 1758490719099
+- [:span]
+  ls-type:: annotation
+  hl-page:: 5
+  hl-color:: blue
+  id:: 68d07195-dc81-4b63-911c-d1ea57a1fee8
+  hl-type:: area
+  hl-stamp:: 1758491028242
