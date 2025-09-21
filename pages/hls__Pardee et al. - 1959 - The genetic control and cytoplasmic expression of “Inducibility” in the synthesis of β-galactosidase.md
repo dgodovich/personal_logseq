@@ -1,0 +1,2 @@
+file:: [Pardee et al. - 1959 - The genetic control and cytoplasmic expression of “Inducibility” in the synthesis of β-galactosidase.pdf](file://C:/Users/David/Zotero/storage/FQILA4T9/Pardee et al. - 1959 - The genetic control and cytoplasmic expression of “Inducibility” in the synthesis of β-galactosidase.pdf)
+file-path:: file://C:/Users/David/Zotero/storage/FQILA4T9/Pardee et al. - 1959 - The genetic control and cytoplasmic expression of “Inducibility” in the synthesis of β-galactosidase.pdf

@@ -19,3 +19,7 @@ links:: [Local library](zotero://select/library/items/DY8KXUWF), [Web library](h
 
 - Attachments
 	- [PDF](zotero://select/library/items/FQILA4T9) {{zotero-imported-file FQILA4T9, "Pardee et al. - 1959 - The genetic control and cytoplasmic expression of “Inducibility” in the synthesis of β-galactosidase.pdf"}}
+- z is \beta\-galactosidase, i is repressor
+	- mutation in z you get no enzyme, mutation in i you get constitutive expression
+- Introduction
+	-
