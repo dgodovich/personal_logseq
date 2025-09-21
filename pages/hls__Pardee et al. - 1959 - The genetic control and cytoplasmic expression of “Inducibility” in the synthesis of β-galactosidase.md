@@ -43,3 +43,66 @@ file-path:: file://C:/Users/David/Zotero/storage/FQILA4T9/Pardee et al. - 1959 -
   id:: 68d07195-dc81-4b63-911c-d1ea57a1fee8
   hl-type:: area
   hl-stamp:: 1758491028242
+- [:span]
+  ls-type:: annotation
+  hl-page:: 5
+  hl-color:: yellow
+  id:: 68d07231-95a0-4d9b-83dd-af88014cfb42
+  hl-type:: area
+  hl-stamp:: 1758491183796
+- [:span]
+  ls-type:: annotation
+  hl-page:: 6
+  hl-color:: green
+  id:: 68d072b3-c288-41f7-b9dd-66dec09d3788
+  hl-type:: area
+  hl-stamp:: 1758491313886
+- [:span]
+  ls-type:: annotation
+  hl-page:: 7
+  hl-color:: purple
+  id:: 68d0736f-4d04-4d80-a5f4-71b07554d1b6
+  hl-type:: area
+  hl-stamp:: 1758491502040
+- [:span]
+  ls-type:: annotation
+  hl-page:: 7
+  hl-color:: green
+  id:: 68d0746a-c5d3-4073-9eec-c7bb27a505c2
+  hl-type:: area
+  hl-stamp:: 1758491753493
+- [:span]
+  ls-type:: annotation
+  hl-page:: 8
+  hl-color:: green
+  id:: 68d075d1-42d3-4cc4-88a4-ad6cb30ce1ab
+  hl-type:: area
+  hl-stamp:: 1758492112344
+- [:span]
+  ls-type:: annotation
+  hl-page:: 9
+  hl-color:: green
+  id:: 68d076ae-a30b-402c-8cef-f804f9045abc
+  hl-type:: area
+  hl-stamp:: 1758492343957
+- [:span]
+  ls-type:: annotation
+  hl-page:: 9
+  hl-color:: purple
+  id:: 68d076f5-830d-4d82-962b-6945ea979634
+  hl-type:: area
+  hl-stamp:: 1758492404222
+- [:span]
+  ls-type:: annotation
+  hl-page:: 12
+  hl-color:: green
+  id:: 68d077e3-85f8-47bf-b551-34c189bc4ad6
+  hl-type:: area
+  hl-stamp:: 1758492641819
+- [:span]
+  ls-type:: annotation
+  hl-page:: 13
+  hl-color:: green
+  id:: 68d07837-7464-45fb-a2b2-58ede5efff55
+  hl-type:: area
+  hl-stamp:: 1758492725993

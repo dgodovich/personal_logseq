@@ -43,4 +43,36 @@ links:: [Local library](zotero://select/library/items/DY8KXUWF), [Web library](h
 			- not super clear at this point which side of z *i* is on
 	- some mutants in Z can't make either Z or y , but aren't deletions
 		- probably nonsense?
-- \Beta
+- \beta-Galactosidase synthesis by Heteromerozygotes
+	- Heteromerozygote is the E. coli bacteria ~60-90 minutes after conjugation in which the plasmid has a different allele than the chromosomal DNA and it has not yet recombined
+	- Have to check that this kind of E. coli is able to synthesize the enzyme, and also that that isn't coming from cytosolic transfer from the donor
+	- Use that cross that ensure that only zygotes can have z
+		- ((68d07231-95a0-4d9b-83dd-af88014cfb42))
+		- F- is z- and streptomycin resistant, F+ is z+ and streptomycin sensitive
+			- i.e. male can make Z but can't grow, female can grow but can't make z
+	- ((68d072b3-c288-41f7-b9dd-66dec09d3788))
+		- Protein synthesis happens very quickly, right after z+ is able to be made
+	- They check for cytosolic transfer by doing an auxotrophic cross
+		- ((68d0736f-4d04-4d80-a5f4-71b07554d1b6))
+		- these ones can't survive because the male doesn't transfer any sugar (or cytosol)
+		- grow in maltose medium
+	- All z mutants are in the same cistron (gene) because they don't make any when crossed as double recessive heterozygotes
+		- All of them are recessive because they are taken over by z+ every time
+	- If z and i are in the same gene they probably can't interact through the cytoplasm and must be in cis to interact
+		- Heterozygote z+i+/z-i- would not constitutively express
+		- This is not true! they can make protein!
+	- Even in absence of inducer protein translation begins immediately in that cross
+		- This is not caused by recombination
+		- They do act through the cytosol (of the zygote)
+	- inducible is the dominant allele
+		- this is because there's no protein even after hours in the type C cross
+			- ((68d076f5-830d-4d82-962b-6945ea979634))
+- Discussion and Conclusions
+	- i gene controls the synthesis of a product which prevents synthesis of the other proteins unless it is externally induced
+	- This can theoretically be either an activator or a repressor and have similar functionality
+		- there's a couple other examples of repression in the literature
+	- ((68d07837-7464-45fb-a2b2-58ede5efff55))
+		- Key points here
+	- This also works the same for the cI repressor
+		- immunity is expressed in the cytoplasm
+		-
