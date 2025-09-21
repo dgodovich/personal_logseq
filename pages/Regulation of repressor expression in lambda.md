@@ -1,0 +1,22 @@
+tags:: [[Coliphages]], [[Deoxyribonucleases]], [[Genes]], [[Regulator]], [[Lysogeny]], [[Mutation]], [[Operon]]
+date:: 1970-07
+issn:: 0027-8424
+issue:: 3
+doi:: 10.1073/pnas.66.3.855
+title:: Regulation of repressor expression in lambda
+pages:: 855-862
+volume:: 66
+item-type:: [[journalArticle]]
+original-title:: Regulation of repressor expression in lambda
+language:: eng
+publication-title:: Proceedings of the National Academy of Sciences of the United States of America
+journal-abbreviation:: Proc Natl Acad Sci U S A
+authors:: [[H. Eisen]], [[P. Brachet]], [[L. Pereira da Silva]], [[F. Jacob]]
+library-catalog:: PubMed
+links:: [Local library](zotero://select/library/items/NAQFJ2HG), [Web library](https://www.zotero.org/users/6106196/items/NAQFJ2HG)
+
+- [[Abstract]]
+	- A new gene in bacteriophage lambda is described. The product of this gene cro prevents expression of immunity and regulates the expression of those genes to the left of the immunity region. cro(-) mutants have been isolated and characterized.
+- Attachments
+	- [PDF](zotero://select/library/items/R3IYHZTH) {{zotero-imported-file R3IYHZTH, "Eisen et al. - 1970 - Regulation of repressor expression in lambda.pdf"}}
+	- [PubMed entry](http://www.ncbi.nlm.nih.gov/pubmed/5269249)
