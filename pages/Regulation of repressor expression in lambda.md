@@ -35,4 +35,12 @@ links:: [Local library](zotero://select/library/items/NAQFJ2HG), [Web library](h
 - Materials and Methods
 	- Partial diploids
 	- bunch of lysogens
+- Failure to recover immunity is dominant
+	- ((68d09e07-9329-4975-8ea3-03b50106f886))
+		- mutant in N gene and contain 857 mutation in C1
+		- One had a mutation in P_R, other in gene O
+	- Double lysogens do not recover immunity
+	- ((68d09f71-3d9c-4d27-ba6a-a1538605eb53))
+		- cro gene
+- The repressor regulator is specific for immunity
 	-

@@ -16,3 +16,20 @@ file-path:: file://C:/Users/David/Zotero/storage/R3IYHZTH/Eisen et al. - 1970 - 
   hl-page:: 1
   hl-color:: red
   id:: 68d09cab-5eea-4ddb-8291-0590007efbd2
+- partial d1ip)loids were constructed containiiig two thermoindtucible doubly defective prophages.
+  ls-type:: annotation
+  hl-page:: 2
+  hl-color:: red
+  id:: 68d09e07-9329-4975-8ea3-03b50106f886
+- [:span]
+  ls-type:: annotation
+  hl-page:: 2
+  hl-color:: red
+  id:: 68d09e5e-84ce-4edb-9bf2-c2fdc6ec4170
+  hl-type:: area
+  hl-stamp:: 1758502493524
+- Therefore, the failure to recover immunity is dominant, suggesting that the prophage which is mutant in genes N and 0 makes a diffusible product that prevents repressor synthesis by either of the two genomes
+  ls-type:: annotation
+  hl-page:: 2
+  hl-color:: green
+  id:: 68d09f71-3d9c-4d27-ba6a-a1538605eb53
