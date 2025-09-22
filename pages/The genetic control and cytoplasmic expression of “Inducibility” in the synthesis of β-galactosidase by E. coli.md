@@ -64,7 +64,7 @@ links:: [Local library](zotero://select/library/items/DY8KXUWF), [Web library](h
 	- Even in absence of inducer protein translation begins immediately in that cross
 		- This is not caused by recombination
 		- They do act through the cytosol (of the zygote)
-	- inducible is the dominant allele
+	- inducible is the dominant allele (i+)
 		- this is because there's no protein even after hours in the type C cross
 			- ((68d076f5-830d-4d82-962b-6945ea979634))
 - Discussion and Conclusions
