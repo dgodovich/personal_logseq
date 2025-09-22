@@ -43,4 +43,7 @@ links:: [Local library](zotero://select/library/items/NAQFJ2HG), [Web library](h
 	- ((68d09f71-3d9c-4d27-ba6a-a1538605eb53))
 		- cro gene
 - The repressor regulator is specific for immunity
+	- lambda repressor is specific for lambda and doesn't work with any other phages
+		- is this also true for the regulator?
+	- Double lysogens for different phage immunities were constructed
 	-

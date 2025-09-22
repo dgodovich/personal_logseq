@@ -33,3 +33,17 @@ file-path:: file://C:/Users/David/Zotero/storage/R3IYHZTH/Eisen et al. - 1970 - 
   hl-page:: 2
   hl-color:: green
   id:: 68d09f71-3d9c-4d27-ba6a-a1538605eb53
+- [:span]
+  ls-type:: annotation
+  hl-page:: 2
+  hl-color:: red
+  id:: 68d0acd5-d129-4d8a-82aa-4a271ce35753
+  hl-type:: area
+  hl-stamp:: 1758506196803
+- [:span]
+  ls-type:: annotation
+  hl-page:: 3
+  hl-color:: blue
+  id:: 68d0ade9-6a8a-4fe6-8fe0-96fce23324db
+  hl-type:: area
+  hl-stamp:: 1758506472640
