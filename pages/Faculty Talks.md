@@ -9,7 +9,15 @@
 				- when growing it's not as good
 		- try to measure translation rates and degradation rates
 			- add parameters to explain the model
-		-
+	- [[John Jimah]]
+		- membrane remodeling via structural biology
+		- Specifically focused on membrane fission
+			- dynamin, ARF GTPases, ESCRT
+		- Structural features that allow fission related proteins to act on different kinds of membranes
+		- Relatively new professor
+		- Also studies malaria and toxoplasmosis gondii because they have apicoblasts that are 4 membrane layer bound oranelle
+		- He seems nice
+		- Lots of interesting things going on
 - [[Sep 19th, 2025]]
   collapsed:: true
 	- [[Ralph Kleiner]]
