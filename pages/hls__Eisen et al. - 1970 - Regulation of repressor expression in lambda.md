@@ -11,3 +11,8 @@ file-path:: file://C:/Users/David/Zotero/storage/R3IYHZTH/Eisen et al. - 1970 - 
   hl-page:: 1
   hl-color:: yellow
   id:: 68d09a36-42a1-4ac5-a4b8-bf66b6f8cebd
+- Partial diploids were prepared by crossing the Fj'gal episome into a rifomycin-resistant derivative of the gal-recA- strai
+  ls-type:: annotation
+  hl-page:: 1
+  hl-color:: red
+  id:: 68d09cab-5eea-4ddb-8291-0590007efbd2

@@ -31,5 +31,8 @@ links:: [Local library](zotero://select/library/items/NAQFJ2HG), [Web library](h
 				- remains sensitive at 30
 			- but ones that don't translate in front of it
 		- Immunity operon is between rex and cY
-		- Something is going on depending on where transcription is
--
+		- Something is going on depending on where transcription is, it can or can't make c1
+- Materials and Methods
+	- Partial diploids
+	- bunch of lysogens
+	-
