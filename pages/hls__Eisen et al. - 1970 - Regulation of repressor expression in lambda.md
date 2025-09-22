@@ -79,3 +79,23 @@ file-path:: file://C:/Users/David/Zotero/storage/R3IYHZTH/Eisen et al. - 1970 - 
   hl-page:: 6
   hl-color:: green
   id:: 68d0b6f7-908e-4228-8b8b-ce657e6810a3
+- suggests that the repressor regulator is not the primary mechanism for C, shutoff
+  ls-type:: annotation
+  hl-page:: 6
+  hl-color:: yellow
+  id:: 68d0b7c2-ca43-4917-baee-6daff00fb06f
+- his could be achieved either by an interaction between the repressor regulator and the X-repressor or by the repressor regulator binding to the same operator (V1,3) as the X- repressor, thus preventing repressoroperator combination. In the latter case, the repressor regulator would act as a competitor for the C1 repressor
+  ls-type:: annotation
+  hl-page:: 7
+  hl-color:: blue
+  id:: 68d0b7e0-8988-4fda-898f-5cc17cd1f6ea
+- hich the structural switch could be thrown to allow synthesis of C1, and (2) the repressor regulator must be either inactivated or competed off the V1,3 operator
+  ls-type:: annotation
+  hl-page:: 7
+  hl-color:: green
+  id:: 68d0b7ec-3ed0-40b3-88c2-54a9dca05c72
+- ough C1 repressor to compete with the antirepressor for the operator. This would then result in repression of the x-CII-O-P operon and synthesis of CI.
+  ls-type:: annotation
+  hl-page:: 7
+  hl-color:: green
+  id:: 68d0b7f4-631d-42d5-8b60-4548044f469c
