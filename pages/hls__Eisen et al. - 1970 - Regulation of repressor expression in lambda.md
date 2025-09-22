@@ -40,13 +40,6 @@ file-path:: file://C:/Users/David/Zotero/storage/R3IYHZTH/Eisen et al. - 1970 - 
   id:: 68d0acd5-d129-4d8a-82aa-4a271ce35753
   hl-type:: area
   hl-stamp:: 1758506196803
-- [:span]
-  ls-type:: annotation
-  hl-page:: 3
-  hl-color:: blue
-  id:: 68d0ade9-6a8a-4fe6-8fe0-96fce23324db
-  hl-type:: area
-  hl-stamp:: 1758506472640
 - ected with these phages become lysogenic
   ls-type:: annotation
   hl-page:: 4
@@ -99,3 +92,8 @@ file-path:: file://C:/Users/David/Zotero/storage/R3IYHZTH/Eisen et al. - 1970 - 
   hl-page:: 7
   hl-color:: green
   id:: 68d0b7f4-631d-42d5-8b60-4548044f469c
+- Ximmt.434sUs_ N706
+  ls-type:: annotation
+  hl-page:: 3
+  hl-color:: blue
+  id:: 68d0bbe5-ec66-408e-a10c-01c729e3d24d
