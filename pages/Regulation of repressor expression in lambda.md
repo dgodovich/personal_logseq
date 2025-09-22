@@ -30,4 +30,6 @@ links:: [Local library](zotero://select/library/items/NAQFJ2HG), [Web library](h
 			- N defective \lambda857 doesn't synthesize repressor at 40C
 				- remains sensitive at 30
 			- but ones that don't translate in front of it
-			-
+		- Immunity operon is between rex and cY
+		- Something is going on depending on where transcription is
+-

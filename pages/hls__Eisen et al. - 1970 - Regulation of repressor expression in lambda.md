@@ -6,3 +6,8 @@ file-path:: file://C:/Users/David/Zotero/storage/R3IYHZTH/Eisen et al. - 1970 - 
   hl-page:: 1
   hl-color:: yellow
   id:: 68d09833-ba1a-4b0b-aa4e-c4bc652ed74c
+- additional mutation blocking phage DNA replication.
+  ls-type:: annotation
+  hl-page:: 1
+  hl-color:: yellow
+  id:: 68d09a36-42a1-4ac5-a4b8-bf66b6f8cebd
