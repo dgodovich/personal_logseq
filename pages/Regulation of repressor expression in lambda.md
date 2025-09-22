@@ -23,7 +23,7 @@ links:: [Local library](zotero://select/library/items/NAQFJ2HG), [Web library](h
 - cro is a new gene in \lambda that regulates expression of immunity repression
 - Introduction
 	- cI gene is located between the two operons controlled by the repressor and is transcribed from the same strand as the N operon
-	- ![Picture2-2128301967.jpg](../assets/Picture2-2128301967_1758500888635_0.jpg)
+	- ![Picture2-2128301967.jpg](../assets/Picture2-2128301967_1758500888635_0.jpg){:height 695, :width 748}
 		- ((68d09833-ba1a-4b0b-aa4e-c4bc652ed74c))
 		- Figure above helps to understand this
 		- So what they're interested in is
