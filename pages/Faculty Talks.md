@@ -1,4 +1,17 @@
+- [[Sep 22nd, 2025]]
+	- [[Martin Wuhr]]
+		- Parametrize the central dogma of molecular biology
+		- mostly a mass spec lab
+		- RNA to protein correlation is really bad
+			- xenopus is ~.2 R, ciona is basically 0
+			- bacteria is a bit better
+				- in steady state you can get up to .5
+				- when growing it's not as good
+		- try to measure translation rates and degradation rates
+			- add parameters to explain the model
+		-
 - [[Sep 19th, 2025]]
+  collapsed:: true
 	- [[Ralph Kleiner]]
 		- RNA chemical biology
 		- tRNA non canonical RNA nucleotitdes
