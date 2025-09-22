@@ -48,3 +48,5 @@ links:: [Local library](zotero://select/library/items/NAQFJ2HG), [Web library](h
 	- Double lysogens for different phage immunities were constructed
 	- What's the mistake in table 1?
 		- I think it might be the 2x10^3 thing bc that's an order of magnitude higher?
+- Genetic location of cro
+	- Between rightward promoter and end of immunity region
