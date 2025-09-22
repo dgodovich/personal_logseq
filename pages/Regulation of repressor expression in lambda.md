@@ -46,4 +46,5 @@ links:: [Local library](zotero://select/library/items/NAQFJ2HG), [Web library](h
 	- lambda repressor is specific for lambda and doesn't work with any other phages
 		- is this also true for the regulator?
 	- Double lysogens for different phage immunities were constructed
-	-
+	- What's the mistake in table 1?
+		- I think it might be the 2x10^3 thing bc that's an order of magnitude higher?
