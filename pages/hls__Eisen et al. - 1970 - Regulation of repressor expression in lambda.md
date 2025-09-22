@@ -47,3 +47,23 @@ file-path:: file://C:/Users/David/Zotero/storage/R3IYHZTH/Eisen et al. - 1970 - 
   id:: 68d0ade9-6a8a-4fe6-8fe0-96fce23324db
   hl-type:: area
   hl-stamp:: 1758506472640
+- ected with these phages become lysogenic
+  ls-type:: annotation
+  hl-page:: 4
+  hl-color:: green
+  id:: 68d0b4cf-e4d0-48ae-bad8-4fb78d45d32a
+- In fact at 300C almost all the cells i
+  ls-type:: annotation
+  hl-page:: 4
+  hl-color:: green
+  id:: 68d0b4d4-53b5-4000-ac59-04c1e20d5482
+- xpressed leading to repression of the phage veg
+  ls-type:: annotation
+  hl-page:: 4
+  hl-color:: green
+  id:: 68d0b4e0-285e-4091-835a-dbafdc5c5a45
+- tative functions
+  ls-type:: annotation
+  hl-page:: 4
+  hl-color:: green
+  id:: 68d0b4e3-f8e8-4a63-b77d-449c89b2a547

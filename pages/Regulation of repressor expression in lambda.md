@@ -50,3 +50,5 @@ links:: [Local library](zotero://select/library/items/NAQFJ2HG), [Web library](h
 		- I think it might be the 2x10^3 thing bc that's an order of magnitude higher?
 - Genetic location of cro
 	- Between rightward promoter and end of immunity region
+- Dude I do not get this enough to take productive notes on this
+-
