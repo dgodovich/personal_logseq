@@ -67,3 +67,15 @@ file-path:: file://C:/Users/David/Zotero/storage/R3IYHZTH/Eisen et al. - 1970 - 
   hl-page:: 4
   hl-color:: green
   id:: 68d0b4e3-f8e8-4a63-b77d-449c89b2a547
+- [:span]
+  ls-type:: annotation
+  hl-page:: 4
+  hl-color:: green
+  id:: 68d0b5e0-94a4-4c22-b01b-115fbb370650
+  hl-type:: area
+  hl-stamp:: 1758508511614
+- synthesize high levels of exonuclease as does the x control, suggesting that cro and tof are the same function
+  ls-type:: annotation
+  hl-page:: 6
+  hl-color:: green
+  id:: 68d0b6f7-908e-4228-8b8b-ce657e6810a3
