@@ -20,3 +20,14 @@ links:: [Local library](zotero://select/library/items/NAQFJ2HG), [Web library](h
 - Attachments
 	- [PDF](zotero://select/library/items/R3IYHZTH) {{zotero-imported-file R3IYHZTH, "Eisen et al. - 1970 - Regulation of repressor expression in lambda.pdf"}}
 	- [PubMed entry](http://www.ncbi.nlm.nih.gov/pubmed/5269249)
+- cro is a new gene in \lambda that regulates expression of immunity repression
+- Introduction
+	- cI gene is located between the two operons controlled by the repressor and is transcribed from the same strand as the N operon
+	- ![Picture2-2128301967.jpg](../assets/Picture2-2128301967_1758500888635_0.jpg)
+		- ((68d09833-ba1a-4b0b-aa4e-c4bc652ed74c))
+		- Figure above helps to understand this
+		- So what they're interested in is
+			- N defective \lambda857 doesn't synthesize repressor at 40C
+				- remains sensitive at 30
+			- but ones that don't translate in front of it
+			-
