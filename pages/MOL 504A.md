@@ -1,5 +1,16 @@
 - ![MOL504_Fall2025_SP.pdf](../assets/MOL504_Fall2025_SP_1756824447343_0.pdf)
+- [[Sep 23rd, 2025]] Protein Localization Initiation
+	- First class with Zemer
+	- Reading
+		- [[Reconstitution of DNA Segregation Driven by Assembly of a Prokaryotic Actin Homolog]] Garner et al 2007
+		- [[Geometric cue for protein localization in a bacterium]] Ramamurthi et al 2009
+	-
+- [[Sep 18th, 2025]] Structural Biology
+	- didn't have my laptop so no logseq notes
+	- [[George Ghanim]] guest lecture about cryoEM and ET
+	- I took notes in a word doc
 - [[Sep 16th, 2025]] Condensates
+  collapsed:: true
 	- Reading
 		- [[Liquid phase condensation in cell physiology and disease]]
 		- [[Phase separation of signaling molecules promotes T cell receptor signal transduction]]

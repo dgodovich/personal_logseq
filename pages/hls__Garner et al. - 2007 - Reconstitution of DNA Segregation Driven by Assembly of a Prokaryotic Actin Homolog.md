@@ -1,0 +1,2 @@
+file:: [Garner et al. - 2007 - Reconstitution of DNA Segregation Driven by Assembly of a Prokaryotic Actin Homolog.pdf](file://C:/Users/David/Zotero/storage/3FJUAIP3/Garner et al. - 2007 - Reconstitution of DNA Segregation Driven by Assembly of a Prokaryotic Actin Homolog.pdf)
+file-path:: file://C:/Users/David/Zotero/storage/3FJUAIP3/Garner et al. - 2007 - Reconstitution of DNA Segregation Driven by Assembly of a Prokaryotic Actin Homolog.pdf
