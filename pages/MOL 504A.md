@@ -3,7 +3,7 @@
 	- First class with Zemer
 	- Reading
 		- [[Reconstitution of DNA Segregation Driven by Assembly of a Prokaryotic Actin Homolog]] Garner et al 2007
-		- [[Geometric cue for protein localization in a bacterium]] Ramamurthi et al 2009
+		- [[Geometric Cue for Protein Localization in a Bacterium]] Ramamurthi et al 2009
 	-
 - [[Sep 18th, 2025]] Structural Biology
 	- didn't have my laptop so no logseq notes
