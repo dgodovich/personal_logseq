@@ -83,3 +83,58 @@ file-path:: file://C:/Users/David/Zotero/storage/3FJUAIP3/Garner et al. - 2007 -
   hl-page:: 3
   hl-color:: yellow
   id:: 68d20c6c-a1e6-4132-bdf4-5a30870bd25f
+- [:span]
+  ls-type:: annotation
+  hl-page:: 4
+  hl-color:: purple
+  id:: 68d20cb2-1891-40cd-82fd-4e6c1f513cf1
+  hl-type:: area
+  hl-stamp:: 1758596273772
+- distance between the two bleached marks did not change with time
+  ls-type:: annotation
+  hl-page:: 3
+  hl-color:: green
+  id:: 68d20cc5-9cfa-4471-a780-ef6c3139a56c
+  hl-stamp:: 1758596296261
+- nearest parC bead increased at a constant rat
+  ls-type:: annotation
+  hl-page:: 3
+  hl-color:: yellow
+  id:: 68d20ccf-41c6-4d87-8601-80e5ea5e5546
+- no polymerization took place in the middle of the ParM bundle and that individual filaments did not slide past each othe
+  ls-type:: annotation
+  hl-page:: 3
+  hl-color:: yellow
+  id:: 68d20d0a-c9d3-4716-b68a-ed853fede28e
+- [:span]
+  ls-type:: annotation
+  hl-page:: 3
+  hl-color:: red
+  id:: 68d20d4a-f044-4dda-b8d0-10b7224451a6
+  hl-type:: area
+  hl-stamp:: 1758596424817
+- Below 0.6 mM, ParM failed to form any detectable spindles, even between parC beads in close contact
+  ls-type:: annotation
+  hl-page:: 5
+  hl-color:: yellow
+  id:: 68d20e0a-6961-4869-af71-116b433efe41
+- down to, but not beneath, the ATP critical concentration of 0.6 mM
+  ls-type:: annotation
+  hl-page:: 5
+  hl-color:: green
+  id:: 68d20e0f-13ac-4cde-a6d9-867f0cbc61b4
+- Hence, the unattached filament ends are at steady state, whereas ParR/ parC-associated ends elongate in a hydrolysisdependent manne
+  ls-type:: annotation
+  hl-page:: 5
+  hl-color:: green
+  id:: 68d20e61-14d1-4f3b-aa88-3229ec4f3eb9
+- energy difference driving bead motility was proportional to the amount of hydrolysis-capable monomer that could be stabilized by the ParR/ parC complex
+  ls-type:: annotation
+  hl-page:: 5
+  hl-color:: green
+  id:: 68d20e6c-2b41-4bbf-86d1-b71bf1442e60
+- evolved a self-contained, threecomponent system to ensure its segregation
+  ls-type:: annotation
+  hl-page:: 5
+  hl-color:: yellow
+  id:: 68d20e73-ecd6-4041-b684-8215a8d8588d

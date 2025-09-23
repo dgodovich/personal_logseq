@@ -66,5 +66,16 @@ links:: [Local library](zotero://select/library/items/PAE8NT4X), [Web library](h
 		- it just goes until it encounters resistance
 - Where does the new protein add?
 	- photobleach two spots as reference
-		- as the spindle grows, they do not move apart
-		-
+		- as the spindle grows, they do not move apart, but both get further from the bead
+		- ((68d20cb2-1891-40cd-82fd-4e6c1f513cf1))
+		- no recovery of fluorescence in the bleached zone
+			- polymerization is not in the middle and there is no sliding
+	- Monomers incorporate exclusively at the surface of parC beads
+		- like actin
+	- rate constant is the same as in free filament polymerization
+- for free filaments steady state monomer concentration is 2.3 \mu\M
+	- ATP critical concentration is 0.6 \mu\M, and that's the lower threshold with parC stabilization
+	- Can get less than 2.3 but not less than 0.6
+	- unattached ParM filaments are still cycling and that is driving movement
+- ((68d20e6c-2b41-4bbf-86d1-b71bf1442e60))
+-
