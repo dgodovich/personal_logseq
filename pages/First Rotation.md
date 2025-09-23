@@ -18,6 +18,13 @@
 			- Is this something intrinsic to the cell line that Jared was working with? Is it a protocol difference?
 			  background-color:: yellow
 - Questions
+	- (1) how does the *width *of the traveling wave stimulation pattern affect cell movement? (in other words, how macroscopic can we go with our stimulation patterns)?
+		- change bar width, this seems pretty straightforward
+	- (2) how different are overall migration speeds when you locally illuminate the front of every cell versus use a macroscopic traveling wave? (how much do you lose by ignoring the granularity of single cells)
+		- Unclear if this is to be done with illumination of the bottom half of every cell in the frame or if it's a moving bar of single cell illumination
+		- [[draws/2025-09-23-14-44-09.excalidraw]]
+		-
+	- (3) and of course, can you direct cells down the gradient of density to smooth it out?
 	- Flow cells down a density gradient
 	- Simple questions
 		- Do you sterile filter the BSA?
