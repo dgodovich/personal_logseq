@@ -55,4 +55,16 @@ links:: [Local library](zotero://select/library/items/PAE8NT4X), [Web library](h
 		- goes over long distances >120\mu\m
 	- Can have multiple ParM filaments per bead and have them make a polygon
 		- this expands equilaterally
--
+- Search and capture process
+	- unconnected ParM asters come close to each other they make a filament and start pushing apart
+	- If you cut the filament it depolymerizes
+		- you need bipolar stabilization
+	- This explains why ParM spindles happen only in cells with two or more plasmids
+		- need to have two parC regions to attach to
+	- Brownian ratchet mechanism
+		- orientation doesn't need cellular landmarks
+		- it just goes until it encounters resistance
+- Where does the new protein add?
+	- photobleach two spots as reference
+		- as the spindle grows, they do not move apart
+		-

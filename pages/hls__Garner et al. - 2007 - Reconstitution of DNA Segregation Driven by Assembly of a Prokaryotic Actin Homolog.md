@@ -68,3 +68,18 @@ file-path:: file://C:/Users/David/Zotero/storage/3FJUAIP3/Garner et al. - 2007 -
   hl-page:: 3
   hl-color:: green
   id:: 68d2097f-9021-40ce-9462-9176f727da7d
+- After cutting, both severed ends of the bundle depolymerized back to the parC bead
+  ls-type:: annotation
+  hl-page:: 3
+  hl-color:: green
+  id:: 68d20c03-f60d-43be-862f-e5b0e805dee7
+- explanation for the apparent plasmid counting observed in vivo, where ParM spindles occur only in cells containing two or more plasmid
+  ls-type:: annotation
+  hl-page:: 3
+  hl-color:: yellow
+  id:: 68d20c0a-f018-4689-92ba-faacbceb9caa
+- Elongation stalled at the ends of the channels and slowed at bends
+  ls-type:: annotation
+  hl-page:: 3
+  hl-color:: yellow
+  id:: 68d20c6c-a1e6-4132-bdf4-5a30870bd25f
