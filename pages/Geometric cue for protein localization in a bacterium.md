@@ -50,4 +50,11 @@ links:: [Local library](zotero://select/library/items/K4VN7DCY), [Web library](h
 - It cares about the size of the curvature too
 	- artificial lipid vesicles VM localizes to the smallest one every time
 	- P9A mutant goes wherever
-	- adsorption to membranes is sensitive to curvature and P
+	- adsorption to membranes is sensitive to curvature and P9 dependent
+- ((68d21641-966b-4e8f-b0fe-9606ce9d5f19))
+	- interactions between them?
+	- concentration dependent curvature preference
+	- More protein = more preference for smaller vesicle
+	- Greater than 4 microns there is no longer a concentration dependent effect
+	- Cooperative interactions among VM
+		- could be an energetic favoring based on bilayer deformation?

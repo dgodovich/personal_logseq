@@ -80,3 +80,28 @@ file-path:: file://C:/Users/David/Zotero/storage/LD8YRM36/Ramamurthi et al. - 20
   hl-page:: 2
   hl-color:: yellow
   id:: 68d2158a-674b-4e22-8346-9f59daf94cd4
+- How can VM, which is 40 Å in length or less(12), be sensitive to the curvature of micrometersized spheres
+  ls-type:: annotation
+  hl-page:: 3
+  hl-color:: blue
+  id:: 68d2161b-319d-4ed5-89e2-9a7123d59c83
+- Thus, the adsorption of VM-GFP to membranes is sensitive to curvature and dependent on P9
+  ls-type:: annotation
+  hl-page:: 3
+  hl-color:: green
+  id:: 68d2161e-2483-49d0-94c8-6cb529aa47fc
+- everal molecules of VM may thus be required to display a collective sensitivity for slightly curved surface
+  ls-type:: annotation
+  hl-page:: 3
+  hl-color:: yellow
+  id:: 68d21641-966b-4e8f-b0fe-9606ce9d5f19
+- referential adsorption of VM-GFP onto smaller vesicles increased with increasing concentrations of protei
+  ls-type:: annotation
+  hl-page:: 3
+  hl-color:: yellow
+  id:: 68d2164a-9fbb-4f11-8e42-2c6e2311c5aa
+- he energetic cost due to bilayer deformation induced by the insertion of VM could be minimized by the clustering of VM molecule
+  ls-type:: annotation
+  hl-page:: 3
+  hl-color:: yellow
+  id:: 68d217dd-e0d8-4788-bd3b-3c448c625811
