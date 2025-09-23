@@ -42,4 +42,17 @@ links:: [Local library](zotero://select/library/items/PAE8NT4X), [Web library](h
 - Beads get covered in a radial array that looks like a star
 	- dynamic
 	- needs ATP, ParR, and parC DNA sequence
-	- non hydrolysable ATP
+	- non hydrolysable ATP analog AMP-PNP results in much larger growth
+		- dynamic instability is limiting the length, like in microtubules
+	- ((68d20859-d64e-4350-81b6-48d0821566dd))
+		- It's way bigger with AMPPNP (normal has a 3\mu\m limit)
+- ParM filaments also connect further apart beads with more stability
+	- connected beads move together in fluid flow -> strong attachment
+	- both ends of the filament can interact with the parC region
+		- not like they meet in the middle or something
+	- Bundle elongates at a constant rate
+		- pushing apart the beads
+		- goes over long distances >120\mu\m
+	- Can have multiple ParM filaments per bead and have them make a polygon
+		- this expands equilaterally
+-

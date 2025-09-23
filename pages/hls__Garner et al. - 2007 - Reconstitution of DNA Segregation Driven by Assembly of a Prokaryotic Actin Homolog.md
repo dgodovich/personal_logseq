@@ -41,3 +41,30 @@ file-path:: file://C:/Users/David/Zotero/storage/3FJUAIP3/Garner et al. - 2007 -
   hl-page:: 2
   hl-color:: yellow
   id:: 68d207e9-bebf-4ec4-8f1e-117096aa9a0d
+- [:span]
+  ls-type:: annotation
+  hl-page:: 2
+  hl-color:: yellow
+  id:: 68d20859-d64e-4350-81b6-48d0821566dd
+  hl-type:: area
+  hl-stamp:: 1758595160095
+- indicating that the dynamic instability of ParM limited filament length
+  ls-type:: annotation
+  hl-page:: 2
+  hl-color:: yellow
+  id:: 68d20877-b30a-4862-86d9-b8ba733831a6
+- he bundles and attached beads moved as a single unit with fluid flow
+  ls-type:: annotation
+  hl-page:: 2
+  hl-color:: yellow
+  id:: 68d208a5-1d34-482d-9a3b-8f33d8f2946e
+- ndicating that both ends of the ParM filament interacted with the ParR/parC complex.
+  ls-type:: annotation
+  hl-page:: 2
+  hl-color:: yellow
+  id:: 68d208f7-ddca-404c-b749-4b1a610e7cab
+- The fact that we observed long, stable ParM filaments only between pairs of parC beads argues that both ends of each filament are stabilized against catastrophic disassembly by interaction with the ParR/parC complex
+  ls-type:: annotation
+  hl-page:: 3
+  hl-color:: green
+  id:: 68d2097f-9021-40ce-9462-9176f727da7d
