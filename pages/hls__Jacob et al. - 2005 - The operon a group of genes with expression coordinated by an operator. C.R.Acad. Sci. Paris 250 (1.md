@@ -1,0 +1,2 @@
+file:: [Jacob et al. - 2005 - The operon a group of genes with expression coordinated by an operator. C.R.Acad. Sci. Paris 250 (1.pdf](file://C:/Users/David/Zotero/storage/32V9PSQG/Jacob et al. - 2005 - The operon a group of genes with expression coordinated by an operator. C.R.Acad. Sci. Paris 250 (1.pdf)
+file-path:: file://C:/Users/David/Zotero/storage/32V9PSQG/Jacob et al. - 2005 - The operon a group of genes with expression coordinated by an operator. C.R.Acad. Sci. Paris 250 (1.pdf
