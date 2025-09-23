@@ -18,4 +18,28 @@ links:: [Local library](zotero://select/library/items/PAE8NT4X), [Web library](h
 	- Multiple unrelated polymer systems have evolved to partition DNA molecules between daughter cells at division. To better understand polymer-driven DNA segregation, we reconstituted the three-component segregation system of the R1 plasmid from purified components. We found that the ParR/parC complex can construct a simple bipolar spindle by binding the ends of ParM filaments, inhibiting dynamic instability, and acting as a ratchet permitting incorporation of new monomers and riding on the elongating filament ends. Under steady-state conditions, the dynamic instability of unattached ParM filaments provides the energy required to drive DNA segregation.
 - Attachments
 	- [Full Text PDF](https://www.science.org/doi/pdf/10.1126/science.1138527) {{zotero-imported-file 3FJUAIP3, "Garner et al. - 2007 - Reconstitution of DNA Segregation Driven by Assembly of a Prokaryotic Actin Homolog.pdf"}}
--
+- Polymer driver DNA segregation
+- Reconstituted R1 plasmid system in vitro from purified protein
+- ((68d20634-9bac-4b3c-8639-0dd0efc9006e))
+- Eukaryotes use tubulin polymerization to drive alignment and segregation
+	- eubacteria uses actin-like filaments
+	- some have their own elements, such as R1
+- R1
+	- 100kb low copy number plasmid
+	- has the par operon which does segregation machinery
+	- parM - actin like protein that assemble into dynamically unstable filaments
+	- parR protein binds cooperatively to sequence repeats in parC (gene)
+		- forms a complex that binds ParM filaments
+- ParM
+	- similar to actin but 3 important differences
+	- rapid spontaneous nucleation
+	- symmetrical elongation (bidirectional)
+	- dynamic instability
+		- like microtubules
+	- all together this means that the filaments are short and unstable (1.5 \mu\m and 20s lifetime)
+- 350nm beads with fluorescent DNA containing parC sequence
+	- add ParR to this and fluorescent ParM + ATP
+- Beads get covered in a radial array that looks like a star
+	- dynamic
+	- needs ATP, ParR, and parC DNA sequence
+	- non hydrolysable ATP
