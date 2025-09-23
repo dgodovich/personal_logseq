@@ -1,9 +1,9 @@
 - [[Media Recipes]]
 - Notes from Jared
+  collapsed:: true
 	- MCF10A cells are very slow to trypsinze
 		- On the order of 30 minutes to get them to stick off the plate
 	- Thoughts on using a [[96 well plate]]
-	  collapsed:: true
 		- Do's
 			- Fill wells in a rectangle or grid pattern
 			- Surround wells that you're using with a moat of DI water or PBS

@@ -23,13 +23,15 @@
 	- (2) how different are overall migration speeds when you locally illuminate the front of every cell versus use a macroscopic traveling wave? (how much do you lose by ignoring the granularity of single cells)
 		- Unclear if this is to be done with illumination of the bottom half of every cell in the frame or if it's a moving bar of single cell illumination
 		- [[draws/2025-09-23-14-44-09.excalidraw]]
-		-
+		- Those are the options as I see them
 	- (3) and of course, can you direct cells down the gradient of density to smooth it out?
 	- Flow cells down a density gradient
 	- Simple questions
+	  collapsed:: true
 		- Do you sterile filter the BSA?
 			- No
 		- Is there a fibronectin aliquot that I should use?
+		  collapsed:: true
 			- I assume that's what the PBS that Beena set aside is for? No need to wash any plates at any time?
 				- Yep I will make a fibronectin solution with that guy and then keep in +4
 				- Can use PBS to wash plates or fibronectin coating solution but it doesn't seem to be critical
