@@ -1,4 +1,5 @@
 - [[Sep 22nd, 2025]]
+  collapsed:: true
 	- [[Martin Wuhr]]
 		- Parametrize the central dogma of molecular biology
 		- mostly a mass spec lab
