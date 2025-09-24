@@ -52,4 +52,4 @@ links:: [Local library](zotero://select/library/items/6IUEJCAL), [Web library](h
 - ((68d35f97-5f80-4282-a179-d930fa269b73))
 	- Something is supposedly missing here
 	- can any of these mutations complement each other?
-	-
+	- could L1 have it's own operator like sequence?
