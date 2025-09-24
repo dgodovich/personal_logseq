@@ -27,17 +27,23 @@ links:: [Local library](zotero://select/library/items/KG7Q8PQZ), [Web library](h
 	- probably acting at translation of messenger? not sure what this means
 	- deletion of this region can still be inducible for y and x
 	- therefore O_o region is not the operator or a transcription initiation sequence
+	  background-color:: yellow
 - Use a diploid for lac with homogenotic i+
+  background-color:: red
 	- i- mutants are recessive constitutives and are only expressed if recombination eliminates i+
 	- O_c mutants are dominant constitutives and therefore are expressed immediately
 	- Chromosome has a deletion covering all of lac except for i+o+ and beginning of z
 	- Basically, the only possible constitutive mutant would be an O_c mutant on the F-lac plasmid (i+o+z+y+)
-- induce mutations with various mutagenizing agents
+- induce mutations with various mutagenizing agents + spontaneous
 - O_c mutants that they find
 	- all map in the lac region
+		- this is kind of by definition because all mutations have to be on the plasmid, and the plasmid only has lac
 	- constitutive expression of z varies, but all induce to 100%
+		- altered induction ratio
 	- kinetics don't change
+		- z is normal
 	- 20% of mutants also go i+ -> i- which is near o, opposite z
+		- they're saying it's a deletion, but this is impossible
 - expression of the operon must be initiated at a site outside but adjacent to the operator
 - i_s mutants
 	- repressor is active on operator and prevents expression, and can't be removed
