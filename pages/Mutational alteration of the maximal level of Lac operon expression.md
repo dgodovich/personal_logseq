@@ -37,6 +37,19 @@ links:: [Local library](zotero://select/library/items/6IUEJCAL), [Web library](h
 		- mutations transfer with lac region through Hfr strain
 		- L1 grows very slowly on lactose
 			- also can't be induced?
+		- melibiose can be kinda brought in with lactase permease but is a weak inducer
+			- but it's a lot better if it's induced with IPTG
+			- revertants of L8 and 37 can be selected by mel+ character
 	- cis dominance
 		- should not effect anything in trans
-		- sep
+		- second z- operon doesn't effect any of the mutants
+		- z+ operon with any is totally normal -> cis dominance
+	- distinction from i-o control
+		- promoter shouldn't have any effect on the repression mechanism if it's a different locus
+		- L1 is weird but L8 and 37 are normally inducible, but still can't make that much protein
+		- revertants are all constitutive -> i-
+			- but still don't make more protein!
+- ((68d35f97-5f80-4282-a179-d930fa269b73))
+	- Something is supposedly missing here
+	- can any of these mutations complement each other?
+	-
