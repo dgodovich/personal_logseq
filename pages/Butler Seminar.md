@@ -2,4 +2,30 @@
 	- TEs are essential component of the genome - Barbara McClintock
 	- Mutagenic activity of transposition
 		- tons of insertions used in labs are from TE
-	- Genomes aer ful
+	- Genomes are full of "junk" TE
+		- unable to mobilize anymore for various reasons
+		- 1/2 the human genome is TE, 85% of maize is TE
+	- 99.99% of human TE are transpositionally dead
+		- Of 5 million TE, only about 1000 are active in transposition
+	- Can measure age of sequence by measuring degree of difference from consensus sequence
+		- the more mutations the further away you are, and therefore the older
+	- Junk, not trash
+		- just sitting there waiting for the potential to be used
+	- many cis regulatory elements map to TE
+	- And around 200 protein coding genes are derived from TE
+		- can identify based on transposase and Gag domains
+	- Gag encoded by retroviruses and retrotransposons
+		- protect viral DNA
+		- make capsid, and can still assemble into viral like particles (e.g. Arc, PNMA2)
+		- about 50 Gag genes in human
+		- Might be a form of RNA based intercellular communication?
+	- Zebrafish is a tractable system that has mor recently active TE
+	- What if selfish TE has a gradient towards coopted TE?
+	- developing embryo has expressed TE element in lineage specific manner
+		- Bik is a mesoendoderm marker in zebrafish and is an LTR transposon
+			- can't move by itself, needs an additional master element
+		- Crestin is also a TE, marker for neural crest
+		- Effects on cell migration
+		- ERNI in chicken, also a neural crest marker and a Gag TE
+			- regulated by piwi, which is normally functional in germ cells
+-
