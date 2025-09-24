@@ -1,0 +1,5 @@
+- [[Sep 24th, 2025]] Cedric Feschotte - Transposons
+	- TEs are essential component of the genome - Barbara McClintock
+	- Mutagenic activity of transposition
+		- tons of insertions used in labs are from TE
+	- Genomes aer ful
