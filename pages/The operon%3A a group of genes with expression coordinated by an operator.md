@@ -28,4 +28,16 @@ links:: [Local library](zotero://select/library/items/7GFBFQJF), [Web library](h
 	- should be adjacent to a group of genes and control their activity
 	- sensitive to repressor produced by the regulator gene
 - Mutation assumptions
-	-
+	- Some would look like deletions and not be complemented by any of the downstream genes
+	- If you can't interact with the regulator you would have constitutive expression of downstream
+		- should be dominant, but only in cis
+			- same chromosome
+		- inactivation of repressor is recessive
+- diploid i+z-/F-i+z+ they isolate constitutive mutants o_c
+- ((68d34c2f-c006-418f-abef-3b0eb6b0cccf))
+	- they use F-lac plasmid rather than transient diploid
+	- z1- and z4- makes Cz1 and 4 which can be distinguished from \beta galactosidase
+	- Only the allele of z or of y which is cis with respect to o_c is constitutively expressed
+		- trans allele remains strictly inducible
+	- o_c is pleiotropic and dominant, and only acts on cis protein
+-
