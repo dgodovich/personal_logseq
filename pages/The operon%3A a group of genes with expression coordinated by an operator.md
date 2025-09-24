@@ -21,4 +21,11 @@ links:: [Local library](zotero://select/library/items/7GFBFQJF), [Web library](h
 	- [PDF](zotero://select/library/items/32V9PSQG) {{zotero-imported-file 32V9PSQG, "Jacob et al. - 2005 - The operon a group of genes with expression coordinated by an operator. C.R.Acad. Sci. Paris 250 (1.pdf"}}
 	- [PubMed entry](http://www.ncbi.nlm.nih.gov/pubmed/15999435)
 - super short paper
--
+- Gene for structure + gene for regulation
+- Regulators have pleiotropic coordinated effect
+	- govern several linked proteins
+- Operator
+	- should be adjacent to a group of genes and control their activity
+	- sensitive to repressor produced by the regulator gene
+- Mutation assumptions
+	-
