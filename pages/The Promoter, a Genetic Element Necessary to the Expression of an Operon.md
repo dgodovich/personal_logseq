@@ -10,7 +10,7 @@ original-title:: "The Promoter, a Genetic Element Necessary to the Expression of
 language:: fre
 publication-title:: Comptes Rendus Hebdomadaires Des Seances De l'Academie Des Sciences
 journal-abbreviation:: C R Hebd Seances Acad Sci
-authors:: [[F. Jacob]], [[A. Ullman]], [[J. Monod]]
+authors:: [[François Jacob]] , [[A. Ullman]], [[Jacques Monod]] 
 library-catalog:: PubMed
 links:: [Local library](zotero://select/library/items/KG7Q8PQZ), [Web library](https://www.zotero.org/users/6106196/items/KG7Q8PQZ)
 

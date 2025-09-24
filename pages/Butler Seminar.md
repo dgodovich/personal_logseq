@@ -29,4 +29,5 @@
 		- Effects on cell migration
 		- ERNI in chicken, also a neural crest marker and a Gag TE
 			- regulated by piwi, which is normally functional in germ cells
-- [[Sep 17th, 2025]] Lucciano Marraffini
+- [[Sep 17th, 2025]] Lucciano Marraffini #CARF #bacteriophage
+	- written notes, transfer here later

@@ -10,7 +10,7 @@ original-title:: Genetic and physical determinations of chromosomal segments in 
 language:: eng
 publication-title:: Symposia of the Society for Experimental Biology
 journal-abbreviation:: Symp Soc Exp Biol
-authors:: [[F. Jacob]], [[E. L. Wollman]]
+authors:: [[François Jacob]] , [[E. L. Wollman]]
 library-catalog:: PubMed
 links:: [Local library](zotero://select/library/items/K88TJKRM), [Web library](https://www.zotero.org/users/6106196/items/K88TJKRM)
 

@@ -11,7 +11,7 @@ original-title:: Regulation of repressor expression in lambda
 language:: eng
 publication-title:: Proceedings of the National Academy of Sciences of the United States of America
 journal-abbreviation:: Proc Natl Acad Sci U S A
-authors:: [[H. Eisen]], [[P. Brachet]], [[L. Pereira da Silva]], [[F. Jacob]]
+authors:: [[H. Eisen]], [[P. Brachet]], [[L. Pereira da Silva]], [[François Jacob]] 
 library-catalog:: PubMed
 links:: [Local library](zotero://select/library/items/NAQFJ2HG), [Web library](https://www.zotero.org/users/6106196/items/NAQFJ2HG)
 

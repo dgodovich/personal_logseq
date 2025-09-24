@@ -1,5 +1,10 @@
 - ![MOL504_Fall2025_SP.pdf](../assets/MOL504_Fall2025_SP_1756824447343_0.pdf)
+- [[Sep 25th, 2025]] Protein Localization Maintenance
+	- Reading
+		- [[The making of a gradient: IcsA (VirG) polarity in Shigella flexneri]]
+		- [[Plasma Membrane Compartmentalization in Yeast by Messenger RNA Transport and a Septin Diffusion Barrier]]
 - [[Sep 23rd, 2025]] Protein Localization Initiation
+  collapsed:: true
 	- First class with Zemer
 	- Reading
 		- [[Reconstitution of DNA Segregation Driven by Assembly of a Prokaryotic Actin Homolog]] Garner et al 2007
