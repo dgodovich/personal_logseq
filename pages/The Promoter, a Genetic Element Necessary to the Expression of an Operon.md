@@ -32,4 +32,17 @@ links:: [Local library](zotero://select/library/items/KG7Q8PQZ), [Web library](h
 	- O_c mutants are dominant constitutives and therefore are expressed immediately
 	- Chromosome has a deletion covering all of lac except for i+o+ and beginning of z
 	- Basically, the only possible constitutive mutant would be an O_c mutant on the F-lac plasmid (i+o+z+y+)
+- induce mutations with various mutagenizing agents
+- O_c mutants that they find
+	- all map in the lac region
+	- constitutive expression of z varies, but all induce to 100%
+	- kinetics don't change
+	- 20% of mutants also go i+ -> i- which is near o, opposite z
+- expression of the operon must be initiated at a site outside but adjacent to the operator
+- i_s mutants
+	- repressor is active on operator and prevents expression, and can't be removed
+	- dominant lac-
+	- if you use a homogenotic i_s mutant, you need to have an O_c mutation to get lac
+	- they find that it's probably because of a mutation
+- I'm not really following this
 -
