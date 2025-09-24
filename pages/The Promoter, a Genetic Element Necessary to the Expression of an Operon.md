@@ -27,4 +27,9 @@ links:: [Local library](zotero://select/library/items/KG7Q8PQZ), [Web library](h
 	- probably acting at translation of messenger? not sure what this means
 	- deletion of this region can still be inducible for y and x
 	- therefore O_o region is not the operator or a transcription initiation sequence
-- Use a
+- Use a diploid for lac with homogenotic i+
+	- i- mutants are recessive constitutives and are only expressed if recombination eliminates i+
+	- O_c mutants are dominant constitutives and therefore are expressed immediately
+	- Chromosome has a deletion covering all of lac except for i+o+ and beginning of z
+	- Basically, the only possible constitutive mutant would be an O_c mutant on the F-lac plasmid (i+o+z+y+)
+-
