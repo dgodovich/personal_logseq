@@ -1,0 +1,2 @@
+file:: [Scaife and Beckwith - 1966 - Mutational alteration of the maximal level of Lac operon expression.pdf](file://C:/Users/David/Zotero/storage/8DW8BVKN/Scaife and Beckwith - 1966 - Mutational alteration of the maximal level of Lac operon expression.pdf)
+file-path:: file://C:/Users/David/Zotero/storage/8DW8BVKN/Scaife and Beckwith - 1966 - Mutational alteration of the maximal level of Lac operon expression.pdf

@@ -45,4 +45,5 @@ links:: [Local library](zotero://select/library/items/KG7Q8PQZ), [Web library](h
 	- if you use a homogenotic i_s mutant, you need to have an O_c mutation to get lac
 	- they find that it's probably because of a mutation
 - I'm not really following this
+- ok I read enough
 -

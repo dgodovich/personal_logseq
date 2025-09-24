@@ -18,3 +18,4 @@ links:: [Local library](zotero://select/library/items/6IUEJCAL), [Web library](h
 - Attachments
 	- [PDF](zotero://select/library/items/8DW8BVKN) {{zotero-imported-file 8DW8BVKN, "Scaife and Beckwith - 1966 - Mutational alteration of the maximal level of Lac operon expression.pdf"}}
 	- [PubMed entry](http://www.ncbi.nlm.nih.gov/pubmed/4866390)
+-
