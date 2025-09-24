@@ -1,4 +1,5 @@
-- [[Sep 24th, 2025]] Cedric Feschotte - Transposons
+- [[Sep 24th, 2025]] Cedric Feschotte #transposons
+  collapsed:: true
 	- TEs are essential component of the genome - Barbara McClintock
 	- Mutagenic activity of transposition
 		- tons of insertions used in labs are from TE
@@ -28,4 +29,4 @@
 		- Effects on cell migration
 		- ERNI in chicken, also a neural crest marker and a Gag TE
 			- regulated by piwi, which is normally functional in germ cells
--
+- [[Sep 17th, 2025]] Lucciano Marraffini
