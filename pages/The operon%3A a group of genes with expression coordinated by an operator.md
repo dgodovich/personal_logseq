@@ -40,4 +40,8 @@ links:: [Local library](zotero://select/library/items/7GFBFQJF), [Web library](h
 	- Only the allele of z or of y which is cis with respect to o_c is constitutively expressed
 		- trans allele remains strictly inducible
 	- o_c is pleiotropic and dominant, and only acts on cis protein
--
+- o_o mutations are closely linked to the o_c mutations but they lose ability to make any protein
+	- o_o is recessive and can revert very rarely
+	- They both affect a genetic element which is not expressed by an independent cytoplasmic product
+- Units of coordinated expression - operons
+	- enzymes of a sequence in an operon are not separately induced

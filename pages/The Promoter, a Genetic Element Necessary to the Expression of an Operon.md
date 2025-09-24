@@ -17,3 +17,14 @@ links:: [Local library](zotero://select/library/items/KG7Q8PQZ), [Web library](h
 - Attachments
 	- [PDF](zotero://select/library/items/VPFBHKM4) {{zotero-imported-file VPFBHKM4, "Jacob et al. - 1964 - [THE PROMOTOR, A GENETIC ELEMENT NECESSARY TO THE EXPRESSION OF AN OPERON].pdf"}}
 	- [PubMed entry](http://www.ncbi.nlm.nih.gov/pubmed/14143651)
+- Promoter
+- Operator is identified by O_c mutations -> constitutive
+- operator is at one extremity of the operon
+- O_o mutations abolish the expression of all of the gene of the operon
+	- these map to the z gene
+- polar mutants are very similar to the O_o mutants but are not in the beginning
+- O_o can be suppressed intragenically
+	- probably acting at translation of messenger? not sure what this means
+	- deletion of this region can still be inducible for y and x
+	- therefore O_o region is not the operator or a transcription initiation sequence
+- Use a
