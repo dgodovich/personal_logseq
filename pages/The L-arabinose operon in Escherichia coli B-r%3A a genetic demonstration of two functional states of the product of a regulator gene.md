@@ -41,4 +41,10 @@ links:: [Local library](zotero://select/library/items/VEYP3STH), [Web library](h
 - I_c mutants were isolated as revertants of Ara- deletion \Delta719
 	- deletes the whole regulator gene araC
 - this is a very confusing introduction
+- Product of araC is an allosteric protein P1 that gets turned into the activator P2 by interaction with an inducer
+	- this is indicated by dominance of C+ to C_c
+		- competitive binding?
+		- yep that's what they say in the next sentence
+- Use \Delta766 which maps into araC to complement
+- P2 binds to araI, P1 binds to araO (operator)
 -

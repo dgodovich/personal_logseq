@@ -31,3 +31,24 @@ file-path:: file://C:/Users/David/Zotero/storage/LITIDBPR/Englesberg et al. - 19
   hl-page:: 2
   hl-color:: green
   id:: 68d5d197-c018-42eb-bbb6-ae0978adc9c6
+- as suggested that P1 might be a true repressor and that P1 competes with P2 for the same functional site
+  ls-type:: annotation
+  hl-page:: 2
+  hl-color:: yellow
+  id:: 68d5d3a2-361a-4e81-ac60-96c8f9982217
+- C gene product, P1, produced in the absence of inducer, does exist as a true repressor with a specific site of attachment
+  ls-type:: annotation
+  hl-page:: 2
+  hl-color:: green
+  id:: 68d5d3d4-2a0f-4623-9ac6-f75db7ba3b53
+- presumed to be in equilibrium with P2
+  ls-type:: annotation
+  hl-page:: 2
+  hl-color:: yellow
+  id:: 68d5d3de-1eaf-46f2-b3b7-7b6f8a9ca9d2
+- It is necessary both for P2 to be present and for P1 to be absent at their respective controlling sites for full expression of the L-arabinose operon
+  ls-type:: annotation
+  hl-page:: 2
+  hl-color:: blue
+  id:: 68d5d411-c015-4b12-930e-c19483898c81
+  hl-stamp:: 1758843924329
