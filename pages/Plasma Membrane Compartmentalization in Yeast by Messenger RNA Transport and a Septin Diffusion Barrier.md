@@ -37,4 +37,8 @@ links:: [Local library](zotero://select/library/items/IN543XBK), [Web library](h
 	- this shows that GFP is capable of membrane diffusion
 	- So what's blocking it from going through the neck?
 	- Must be some kind of diffusion barrier
+- Temperature sensitive septin mutant used to probe if that is the barrier
+	- High temp incubation makes them lose localization and diffuse through the membrane
+	- ((68d4b5af-e9d9-4bcd-b646-21bad90019b9))
 	-
+-

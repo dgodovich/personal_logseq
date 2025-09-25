@@ -73,3 +73,30 @@ file-path:: file://C:/Users/David/Zotero/storage/MLDR26AS/Takizawa et al. - 2000
   hl-page:: 3
   hl-color:: yellow
   id:: 68d4b334-5aae-4d29-b96b-3eb53bb1e618
+- potential candidate for a diffusion barrier is the septin-based ring filament that forms at the neck during bud growth
+  ls-type:: annotation
+  hl-page:: 3
+  hl-color:: yellow
+  id:: 68d4b518-eaaa-4c49-9d03-07db6fdf3fe2
+- At the permissive temperature, 90% of the large-budded wild-type cells displayed an asymmetric distribution of GFP-Ist2p, whereas 52% of the large-budded cdc12-6 cells contained GFP-Ist2p, predominantly in the bud
+  ls-type:: annotation
+  hl-page:: 3
+  hl-color:: yellow
+  id:: 68d4b537-d816-41aa-93f4-9159c1bcee4f
+- 12% of the large-budded cdc12-6 cells contained asymmetrically localized GFP-Ist2
+  ls-type:: annotation
+  hl-page:: 3
+  hl-color:: green
+  id:: 68d4b544-d1d0-4741-ade2-f5ecebe6bef3
+- localization of IST2 mRNA and protein was examined in cells containing a temperature-sensitive mutation (cdc12-6
+  ls-type:: annotation
+  hl-page:: 3
+  hl-color:: red
+  id:: 68d4b56c-6fff-43d5-9262-f7d65082b265
+- [:span]
+  ls-type:: annotation
+  hl-page:: 3
+  hl-color:: purple
+  id:: 68d4b5af-e9d9-4bcd-b646-21bad90019b9
+  hl-type:: area
+  hl-stamp:: 1758770606625
