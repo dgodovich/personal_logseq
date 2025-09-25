@@ -1,0 +1,7 @@
+- I'm thinking it basically has to be on / related to my rotation project
+- Downstream of optoEGFR there's PI3K mediated signaling that does migration
+	- Do we know what the actual mechanism of this is?
+-
+-
+- ![Example of minigrant.pdf](../assets/Example_of_minigrant_1758826448226_0.pdf)
+-
