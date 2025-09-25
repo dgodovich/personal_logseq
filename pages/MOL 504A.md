@@ -3,6 +3,7 @@
 	- Reading
 		- [[The making of a gradient: IcsA (VirG) polarity in Shigella flexneri]]
 		- [[Plasma Membrane Compartmentalization in Yeast by Messenger RNA Transport and a Septin Diffusion Barrier]]
+	-
 - [[Sep 23rd, 2025]] Protein Localization Initiation
   collapsed:: true
 	- First class with Zemer

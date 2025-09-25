@@ -22,3 +22,13 @@ links:: [Local library](zotero://select/library/items/5ATEHVFE), [Web library](h
 - Attachments
 	- [Full Text](https://onlinelibrary.wiley.com/doi/pdfdirect/10.1046/j.1365-2958.2001.02552.x) {{zotero-imported-file NNCPCMQ4, "Robbins et al. - 2001 - The making of a gradient IcsA (VirG) polarity in Shigella flexneri.pdf"}}
 	- [PubMed entry](http://www.ncbi.nlm.nih.gov/pubmed/11532149)
+- Introduction
+	- Shigella nucleates host actin filaments to form a comet tail and then pushes into neighboring cells
+	- IcsA is necessary and sufficient for actin nucleation and motility
+		- expressed in a unipolar fashion
+		- C terminus forms \beta barrel that anchors in outer membrane
+		- functional N terminus is exposed on the surface
+	- IcsP is a protease specific for IcsA
+		- kicks off the N terminus into the environment
+		- without this protease IcsA is more broadly distributed
+	-
