@@ -100,3 +100,28 @@ file-path:: file://C:/Users/David/Zotero/storage/MLDR26AS/Takizawa et al. - 2000
   id:: 68d4b5af-e9d9-4bcd-b646-21bad90019b9
   hl-type:: area
   hl-stamp:: 1758770606625
+- results suggest that the asymmetric localization of Ist2p is achieved through transport of IST2 mRNA to the bud tip by an actomyosin-driven process similar to that described for ASH1 mRNA
+  ls-type:: annotation
+  hl-page:: 3
+  hl-color:: green
+  id:: 68d4b5be-8a55-4a39-ac60-7c7c03319c5c
+- local translation and secretion presumably deliver Ist2p to the plasma membrane of the bud
+  ls-type:: annotation
+  hl-page:: 3
+  hl-color:: blue
+  id:: 68d4b5cb-979e-41a7-8321-a41474b2280c
+- It is still unclear whether the septin neck filaments form this barrier or whether they are necessary for localizing other proteins to the neck that act as the diffusion gate
+  ls-type:: annotation
+  hl-page:: 3
+  hl-color:: yellow
+  id:: 68d4b5d4-3e95-41e3-89f7-8cdbb8b0ebcc
+- yeast has a specialized cytoskeletal architecture at the neck
+  ls-type:: annotation
+  hl-page:: 3
+  hl-color:: yellow
+  id:: 68d4b60b-d127-4288-b3e7-ea3951bb4a7a
+- septin-mediated barricade of membrane diffusion may provide a mechanism for trapping these proteins
+  ls-type:: annotation
+  hl-page:: 3
+  hl-color:: yellow
+  id:: 68d4b626-530f-4b54-b3b2-8dc08f21f389

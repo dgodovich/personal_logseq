@@ -40,5 +40,6 @@ links:: [Local library](zotero://select/library/items/IN543XBK), [Web library](h
 - Temperature sensitive septin mutant used to probe if that is the barrier
 	- High temp incubation makes them lose localization and diffuse through the membrane
 	- ((68d4b5af-e9d9-4bcd-b646-21bad90019b9))
-	-
+	- They don't show that septin itself is what does this
+		- It's related for sure, but it's not definitively that specific protein and not like a recruitment thing
 -
