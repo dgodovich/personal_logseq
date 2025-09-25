@@ -21,3 +21,13 @@ links:: [Local library](zotero://select/library/items/VEYP3STH), [Web library](h
 - Attachments
 	- [PDF](zotero://select/library/items/LITIDBPR) {{zotero-imported-file LITIDBPR, "Englesberg et al. - 1969 - The L-arabinose operon in Escherichia coli B-r a genetic demonstration of two functional states of.pdf"}}
 	- [PubMed entry](http://www.ncbi.nlm.nih.gov/pubmed/4894687)
+- This paper introduces the idea of positive control as an alternative to negative control
+	- but this didn't really catch on at the time bc everyone thought that everything is negative control
+- epistasis - effect of one gene is masked by the effect of another
+- Arabinose complex has araD, araA, araB protein coding genes; araI initiator; and araC regulatory gene
+	- araE is an unlinked gene that does active transport of arabinose
+- They suggest that araC works as a positive regulator
+- ((68d5cef7-b3d6-4dec-989e-1cefdd87e1a0))
+	- They can produce a mutant that's pleiotropic negative and recessive in cis and trans to wt and constitutive
+		- pleiotropic negative C- mutant means that ???
+	- revertants can
