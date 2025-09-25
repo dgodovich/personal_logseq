@@ -52,3 +52,25 @@ file-path:: file://C:/Users/David/Zotero/storage/LITIDBPR/Englesberg et al. - 19
   hl-color:: blue
   id:: 68d5d411-c015-4b12-930e-c19483898c81
   hl-stamp:: 1758843924329
+- Materials and Method
+  ls-type:: annotation
+  hl-page:: 2
+  hl-color:: red
+  id:: 68d5d45c-0393-49ae-9e7d-c6e5d1b64b23
+- Results
+  ls-type:: annotation
+  hl-page:: 4
+  hl-color:: purple
+  id:: 68d5d57b-fb0d-497a-b90d-1b17afae0894
+- [:span]
+  ls-type:: annotation
+  hl-page:: 3
+  hl-color:: red
+  id:: 68d5d5a3-a252-48b6-bbc1-1bd29ac0594e
+  hl-type:: area
+  hl-stamp:: 1758844322139
+- expression of the araA gene cis to deletion 719, there is a large constitutive increase (35 X) in L-arabinose isomerase activity in a merodiploid containing A-C+ in the exogenote, over the isomerase activity of the original haploid F- deletion strain or a merodiploid containing A-C- in the exogenote
+  ls-type:: annotation
+  hl-page:: 4
+  hl-color:: green
+  id:: 68d5d631-dc7e-4837-9106-7369d016af29

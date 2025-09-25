@@ -47,4 +47,15 @@ links:: [Local library](zotero://select/library/items/VEYP3STH), [Web library](h
 		- yep that's what they say in the next sentence
 - Use \Delta766 which maps into araC to complement
 - P2 binds to araI, P1 binds to araO (operator)
--
+- ((68d5d45c-0393-49ae-9e7d-c6e5d1b64b23))
+	- \Delta766 strain is also streptomycin resistant
+	- Use phage P1bt to do generalized transduction
+	- I_c mutants grow slowly on arabinose agar
+	- Bunch of other stuff about how they do the crosses and measure growth
+- ((68d5d5a3-a252-48b6-bbc1-1bd29ac0594e))
+	- could be useful to reference
+- ((68d5d57b-fb0d-497a-b90d-1b17afae0894))
+	- expression of araA cis to \Delta719 causes a constitutive increase in activity
+		- in diploids containing A-C+ in the exogenote (plasmid)
+		- compared to F- deletion or A-C- plasmid
+	-
