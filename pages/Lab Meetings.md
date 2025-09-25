@@ -1,5 +1,17 @@
 - [[Sep 24th, 2025]] Sabrina Toettcher lab
-	-
+  collapsed:: true
+	- copying over handwritten notes
+	- Single cell variability in ERK activity
+		- receptor expression, phosphatase expression, other proteins?
+	- Nascent FISH to get foci of transcription of fos
+		- very early gene transcribed after ERK activation
+	- phospho ERK goes to nucleus -> off
+	- ERK is on in the cytoplasm
+	- PDGF mediated fos transcription is started by ERK
+		- but it's not what determines how many cells with respond
+	- p38 (MAPK14) is same level as ERK in the kinase cascade, it's a MAPK effector
+	- CDKN1 (p21) is downstream of p53
+		- involved in cell cycle arrest and cancer progression by turning off CDKs
 - [[Sep 17th, 2025]] Yang Toettcher lab
   collapsed:: true
 	- Funny this is literally the same stuff I was working on
