@@ -51,6 +51,9 @@ links:: [Local library](zotero://select/library/items/5ATEHVFE), [Web library](h
 	- MBG264 is E. coli strain that expresses IcsA
 	- BS520 is Shigella strain that has altered membrane fluidity (more fluid)
 		- chlorpromazine decreases membrane fluidity (pharmacological rescue)
+	- YPIIIpIB71 is Y. pseudotuberculosis, gram negative pathogen
+		- pHS3199 plasmid expresses IcsA
+		- pHS3199 + picsP1 expresses both IcsA and IcsP
 - ((68d49b52-e002-48d5-9b5f-f449a7b7ae41))P
 	- E. coli expressing IcsA doesn't have the protease counterpart
 	- it doesn't look quite as concentrated, but it's still polar
@@ -66,3 +69,16 @@ links:: [Local library](zotero://select/library/items/5ATEHVFE), [Web library](h
 	- BS520 is Shigella strain that has altered membrane fluidity (more fluid)
 	- increasing fluidity you still get exponential decay, but it's wayyy further out
 	- rescue with drug that decreases fluidity
+		- restores wt distribution including decay constant
+- ((68d49e92-ab43-4c59-bc8d-d3a7a50c2212))
+	- Gram negative expressing just IcsA has a unipolar exponential gradient
+	- Adding IcsP has a reduction in the fraction of bacteria that have exponential gradient
+		- But this does reduce the decay constant by a lot (makes it steeper gradient)
+- ((68d49e9b-5b04-47dc-b5a6-7d1ecfaf6dc2))
+	- set up a steady state IcsA concentration at the membrane equation
+		- ((68d49fe2-1ecd-41a2-bdfa-f841734bc1b7))
+	-
+- ((68d49eab-8dfa-4382-b86c-bbd49fe4ca20))
+	-
+- ((68d49eb7-dc6f-4cf0-8728-7a74c3a98f08))
+	-

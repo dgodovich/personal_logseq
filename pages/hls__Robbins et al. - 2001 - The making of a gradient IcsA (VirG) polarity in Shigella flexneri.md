@@ -130,3 +130,55 @@ file-path:: file://C:/Users/David/Zotero/storage/NNCPCMQ4/Robbins et al. - 2001 
   hl-page:: 4
   hl-color:: yellow
   id:: 68d49e0f-2cc4-4b9b-9275-55d571ee002c
+- Polar delivery of IcsA generates a gradient that is sharpened by IcsP in Yersinia pseudotuberculosis
+  ls-type:: annotation
+  hl-page:: 7
+  hl-color:: purple
+  id:: 68d49e92-ab43-4c59-bc8d-d3a7a50c2212
+- IcsP activity is distributed in a near-uniform fashion in Y. pseudotuberculosis
+  ls-type:: annotation
+  hl-page:: 7
+  hl-color:: purple
+  id:: 68d49e9b-5b04-47dc-b5a6-7d1ecfaf6dc2
+- Discussion
+  ls-type:: annotation
+  hl-page:: 9
+  hl-color:: purple
+  id:: 68d49eab-8dfa-4382-b86c-bbd49fe4ca20
+- Experimental procedures
+  ls-type:: annotation
+  hl-page:: 10
+  hl-color:: purple
+  id:: 68d49eb7-dc6f-4cf0-8728-7a74c3a98f08
+- . pseudotuberculosis expressing IcsA alone displayed an exponential gradient of surface IcsA originating at one pole, with 96% of bacteria ﬁtting eqn 1
+  ls-type:: annotation
+  hl-page:: 7
+  hl-color:: yellow
+  id:: 68d49f86-e525-48c2-bc5e-33a6ed576d8b
+- IcsP was also present, only 56% of the bacteriaﬁtted an exponential decay
+  ls-type:: annotation
+  hl-page:: 7
+  hl-color:: yellow
+  id:: 68d49f8a-8a77-4bd2-b491-a81b82f9100f
+- membrane ﬂuidity, and hence the rate of IcsA diffusion, has presumably not changed, but the presence of the protease signiﬁcantly increased the slope of the IcsA gradient
+  ls-type:: annotation
+  hl-page:: 7
+  hl-color:: green
+  id:: 68d49f99-218e-404d-b052-8d8553a90d84
+  hl-stamp:: 1758764954807
+- IcsP must be capable of acting at the pole
+  ls-type:: annotation
+  hl-page:: 7
+  hl-color:: blue
+  id:: 68d49fa7-e35c-4b39-9c5b-e5688ec04f16
+- (i) the rate of secretion of IcsA at that point; (ii) lateral diffusion of the protein from other sites of secretion; (iii) removal of IcsA by IcsP; and (iv) degradation of IcsA by other housekeeping mechanism
+  ls-type:: annotation
+  hl-page:: 7
+  hl-color:: red
+  id:: 68d49fe2-1ecd-41a2-bdfa-f841734bc1b7
+  hl-stamp:: 1758765037573
+- have demonstrated that IcsA is delivered at only one pol
+  ls-type:: annotation
+  hl-page:: 7
+  hl-color:: yellow
+  id:: 68d49ffa-fe18-4a47-b6f3-5d3378ca1707
