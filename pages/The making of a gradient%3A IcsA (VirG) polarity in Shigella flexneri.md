@@ -47,9 +47,22 @@ links:: [Local library](zotero://select/library/items/5ATEHVFE), [Web library](h
 		- right figure compares fluorescence intensity of the IcsA vs a general membrane marker to show that it's not something to do with the shape of the bacteria
 	- there's some bipolar bacteria but most aren't and those that are have one much stronger
 		- this could be because of targeting to the future daughter cell
+- Table 1 notes
+	- MBG264 is E. coli strain that expresses IcsA
+	- BS520 is Shigella strain that has altered membrane fluidity (more fluid)
+		- chlorpromazine decreases membrane fluidity (pharmacological rescue)
 - ((68d49b52-e002-48d5-9b5f-f449a7b7ae41))P
 	- E. coli expressing IcsA doesn't have the protease counterpart
 	- it doesn't look quite as concentrated, but it's still polar
-	- In this case it's actually bipolar with the same exponential decay
-		-
--
+	- In this case it's actually bipolar with exponential decay along membrane
+		- but over a longer distance and not in as many bacteria
+	- These guys also have puncta
+	- But a lot of that is due to cell division
+		- stationary phase bacteria have a higher proportion of unipolar distribution
+			- these also have an even shallower slope though
+		- Figure 3 shows this
+- ((68d49d30-e36d-4c09-9449-ac659964910d))
+	- ((68d49d3d-53fb-4b02-9830-76a9c5495c76))
+	- BS520 is Shigella strain that has altered membrane fluidity (more fluid)
+	- increasing fluidity you still get exponential decay, but it's wayyy further out
+	- rescue with drug that decreases fluidity

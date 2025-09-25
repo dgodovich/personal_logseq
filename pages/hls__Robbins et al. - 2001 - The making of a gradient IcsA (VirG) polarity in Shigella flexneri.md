@@ -90,3 +90,43 @@ file-path:: file://C:/Users/David/Zotero/storage/NNCPCMQ4/Robbins et al. - 2001 
   hl-page:: 4
   hl-color:: green
   id:: 68d49bc1-94e1-4b7e-9b26-e877bfab3cf1
+- 56% of bacteria ﬁt an exponential decay for their entire length (R . 0.90), with an average decay constant of 0.69 mm
+  ls-type:: annotation
+  hl-page:: 4
+  hl-color:: yellow
+  id:: 68d49c0b-c234-4e83-b355-34a367c6b891
+- exhibited IcsA puncta at random points along the surface
+  ls-type:: annotation
+  hl-page:: 4
+  hl-color:: yellow
+  id:: 68d49c17-2a99-4a18-be57-3c75d404891d
+- consistent with the hypothesis that the protein is being delivered strictly to the pole and is subsequently diffusing laterally through the membrane
+  ls-type:: annotation
+  hl-page:: 4
+  hl-color:: green
+  id:: 68d49c31-9406-4641-9de5-530bef01349b
+- Differences in the cell cycles of these bacteria may correlate with the fraction of bipolar bacteria observed
+  ls-type:: annotation
+  hl-page:: 4
+  hl-color:: yellow
+  id:: 68d49ce0-bfe9-49d0-a6b0-d42e3bd1bbc8
+- However, we were surprised to ﬁnd that the decay constant for these bacteria was 0.89 mm (Table 1), signiﬁcantly greate
+  ls-type:: annotation
+  hl-page:: 4
+  hl-color:: yellow
+  id:: 68d49d28-ff0c-424e-b12f-094da9959737
+- IcsA gradient slope depends on S. ﬂexneri’s outer membrane ﬂuidity
+  ls-type:: annotation
+  hl-page:: 4
+  hl-color:: purple
+  id:: 68d49d30-e36d-4c09-9449-ac659964910d
+- altering membrane ﬂuidity will affect the steady-state protein distribution
+  ls-type:: annotation
+  hl-page:: 4
+  hl-color:: yellow
+  id:: 68d49d3d-53fb-4b02-9830-76a9c5495c76
+- 72% of the intensity curves could be well ﬁtted by the exponential decay in eqn 1 (Table 1), but their average decay constant (0.90 mm, SD ¼ 0.63) was signiﬁcantly greater (P , 0.001) than that of the wild-typ
+  ls-type:: annotation
+  hl-page:: 4
+  hl-color:: yellow
+  id:: 68d49e0f-2cc4-4b9b-9275-55d571ee002c
