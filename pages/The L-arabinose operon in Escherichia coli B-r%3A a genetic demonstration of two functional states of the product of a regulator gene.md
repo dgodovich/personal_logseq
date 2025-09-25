@@ -30,4 +30,15 @@ links:: [Local library](zotero://select/library/items/VEYP3STH), [Web library](h
 - ((68d5cef7-b3d6-4dec-989e-1cefdd87e1a0))
 	- They can produce a mutant that's pleiotropic negative and recessive in cis and trans to wt and constitutive
 		- pleiotropic negative C- mutant means that ???
-	- revertants can
+			- can't make any of the products on the control of the promoter? like no araD/A/B?
+	- revertants can form a thermolabile gene product
+		- implies that C is a protein product
+	- They talk a bit about mapping it after this
+		- direction of polarity is BAD
+		- it's not part of the BAD operon
+		- Initiator constitutive mutants I_c map to between B and C
+			- I_c is low constitutive and cis dominant
+- I_c mutants were isolated as revertants of Ara- deletion \Delta719
+	- deletes the whole regulator gene araC
+- this is a very confusing introduction
+-
