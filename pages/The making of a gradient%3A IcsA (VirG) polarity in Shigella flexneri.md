@@ -77,8 +77,20 @@ links:: [Local library](zotero://select/library/items/5ATEHVFE), [Web library](h
 - ((68d49e9b-5b04-47dc-b5a6-7d1ecfaf6dc2))
 	- set up a steady state IcsA concentration at the membrane equation
 		- ((68d49fe2-1ecd-41a2-bdfa-f841734bc1b7))
-	-
+	- C''(x)/C(x) does not make sense to me
+		- second derivative of concentration with respect to x?
+		- Why would it be that? first kinda makes sense but that's not what they put
+			- diffusion is a second order process so i guess?
+			- but they've been doing every thing in linear space until now
+	- mostly this is a uniform distribution, which tells them that IcsP is also uniform
+		- I'm not super clear on how they measure this either
+		- IF? somehow
+	- IcsP probably goes to the same pole as IcsA and then also diffuses
 - ((68d49eab-8dfa-4382-b86c-bbd49fe4ca20))
+	- They don't talk about how it gets to the pole, only that it does
+	- Unclear if this is something specific to this protein or a general thing
+		- ((68d4a51c-4620-4f19-936f-a47d1e363dc1))
+		- seems to be general
 	-
 - ((68d49eb7-dc6f-4cf0-8728-7a74c3a98f08))
 	-

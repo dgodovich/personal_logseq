@@ -182,3 +182,28 @@ file-path:: file://C:/Users/David/Zotero/storage/NNCPCMQ4/Robbins et al. - 2001 
   hl-page:: 7
   hl-color:: yellow
   id:: 68d49ffa-fe18-4a47-b6f3-5d3378ca1707
+- We calculated the ratio of C 00(x)/C(x)
+  ls-type:: annotation
+  hl-page:: 7
+  hl-color:: red
+  id:: 68d4a2fa-5916-4f27-85b1-b61df8814450
+- suggests that IcsP may be delivered to (or activated at) the same pole as IcsA
+  ls-type:: annotation
+  hl-page:: 7
+  hl-color:: blue
+  id:: 68d4a45d-367c-47d7-967a-a8b7a4e5a05f
+- : (i) delivery of IcsA to a single bacterial pole; (ii) diffusion of the protein in the outer membrane, which is governed by membrane ﬂuidity; and(iii) near-uniform proteolysis by the protease IcsP, which can sharpen the gradient of IcsA
+  ls-type:: annotation
+  hl-page:: 9
+  hl-color:: green
+  id:: 68d4a4a6-2a9a-4c62-8ed5-e83cff630d6e
+- arguing that IcsA distribution depends only on its ability to diffuse through the outer membran
+  ls-type:: annotation
+  hl-page:: 10
+  hl-color:: blue
+  id:: 68d4a504-51bb-404f-8643-62fb13268ab0
+- apparent need to ensure that both sister cells will have polarized protein also argues for a polar delivery mechanism conserved across species, as non-Shigella species can have no evolutionary preference for the polar distribution of IcsA
+  ls-type:: annotation
+  hl-page:: 10
+  hl-color:: blue
+  id:: 68d4a51c-4620-4f19-936f-a47d1e363dc1
