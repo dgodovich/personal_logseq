@@ -1,5 +1,7 @@
 - [[Sep 25th, 2025]]
+  collapsed:: true
 	- [[Ileana Cristea]]
+	  collapsed:: true
 		- virology
 		- nuclear DNA sensing
 		- also stuff about condensates
@@ -12,8 +14,18 @@
 		- Lactate is proviral
 			- lowers immune response
 	- [[Britt Adamson]]
+	  collapsed:: true
 		- Genome editing is a tool to understand genome stability
-		-
+		- Understand cell biology of gene editing (CRISPR) to improve effectiveness
+		- Maybe talk to her to learn about CRISPR
+			- I really should know more about how to use it
+		- Base and prime editors are more precise
+			- different kinds of damage to DNA
+			- base editors make chemical modifications to DNA to trigger base changes
+			- prime editors make a nic and then use reverse transcriptase to put a bit in
+		- mismatch repair machinery is better at seeing G->C transitions
+			- methylation?
+		- for some reason I didn't like her in the beginning but actually she seems nice
 - [[Sep 22nd, 2025]]
   collapsed:: true
 	- [[Martin Wuhr]]
