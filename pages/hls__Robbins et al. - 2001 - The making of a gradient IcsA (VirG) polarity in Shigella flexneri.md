@@ -60,3 +60,33 @@ file-path:: file://C:/Users/David/Zotero/storage/NNCPCMQ4/Robbins et al. - 2001 
   hl-page:: 3
   hl-color:: yellow
   id:: 68d4994c-7225-4492-90d5-e3ec5b0cfd8a
+- Escherichia coli exhibit growth-dependent IcsA polar secretion in the absence of Ics
+  ls-type:: annotation
+  hl-page:: 4
+  hl-color:: purple
+  id:: 68d49b52-e002-48d5-9b5f-f449a7b7ae41
+- IcsA concentration decreases exponentially along the bacterial length
+  ls-type:: annotation
+  hl-page:: 2
+  hl-color:: purple
+  id:: 68d49b66-f5a1-4370-a5af-fbf4afda9940
+- IcsA expressed in E. coli K-12 strains appears to be near uniform on the bacterial surfac
+  ls-type:: annotation
+  hl-page:: 4
+  hl-color:: yellow
+  id:: 68d49b7e-5909-4f20-b9a3-96e5a11a3a42
+- IcsP is not expressed by these bacteria
+  ls-type:: annotation
+  hl-page:: 4
+  hl-color:: yellow
+  id:: 68d49b8e-090c-44bc-b0fb-e111d5b6c148
+- bipolarity is far more prevalent in these bacteria than in wild-type
+  ls-type:: annotation
+  hl-page:: 4
+  hl-color:: yellow
+  id:: 68d49bbb-4bf8-4e8b-9db7-97e095811a38
+- the IcsA at most E. coli poles (ﬁrst or last quarter of the bacterium) ﬁts an exponential deca
+  ls-type:: annotation
+  hl-page:: 4
+  hl-color:: green
+  id:: 68d49bc1-94e1-4b7e-9b26-e877bfab3cf1

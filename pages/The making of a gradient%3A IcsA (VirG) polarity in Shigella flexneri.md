@@ -37,12 +37,19 @@ links:: [Local library](zotero://select/library/items/5ATEHVFE), [Web library](h
 		- Predictions from this
 			- steady-state distribution should be determined by lateral diffusion and polar secretion
 			- IcsP should sharpen the curve in a predictable manner
-- IcsA concentration decreases exponentially along the bacterial length
+- ((68d49b66-f5a1-4370-a5af-fbf4afda9940))
 	- should fit exponential decay
 		- and it does
 		- with R >= .9
 	- \lambda = 0.52 \mu\m decay constant
 		- distance at which fluorescence is 1/e of the original
 	- ((68d4988e-4a2e-4ebe-a4da-e01ebe1973b5))
+		- right figure compares fluorescence intensity of the IcsA vs a general membrane marker to show that it's not something to do with the shape of the bacteria
 	- there's some bipolar bacteria but most aren't and those that are have one much stronger
 		- this could be because of targeting to the future daughter cell
+- ((68d49b52-e002-48d5-9b5f-f449a7b7ae41))P
+	- E. coli expressing IcsA doesn't have the protease counterpart
+	- it doesn't look quite as concentrated, but it's still polar
+	- In this case it's actually bipolar with the same exponential decay
+		-
+-
