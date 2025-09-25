@@ -1,3 +1,19 @@
+- [[Sep 25th, 2025]]
+	- [[Ileana Cristea]]
+		- virology
+		- nuclear DNA sensing
+		- also stuff about condensates
+		- Why does an infected cell look different than a normal cell?
+			- viruses restructure organelles and membranes
+		- mitochondrial fragmentation
+			- increases rate of metabolism
+			- also shows up in cancer
+				- Warburg effect
+		- Lactate is proviral
+			- lowers immune response
+	- [[Britt Adamson]]
+		- Genome editing is a tool to understand genome stability
+		-
 - [[Sep 22nd, 2025]]
   collapsed:: true
 	- [[Martin Wuhr]]
