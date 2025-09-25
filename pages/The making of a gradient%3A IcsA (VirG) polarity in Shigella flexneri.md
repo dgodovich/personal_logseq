@@ -91,6 +91,6 @@ links:: [Local library](zotero://select/library/items/5ATEHVFE), [Web library](h
 	- Unclear if this is something specific to this protein or a general thing
 		- ((68d4a51c-4620-4f19-936f-a47d1e363dc1))
 		- seems to be general
-	-
+	- sugars can impact membrane fluidity and that can have strain specific effects
 - ((68d49eb7-dc6f-4cf0-8728-7a74c3a98f08))
-	-
+	- not much to talk about here

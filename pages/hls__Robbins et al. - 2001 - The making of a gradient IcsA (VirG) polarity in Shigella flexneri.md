@@ -207,3 +207,19 @@ file-path:: file://C:/Users/David/Zotero/storage/NNCPCMQ4/Robbins et al. - 2001 
   hl-page:: 10
   hl-color:: blue
   id:: 68d4a51c-4620-4f19-936f-a47d1e363dc1
+- gradient can be sharpened by the protease IcsP
+  ls-type:: annotation
+  hl-page:: 10
+  hl-color:: green
+  id:: 68d4a616-8a0f-4bdb-aac5-6db468eb9ede
+  hl-stamp:: 1758766615982
+- hat IcsP protease activity is in fact almost uniform, as has generally been assume
+  ls-type:: annotation
+  hl-page:: 10
+  hl-color:: blue
+  id:: 68d4a628-d306-4b23-a36f-3c0a03cb77f7
+- S. ﬂexneri has capitalized on more global underlying mechanisms for generating subcellular organization
+  ls-type:: annotation
+  hl-page:: 10
+  hl-color:: blue
+  id:: 68d4a64e-1405-497b-a6df-79e506f87fe6

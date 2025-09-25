@@ -1,0 +1,2 @@
+file:: [Takizawa et al. - 2000 - Plasma Membrane Compartmentalization in Yeast by Messenger RNA Transport and a Septin Diffusion Barr.pdf](file://C:/Users/David/Zotero/storage/MLDR26AS/Takizawa et al. - 2000 - Plasma Membrane Compartmentalization in Yeast by Messenger RNA Transport and a Septin Diffusion Barr.pdf)
+file-path:: file://C:/Users/David/Zotero/storage/MLDR26AS/Takizawa et al. - 2000 - Plasma Membrane Compartmentalization in Yeast by Messenger RNA Transport and a Septin Diffusion Barr.pdf
