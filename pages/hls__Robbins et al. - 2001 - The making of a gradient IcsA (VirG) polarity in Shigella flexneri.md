@@ -38,3 +38,25 @@ file-path:: file://C:/Users/David/Zotero/storage/NNCPCMQ4/Robbins et al. - 2001 
   id:: 68d49727-9463-4d06-9325-f18f3e80a332
   hl-type:: area
   hl-stamp:: 1758762790821
+- distribution of IcsA along the bacterial length should approximately ﬁt an exponential decay functio
+  ls-type:: annotation
+  hl-page:: 2
+  hl-color:: yellow
+  id:: 68d497db-7770-447d-bd1c-ff0621b6d7a7
+- Bacteria were then labelled using a monoclonal antibody raised against the amino-terminus
+  ls-type:: annotation
+  hl-page:: 2
+  hl-color:: red
+  id:: 68d497ff-e65e-4c49-81dd-df5fa63cdc1c
+- [:span]
+  ls-type:: annotation
+  hl-page:: 3
+  hl-color:: purple
+  id:: 68d4988e-4a2e-4ebe-a4da-e01ebe1973b5
+  hl-type:: area
+  hl-stamp:: 1758763167796
+- The targeting of IcsA to the pole that will become the old pole of the daughter cell appears to occur before the completion of septatio
+  ls-type:: annotation
+  hl-page:: 3
+  hl-color:: yellow
+  id:: 68d4994c-7225-4492-90d5-e3ec5b0cfd8a

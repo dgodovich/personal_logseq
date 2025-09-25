@@ -31,4 +31,18 @@ links:: [Local library](zotero://select/library/items/5ATEHVFE), [Web library](h
 	- IcsP is a protease specific for IcsA
 		- kicks off the N terminus into the environment
 		- without this protease IcsA is more broadly distributed
-	-
+	- Hypothesis
+		- IcsA is delivered to one pole and then spreads out from there
+		- IcsP protease activity maintains gradient
+		- Predictions from this
+			- steady-state distribution should be determined by lateral diffusion and polar secretion
+			- IcsP should sharpen the curve in a predictable manner
+- IcsA concentration decreases exponentially along the bacterial length
+	- should fit exponential decay
+		- and it does
+		- with R >= .9
+	- \lambda = 0.52 \mu\m decay constant
+		- distance at which fluorescence is 1/e of the original
+	- ((68d4988e-4a2e-4ebe-a4da-e01ebe1973b5))
+	- there's some bipolar bacteria but most aren't and those that are have one much stronger
+		- this could be because of targeting to the future daughter cell
