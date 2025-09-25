@@ -20,3 +20,21 @@ links:: [Local library](zotero://select/library/items/IN543XBK), [Web library](h
 	- [Full Text PDF](https://www.science.org/doi/pdf/10.1126/science.290.5490.341) {{zotero-imported-file MLDR26AS, "Takizawa et al. - 2000 - Plasma Membrane Compartmentalization in Yeast by Messenger RNA Transport and a Septin Diffusion Barr.pdf"}}
 - Use cytoskeleton dependent localization of cytoplasmic mRNA
 - Ash1p is a transcription factor that accumulates in the daughter cell nucleus
+	- this is done by actomyosin acting on the mRNA
+	- She1p (Myo4p), She2p, She3p needed for this transport
+- They do an immunoprecipitation screen to look for other interaction partners of the She family
+- Find IST2 as a hit mRNA that's localized to the bud
+	- this one is always there though (throughout cell cycle)
+- ((68d4b1ee-7844-4ebc-a9cd-88206dc1a3f2))
+	- The logseq ref is missing the \Delta, deletion means that you need each of those for targeting
+	- Actin regulatory protein mutations can cause mislocalization
+- They use GFP to track where Ist2p goes
+	- find that it is asymmetrically distributed between mother and bud in an actomyosin dependent manner
+	- Also note that fluorescence is strongly diminished around the neck between the cells
+	- ((68d4b2ec-b947-42fe-b0be-fdc7b316b784))
+		- Can see that the boundary between the bud and the mother has no GFP
+- Use FRAP to see mobility of GFP in the membrane
+	- this shows that GFP is capable of membrane diffusion
+	- So what's blocking it from going through the neck?
+	- Must be some kind of diffusion barrier
+	-
