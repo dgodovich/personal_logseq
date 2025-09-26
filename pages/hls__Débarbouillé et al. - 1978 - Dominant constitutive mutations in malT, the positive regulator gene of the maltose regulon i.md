@@ -135,3 +135,35 @@ file-path:: file://C:/Users/David/Zotero/storage/QF9WHSVS/Débarbouillé et al. 
   hl-page:: 8
   hl-color:: yellow
   id:: 68d5ffad-fd20-4646-8c0c-f391bf378638
+- Dom~inance of ma17’” over mal!Z
+  ls-type:: annotation
+  hl-page:: 8
+  hl-color:: purple
+  id:: 68d5ffff-fbf4-41ce-87ea-d025a2564868
+- ransducing the constitutive mutants with $80 dmal, which carries a wild-type WI&A regi
+  ls-type:: annotation
+  hl-page:: 8
+  hl-color:: red
+  id:: 68d6003b-b5c5-4005-8593-233560caeef3
+- sults shown in Table 3 demonstrate that bhe synthesis of /?-galactosidase is essentially the same in the merodiploid strains as in the original maZT” haploid strain
+  ls-type:: annotation
+  hl-page:: 8
+  hl-color:: green
+  id:: 68d6007c-912f-4815-a2ab-cba679a05971
+- [:span]
+  ls-type:: annotation
+  hl-page:: 8
+  hl-color:: green
+  id:: 68d600a1-0c1e-44c0-b611-690386ef0a54
+  hl-type:: area
+  hl-stamp:: 1758855328491
+- Discussion
+  ls-type:: annotation
+  hl-page:: 12
+  hl-color:: purple
+  id:: 68d601b5-baca-4e40-b781-0995c46d9d2e
+- evel of constitutive expression in these mutants is very variable
+  ls-type:: annotation
+  hl-page:: 12
+  hl-color:: yellow
+  id:: 68d601c7-c539-4e3c-b716-444da560de75

@@ -69,4 +69,17 @@ links:: [Local library](zotero://select/library/items/HS52VKIQ), [Web library](h
 	- ((68d5fed8-ccb8-4345-82b3-d119ec1b52ef))
 		- They show that these proteins are on constitutively
 - I'm skipping notes on the mapping section
--
+- ((68d5ffff-fbf4-41ce-87ea-d025a2564868)) Dominance of malT_C over malT+
+	- transduce with \phi80 dmal_2 which has wt malA
+	- malT+ fails to repress expression in malT_c alleles
+	- amylomaltase synthesis is also increased in these ones because the phage has wt mal
+		- malT_c mutations have constitutive expression of a trans malPQ operon
+	- malT+ allele fails to repress in trans
+		- this is shown both by Bgal still being on and by measurable mal proteins (malE and lamB)
+	- They also show this with a gel that I generally understand so I'm skipping over
+- ((68d601b5-baca-4e40-b781-0995c46d9d2e))
+	- level of constitutive expression is variable, but it's there in all of the mutants
+	- malT product is active even when there's no maltose
+	- and since malT+ is recessive, it's not because there's a balance in repressor
+	- There is only activator
+	-
