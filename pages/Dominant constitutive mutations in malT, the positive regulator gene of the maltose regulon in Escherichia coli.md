@@ -22,7 +22,7 @@ links:: [Local library](zotero://select/library/items/HS52VKIQ), [Web library](h
 	- [ScienceDirect Snapshot](https://www.sciencedirect.com/science/article/pii/0022283678903042) {{zotero-imported-file 42I23KWT, "0022283678903042.html"}}
 - lacZ fusion to maltose operon
 - maltose is strictly positive regulation
-- Introduction
+- ((68d5f9d1-8038-4ee1-85e2-d213d577ef78))
 	- L-arabinose is an inducer
 		- araC is an activator and stimulates transcription of ara BAD operon
 		- araC_c mutants synthesize an araC product which is always active
@@ -31,4 +31,42 @@ links:: [Local library](zotero://select/library/items/HS52VKIQ), [Web library](h
 	- Operator sequence is defined as target of the repressor
 		- distinct from the ara initiator
 	- malT is a positive regulator of the maltose operons (there's 3 of them)
-	-
+	- Initiator constitutive mutants have been found which are cis dominant
+		- this phenotype doesn't care about a malT+ allele -> positive only
+	- it was difficult to get malT_c mutants
+		- I guess there's no way to select for them?
+		- so they use a lacZ fusion
+		- you find constitutive mutants by using a non-inducible substrate
+- ((68d5f9eb-9234-4e2c-80d2-6094bc2ec91b))
+	- pop 3125 is F- and has the malPQ-lacZY fusion
+	- HfrG6 strains have various deletions made by recombination with P1 phage grown on donors
+	- ((68d5fad5-f3a2-441d-9b63-48b8e843a396))
+		- We'll definitely be asked about this
+		- they have lytic \lambda in there for some reason
+	- pop 3125 is mal- because of the insertion
+		- the insertion is on the later part of malP
+		- use lactose as a selection
+	- phage \phi80 dmal_2 carries mal genes
+		- d for defective
+		- specialized transducing phage
+		- use regular helper phage to get plaques for Mal+ transductants
+		- lac operon presence is determined by blue color (Xgal)
+- ((68d5fcae-9103-4183-992a-2fa0d9e21a9c))
+	- lac fusion to maltose operon means that \beta\galactosidase is induced by maltose, not lactose
+	- ((68d5fcf7-0689-4637-ba56-40d34b7365c6))
+		- this seems key
+		- this is how they can do a selection that they previously couldn't do
+	- Streak on EMB maltose medium to see if they grow on maltose
+	- mutation in malK inactivates the maltose transport system which makes them resistant
+		- Also make expression of operons constitutive
+		- probably because of accumulation of inducer
+	- continue with mutants that aren't immune because they don't want inducer constitutive
+		- these ones are still sensitive to maltose but still make more Bgal
+- ((68d5fe73-1bf3-4e87-8fc4-8fd718b84f1e))
+	- can assay malE and lamB
+		- malE assayed by equilibrium dialysis for maltose binding
+		- lamB is a lambda receptor, so can measure binding?
+	- ((68d5fed8-ccb8-4345-82b3-d119ec1b52ef))
+		- They show that these proteins are on constitutively
+- I'm skipping notes on the mapping section
+-
