@@ -74,3 +74,27 @@ file-path:: file://C:/Users/David/Zotero/storage/LITIDBPR/Englesberg et al. - 19
   hl-page:: 4
   hl-color:: green
   id:: 68d5d631-dc7e-4837-9106-7369d016af29
+- [:span]
+  ls-type:: annotation
+  hl-page:: 4
+  hl-color:: purple
+  id:: 68d5d684-2729-46f9-86f6-7ef5ebe14520
+  hl-type:: area
+  hl-stamp:: 1758844547820
+- [:span]
+  ls-type:: annotation
+  hl-page:: 7
+  hl-color:: red
+  id:: 68d5d6e1-18f0-4a20-829a-2b2f246b34a3
+  hl-type:: area
+  hl-stamp:: 1758844639864
+- A comparison of the trans effect of C+ and C- on the constitutive expression of Ic alleles in strains containing deletion 719 and deletion 766
+  ls-type:: annotation
+  hl-page:: 5
+  hl-color:: purple
+  id:: 68d5d84d-f7cd-4e55-a895-1c8eee637825
+- urther demonstration of the cis dominance of IC to I+ and the role of the product of the C+ allele in stimulating the expression of the structural genes cis to deletion 719
+  ls-type:: annotation
+  hl-page:: 5
+  hl-color:: yellow
+  id:: 68d5d8b9-542e-47ce-862a-7c6525960f4e

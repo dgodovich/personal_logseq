@@ -54,8 +54,28 @@ links:: [Local library](zotero://select/library/items/VEYP3STH), [Web library](h
 	- Bunch of other stuff about how they do the crosses and measure growth
 - ((68d5d5a3-a252-48b6-bbc1-1bd29ac0594e))
 	- could be useful to reference
+- ((68d5d6e1-18f0-4a20-829a-2b2f246b34a3))
+	- map of region
 - ((68d5d57b-fb0d-497a-b90d-1b17afae0894))
 	- expression of araA cis to \Delta719 causes a constitutive increase in activity
 		- in diploids containing A-C+ in the exogenote (plasmid)
 		- compared to F- deletion or A-C- plasmid
+	- ((68d5d684-2729-46f9-86f6-7ef5ebe14520))
+		- Tom says that this is the key experimental finding
+		- The endogenote strains are both A+I+ but have no C gene
+			- \Delta719 can be I+ because the deletion doesn't get into araI, but covers araC and araO
+			- \Delta766 just goes in araC
+				- both have no functional C protein and therefore have no nothing
+					- no repression and also no activation
+		- C+ allele in the plasmid is cytoplasmic active and dominant in trans
+			- both exogenotes are A-! all araA functionality is coming from the C- chromosome
+			  background-color:: yellow
+		- C- plasmid can't restore function
+		- \Delta766 has not quite as strong of an effect but there is still something
+			- is there something?
+			- This might be because it's partially able to bind?
+			- Oh it's because C product P1 can bind to the operator and it has to be induced to get activation into P2 and then bind to araI
+				- \Delta719 has no operator so you can't get repression, you only get the activation component
+	- ((68d5d84d-f7cd-4e55-a895-1c8eee637825))
+		-
 	-
