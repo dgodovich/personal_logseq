@@ -3,7 +3,7 @@ date:: 1969-04
 issn:: 0027-8424
 issue:: 4
 doi:: 10.1073/pnas.62.4.1100
-title:: The L-arabinose operon in Escherichia coli B-r: a genetic demonstration of two functional states of the product of a regulator gene
+title:: The L-arabinose operon in Escherichia coli B-r a genetic demonstration of two functional states of the product of a regulator gene
 pages:: 1100-1107
 volume:: 62
 item-type:: [[journalArticle]]
@@ -77,5 +77,13 @@ links:: [Local library](zotero://select/library/items/VEYP3STH), [Web library](h
 			- Oh it's because C product P1 can bind to the operator and it has to be induced to get activation into P2 and then bind to araI
 				- \Delta719 has no operator so you can't get repression, you only get the activation component
 	- ((68d5d84d-f7cd-4e55-a895-1c8eee637825))
-		-
-	-
+		- This makes sense to me
+		- If you are I_c -> constitutive on, a little bit, and C-
+			- Adding C+ will repress
+			- Unless you can block access to the repressive point (as is the case in \Delta766)
+				- Then you will activate
+				- Because the shift in equilibrium causes more P2 to be generated
+- Figure 1 makes a lot of sense to me with their explanation
+	- But I'm not entirely sure that I could have come up with it on my own
+- I'm fully on board with their discussion
+	- Didn't take any notes here but I think I understand the gist of it quite well

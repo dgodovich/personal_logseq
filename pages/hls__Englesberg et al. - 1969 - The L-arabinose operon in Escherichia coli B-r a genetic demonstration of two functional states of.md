@@ -98,3 +98,33 @@ file-path:: file://C:/Users/David/Zotero/storage/LITIDBPR/Englesberg et al. - 19
   hl-page:: 5
   hl-color:: yellow
   id:: 68d5d8b9-542e-47ce-862a-7c6525960f4e
+- This repression of constitutive synthesis of isomerase by the araA gene cis to the deletion is removed when a C- allele is substituted for the C+ allele in the exogenote
+  ls-type:: annotation
+  hl-page:: 5
+  hl-color:: yellow
+  id:: 68d5d960-e87e-417b-8d81-dd1bce0d5e73
+- it is proposed that araC is a regulator gene which produces, in the absence of inducer, a repressor, P1, which is at least partially a protein molecule. P1 exists in equilibrium with P1 attached to an operator site (0) located between araC and araI (the initiator site), P2 (the activator), and P2 attached to araL. The inducer removes P1 from the operator", 12 and shifts the equilibrium to P2. P2 reacts at the initiator site and turns on the expression of the structural genes cis to the initiator
+  ls-type:: annotation
+  hl-page:: 6
+  hl-color:: green
+  id:: 68d5d9cb-796b-4827-a02e-eb9e2e99752b
+- determined by the relative effective concentrations of P1 and P2 and their respective affinities for araO and araL
+  ls-type:: annotation
+  hl-page:: 6
+  hl-color:: yellow
+  id:: 68d5d9d3-195a-42cb-97ee-421087d2b451
+- basis that P1 produced by the C+ allele (in the absence of inducer) reacts with the operator site cis to deletion 766 and prevents the complete expression of the Ic alleles.
+  ls-type:: annotation
+  hl-page:: 7
+  hl-color:: yellow
+  id:: 68d5d9f2-3050-4fbd-878a-1f92d3442568
+- 719 because this deletion excises the operator site
+  ls-type:: annotation
+  hl-page:: 7
+  hl-color:: green
+  id:: 68d5d9f9-91db-4503-8b5f-9aa122306936
+- C+ allele produces a repressor which attaches to the operator site on both the exogenote and the endogenote and prevents the constitutive activator from functioning
+  ls-type:: annotation
+  hl-page:: 7
+  hl-color:: yellow
+  id:: 68d5da11-347f-41ed-b186-61553911abb7
