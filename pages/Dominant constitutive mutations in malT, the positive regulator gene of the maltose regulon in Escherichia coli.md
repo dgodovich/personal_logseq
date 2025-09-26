@@ -37,6 +37,7 @@ links:: [Local library](zotero://select/library/items/HS52VKIQ), [Web library](h
 		- I guess there's no way to select for them?
 		- so they use a lacZ fusion
 		- you find constitutive mutants by using a non-inducible substrate
+		  background-color:: yellow
 - ((68d5f9eb-9234-4e2c-80d2-6094bc2ec91b))
 	- pop 3125 is F- and has the malPQ-lacZY fusion
 	- HfrG6 strains have various deletions made by recombination with P1 phage grown on donors
