@@ -167,3 +167,13 @@ file-path:: file://C:/Users/David/Zotero/storage/QF9WHSVS/Débarbouillé et al. 
   hl-page:: 12
   hl-color:: yellow
   id:: 68d601c7-c539-4e3c-b716-444da560de75
+- ding to such an hypothesis, t’he maZT product would exist as an oligomer in the cel
+  ls-type:: annotation
+  hl-page:: 12
+  hl-color:: yellow
+  id:: 68d60241-d006-4688-b902-80304de4e4e4
+- ould be argued, however, that the opposite is true, i.e. that the m.alT+ product is a repressor in the absence of induce
+  ls-type:: annotation
+  hl-page:: 12
+  hl-color:: blue
+  id:: 68d60247-1f64-44fc-bf7e-7fcc46c77648

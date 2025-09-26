@@ -82,4 +82,5 @@ links:: [Local library](zotero://select/library/items/HS52VKIQ), [Web library](h
 	- malT product is active even when there's no maltose
 	- and since malT+ is recessive, it's not because there's a balance in repressor
 	- There is only activator
+	- I still don't really get the oligomer stuff
 	-
