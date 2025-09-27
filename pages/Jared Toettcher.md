@@ -1,3 +1,5 @@
+alias:: [[Jared E. Toettcher]]
+
 - First rotation advisor
 - This guy is pretty cool
 - [[Sep 4th, 2025]] Meeting to talk about rotation

@@ -1,0 +1,13 @@
+- [[Sep 26th, 2025]]
+	- [[Beena]] from [[Jared Toettcher]]
+		- engineering synthetic RTKs to tune signaling responses
+		- AAs next to the RTK active tyrosine site define specificity
+		- PDGF is used in topical healing to promote migration into the wound site
+		- phosphotyrosine motif makes a big difference on what happens when you start signaling
+		- PI3K binding motifs promote migration
+		- STAT5 motifs break PI3K migration with a positional effect
+			- not yet super clear how this works
+			- potentially something with steric hindrance of PI3K getting to the tyrosine
+			- competitive binding?
+			- why do multiple motifs cause stronger reactions up to a certain point?
+		- Maybe this can be related to [[504 Minigrant]]?

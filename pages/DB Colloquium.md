@@ -1,0 +1,23 @@
+- [[Sep 26th, 2025]] [[Ai Ing Lim]]
+  collapsed:: true
+	- immunologist by training, dev bio in the last few years
+	- Mother and offspring are evolutionary partners
+	- Infection has impacts on child's life
+		- but could also be good?
+	- How does the mothers tissue immunity adapt?
+	- Focus on barrier tissues
+		- gut, lungs, skin
+	- Large increase on eosinophils in the duodenum of lactating mothers
+		- Contribution to tissue remodeling?
+	- crypt and villi are longer
+		- fewer stem cells, more differentiated goblet cells
+			- these are the ones that do mucus secretion
+	- Lactating mice have additional protections against illness
+	- retain protections for up to 12 weeks post-lactation
+	- What's the mechanism for this? Is it lactation dependent?
+		- [[Liz Gavis]] asked this question right after I thought of it which is nice
+		- Yes, it is lactation dependent
+			- When you remove pups from the mother on day 1 after birth the protection is not established
+		- Not yet clear what that signal is
+	- Eosinophils typically respond to parasites, and I guess the fetus is a type of parasite
+	- Lungs have more neutrophils
