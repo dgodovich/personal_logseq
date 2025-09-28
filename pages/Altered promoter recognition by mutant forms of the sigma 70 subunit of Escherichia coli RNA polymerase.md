@@ -30,10 +30,30 @@ links:: [Local library](zotero://select/library/items/9G95AD5Q), [Web library](h
 - \sigma70 doesn't bind DNA
 	- Maybe it can recognize the conserved sequences and the distance between them as a stabilizing factor?
 	- Sit on top of DNA and not bind with any strength until it has that -10 and -35 site?
-- Introduction
+- ((68d9bf98-2599-4042-a312-89733e99a8e0))
 	- Several steps in RNA synthesis
 		- binding of RNA polymerase to promoter DNA to form a closed complex
 		- at least two isomerizations of the protein-DNA complex to form an open complex
 			- DNA at transcription start site is melted
 		- Formation of initial RNA bonds
-		-
+		- clearance of the promoter + elongation of RNA
+			- get going on transcribing
+	- There's 5 subunits in bacterial RNA pol
+		- \alpha_2, \beta, \beta', \sigma
+			- \sigma is required for specific site recognition
+	- There's two conserved hexamers for \sigma70
+		- -10 hexamer TATAAT
+		- -35 hexamer TTGACA
+		- separated by 17 +- 1 bp
+	- \sigma32 does heat shock expression and has a different set of promoter sequences
+		- a bit longer
+	- They use mutations in rpoD (gene coding for \sigma70) that alter selectivity of transcription initiation
+		- Increased expression from weak promoters
+		- don't need CAP-cAMP for ara, mal, or lac operons
+	- Propose that there's a C terminus region that recognizes -35 and a central core that recognizes -10
+- ((68d9bf8c-beea-4dfc-a58a-e514e1b2cbe8))
+	- heat inducible \lambda (cI857)
+	- mutant with severe down mutation in the lac promoter
+	- strain that's immune to \lambda? \lambda imm 21
+	- t
+-
