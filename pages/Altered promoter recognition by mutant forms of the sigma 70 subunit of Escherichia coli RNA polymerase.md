@@ -23,4 +23,17 @@ links:: [Local library](zotero://select/library/items/9G95AD5Q), [Web library](h
 	- [PDF](zotero://select/library/items/QT4PZVA5) {{zotero-imported-file QT4PZVA5, "Siegele et al. - 1989 - Altered promoter recognition by mutant forms of the sigma 70 subunit of Escherichia coli RNA polymer.pdf"}}
 - Sigma factors are small subunits of RNA polymerase that preferentially bind to certain promoter sequences, increasing the transcription of those genes
 	- from sam
--
+- \sigma subunit of RNA pol is what confers specificity to promoter regions
+	- \sigma70 is the main one that's most commonly used
+	- Bacteria can turn on other \sigma factors in response to stresses to change gene expression
+- They use transcriptional fusions to mutant and wild type promoters with mutants of RNA pol \sigma70 to see what the mutations are doing
+- \sigma70 doesn't bind DNA
+	- Maybe it can recognize the conserved sequences and the distance between them as a stabilizing factor?
+	- Sit on top of DNA and not bind with any strength until it has that -10 and -35 site?
+- Introduction
+	- Several steps in RNA synthesis
+		- binding of RNA polymerase to promoter DNA to form a closed complex
+		- at least two isomerizations of the protein-DNA complex to form an open complex
+			- DNA at transcription start site is melted
+		- Formation of initial RNA bonds
+		-
