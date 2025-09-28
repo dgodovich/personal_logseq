@@ -1,0 +1,2 @@
+file:: [Siegele et al. - 1989 - Altered promoter recognition by mutant forms of the sigma 70 subunit of Escherichia coli RNA polymer.pdf](file://C:/Users/David/Zotero/storage/QT4PZVA5/Siegele et al. - 1989 - Altered promoter recognition by mutant forms of the sigma 70 subunit of Escherichia coli RNA polymer.pdf)
+file-path:: file://C:/Users/David/Zotero/storage/QT4PZVA5/Siegele et al. - 1989 - Altered promoter recognition by mutant forms of the sigma 70 subunit of Escherichia coli RNA polymer.pdf
