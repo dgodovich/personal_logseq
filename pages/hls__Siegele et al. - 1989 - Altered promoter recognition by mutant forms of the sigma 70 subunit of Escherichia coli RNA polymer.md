@@ -29,3 +29,10 @@ file-path:: file://C:/Users/David/Zotero/storage/QT4PZVA5/Siegele et al. - 1989 
   id:: 68d9bf98-2599-4042-a312-89733e99a8e0
   hl-type:: area
   hl-stamp:: 1759100823627
+- [:span]
+  ls-type:: annotation
+  hl-page:: 3
+  hl-color:: red
+  id:: 68d9c126-e5e8-41da-87a9-04ceb62fd563
+  hl-type:: area
+  hl-stamp:: 1759101221804

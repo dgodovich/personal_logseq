@@ -55,5 +55,19 @@ links:: [Local library](zotero://select/library/items/9G95AD5Q), [Web library](h
 	- heat inducible \lambda (cI857)
 	- mutant with severe down mutation in the lac promoter
 	- strain that's immune to \lambda? \lambda imm 21
-	- t
+	- Table 1 describes a whole bunch of genotypes that I will maybe reference
+	- Construction of strains containing the lac promoter fusions
+		- Transfer of mutations in lac promoter from one strain to another by recombination
+			- I think they use a generalized transducing phage for this? P1?
+				- seems like it's lambda doing all the transducing
+		- Select for transductants / recombinants by plating on CAG679 which is \Delta\lac
+			- so successful ones would be blue
+		- They check that the strains have the same mutations by sequencing
+		- They describe how they make each of the strains that carry both promoter mutation in lac and the rpoD mutation
+			- it's the phage derivative being used to transduce into the bacteria that has the rpoD mutation
+			- look for lysogens
+		- for some they do a co-transduction with a Tn10 that's linked to rpoD
+			- these ones are detected by mal+ phenotype
+			- or some of them are mal-, but either way you have an indicator agar for that
+		-
 -
