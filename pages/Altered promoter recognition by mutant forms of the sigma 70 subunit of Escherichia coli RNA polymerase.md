@@ -69,5 +69,19 @@ links:: [Local library](zotero://select/library/items/9G95AD5Q), [Web library](h
 		- for some they do a co-transduction with a Tn10 that's linked to rpoD
 			- these ones are detected by mal+ phenotype
 			- or some of them are mal-, but either way you have an indicator agar for that
-		-
--
+		- they have two alleles that are lethal so these need to be packaged with an rpoD+
+			- they go on phasmids (phagemids) to get lysogenized into the genome
+	- Construction of strains containing ant promoter fusions
+		- phage P22 Kan vectors
+			- CAT (antibiotic resistance) goes under the control of the P22 ant promoter
+		- get these by conjugation with salmonella strains with the mutations in the ant promoter
+		- use Tn10 to get it into the genome
+		- selected with kanamycin and tetracycline
+		- same thing with the non-viable mutations, phagemid lysogens
+	- Enzyme assays
+		- assay \beta-galactosidase production under the mutant lac promoter
+		- some details about how they grow the cultures to get the bacteria to be in the right growth stage
+			- I don't think this really matters
+		- ant promoter activity was measured by assaying chloramphenicol transacetylase activity
+- ((68d9c413-13c7-445f-aac4-fc050f009aaa))
+	-
