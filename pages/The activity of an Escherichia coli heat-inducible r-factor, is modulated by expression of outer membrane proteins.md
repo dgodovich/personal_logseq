@@ -30,9 +30,28 @@ links:: [Local library](zotero://select/library/items/XUBHGRZF), [Web library](h
 			- transposon mutagenesis with mini-Mu in strain that has galK driven by rpoHP3
 			- decreased \sigma\E would be white on MacConkey agar
 				- should also be temperature sensitive since they have less degP
-			- this avenue only found 1 locus
+			- this avenue only found 1 locus (dse)
 				- 76 minutes
 	- Make gene fusions with the rpoHP3 promoter
 		- this is the one targeted by \sigma\E
-	-
--
+	- Figure 1 is mapping of the mutants
+	- Table 1 is also mapping but with some additional annotations
+		- ((68d9ed3c-36e3-431d-8ccb-511e0b2554fa))
+		- number of isolates is how many times that one came up in the plasmid library
+			- so ise18 is a big hit, and has an outer membrane protein
+		- Many of them have OMP genes
+		- dse has envZ
+- ((68d9ecfa-db6b-4bd9-88ae-fa08ecb8c866)) E\sigma\e
+	- Extension of the multicopy experiment
+		- what if you just overexpress it
+	- The specifically introduced plasmids containing OMP genes (OmpF,C,T,X)
+		- these are porins, protease
+		- i.e. varied proteins
+	- and it works
+	- they check by looking at \beta\gal activity because of the gene fusion
+	- and by looking at degP mRNA levels with an RT-PCR I guess
+	- and check that there is protein expression with a western in figure 3
+- ((68d9ee86-70f6-449a-aa6b-90cb7c826a9a))
+	- the dse locus was identified 16 times in the loss of function screen
+	- ompR is a transcriptional activator of OmpC and OmpF (porins)
+		-
