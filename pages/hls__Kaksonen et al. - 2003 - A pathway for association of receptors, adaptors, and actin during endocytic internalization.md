@@ -1,0 +1,2 @@
+file:: [Kaksonen et al. - 2003 - A pathway for association of receptors, adaptors, and actin during endocytic internalization.pdf](file://C:/Users/David/Zotero/storage/CYRYNKG3/Kaksonen et al. - 2003 - A pathway for association of receptors, adaptors, and actin during endocytic internalization.pdf)
+file-path:: file://C:/Users/David/Zotero/storage/CYRYNKG3/Kaksonen et al. - 2003 - A pathway for association of receptors, adaptors, and actin during endocytic internalization.pdf

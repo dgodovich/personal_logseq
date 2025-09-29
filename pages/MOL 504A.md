@@ -1,6 +1,10 @@
 - ![MOL504_Fall2025_SP.pdf](../assets/MOL504_Fall2025_SP_1756824447343_0.pdf)
 - [[504 Minigrant]]
--
+- [[Sep 30th, 2025]] Intracellular Trafficking
+	- Reading
+		- [[A pathway for association of receptors, adaptors, and actin during endocytic internalization]]
+		- [[Targeting and plasticity of mitochondrial proteins revealed by proximity-specific ribosome profiling]]
+	-
 - [[Sep 25th, 2025]] Protein Localization Maintenance
   collapsed:: true
 	- Reading
