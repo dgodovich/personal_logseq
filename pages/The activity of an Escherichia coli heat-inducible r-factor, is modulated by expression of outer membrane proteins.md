@@ -130,4 +130,11 @@ links:: [Local library](zotero://select/library/items/XUBHGRZF), [Web library](h
 	- Be prepared to describe the two approaches used by the authors to probe \sigma\E function. Do you think these approaches would have worked for RpoS or \sigma32?
 		- approach 1 was overexpression of a plasmid library by attaching genes to the rpoHP3 promoter with chloramphenicol resistance as a selection
 			- if you can grow at higher levels, you have more activity of that promoter
+			- most of the regions were isolated only 1 time
+				- there might be more genes that they just didn't test
 		- approach 2 was loss-of-function in positive regulators
+			- gal selection
+		- I'm not sure why it wouldn't work for \sigma32?
+			- could it be that because that promoter is activated really only at high temps it would be harder to get mutants?
+		- RpoS which is the stationary phase promoter might be harder because there's probably a ton of things that make it come out of or stay in stationary phase
+			- Too many things to test and you get a muddy signal

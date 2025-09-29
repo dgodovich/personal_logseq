@@ -257,3 +257,8 @@ file-path:: file://C:/Users/David/Zotero/storage/PBC4ZJ5B/Mecsas and Rouviere - 
   hl-page:: 10
   hl-color:: red
   id:: 68d9f764-9ce9-4c20-9ef4-becffdc621eb
+- Because most of the D N A regions were isolated only once, more genes m a y exist that increase Ecrr activity w h e n cloned on a multicopy plasmid
+  ls-type:: annotation
+  hl-page:: 2
+  hl-color:: yellow
+  id:: 68d9f86f-42a1-4d33-81d1-6a67d9ee54a1
