@@ -70,3 +70,80 @@ file-path:: file://C:/Users/David/Zotero/storage/PBC4ZJ5B/Mecsas and Rouviere - 
   hl-page:: 3
   hl-color:: red
   id:: 68d9eefa-b489-452e-97e5-2e613fe91fcd
+- est this, multicopy plasmids encoding OM porins OmpF or OmpC, the OM protease OmpT, or OmpX were introduced into cells containing ~h[rpoHP3--lacZ]. Ov
+  ls-type:: annotation
+  hl-page:: 3
+  hl-color:: red
+  id:: 68d9ef02-c30b-48ac-81b9-3e573e4be49a
+- used an increase in Eo~ activity at both rpoHP3 and the degP promot
+  ls-type:: annotation
+  hl-page:: 3
+  hl-color:: green
+  id:: 68d9ef07-864a-4779-a4c9-8656c6a8a51c
+- gure 3 shows that these multicopy plasmids caused the expected increase of these protein
+  ls-type:: annotation
+  hl-page:: 3
+  hl-color:: yellow
+  id:: 68d9ef0f-9ba1-4bf3-aa6c-cb0dd3a94279
+- his suggests that overexpression of a variety of OMPs induces ErrE activ
+  ls-type:: annotation
+  hl-page:: 3
+  hl-color:: green
+  id:: 68d9ef19-bea7-45d2-aa4f-1fce176a7777
+- ne transposon with flanking sequences was clone
+  ls-type:: annotation
+  hl-page:: 3
+  hl-color:: red
+  id:: 68d9ef20-a69b-4245-b97d-33a0186e1233
+- Eo~ activity could be responding to the decreased amount of OMPs present in the str
+  ls-type:: annotation
+  hl-page:: 3
+  hl-color:: yellow
+  id:: 68d9ef32-579b-4257-83e3-5d8df91a6cad
+- ore activity could depend on a pathway that is dependent on OmpR transcriptional activi
+  ls-type:: annotation
+  hl-page:: 3
+  hl-color:: yellow
+  id:: 68d9ef37-6395-4a21-adac-dde5bc44a384
+- hown in Figure 4, EcrE activity is induced by overproduction of OmpX in a aompR background
+  ls-type:: annotation
+  hl-page:: 4
+  hl-color:: green
+  id:: 68d9ef9c-5466-4e69-9713-52a236d5b169
+- [:span]
+  ls-type:: annotation
+  hl-page:: 4
+  hl-color:: purple
+  id:: 68d9efd3-0d19-43dc-9074-59bfacfe9c9f
+  hl-type:: area
+  hl-stamp:: 1759113170073
+- Cellular localization of signal-inducing Eo~ activity by overexpression of OMPs
+  ls-type:: annotation
+  hl-page:: 4
+  hl-color:: purple
+  id:: 68d9efdf-cbd9-432a-bf92-9ce89686ed35
+- Lpp is the major OM lipoprotein in E. co
+  ls-type:: annotation
+  hl-page:: 4
+  hl-color:: red
+  id:: 68d9f027-c965-4a3c-aa06-e1ceec4b4ba9
+- r ~ activity was decreased in an lpp5508 backgrou
+  ls-type:: annotation
+  hl-page:: 4
+  hl-color:: green
+  id:: 68d9f02c-07f8-4f5d-bd1a-cc6d1f2f41fc
+- First, the location of the bulk of the overproduced OmpX was determined by ffactionation of the cell into cytoplasmic, inner membrane, periplasm, and OM component
+  ls-type:: annotation
+  hl-page:: 4
+  hl-color:: red
+  id:: 68d9f088-9f83-4f43-aa2d-3b39a34ed152
+- verproduction of OMPs could titrate components of the inner membrane secretion apparatus, thereby generating a signal to increase E~ E activit
+  ls-type:: annotation
+  hl-page:: 4
+  hl-color:: yellow
+  id:: 68d9f148-8355-4d8c-bf88-d5c1e26a3ec9
+- OMP precursors in the cytoplasm does not induce Eg E activi
+  ls-type:: annotation
+  hl-page:: 4
+  hl-color:: green
+  id:: 68d9f154-d9e1-4d90-8af4-8dba65950ccf

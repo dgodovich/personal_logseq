@@ -54,4 +54,22 @@ links:: [Local library](zotero://select/library/items/XUBHGRZF), [Web library](h
 - ((68d9ee86-70f6-449a-aa6b-90cb7c826a9a))
 	- the dse locus was identified 16 times in the loss of function screen
 	- ompR is a transcriptional activator of OmpC and OmpF (porins)
+		- not yet clear if this is deactivating \sigma\E because
+			- there's fewer OMPs generally
+			- or OmpR activity itself is the issue
+		- address this question by deleting ompR and overexpressing a different OMP
+			- if it responds to OMPs, high activity
+				- It's this one
+			- if to OmpR activity, low \sigma\E activity
+		- ((68d9efd3-0d19-43dc-9074-59bfacfe9c9f))
+			- nice figure
+	- they also check this with a different background that has lower OMP
+- ((68d9efdf-cbd9-432a-bf92-9ce89686ed35))
+	- Fractionate cell into cytoplasmic, inner membrane, periplasm, outer membrane
+		- this is in the overexpressing OmpX
+		- this shows that it's in the outer membrane, but not conclusively that that's what \sigma\E is responding to
+	- Test if cells that accumulate OMP precursors in the cytoplasm have high \sigma\E activity
+		- delete secB (I guess this does some transport?)
+			- yes, in the tommentary figure it's a chaperone protein to get them out into the periplasm
+			- this lowers \sigma\E activity
 		-
