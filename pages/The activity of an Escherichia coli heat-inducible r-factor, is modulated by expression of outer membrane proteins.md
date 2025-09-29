@@ -2,7 +2,7 @@ title:: The activity of an Escherichia coli heat-inducible r-factor, is modulate
 item-type:: [[journalArticle]]
 original-title:: "The activity of an Escherichia coli heat-inducible r-factor, is modulated by expression of outer membrane proteins"
 language:: en
-authors:: [[Joan Mecsas]], [[Pierre E Rouviere]]
+authors:: [[Joan Mecsas]], [[Pierre E Rouviere]], [[C. A. Gross]] 
 library-catalog:: Zotero
 links:: [Local library](zotero://select/library/items/XUBHGRZF), [Web library](https://www.zotero.org/users/6106196/items/XUBHGRZF)
 
@@ -85,6 +85,8 @@ links:: [Local library](zotero://select/library/items/XUBHGRZF), [Web library](h
 		- fig 7 C
 	- Is it misfolded proteins?
 		- dsbA gene facilitates disulfide bond formation
+			- cytoplasm is a reducing environment, so there's few to no disulfide bonds
+			- disulfide bonds form very slowly, so you need an enzyme to catalyze
 		- folding chaperone
 		- deletion of this protein induced \sigma\E activity
 		- fig 7 D
