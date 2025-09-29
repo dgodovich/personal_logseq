@@ -116,12 +116,23 @@ links:: [Local library](zotero://select/library/items/9G95AD5Q), [Web library](h
 		- funny that they have no statistics on anything
 		- There's some small changes but nothing really measurable
 		- so basically they're doing structural queries
-			- R
+			- R596 isn't very important for binding
 	- Mutations with moderate to large effects on recognition, broad positions
 		- SF389, AV415, DN570, YC571, EK575, GS577
-		-
-	- Mutations that suggest contacts with specific positions in the promoter
-		- RC584, RH584, TI440
-			- these ones I see
-			- TI is -12 specifically
-			- 584s are at the -32
+		- 389, 570, 571, and 575 have relatively big effects and increase activity
+		- 415 and 577 are weaker
+- Mutations that suggest contacts with specific positions in the promoter
+	- RC584, RH584, TI440
+		- these ones I see
+		- TI is -12 specifically
+		- 584s are at the -32
+	- R584C lowers expression by a lot for everything except one location (-32)
+		- It's much better at recognizing T or G here than the native C
+		- not dependent on cAMP
+		- on the ant promoter it's at location -31
+			- this shows it's not lac specific
+		- It's also something about this location, because R584H has the same phenotype (but weaker)
+		- This could be a pretty strong mutant because they mention that it gets a lot of suppressors
+			- so the signal could be weaker because of that
+		- may actually change the consensus sequence
+			- hard to tell because this is a lethal mutant
