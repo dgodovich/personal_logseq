@@ -102,10 +102,16 @@ links:: [Local library](zotero://select/library/items/9G95AD5Q), [Web library](h
 	- All are ratios of mutant to wt (\beta\gal in rpoD- / \beta\gal in rpoD+)
 	- ![image.png](../assets/image_1759106691938_0.png){:height 490, :width 741}
 		- lac w/o cAMP
-		-
 	- ![image.png](../assets/image_1759106735549_0.png)
 		- lac w/ cAMP
 	- ![image.png](../assets/image_1759106753549_0.png)
 		- ant
-	-
+	- Mutations with little or no effect on promoter recognition
+		- AV438, RC596, RH596, RS596
+			- RH596 tom specifically calls out
+	- Mutations with moderate to large effects on recognition, broad positions
+		- SF389, AV415, DN570, YC571, EK575, GS577
+	- Mutations that suggest contacts with specific positions in the promoter
+		- RC584, RH584, TI440
+	- I kind of understand how they get this but some of it is a little lost to me
 -
