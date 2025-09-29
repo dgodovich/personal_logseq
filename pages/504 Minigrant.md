@@ -1,7 +1,9 @@
 - I'm thinking it basically has to be on / related to my rotation project
 - Downstream of optoEGFR there's PI3K mediated signaling that does migration
 	- Do we know what the actual mechanism of this is?
--
+- We spent so much time in the course talking about actin polymerization and whatnot for migration
+	- Maybe I go towards that as the tailoring for 504?
+	- How does the cell integrate a travelling optogenetic signal and decide which way to go?
 -
 - ![Example of minigrant.pdf](../assets/Example_of_minigrant_1758826448226_0.pdf)
 -
