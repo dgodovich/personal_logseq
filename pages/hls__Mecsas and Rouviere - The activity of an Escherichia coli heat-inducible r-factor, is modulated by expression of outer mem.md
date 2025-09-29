@@ -192,3 +192,38 @@ file-path:: file://C:/Users/David/Zotero/storage/PBC4ZJ5B/Mecsas and Rouviere - 
   hl-page:: 6
   hl-color:: green
   id:: 68d9f314-0537-40f6-a40a-474e53c40848
+- Figure 8
+  ls-type:: annotation
+  hl-page:: 6
+  hl-color:: purple
+  id:: 68d9f3ed-8337-41fc-b8b7-a5241d7207fb
+- Figure 9
+  ls-type:: annotation
+  hl-page:: 7
+  hl-color:: purple
+  id:: 68d9f3f5-24f3-4787-a5ab-97b82184a18b
+- D i s c u s s i o n
+  ls-type:: annotation
+  hl-page:: 6
+  hl-color:: purple
+  id:: 68d9f400-ed5c-4d9b-8b44-da22e018762a
+- Where in the cell do overproducing OMPs generate a signal?
+  ls-type:: annotation
+  hl-page:: 7
+  hl-color:: purple
+  id:: 68d9f48e-ad6f-4c80-8d61-8cf8f0adfa2b
+- e extracellular location of the signal necessitates that a signaltransduction pathway exists to propagate the signal back through the inner membrane to influence the activity of Eo~ in the cytoplas
+  ls-type:: annotation
+  hl-page:: 7
+  hl-color:: blue
+  id:: 68d9f4e9-8696-4e96-b2e0-ef5f7d6b218f
+- nditions that increase the amounts of unfolded, partially folded, or misfolded proteins in the cytoplasm induce Ega2 but not Eg
+  ls-type:: annotation
+  hl-page:: 8
+  hl-color:: yellow
+  id:: 68d9f5ab-c982-413b-b1a7-0b75d1707823
+- onversely, conditions that increase OMPs m compartments outside the cytoplasm induce Eo~ but not Eg
+  ls-type:: annotation
+  hl-page:: 8
+  hl-color:: yellow
+  id:: 68d9f5b3-d795-4651-9d22-c0dc50f804d5

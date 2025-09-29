@@ -100,4 +100,25 @@ links:: [Local library](zotero://select/library/items/XUBHGRZF), [Web library](h
 		- expected that it might because there would be an enrichment of degradation targets
 	- overexpression doesn't change anything
 		- it could have decreased because it removes misfolded protein
+	- ((68d9f3ed-8337-41fc-b8b7-a5241d7207fb))
+- Things that induce \sigma\E do not induced \sigma32
+	- not the other way around
+		- high temp induces both
+		- but that's probably a side effect of something else then?
+	- ((68d9f3f5-24f3-4787-a5ab-97b82184a18b))
+- ((68d9f400-ed5c-4d9b-8b44-da22e018762a))
+	- Go over the pros and cons of their selection methods and why they did both
+	- And a summary of what changes \sigma\E levels
+	- ((68d9f48e-ad6f-4c80-8d61-8cf8f0adfa2b))
+		- results suggest that it's in the later steps, membrane association
+		- Extracellular location means that there must be some signal transduction pathway
+	- What is the signal?
+		- total amount of OMPs
+			- could be composition of the OM, or flow rate towards the OM
+		- Seems more likely to be flow rate, or something to do with proper folding
+		- probably not the first one since things that changed OM in the same way had opposite effects on \sigma\E expression
+	- Why is it induced by heat in the same way as \sigma32?
+		- 32 is induced by conditions that increase misfolded proteins in the cytoplasm
+		- E is induced by increase OMPs in compartments outside the cytoplasm
+		- rpoH is regulated by E
 -
