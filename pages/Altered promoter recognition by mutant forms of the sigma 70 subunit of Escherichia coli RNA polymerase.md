@@ -150,5 +150,27 @@ links:: [Local library](zotero://select/library/items/9G95AD5Q), [Web library](h
 		- these are the regions that interact with the -10 and -35 hexamers
 - Proposed contacts
 	- -35
-		- Arg584 is likely at the N terminus of the HTH
--
+		- Arg584 is likely at the N terminus of the HTH motif
+			- these are the -32 position mutations
+		- Companion paper shows that Arg588 interacts with a different base in the -35 hexamer
+		- different \sigma factors can vary this region to get slightly different binding profiles
+	- -10
+		- TI440 isn't in any known DNA binding motif (at the time)
+		- speculation that this is important for locating the TSS
+			- based on crosslinking experiments
+		- could be a binding to RNA pol core
+		- bind to single stranded DNA as it's melted?
+- Tom questions about this paper
+	- purified \sigma70, the "housekeeping" \sigma factor in *E. coli*, does not bind DNA. Does this surprise you? Can you think of a reasonable explanation for this fact? How does \sigma70 recognize promoters?
+		- It is a bit surprising
+		- My intuition is that \sigma70 can have a very weak binding to DNA, and maybe it's more like a conformational change that being near DNA exerts on it as a subunit of RNA pol
+			- as in, \sigma70 is attached strongly to the RNA pol complex and being in the correct region of DNA (promoter) makes it pull on the complex in such a way that it starts transcription
+		- Also it could be measuring the distance between the promot
+	- Where did all the promoter and rpoD mutations come from? What criteria do they use to establish selectivity?
+		-
+	- Could you identify the interesting mutations from the raw data in Table 3, 4, and 5, or did you need the author's help?
+		- to some extent I could find them myself, especially the single base ones
+		- The mild effect ones are tough to identify
+	- The authors divide the *rpoD* mutations into three classes. Think carefully about the explanations provided for these diverse effects on the various mutant promoters. Do you agree? Can you think of alternative explanations? Pay particular attention to R596H. You will see that mutation again.
+	- In the Discussion, Siegele et al. note the conserved regions in \sigma factors shown below. What do you think is the function of the inhibitory domain? Do the results presented establish an orientation of \sigma on DNA? In figure 4, note that \sigma binds the template strand and the concensus sequence is on the other strand and should be read right to left.
+	-
