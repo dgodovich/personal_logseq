@@ -106,12 +106,22 @@ links:: [Local library](zotero://select/library/items/9G95AD5Q), [Web library](h
 		- lac w/ cAMP
 	- ![image.png](../assets/image_1759106753549_0.png)
 		- ant
+	- I kind of understand how they get this but some of it is a little lost to me
+- Descriptions of the mutants
 	- Mutations with little or no effect on promoter recognition
 		- AV438, RC596, RH596, RS596
 			- RH596 tom specifically calls out
+		- The mutants are notated as amino acid substitutions
+			- holy shit that makes such a big difference
+		- funny that they have no statistics on anything
+		- There's some small changes but nothing really measurable
+		- so basically they're doing structural queries
+			- R
 	- Mutations with moderate to large effects on recognition, broad positions
 		- SF389, AV415, DN570, YC571, EK575, GS577
+		-
 	- Mutations that suggest contacts with specific positions in the promoter
 		- RC584, RH584, TI440
-	- I kind of understand how they get this but some of it is a little lost to me
--
+			- these ones I see
+			- TI is -12 specifically
+			- 584s are at the -32
