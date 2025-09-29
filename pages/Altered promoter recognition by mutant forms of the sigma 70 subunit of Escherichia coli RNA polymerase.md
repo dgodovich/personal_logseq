@@ -88,5 +88,21 @@ links:: [Local library](zotero://select/library/items/9G95AD5Q), [Web library](h
 		- This seems like the key part of their thinking
 		- Question is if rpoD interacts with specific bases in the promoter region
 		- If it does, then mutant rpoD should interact differently with mutant promoter
+	- they use single base pair mutations in the lac and ant promoters
+		- these are carried on \lambda\imm21plac5
+			- measure by Xgal assay
+		- or P22 for ant promoter
+			- measure by chloramphenicol activity assay
+	- Table 2 lists the rpoD mutants and their selection procedure
+	- lac promoter mutations are tested both in presence and absence of cAMP
+		- CAP-cAMP is a transcriptional activator
+			- so test if that's what's causing the difference
+- Tables
+	- ![image.png](../assets/image_1759106691938_0.png){:height 480, :width 729}
+		- lac w/o cAMP
+	- ![image.png](../assets/image_1759106735549_0.png)
+		- lac w/ cAMP
+	- ![image.png](../assets/image_1759106753549_0.png)
+		- ant
 	-
 -
