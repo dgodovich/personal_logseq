@@ -1,3 +1,5 @@
+- [[Sep 29th, 2025]]
+	- solicitation for this year just came out and it's limited to first years sooo I gotta apply now or don't
 - I gotta start thinking / working on this if I hope to submit in time
 - Due in october
 	- October 16, 2024
