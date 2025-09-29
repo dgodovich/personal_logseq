@@ -64,3 +64,24 @@ file-path:: file://C:/Users/David/Zotero/storage/QT4PZVA5/Siegele et al. - 1989 
   id:: 68d9e0c2-66d2-4815-84ca-7a2dd781213a
   hl-type:: area
   hl-stamp:: 1759109314084
+- [:span]
+  ls-type:: annotation
+  hl-page:: 5
+  hl-color:: green
+  id:: 68d9e0fc-204c-4521-b11f-f5f4d65e882e
+  hl-type:: area
+  hl-stamp:: 1759109377954
+- [:span]
+  ls-type:: annotation
+  hl-page:: 9
+  hl-color:: purple
+  id:: 68d9e1a5-d802-4026-8ded-f3894e835c60
+  hl-type:: area
+  hl-stamp:: 1759109540178
+- [:span]
+  ls-type:: annotation
+  hl-page:: 9
+  hl-color:: blue
+  id:: 68d9e28b-a317-4339-bb20-066bef7a4a88
+  hl-type:: area
+  hl-stamp:: 1759109771028

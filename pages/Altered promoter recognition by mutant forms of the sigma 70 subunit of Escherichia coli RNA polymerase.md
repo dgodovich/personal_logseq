@@ -136,3 +136,19 @@ links:: [Local library](zotero://select/library/items/9G95AD5Q), [Web library](h
 			- so the signal could be weaker because of that
 		- may actually change the consensus sequence
 			- hard to tell because this is a lethal mutant
+			- about 20% of the \sigma70 in the cell is wt in order for it to not die
+	- TI440 mutation
+		- this seems to alter discrimination between consensus and non consensus at the first position of -10 hexamer (-12 position on both lac and ant promoter)
+		- T->C change at -12 makes this mutant a lot better
+	- Figures 2 and 3 are not super helpful but it's a more in depth look at the base specificity of these mutants
+- ((68d9e1a5-d802-4026-8ded-f3894e835c60))
+	- The rpoD mutants that have non specific effects probably change protein-protein interactions  or maybe sequence independent interactions with DNA
+	- 596 is involved with the activator araC
+		- there's a big change in the activity of that operon with this mutant, but that doesn't generalize to any other system, or uninduced ara
+		- potentially an exposed site on the enzyme that can contact an activator
+	- Conserved regions of \sigma factors have helix turn helix DNA binding motifs
+		- these are the regions that interact with the -10 and -35 hexamers
+- Proposed contacts
+	- -35
+		- Arg584 is likely at the N terminus of the HTH
+-
