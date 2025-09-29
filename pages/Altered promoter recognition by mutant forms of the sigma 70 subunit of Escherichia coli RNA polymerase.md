@@ -84,4 +84,9 @@ links:: [Local library](zotero://select/library/items/9G95AD5Q), [Web library](h
 			- I don't think this really matters
 		- ant promoter activity was measured by assaying chloramphenicol transacetylase activity
 - ((68d9c413-13c7-445f-aac4-fc050f009aaa))
+	- ((68d9d4d6-3f07-478f-973e-2a5e264286b0))
+		- This seems like the key part of their thinking
+		- Question is if rpoD interacts with specific bases in the promoter region
+		- If it does, then mutant rpoD should interact differently with mutant promoter
 	-
+-
