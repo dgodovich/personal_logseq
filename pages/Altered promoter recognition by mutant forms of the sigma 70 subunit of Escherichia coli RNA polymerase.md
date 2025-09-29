@@ -98,8 +98,11 @@ links:: [Local library](zotero://select/library/items/9G95AD5Q), [Web library](h
 		- CAP-cAMP is a transcriptional activator
 			- so test if that's what's causing the difference
 - Tables
-	- ![image.png](../assets/image_1759106691938_0.png){:height 480, :width 729}
+	- for all tables the a b c d footnotes are std error groupings, can ignore
+	- All are ratios of mutant to wt (\beta\gal in rpoD- / \beta\gal in rpoD+)
+	- ![image.png](../assets/image_1759106691938_0.png){:height 490, :width 741}
 		- lac w/o cAMP
+		-
 	- ![image.png](../assets/image_1759106735549_0.png)
 		- lac w/ cAMP
 	- ![image.png](../assets/image_1759106753549_0.png)
