@@ -120,5 +120,14 @@ links:: [Local library](zotero://select/library/items/XUBHGRZF), [Web library](h
 	- Why is it induced by heat in the same way as \sigma32?
 		- 32 is induced by conditions that increase misfolded proteins in the cytoplasm
 		- E is induced by increase OMPs in compartments outside the cytoplasm
-		- rpoH is regulated by E
--
+		- rpoH is regulated by E, it's not most of the transcription
+			- and E is post translationally modified, so maybe that also changes things
+		- could be doing the same thing for different compartments
+		- heat destabilizes both, so it looks like they're the same
+- ((68d9f690-754e-434d-b5f5-2d683a36c05c))
+	- skimming
+- Tom questions
+	- Be prepared to describe the two approaches used by the authors to probe \sigma\E function. Do you think these approaches would have worked for RpoS or \sigma32?
+		- approach 1 was overexpression of a plasmid library by attaching genes to the rpoHP3 promoter with chloramphenicol resistance as a selection
+			- if you can grow at higher levels, you have more activity of that promoter
+		- approach 2 was loss-of-function in positive regulators

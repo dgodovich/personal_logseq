@@ -227,3 +227,33 @@ file-path:: file://C:/Users/David/Zotero/storage/PBC4ZJ5B/Mecsas and Rouviere - 
   hl-page:: 8
   hl-color:: yellow
   id:: 68d9f5b3-d795-4651-9d22-c0dc50f804d5
+- may be involved in protein processing--the Ega2 regulon in the cytoplasm and the Eg ~ regulon in the extracytoplasmic compartmen
+  ls-type:: annotation
+  hl-page:: 8
+  hl-color:: blue
+  id:: 68d9f63c-9c96-4884-8596-08f4f513fc46
+- Materials and methods
+  ls-type:: annotation
+  hl-page:: 8
+  hl-color:: red
+  id:: 68d9f690-754e-434d-b5f5-2d683a36c05c
+- secB::kan allele
+  ls-type:: annotation
+  hl-page:: 9
+  hl-color:: red
+  id:: 68d9f69c-73af-484e-b35e-3c1de7ec4c6b
+- rotein composition of the inner membrane and OM was analyzed using their differential solubility in sarcos
+  ls-type:: annotation
+  hl-page:: 10
+  hl-color:: red
+  id:: 68d9f741-78e0-4381-9dc4-baf145c1e6c4
+- he inner membrane and OM were resolved by solubilizing specifically the inner membrane with100 wl of 0.5% sarcosyl in 20 mM NaPO4 for 30 min at room temperatu
+  ls-type:: annotation
+  hl-page:: 10
+  hl-color:: red
+  id:: 68d9f75c-e637-405b-8a86-77cbef8a1fbb
+- hen periplasm and cytoplasm were separated, the cell wall was digested in 20% sucrose to prevent lysis of the spheroplast
+  ls-type:: annotation
+  hl-page:: 10
+  hl-color:: red
+  id:: 68d9f764-9ce9-4c20-9ef4-becffdc621eb
