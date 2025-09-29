@@ -31,6 +31,7 @@ links:: [Local library](zotero://select/library/items/9G95AD5Q), [Web library](h
 	- Maybe it can recognize the conserved sequences and the distance between them as a stabilizing factor?
 	- Sit on top of DNA and not bind with any strength until it has that -10 and -35 site?
 - ((68d9bf98-2599-4042-a312-89733e99a8e0))
+  collapsed:: true
 	- Several steps in RNA synthesis
 		- binding of RNA polymerase to promoter DNA to form a closed complex
 		- at least two isomerizations of the protein-DNA complex to form an open complex
@@ -52,6 +53,7 @@ links:: [Local library](zotero://select/library/items/9G95AD5Q), [Web library](h
 		- don't need CAP-cAMP for ara, mal, or lac operons
 	- Propose that there's a C terminus region that recognizes -35 and a central core that recognizes -10
 - ((68d9bf8c-beea-4dfc-a58a-e514e1b2cbe8))
+  collapsed:: true
 	- heat inducible \lambda (cI857)
 	- mutant with severe down mutation in the lac promoter
 	- strain that's immune to \lambda? \lambda imm 21
@@ -84,6 +86,7 @@ links:: [Local library](zotero://select/library/items/9G95AD5Q), [Web library](h
 			- I don't think this really matters
 		- ant promoter activity was measured by assaying chloramphenicol transacetylase activity
 - ((68d9c413-13c7-445f-aac4-fc050f009aaa))
+  collapsed:: true
 	- ((68d9d4d6-3f07-478f-973e-2a5e264286b0))
 		- This seems like the key part of their thinking
 		- Question is if rpoD interacts with specific bases in the promoter region
@@ -175,5 +178,5 @@ links:: [Local library](zotero://select/library/items/9G95AD5Q), [Web library](h
 		- to some extent I could find them myself, especially the single base ones
 		- The mild effect ones are tough to identify
 	- The authors divide the *rpoD* mutations into three classes. Think carefully about the explanations provided for these diverse effects on the various mutant promoters. Do you agree? Can you think of alternative explanations? Pay particular attention to R596H. You will see that mutation again.
-	- In the Discussion, Siegele et al. note the conserved regions in \sigma factors shown below. What do you think is the function of the inhibitory domain? Do the results presented establish an orientation of \sigma on DNA? In figure 4, note that \sigma binds the template strand and the concensus sequence is on the other strand and should be read right to left.
+	- In the Discussion, Siegele et al. note the conserved regions in \sigma factors shown below. What do you think is the function of the inhibitory domain?
 	-
