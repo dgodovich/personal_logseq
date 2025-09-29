@@ -165,9 +165,12 @@ links:: [Local library](zotero://select/library/items/9G95AD5Q), [Web library](h
 		- It is a bit surprising
 		- My intuition is that \sigma70 can have a very weak binding to DNA, and maybe it's more like a conformational change that being near DNA exerts on it as a subunit of RNA pol
 			- as in, \sigma70 is attached strongly to the RNA pol complex and being in the correct region of DNA (promoter) makes it pull on the complex in such a way that it starts transcription
-		- Also it could be measuring the distance between the promot
+		- Also it could be measuring the distance between the hexamers? not sure how this would work
 	- Where did all the promoter and rpoD mutations come from? What criteria do they use to establish selectivity?
-		-
+		- rpoD mutations are found by looking for slightly increased expression of weak promoters in lac, ara, and mal
+			- at least some of these are because of a binding to araC or malT as they say in the discussion
+		- promoter mutations I am less sure on
+			- they're from another paper
 	- Could you identify the interesting mutations from the raw data in Table 3, 4, and 5, or did you need the author's help?
 		- to some extent I could find them myself, especially the single base ones
 		- The mild effect ones are tough to identify

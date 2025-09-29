@@ -1,0 +1,2 @@
+file:: [Mecsas and Rouviere - The activity of an Escherichia coli heat-inducible r-factor, is modulated by expression of outer mem.pdf](file://C:/Users/David/Zotero/storage/PBC4ZJ5B/Mecsas and Rouviere - The activity of an Escherichia coli heat-inducible r-factor, is modulated by expression of outer mem.pdf)
+file-path:: file://C:/Users/David/Zotero/storage/PBC4ZJ5B/Mecsas and Rouviere - The activity of an Escherichia coli heat-inducible r-factor, is modulated by expression of outer mem.pdf

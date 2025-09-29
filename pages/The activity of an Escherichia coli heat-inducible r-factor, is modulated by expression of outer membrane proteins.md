@@ -8,3 +8,4 @@ links:: [Local library](zotero://select/library/items/XUBHGRZF), [Web library](h
 
 - Attachments
 	- [PDF](zotero://select/library/items/PBC4ZJ5B) {{zotero-imported-file PBC4ZJ5B, "Mecsas and Rouviere - The activity of an Escherichia coli heat-inducible r-factor, is modulated by expression of outer mem.pdf"}}
+-
