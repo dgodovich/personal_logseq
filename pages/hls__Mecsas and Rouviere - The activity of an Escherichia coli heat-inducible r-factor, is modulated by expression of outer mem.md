@@ -147,3 +147,48 @@ file-path:: file://C:/Users/David/Zotero/storage/PBC4ZJ5B/Mecsas and Rouviere - 
   hl-page:: 4
   hl-color:: green
   id:: 68d9f154-d9e1-4d90-8af4-8dba65950ccf
+- Ecr~ activity, however, was unaffected when periplasmic proteins DegP or B-lactamase were overexpressed from high-copy-number plasmid
+  ls-type:: annotation
+  hl-page:: 4
+  hl-color:: yellow
+  id:: 68d9f19b-9527-4bb2-a9c2-6ac5e8b20ac7
+- xperiments suggest that overproduction of OMPs does not generate a signal for Eo~ activi
+  ls-type:: annotation
+  hl-page:: 5
+  hl-color:: green
+  id:: 68d9f1b6-fc09-42ff-b8f6-1f34454a4824
+- rain containing an OmpC variant that lacks 2 amin
+  ls-type:: annotation
+  hl-page:: 5
+  hl-color:: red
+  id:: 68d9f1e3-d6a9-43d2-bf12-f2fe0583e7e9
+- is variant is secreted through the inner membrane but is poorly incorporated in the OM and inhibits incorporation of wild-type OmpC, OmpF, and OmpA into the O
+  ls-type:: annotation
+  hl-page:: 5
+  hl-color:: red
+  id:: 68d9f1ec-0ecc-4ef6-b49e-983d8b914753
+- us, Ea e activity is induced under conditions that slow down the processing of OMPs after they have passed the inner membrane but before insertion in th
+  ls-type:: annotation
+  hl-page:: 5
+  hl-color:: green
+  id:: 68d9f216-274a-45cc-8e2d-52ecc8d516df
+- Figure 7
+  ls-type:: annotation
+  hl-page:: 5
+  hl-color:: purple
+  id:: 68d9f238-f24d-4ade-a4e5-4f920993e8d9
+- Overproducing OMPs could cause them to aggregate or fold more slowly, resulting in accumulation of misfolded protein
+  ls-type:: annotation
+  hl-page:: 5
+  hl-color:: yellow
+  id:: 68d9f280-31e8-403e-962a-59972a30b67d
+- ssing protein fusions between portions of Rhodobacter sphaeroides CycA, a periplasmic c-type cytochrom
+  ls-type:: annotation
+  hl-page:: 6
+  hl-color:: red
+  id:: 68d9f30e-2bf3-4a1b-b1fd-c73b2a579069
+- pression of these misfolded periplasmic proteins did not alter Ea r activi
+  ls-type:: annotation
+  hl-page:: 6
+  hl-color:: green
+  id:: 68d9f314-0537-40f6-a40a-474e53c40848

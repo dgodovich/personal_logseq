@@ -68,8 +68,36 @@ links:: [Local library](zotero://select/library/items/XUBHGRZF), [Web library](h
 	- Fractionate cell into cytoplasmic, inner membrane, periplasm, outer membrane
 		- this is in the overexpressing OmpX
 		- this shows that it's in the outer membrane, but not conclusively that that's what \sigma\E is responding to
+	- All of these results are summarized in ((68d9f238-f24d-4ade-a4e5-4f920993e8d9))
 	- Test if cells that accumulate OMP precursors in the cytoplasm have high \sigma\E activity
 		- delete secB (I guess this does some transport?)
 			- yes, in the tommentary figure it's a chaperone protein to get them out into the periplasm
 			- this lowers \sigma\E activity
-		-
+			- fig 7 A
+	- Ok, what if it's something about the secretion
+		- test with overproduction of periplasmic proteins which should have similar secretory properties
+			- no result
+			- fig 7 B
+	- Mislocalization of OMPs or jamming
+		- OmpC variant that's missing 2 AA
+			- able to be secreted, but then doesn't incorporate into the OM
+		- This gives a huge increase in \sigma\E activity (10 fold)
+		- fig 7 C
+	- Is it misfolded proteins?
+		- dsbA gene facilitates disulfide bond formation
+		- folding chaperone
+		- deletion of this protein induced \sigma\E activity
+		- fig 7 D
+	- Do periplasmic proteins trigger it?
+		- engineer a misfolded periplasmic protein by a gene fusion with a different bacteria protein
+		- exported but not integrated
+		- no effect
+		- fig 7 E
+	- \sigma\E is induced by misfolded OMPs
+	  background-color:: green
+- DegP does not influence \sigma\E activity
+	- deletion doesn't change anything
+		- expected that it might because there would be an enrichment of degradation targets
+	- overexpression doesn't change anything
+		- it could have decreased because it removes misfolded protein
+-
