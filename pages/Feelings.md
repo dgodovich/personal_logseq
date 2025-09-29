@@ -1,0 +1,23 @@
+- My first thought is I don't have time for this but that's exactly the problem, I'm just avoiding it
+- And anyway I'm not even working on the other things that I'm supposed to be working on so it doesn't matter
+	- I guess I was thinking about it a little
+- I do want to be friends with Sakshee
+	- I feel like I don't know how to support her though
+	- And now I almost feel like I can't and it's just a drain
+		- Like I have all this other stress that I don't talk to her about at all
+		- I know that she probably would say I should just talk to her but that's a different problem
+	- I just avoided thinking about this for another few minutes
+- Do I bring up the thing izzy said about her maybe having feelings for me?
+	- I don't want to talk about that either
+	- and if I directly bring that up like that she'll definitely say no and also put it together that it's izzy who said that
+		- which is not great bc then she'll spiral more
+	- I just don't know how to deal with it
+		- how do I avoid her spiraling
+- What I said in the past about me just kinda pausing many friendships recently is true, but she's much more sensitive to that
+	- But not only that it is that I am avoiding talking to her because I don't know what to say like ever
+	- I don't know
+	-
+-
+- I feel like I don't talk about how I feel with anyone
+	- Izzy more than anyone else but that's still not enough
+	-
