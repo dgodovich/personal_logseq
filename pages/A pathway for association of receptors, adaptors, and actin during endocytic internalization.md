@@ -21,4 +21,15 @@ links:: [Local library](zotero://select/library/items/4QIIGAUS), [Web library](h
 - Attachments
 	- [Full Text](https://www.cell.com/article/S0092867403008833/pdf) {{zotero-imported-file CYRYNKG3, "Kaksonen et al. - 2003 - A pathway for association of receptors, adaptors, and actin during endocytic internalization.pdf"}}
 	- [PubMed entry](http://www.ncbi.nlm.nih.gov/pubmed/14622601)
--
+- Introduction
+	- Endocytosis is a complex pathway with many proteins
+	- Actin is important but it's not super clear how
+		- might drive membrane invagination
+		- or movement of vesicles into the cytoplasm
+	- actin patches in budding yeast
+		- on the cortex
+		- many endocytotic proteins localize here
+- Results
+	- tagged 6 proteins with GFP and used multicolor imaging to look at them
+		- Arc15 subunit of Arp2/3
+		- activators o
