@@ -12,9 +12,21 @@
 		- mouse epidermis
 		- stefano's work on zebrafish scales
 		- reference Kevin and Richard's paper
+		- I feel like pretty much all of the literature is on ERK, but their data suggests that it's PI3K dependent
+			- and not through Akt
+			- So what's that doing?
 	- Need time resolution here?
+		- speed of wavefront matters and the cell directional response is different
 	- What's the biochem
 		- I think there's ways to answer this with the optoEGFR cell line which are interesting but that's not super biochem-y which is fairly important for the course
+-
+- Aims
+	- What's PI3K doing downstream
+		- coIP? purification? localization?
+	- How does the cell sense temporal resolution of wavefront
+		- FRAP?
+-
+-
 -
 - ![Example of minigrant.pdf](../assets/Example_of_minigrant_1758826448226_0.pdf)
 -
