@@ -42,4 +42,5 @@ links:: [Local library](zotero://select/library/items/4QIIGAUS), [Web library](h
 	- patches move a bit around where they begin and then start really going
 	- patches move from cortex to cell center
 		- endocytosis
-	-
+- I'm tired and did not take great notes
+- actin patches with various things on them do endocytosis

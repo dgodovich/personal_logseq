@@ -1,0 +1,2 @@
+file:: [Williams et al. - 2014 - Targeting and plasticity of mitochondrial proteins revealed by proximity-specific ribosome profiling.pdf](file://C:/Users/David/Zotero/storage/64C7V3XX/Williams et al. - 2014 - Targeting and plasticity of mitochondrial proteins revealed by proximity-specific ribosome profiling.pdf)
+file-path:: file://C:/Users/David/Zotero/storage/64C7V3XX/Williams et al. - 2014 - Targeting and plasticity of mitochondrial proteins revealed by proximity-specific ribosome profiling.pdf
