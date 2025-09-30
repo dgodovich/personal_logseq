@@ -4,6 +4,17 @@
 - We spent so much time in the course talking about actin polymerization and whatnot for migration
 	- Maybe I go towards that as the tailoring for 504?
 	- How does the cell integrate a travelling optogenetic signal and decide which way to go?
+	  background-color:: yellow
+		- I think this is an interesting problem in the field that Jared pitched to me / I already know something about
+-
+- Cell integration of signaling waves
+	- Travelling erk waves in migration / wound healing
+		- mouse epidermis
+		- stefano's work on zebrafish scales
+		- reference Kevin and Richard's paper
+	- Need time resolution here?
+	- What's the biochem
+		- I think there's ways to answer this with the optoEGFR cell line which are interesting but that's not super biochem-y which is fairly important for the course
 -
 - ![Example of minigrant.pdf](../assets/Example_of_minigrant_1758826448226_0.pdf)
 -
