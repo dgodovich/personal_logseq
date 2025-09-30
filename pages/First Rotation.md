@@ -3,7 +3,17 @@
 - [[Tissue Culture]]
 - [[Imaging]]
 - [[pyCLM]]
-- Cell line
+- [[Oct 1st, 2025]] Meeting with Jared
+	- Agenda
+		- Imaging updates
+			- PEF cells do seem to be more responsive (show movie)
+		- [[504 Minigrant]]
+			- discuss ideas that I have and see if that's viable
+			- How to make it for 504
+		- GRFP
+			- can the minigrant thoughts be turned into a GRFP proposal
+		- I will be out on thursday
+- Cell lines
 	- [MCF10A](logseq://graph/personal_logseq?block-id=68c83ab3-3e3d-4519-ad31-52cbba7c00d0)
 		- Triple transgenic
 			- OptoEGFR, Fusion red nuclear, ERK-KTR
@@ -17,6 +27,10 @@
 			- Beena has been using a separately engineered cell line and doesn't see that - more consistent cell densities across the well
 			- Is this something intrinsic to the cell line that Jared was working with? Is it a protocol difference?
 			  background-color:: yellow
+	- 10As from Payam
+		- these ones are not triple transgenic, only have the optoEGFR
+			- this is red and stains membranes
+		- Use Janelia 638 Hoescht dye to get a nuclear marker for segmentation
 - Questions
 	- (1) how does the *width *of the traveling wave stimulation pattern affect cell movement? (in other words, how macroscopic can we go with our stimulation patterns)?
 		- change bar width, this seems pretty straightforward

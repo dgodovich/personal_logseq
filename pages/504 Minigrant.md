@@ -17,6 +17,9 @@
 			- So what's that doing?
 	- Need time resolution here?
 		- speed of wavefront matters and the cell directional response is different
+	- Neighbor information?
+		- What if you illuminate the bottom half of a cell and also have a wave moving across the field?
+		- Neighboring signalling? is that an appropriate proxy? maintain some amount of it across periods
 	- What's the biochem
 		- I think there's ways to answer this with the optoEGFR cell line which are interesting but that's not super biochem-y which is fairly important for the course
 -
