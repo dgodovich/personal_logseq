@@ -32,4 +32,14 @@ links:: [Local library](zotero://select/library/items/4QIIGAUS), [Web library](h
 - Results
 	- tagged 6 proteins with GFP and used multicolor imaging to look at them
 		- Arc15 subunit of Arp2/3
-		- activators o
+		- activators of Arp2/3: Pan1p, Abp1p, Laz17p
+			- Abp and Laz are yeast WASP
+		- Sla1p, adaptor for endocytic internalization
+- Cortical patch turnover and motility
+	- smaller than resolution limit of scope at the time
+	- Patch lifetimes are lower for Abp1p and Arc15
+	- proteins localize to patch and they have different colors so they can measure colocalization
+	- patches move a bit around where they begin and then start really going
+	- patches move from cortex to cell center
+		- endocytosis
+	-
