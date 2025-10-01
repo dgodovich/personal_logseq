@@ -3,7 +3,9 @@
 - [[Oct 2nd, 2025]] Signal Transduction
 	- Reading
 		- [[The Biochemical Basis of an All-or-None Cell Fate Switch in Xenopus Oocytes]]
-		- [[Using Optogenetics to Interrogate the Dynamic Control of Signal Transmission by the Ras/Erk Module]]
+		- [[Using Optogenetics to Interrogate the Dynamic Control of Signal Transmission by the Ras-Erk Module]]
+			- convenient reading assignment
+	-
 - [[Sep 30th, 2025]] Intracellular Trafficking
   collapsed:: true
 	- Reading
