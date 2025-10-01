@@ -41,4 +41,18 @@ links:: [Local library](zotero://select/library/items/BQNL35PS), [Web library](h
 		- reaction mixture in the second step has all the RNA from the first one and 13C labelled nucleotides
 		- so if anything is incorporated, you would see it
 	- Results show that the heavy carbon containing RNAs are only in the long chains
-		- i.e. only on
+		- i.e. only on extensions of molecules that were already present, not newly synthesized ones
+	- But - importantly - there is no loss of shorter fragments, and really no change in their proportion
+		- \rho doesn't have any endonuclease activity
+	- Figure 2
+- \rho-factor releases RNA Molecules
+	- causes release from the polymerase complex
+	- most RNA in in vitro experiments is normally found complexed to the DNA and RNA pol
+		- sediments at the same speed
+	- Adding \rho you get sedimentation at different times and the RNA is way behind the DNA
+	- Figure 3
+- RNA Product consists of Discrete Sizes
+	- showing that it's specific stopping locations, not just random
+	- expect N gene to be transcribed at all times right
+		- because you need N to make all the other proteins after it
+-
