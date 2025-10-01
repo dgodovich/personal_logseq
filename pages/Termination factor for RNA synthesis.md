@@ -21,4 +21,12 @@ links:: [Local library](zotero://select/library/items/BQNL35PS), [Web library](h
 	- [PubMed entry](http://www.ncbi.nlm.nih.gov/pubmed/4902144)
 - pdf is not highlightable and looks really bad in logseq for some reason, so use zotero
 - Introduction
+	- Transcription in vitro is hard and doesn't work super well
+		- particularly because it doesn't end where it's supposed to
+		- starting is easy enough with the \sigma factors
+	- mostly you get RNAs that are way too long
+		- and they also don't release from the complex
+	- looking for anything that reduces RNA synthesis? seems a bit broad, no?
+		- more detailed methods for this at the end of the paper
+- \rho\-factor affects Chain Propagation
 	-
