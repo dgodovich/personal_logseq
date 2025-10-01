@@ -21,3 +21,8 @@ file-path:: file://C:/Users/David/Zotero/storage/YQ7MSSG5/Johnston et al. - 1980
   hl-page:: 1
   hl-color:: yellow
   id:: 68dc9ece-d291-4cab-922e-699ca2df63e0
+- The model assumes that formation of the 14-base-pair stem (the attenuator stem) in the histidine mRNA causes RNA polymerase to terminate transcription at the run of U residues following that stem
+  ls-type:: annotation
+  hl-page:: 1
+  hl-color:: yellow
+  id:: 68dca1a3-1d35-490f-89e8-6709a792e034

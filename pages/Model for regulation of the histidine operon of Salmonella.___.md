@@ -35,4 +35,7 @@ links:: [Local library](zotero://select/library/items/B2WTX6VY), [Web library](h
 	- also has a 16 AA peptide that has 7 histidines in it
 		- could be sensing here?
 - Model for regulation of histidine operon
+	- ((68dca1a3-1d35-490f-89e8-6709a792e034))
+		- steric block
+	- If the promoter proximal (5') end is in a different secondary structure when the 3' end is made, no attenuation happens
 	-
