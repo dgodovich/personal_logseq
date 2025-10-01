@@ -58,7 +58,6 @@ links:: [Local library](zotero://select/library/items/BQNL35PS), [Web library](h
 	- and immunity region until like around O
 		- because going past that also requires N
 		- the map in figure 4 has it up to x
-	- [[Regulation of repressor expression in lambda]]
 	- ((68d09712-79f2-4439-b43b-ef6620c5509e))
 		- so from P_left to N
 		- and from P_right to cY?
@@ -67,4 +66,12 @@ links:: [Local library](zotero://select/library/items/BQNL35PS), [Web library](h
 		- this is done with separated strands of \lambda strains with immunity region mutations / deletions
 		- so that you can see which side it comes from (which promoter)
 		- so you know that it's coming from the promoter on, and which strand it aligns with
-		-
+	- It lines up as expected with around N and with around immunity region
+- 12S and 7S RNA Initiated at Known \lambda Promoters
+	- we have promoter mutants, so lets see if those have any effects on the amount of RNA that we get
+	- Yeah that's exactly what he does
+	- sex mutation is a P_left mutation that basically completely turns it off (including N)
+	- sex mutants do not make any 12S RNA
+		- that's the one that was mapping to the left promoter near N
+	- 7S RNA is removed when you use the x13 mutant from [[Regulation of repressor expression in lambda]]
+	-
