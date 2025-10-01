@@ -36,6 +36,15 @@ links:: [Local library](zotero://select/library/items/B2WTX6VY), [Web library](h
 		- could be sensing here?
 - Model for regulation of histidine operon
 	- ((68dca1a3-1d35-490f-89e8-6709a792e034))
-		- steric block
+		- steric block?
 	- If the promoter proximal (5') end is in a different secondary structure when the 3' end is made, no attenuation happens
+	- there's other possible loop pairing that wouldn't cause attenuation
+		- I'm not sure why this is the case? why would a loop in a different spot not block the polymerase complex?
+	- assumption that ribosomes can disrupt RNA secondary structure as they translate RNA
+	- there's A-F sequences that can form stem loops and which ones do depend on where the ribosome is
+		- which depends on how much tRNA there is? not sure how they get here
+		- oh I see
+			- there's a repetitive sequence
+			- CAU CAU CAC CAU CAU CCUGACAU
+			- CAU and CAC are histidine codons
 	-
