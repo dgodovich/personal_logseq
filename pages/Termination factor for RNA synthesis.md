@@ -80,4 +80,7 @@ links:: [Local library](zotero://select/library/items/BQNL35PS), [Web library](h
 		- c17 is a mutation that allows \lambda\cI to plate on a \lambda lysogen. It creates a new promoter allowing constitutive expression of the replication genes O and P. In multi-copy \lambda DNA titrates the repressor produced by the prophage, thus preventing lysogeny
 		- doesn't need N
 	- Makes more RNA than wild type region in vitro, and way more in vivo
-	-
+	- I don't really get what they're doing here
+	- Yeah I'm not sure and I'm moving on
+- Conclusions and Discussion
+	- 12S RNA is
