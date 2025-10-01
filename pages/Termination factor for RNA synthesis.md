@@ -83,4 +83,9 @@ links:: [Local library](zotero://select/library/items/BQNL35PS), [Web library](h
 	- I don't really get what they're doing here
 	- Yeah I'm not sure and I'm moving on
 - Conclusions and Discussion
-	- 12S RNA is
+	- this is where he suggests that N is an antitermination protein
+	- he suggests that N is a DNA binding protein, but that seems unlikely to me
+		- I guess with the thinking that \rho is a DNA binding protein that makes sense
+		- but it's probably more likely to bind to the ribosome or RNA right?
+	- this discussion has a lot of pretty nice predictions
+	- then he gives the purification protocol and my eyes glaze over
