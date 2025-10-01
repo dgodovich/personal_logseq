@@ -20,4 +20,19 @@ links:: [Local library](zotero://select/library/items/B2WTX6VY), [Web library](h
 	- A model is proposed that accounts for regulation of the histidine operon by a mechanism involving alternative configurations of mRNA secondary structure (the alternative stem model). New evidence for the model includes sequence data on three regulatory mutations. The first (his01242) is a mutation that deletes sequences needed to form the attenuator mRNA stem and causes constitutive operon expression. The second mutation (his09654) is a His- ochre (UAA) mutation in the leader peptide gene; the existence of this mutation constitutes evidence that the leader peptide gene is translated. The third mutation (his09663) is remarkable. It neither generates a nonsense codon nor affects a translated sequence; yet, it is suppressible by amber suppressors. We believe this mutation causes a His- phenotype by interfering with mRNA secondary structure. The suppressibility of the mutation is probably due to disruption of the attenuator stem by ribosomes that read through the terminator codon of the leader peptide gene. This explanation is supported by the observation of derepression of a wild-type control region in the presence of an amber suppressor. Evidence is presented that hisT mutants (which lack pseudouridine in the anticodon arm of histidine tRNA) may cause derepression of the his operon by slowing protein synthesis in the leader peptide gene.
 - Attachments
 	- [PDF](zotero://select/library/items/YQ7MSSG5) {{zotero-imported-file YQ7MSSG5, "Johnston et al. - 1980 - Model for regulation of the histidine operon of Salmonella..pdf"}}
--
+- His has no regulatory protein (repressor or activator) -> how does that work?
+- Background
+	- There's a large number of constitutive mutants, which is nice
+	- 6 classes of these
+		- hisO is in the operon
+			- cis dominant
+		- HisR, S, T, U, W are not near the operon
+			- seems like all of these are not in a repressor, but change the tRNA
+			- recessive
+	- operon expression must sense the level of histidyl-tRNA
+	- control region has a barrier to transcription called the attenuator
+	- the operon sequence has dyad symmetry which makes a 14 bp stem loop (hairpin)
+	- also has a 16 AA peptide that has 7 histidines in it
+		- could be sensing here?
+- Model for regulation of histidine operon
+	-
