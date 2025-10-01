@@ -37,4 +37,8 @@ links:: [Local library](zotero://select/library/items/BQNL35PS), [Web library](h
 			- \gamma phosphate on GTP is labelled with 35P
 	- also test with T4 and T7 phage DNA, same result
 - \rho-factor produces Shorter RNA Molecules
-	-
+	- synthesize various lengths of RNA and then add more to that
+		- reaction mixture in the second step has all the RNA from the first one and 13C labelled nucleotides
+		- so if anything is incorporated, you would see it
+	- Results show that the heavy carbon containing RNAs are only in the long chains
+		- i.e. only on
