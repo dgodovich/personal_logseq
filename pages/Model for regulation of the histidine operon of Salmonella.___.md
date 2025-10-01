@@ -54,3 +54,10 @@ links:: [Local library](zotero://select/library/items/B2WTX6VY), [Web library](h
 - ((68dca58a-3e8f-42e5-8a9e-21fdb5eb711f))l
 	- Attenuator constitutive mutant is unable to form an EF sequence stem (figure 2)
 	- figure 3 has a map of the operon
+		- nonsense mutations exist in there
+		- His- mutants revert to His+ with high frequency
+	- Leader peptide gene is translated; there's a nonsense mutation in this gene that is suppressed by ochre suppressors
+		- UAA mutation (ochre) causes His- phenotype because of formation of attenuation loop
+- What's up with the amber suppressors
+	- they have a mutant that does not cause an amber mutation but can still be suppressed by amber suppressors (His- to His+)
+	-
