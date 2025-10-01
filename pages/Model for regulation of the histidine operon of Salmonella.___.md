@@ -34,7 +34,7 @@ links:: [Local library](zotero://select/library/items/B2WTX6VY), [Web library](h
 	- the operon sequence has dyad symmetry which makes a 14 bp stem loop (hairpin)
 	- also has a 16 AA peptide that has 7 histidines in it
 		- could be sensing here?
-- Model for regulation of histidine operon
+- ((68dca599-c8bd-42f9-bed9-f21af77726b6))
 	- ((68dca1a3-1d35-490f-89e8-6709a792e034))
 		- steric block?
 	- If the promoter proximal (5') end is in a different secondary structure when the 3' end is made, no attenuation happens
@@ -45,6 +45,12 @@ links:: [Local library](zotero://select/library/items/B2WTX6VY), [Web library](h
 		- which depends on how much tRNA there is? not sure how they get here
 		- oh I see
 			- there's a repetitive sequence
-			- CAU CAU CAC CAU CAU CCUGACAU
+			- CAU CAU CAC CAU CAU CCU GAC UAG(stop)
 			- CAU and CAC are histidine codons
-	-
+	- excess of histidyl tRNA means the ribosome can keep up and get to the stop, and translation stops
+	- if there's not enough tRNA the ribosome falls behind the polymerase and a different set of stem loops forms
+		- no attenuator stem because half of it is in a different loop
+	- some kind of kinetic model is more likely in actuality
+- ((68dca58a-3e8f-42e5-8a9e-21fdb5eb711f))l
+	- Attenuator constitutive mutant is unable to form an EF sequence stem (figure 2)
+	- figure 3 has a map of the operon
