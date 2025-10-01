@@ -83,7 +83,8 @@ links:: [Local library](zotero://select/library/items/BQNL35PS), [Web library](h
 	- Makes more RNA than wild type region in vitro, and way more in vivo
 	- I don't really get what they're doing here
 	- Yeah I'm not sure and I'm moving on
-		-
+		- indeed, Tom says that it is very confusing
+		- c17 will go lytic in a lysogen because there's two promoters making phage genes and it overpowers the repressor
 - Conclusions and Discussion
 	- this is where he suggests that N is an antitermination protein
 	- he suggests that N is a DNA binding protein, but that seems unlikely to me

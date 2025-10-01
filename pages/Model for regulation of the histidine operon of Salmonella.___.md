@@ -70,4 +70,5 @@ links:: [Local library](zotero://select/library/items/B2WTX6VY), [Web library](h
 - hisT is a mutation in \Psi generation on tRNAs, which impacts their function and makes this system not work
 	- they test this by looking in an amber suppressor that has a similar mutation
 	- find that the hisT mutant weakens suppression
+	- table 2
 -
