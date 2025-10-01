@@ -60,4 +60,14 @@ links:: [Local library](zotero://select/library/items/B2WTX6VY), [Web library](h
 		- UAA mutation (ochre) causes His- phenotype because of formation of attenuation loop
 - What's up with the amber suppressors
 	- they have a mutant that does not cause an amber mutation but can still be suppressed by amber suppressors (His- to His+)
-	-
+	- It's in the B sequence and the "amber" mutation destabilizes the BC stem
+	- so because BC is unfavorable you get CD and EF, and attenuation at all conditions
+	- amber suppressors allow the ribosome to read through the normal stop of the leader peptide
+		- there's another stop (UGA) at the attenuation stem
+		- but when you get this close you would disrupt the stem and get activation
+	- they check if amber suppressors generally activate the his system with a lac fusion
+		- yep, they do
+- hisT is a mutation in \Psi generation on tRNAs, which impacts their function and makes this system not work
+	- they test this by looking in an amber suppressor that has a similar mutation
+	- find that the hisT mutant weakens suppression
+-
