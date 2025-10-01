@@ -74,4 +74,10 @@ links:: [Local library](zotero://select/library/items/BQNL35PS), [Web library](h
 	- sex mutants do not make any 12S RNA
 		- that's the one that was mapping to the left promoter near N
 	- 7S RNA is removed when you use the x13 mutant from [[Regulation of repressor expression in lambda]]
+	- this is a long section but it's very similar to the other ones
+- More Accurate RNA synthesis with \rho-factor
+	- \lambda\c17 mutant
+		- c17 is a mutation that allows \lambda\cI to plate on a \lambda lysogen. It creates a new promoter allowing constitutive expression of the replication genes O and P. In multi-copy \lambda DNA titrates the repressor produced by the prophage, thus preventing lysogeny
+		- doesn't need N
+	- Makes more RNA than wild type region in vitro, and way more in vivo
 	-
