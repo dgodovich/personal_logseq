@@ -34,4 +34,17 @@ links:: [Local library](zotero://select/library/items/7P4AUFRI), [Web library](h
 		- or like a RLC circuit
 		- input different frequencies to see what the outputs are
 - ((68dd7fe9-4400-42e1-9f15-5cfc0c252ebb))
+-
+- figure 1 is a general overview of the paper and system that they're using
+- figure 2 is description of optoSOS and proof of concept (proliferation and differentiation)
+- figure 3 is a dosage analysis
+	- how quickly and reproducibly does SOS activation lead to Erk activation
+	- lots of cell to cell variability, but each cell is internally consistent
+- figure 4 is a frequency response analysis to measure gain and phase
+	- timescale of input
+	- FFT to do high throughput and really stress test the optogenetics
+	- Erk is low-pass: wide range of signals can go through
+- figure 5 shows a screen while they're looking for downstream targets
+	- what is this interacting with? what gets phosphorylated
+- figure 6 answers the follow up question of how does the cell know if it's a high or low frequency signal
 	-
