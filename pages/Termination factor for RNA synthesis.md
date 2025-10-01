@@ -29,4 +29,12 @@ links:: [Local library](zotero://select/library/items/BQNL35PS), [Web library](h
 	- looking for anything that reduces RNA synthesis? seems a bit broad, no?
 		- more detailed methods for this at the end of the paper
 - \rho\-factor affects Chain Propagation
+	- initiation is not affected, only propagation
+	- use \lambda DNA as a blueprint
+	- determine total RNA synthesis by heavy hydrogen and phosphorus labelling
+		- hydrogen is for total synthesis
+		- phosphorus is for number of starts (initiation)
+			- \gamma phosphate on GTP is labelled with 35P
+	- also test with T4 and T7 phage DNA, same result
+- \rho-factor produces Shorter RNA Molecules
 	-
