@@ -20,6 +20,7 @@ links:: [Local library](zotero://select/library/items/BQNL35PS), [Web library](h
 	- [PDF](zotero://select/library/items/CAU9AXFV) {{zotero-imported-file CAU9AXFV, "Roberts - 1969 - Termination factor for RNA synthesis.pdf"}}
 	- [PubMed entry](http://www.ncbi.nlm.nih.gov/pubmed/4902144)
 - pdf is not highlightable and looks really bad in logseq for some reason, so use zotero
+	- zotero ocr plugin is so based
 - Introduction
 	- Transcription in vitro is hard and doesn't work super well
 		- particularly because it doesn't end where it's supposed to
