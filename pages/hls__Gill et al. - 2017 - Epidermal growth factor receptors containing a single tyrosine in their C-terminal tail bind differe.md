@@ -76,3 +76,39 @@ file-path:: file://C:/Users/David/Zotero/storage/28G933I2/Gill et al. - 2017 - E
   hl-page:: 7
   hl-color:: green
   id:: 68ddf19f-183c-4e56-a4f3-42acd365b6ea
+- In the current paradigm for EGF receptor-mediated signaling, phosphorylation of tyrosine residues in the C-terminal tail of the receptor provides docking sites for the binding of signaling proteins that contain SH2 or PTB domains
+  ls-type:: annotation
+  hl-page:: 8
+  hl-color:: yellow
+  id:: 68ddf1df-17cb-4677-a485-957391932f29
+- Notably, the ability of a receptor to activate signaling did not correlate with its peptide kinase activity
+  ls-type:: annotation
+  hl-page:: 9
+  hl-color:: yellow
+  id:: 68ddf229-7579-410d-84aa-a27e65ba1e33
+- However, all of the single tyrosine receptors, except the Y1045-only receptor, bound Gab1. The ability of the single-Tyr EGF receptors to bind Gab1 probably explains why these receptors were all able to activate signaling pathways such as MAP kinase and Akt
+  ls-type:: annotation
+  hl-page:: 9
+  hl-color:: yellow
+  id:: 68ddf24a-c21c-4726-bac1-46bb2e7580de
+- Together, these findings suggest that Tyr-992 may occupy a special niche in EGF receptor-mediated signaling that has evolutionarily deep roots
+  ls-type:: annotation
+  hl-page:: 9
+  hl-color:: green
+  id:: 68ddf2b9-c435-4c4e-ba54-aa8d1c29e692
+- This suggests that regions of Grb2 outside of the SH2 domain contribute to the ability of full-length Grb2 to bind to the single-Tyr EGF receptors
+  ls-type:: annotation
+  hl-page:: 9
+  hl-color:: blue
+  id:: 68ddf2fc-90dd-4c62-9399-316d00ad742c
+- milar effect may be occurring in Shc as the full-length protein bound strongly to the Y1148-only EGF receptor, but the isolated PTB domain bound relatively poorly to this receptor
+  ls-type:: annotation
+  hl-page:: 9
+  hl-color:: yellow
+  id:: 68ddf307-03c6-477f-8149-18ea219c91be
+  hl-stamp:: 1759376141251
+- he SH2 domain initiates the interaction of the adapter protein with the tyrosine-phosphorylated EGF receptor but that additional contacts between the tail and the Grb2 SH3 domains, or its recruited cargo protein, further stabilize the association of Grb2 with the single-Tyr EGF receptor
+  ls-type:: annotation
+  hl-page:: 10
+  hl-color:: blue
+  id:: 68ddf314-8cc7-46ff-b843-3ef5f48f25fd
