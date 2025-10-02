@@ -31,3 +31,19 @@ file-path:: file://C:/Users/David/Zotero/storage/KP6YECFP/Ferrell and Machleder 
   hl-page:: 2
   hl-color:: green
   id:: 68dddf07-73ad-42fa-8121-b0420f701eb7
+- MAPK or something downstream from MAPK promotes the stabilization and accumulation of Mos,
+  ls-type:: annotation
+  hl-page:: 2
+  hl-color:: yellow
+  id:: 68dddf3a-8d23-4a9f-a0b1-0f89b05bc5af
+- protein synthesis allows a more highly switchlike response
+  ls-type:: annotation
+  hl-page:: 3
+  hl-color:: green
+  id:: 68dddf47-413f-4d9a-9cbb-e2fac13470b9
+- he ultrasensitivity of the MAPK cascade essentially filters small stimuli out of the feedback loop
+  ls-type:: annotation
+  hl-page:: 3
+  hl-color:: green
+  id:: 68dddf62-a791-4ed1-9b9d-cf0d6de06984
+  hl-stamp:: 1759371108726

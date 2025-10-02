@@ -1,6 +1,8 @@
 - [[Jared Toettcher]]
 - Starts [[Sep 8th, 2025]] through November something
 - [[Tissue Culture]]
+- Readings
+	-
 - [[Imaging]]
 - [[pyCLM]]
 - [[Oct 1st, 2025]] Meeting with Jared
