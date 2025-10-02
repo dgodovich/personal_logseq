@@ -1,0 +1,2 @@
+file:: [Ferrell and Machleder - 1998 - The Biochemical Basis of an All-or-None Cell Fate Switch in Xenopus Oocytes.pdf](file://C:/Users/David/Zotero/storage/KP6YECFP/Ferrell and Machleder - 1998 - The Biochemical Basis of an All-or-None Cell Fate Switch in Xenopus Oocytes.pdf)
+file-path:: file://C:/Users/David/Zotero/storage/KP6YECFP/Ferrell and Machleder - 1998 - The Biochemical Basis of an All-or-None Cell Fate Switch in Xenopus Oocytes.pdf
