@@ -1,3 +1,7 @@
+- Reading
+	- [[An Excitable Ras/PI3K/ERK Signaling Network Controls Migration and Oncogenic Transformation in Epithelial Cells]]
+	- [[Large-scale control over collective cell migration using light-activated epidermal growth factor receptors]]
+-
 - I'm thinking it basically has to be on / related to my rotation project
 - Downstream of optoEGFR there's PI3K mediated signaling that does migration
 	- Do we know what the actual mechanism of this is?

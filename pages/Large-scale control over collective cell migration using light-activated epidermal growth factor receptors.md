@@ -1,0 +1,23 @@
+tags:: [[collective cell migration]], [[epidermal growth factor receptor]], [[optogenetics]], [[tissue mechanics]]
+date:: [[Mar 19th, 2025]]
+issn:: 2405-4712
+issue:: 3
+doi:: 10.1016/j.cels.2025.101203
+title:: Large-scale control over collective cell migration using light-activated epidermal growth factor receptors
+pages:: 101203
+volume:: 16
+item-type:: [[journalArticle]]
+access-date:: 2025-09-04T03:39:08Z
+original-title:: Large-scale control over collective cell migration using light-activated epidermal growth factor receptors
+url:: https://www.sciencedirect.com/science/article/pii/S2405471225000365
+publication-title:: Cell Systems
+journal-abbreviation:: Cell Systems
+authors:: [[Kevin Suh]], [[Richard H. Thornton]], [[Long Nguyen]], [[Payam E. Farahani]], [[Daniel J. Cohen]], [[Jared E. Toettcher]]
+library-catalog:: ScienceDirect
+links:: [Local library](zotero://select/library/items/BIEGASBE), [Web library](https://www.zotero.org/users/6106196/items/BIEGASBE)
+
+- [[Abstract]]
+	- Receptor tyrosine kinases (RTKs) play key roles in coordinating cell movement at both single-cell and tissue scales. The recent development of optogenetic tools for controlling RTKs and their downstream signaling pathways suggests that these responses may be amenable to engineering-based control for sculpting tissue shape and function. Here, we report that a light-controlled epidermal growth factor (EGF) receptor (OptoEGFR) can be deployed in epithelial cells for precise, programmable control of long-range tissue movements. We show that in OptoEGFR-expressing tissues, light can drive millimeter-scale cell rearrangements to densify interior regions or produce rapid outgrowth at tissue edges. Light-controlled tissue movements are driven primarily by phosphoinositide 3-kinase (PI3K) signaling, rather than diffusible ligands, tissue contractility, or ERK kinase signaling as seen in other RTK-driven migration contexts. Our study suggests that synthetic, light-controlled RTKs could serve as a powerful platform for controlling cell positions and densities for diverse applications, including wound healing and tissue morphogenesis.
+- Attachments
+	- [ScienceDirect Full Text PDF](https://pdf.sciencedirectassets.com/312390/1-s2.0-S2405471224X00046/1-s2.0-S2405471225000365/main.pdf?X-Amz-Security-Token=IQoJb3JpZ2luX2VjEOv%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLWVhc3QtMSJGMEQCIGUksjYjONfM3by8r3SGwS6oYHA0po8jl7QP6T189KVSAiAcQbYLlEla4cQ2GbudYsEwaDuVKh33kJSlCdBVO0Ta9yqzBQhTEAUaDDA1OTAwMzU0Njg2NSIMYO5ORpWmUZkJO4k%2FKpAFGgLuoPZCHpBd7Od9MXkkbEsK2tOYDOr%2Fy0KLQOH8nWZ2rV2TDIt28fVcHEegkwyRvpCeiMg4py4CtCl4KPEO31UUN0morlgKCBpbi6KisPar%2FtI0nolHYmaU3AdW79G50yHdNsr0A%2BFg4PvD6v7M3sDtTNiB3jHY88HFH%2BtM1DxrbOP7Wxtw0ZPqkzbYUkQyppAqFcjoBbrjbQOLw9BIyWprkg08FnTU%2B7gs%2FHPICd7%2FJKaOFW50zRmROHvKdanMbz2KCoZNLCDXysNnD6o7%2B1nN6riODRRcIY01PBf2NULkidf2CQxkthvX5NBLe83CiNSguKs35iR57hAeQEWd6U1TZ7MZ9q%2FjQPqRGT4QfBFW5vPtZxJ5T35OnZpcI4b5YT8bWK1%2FmjTJ%2FLW4uudNpaksKuOFrXafYwwvXKhyCXjFal49c1axnLyf9HA9tJl6f3ihoH5gpAtoVD0bhVvP1P35%2FrW35O95uc5Xf1q4wkktHIw5G3H0jf0%2FcUbXuYFVX8RwrMfTl%2FP9Du%2FvapKduasa0pnE8pih5tzqAKYy9ORL92EjiFBDl1626un%2FrxDQafr%2BUbCHAkM2C7F8L96gB6Ir1rcG1TCSWVjrgMs6iY3NuF3HwWIFMNGq4qPZY15543ybtaNE5Wm6RKqx9XC1AIzXauD8j0lrFF%2BKCK0AKIWVp%2BZMGDS3%2B0wO9uJh82mr%2Fkc4D1zXgNkMq4nuHKHx3jTdJQ%2F6wushh9CiJKyCYxctnoDBDC8m1WqBdptktv7PHc8mIooLnua36FBoAi%2FYQ3cGhAPt%2BEzlz%2B5GKiVeNYj9pu5l9ehR0ngYkmb94wNYL%2FVVmm2iPA1P%2B4fLuFn8v9XKO%2FAauqZdGgsHjS%2FJDXcwsO3jxQY6sgFlNtJbvxB1VFg9UwbTjSg%2BavVtcs8LO4lopS9pGEjdfYnwmVN0OFcl3egGZWLq0mDpMsYR5V71Gl9zwWtUlR2VeNyCvdQa1A0IwjBnu7%2FrRNqLZ53Y18XV9aY40AmdNl%2Fx2krswV7wcYRl%2BH%2BG5gWJGTFJkDAd%2FdxFrZWtKZXflm0CfHPO4%2BO0mfoLXqEXCzN2VSu8sDB7r0gUKDBelW4A0l4PsicgKBBWbZtL6LJ9kRIJ&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20250904T033914Z&X-Amz-SignedHeaders=host&X-Amz-Expires=300&X-Amz-Credential=ASIAQ3PHCVTYQR54RBVE%2F20250904%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Signature=23641e63ef40a94238ea3f68ef42406f81616e18205b96decb4bb0fc2c72eeff&hash=23a522e86bd3796f10ac6a005eeb60d3453a2890c3e23b80a5aaa1c023f3eab2&host=68042c943591013ac2b2430a89b270f6af2c76d8dfd086a07176afe7c76c2c61&pii=S2405471225000365&tid=spdf-ced00c7a-9c8e-4069-8fce-ee00ceb5901c&sid=1b71e0ea45c7f349ef3b68c6bb786d7f138bgxrqa&type=client&download=true&tsoh=d3d3LnNjaWVuY2VkaXJlY3QuY29t&rh=d3d3LnNjaWVuY2VkaXJlY3QuY29t&ua=0f1157595802525b585f&rr=979a7569fc8d584e&cc=us) {{zotero-imported-file RFX5TTQ7, "Suh et al. - 2025 - Large-scale control over collective cell migration using light-activated epidermal growth factor rec.pdf"}}
+	- [ScienceDirect Snapshot](https://www.sciencedirect.com/science/article/pii/S2405471225000365) {{zotero-imported-file K7ZP7SU9, "S2405471225000365.html"}}
