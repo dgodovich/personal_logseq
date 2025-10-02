@@ -31,4 +31,6 @@ links:: [Local library](zotero://select/library/items/4ZLK2CZ8), [Web library](h
 		- gets deeper at cell level signal transduction
 - stimulate globally with EGF wash
 	- optogenetics can be more spatially and temporally resolved
+	- they try to do a directed one by a micropipette but that's really not all that much
+	- again, optogenetics will give much more information about the exogeneous response
 -

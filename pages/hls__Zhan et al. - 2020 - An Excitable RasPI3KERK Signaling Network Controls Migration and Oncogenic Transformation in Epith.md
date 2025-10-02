@@ -36,3 +36,8 @@ file-path:: file://C:/Users/David/Zotero/storage/3JK626E9/Zhan et al. - 2020 - A
   hl-page:: 6
   hl-color:: yellow
   id:: 68dee560-ebdc-4c56-ba9f-0d4f022609bc
+- coupled F-actin and PIP3 waves initially disappeared and were replaced by a bright ring of signal around the cell perimete
+  ls-type:: annotation
+  hl-page:: 6
+  hl-color:: yellow
+  id:: 68dee670-a6ab-401c-bb6d-128af38a93cb
