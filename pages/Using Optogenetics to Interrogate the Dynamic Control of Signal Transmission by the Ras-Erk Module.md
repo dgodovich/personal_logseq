@@ -46,5 +46,6 @@ links:: [Local library](zotero://select/library/items/7P4AUFRI), [Web library](h
 	- Erk is low-pass: wide range of signals can go through
 - figure 5 shows a screen while they're looking for downstream targets
 	- what is this interacting with? what gets phosphorylated
+	- red is turning on
 - figure 6 answers the follow up question of how does the cell know if it's a high or low frequency signal
 	-
