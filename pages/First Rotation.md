@@ -2,7 +2,7 @@
 - Starts [[Sep 8th, 2025]] through November something
 - [[Tissue Culture]]
 - Readings
-	-
+	- [[Epidermal growth factor receptors containing a single tyrosine in their C-terminal tail bind different effector molecules and are signaling-competent]]
 - [[Imaging]]
 - [[pyCLM]]
 - [[Oct 1st, 2025]] Meeting with Jared
