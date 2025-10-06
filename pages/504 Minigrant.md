@@ -1,6 +1,18 @@
 - Reading
 	- [[An Excitable Ras/PI3K/ERK Signaling Network Controls Migration and Oncogenic Transformation in Epithelial Cells]]
 	- [[Large-scale control over collective cell migration using light-activated epidermal growth factor receptors]]
+- Right so I did not do that very well
+- Some notes
+	- I need to read earlier and take more meaningful notes
+	- I need to figure out some way to structure my work so that I do not have to do everything last minute
+	- Grant writing wise i feel like it was alright but man
+		- very stressful for like no reason
+- Logseq was not very helpful for it because I didn't use this page
+	- I think generally with logseq I need to think a bit more / read or watch some guides to more powerfully use pages. I think I'm not using it to it's full potential
+	- The zotero integration and note taking is pretty great and that is moving up in my workflow as I get used to it and use it in more places
+	- But as of now that's kind of the only way that I really use it
+		- Half for class notes but a good chunk of that is in word docs so not really
+-
 -
 - I'm thinking it basically has to be on / related to my rotation project
 - Downstream of optoEGFR there's PI3K mediated signaling that does migration
