@@ -29,4 +29,10 @@ links:: [Local library](zotero://select/library/items/C7S8WZL7), [Web library](h
 	- They have two plasmids with c1 under control of the lac promoter
 		- one has O_r1 (pKB252), one does not (pKB270)
 	- did mutagenesis
+	- they talk about how they make an additional lacz reporter plasmid but idgi
+- ((68e34fab-a94d-48bf-b3e7-4354eb9e1dc0))
+	- screen for mutants that can't stimulate P_rm but can still repress
+		- prophage that has lacZ fused to P_rm, so Bgal is measure of P_rm activity
+		- you want a phage that has no bgal but is still immune
+		- also use tet for additional selection
 	-

@@ -58,3 +58,23 @@ file-path:: file://C:/Users/David/Zotero/storage/RJHQI2CR/Guarente et al. - Muta
   hl-page:: 2
   hl-color:: red
   id:: 68e348df-969c-4237-9168-58c280ceec51
+- RESULTS
+  ls-type:: annotation
+  hl-page:: 2
+  hl-color:: purple
+  id:: 68e34fab-a94d-48bf-b3e7-4354eb9e1dc0
+- he prophage does not encode an active A phage repressor
+  ls-type:: annotation
+  hl-page:: 2
+  hl-color:: green
+  id:: 68e34ff5-c074-4247-b835-e8925c867d8c
+- this strain, lacZ transcription initiates at PRM, and the level of /3-galactosidase is a measure of PRM activi
+  ls-type:: annotation
+  hl-page:: 2
+  hl-color:: red
+  id:: 68e34ff8-8421-49ab-b502-7485419ef318
+- ster bacteria bearing the mutant plasmid would form white colonies on indicator plates (because PRM would not be stimulated) but would be immune to superinfecting A phages
+  ls-type:: annotation
+  hl-page:: 2
+  hl-color:: yellow
+  id:: 68e35010-2673-4f94-aa60-9a3c02e72f9a
