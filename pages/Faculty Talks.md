@@ -14,7 +14,7 @@
 				- first thought was blastocyst formation
 			- this also causes symmetry breaking
 		- it's all water flow
-		-
+		- engineer tissues that secrete chloride and generate electric fields for neighboring tissues
 - [[Sep 25th, 2025]]
   collapsed:: true
 	- [[Ileana Cristea]]
