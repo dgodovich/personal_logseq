@@ -42,7 +42,9 @@ links:: [Local library](zotero://select/library/items/GS3NEL75), [Web library](h
 - only rpoD mutants were found to give kan resistance, showing that it interacts with \sigma
 	- and they're actually all the same mutant, RH596
 	- Same one found by [[D. A. Siegele]] in [[Altered promoter recognition by mutant forms of the sigma 70 subunit of Escherichia coli RNA polymerase]]
+		- not super sure why this is the same mutant
+		- I guess maybe araC binds in a similar mechanism?
 - allele specific
 	- ((68e354c2-5693-42f7-a958-3395503916be))
 	- only that one mutant is fixed by the rpoD mutation
--
+- t
