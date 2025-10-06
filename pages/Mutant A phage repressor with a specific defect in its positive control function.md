@@ -35,4 +35,15 @@ links:: [Local library](zotero://select/library/items/C7S8WZL7), [Web library](h
 		- prophage that has lacZ fused to P_rm, so Bgal is measure of P_rm activity
 		- you want a phage that has no bgal but is still immune
 		- also use tet for additional selection
-	-
+	- find a mutant pc-1 that has that phenotype
+		- ((68e350b4-5aaa-4902-9673-479d699d8919))
+			- I'm a bit too sleepy to really process what this means
+			- but they explain in the paper
+	- pc1 can't bind to P_rm at all from the blot in figure 3
+	- mutation is in the N terminus, which makes sense (binding domain)
+- G -> R change
+- Discussion
+	- can still form dimers and have cooperativity
+	- glycine at 43 is important for binding
+	- there's some degree of repression of rna pol
+		- does some kind of promoter recognition that isn't happening in the mutant

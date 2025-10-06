@@ -78,3 +78,17 @@ file-path:: file://C:/Users/David/Zotero/storage/RJHQI2CR/Guarente et al. - Muta
   hl-page:: 2
   hl-color:: yellow
   id:: 68e35010-2673-4f94-aa60-9a3c02e72f9a
+- [:span]
+  ls-type:: annotation
+  hl-page:: 3
+  hl-color:: green
+  id:: 68e3509b-d6b7-4220-8a26-423b3e8e5022
+  hl-type:: area
+  hl-stamp:: 1759727865560
+- [:span]
+  ls-type:: annotation
+  hl-page:: 3
+  hl-color:: purple
+  id:: 68e350b4-5aaa-4902-9673-479d699d8919
+  hl-type:: area
+  hl-stamp:: 1759727795580
