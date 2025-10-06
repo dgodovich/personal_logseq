@@ -1,3 +1,20 @@
+- [[Oct 6th, 2025]]
+	- [[Daniel J. Cohen]]
+		- Electrotaxis is one of the oldest conserved natural processes
+		- ~1 V/cm field
+			- about a 50mV potential across the skin
+			- kind of like an immune system? You can detect where it breaks
+		- epithelial tissues are barrier tissues
+			- that have ion gradients
+		- fields can pull on proteins (electrophoresis) and move water
+		- optogenetics can't do this because you can't have a global direction
+		- field strength matters too
+		- moving to 3D gets weird
+			- spheroid inflates
+				- first thought was blastocyst formation
+			- this also causes symmetry breaking
+		- it's all water flow
+		-
 - [[Sep 25th, 2025]]
   collapsed:: true
 	- [[Ileana Cristea]]
