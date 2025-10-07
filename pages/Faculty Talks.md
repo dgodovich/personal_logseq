@@ -1,5 +1,18 @@
+- [[Oct 7th, 2025]]
+	- [[Mo Seyedsayamdost]]
+		- most antibiotics you don't know the structure or what it looks like before you use it
+		- vast majority of biosynthetic gene clusters in bacteria are silent
+			- no transcription of the product, but it can still have activity?
+			- found these by sequencing
+		- huge number of compounds found
+			- anywhere from 5 - 30 enzymes in each pathway
+			- some are independent, others have some overlap / crosstalk
+	- [[Michael Skinnider]]
+		- mostly computational lab
+		-
 - [[Oct 6th, 2025]]
 	- [[Daniel J. Cohen]]
+	  collapsed:: true
 		- Electrotaxis is one of the oldest conserved natural processes
 		- ~1 V/cm field
 			- about a 50mV potential across the skin
