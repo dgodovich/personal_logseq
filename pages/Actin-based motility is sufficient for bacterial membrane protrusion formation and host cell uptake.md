@@ -42,3 +42,16 @@ links:: [Local library](zotero://select/library/items/QPU8YLR4), [Web library](h
 	- no comet tail formation without that
 	- IcsP is also relevant in the same way as in the previous paper
 	- having the unipolar distribution also makes the E coli move faster
+- ((68e4884f-48ef-430b-9c92-c9b13c1a12bf))
+	- indeed if the E. coli has IcsA it can form protrusions
+	- necessary and sufficient
+	- If they make it have similar properties to shigella then it behaves very similarly
+	- ((68e48913-dd6f-4554-9d70-85a83300d594))
+		- unidirectional movement is more important than absolute speed
+- spread by extending a membrane bound protrusion into an adjacent cell
+	- distend both the current cell membrane and the neighbors
+	- then escape from the vacuole into the new cell cytoplasm
+- they can measure the double membrane in E coli because it can't escape
+	- no machinery to do that like shigella would have
+- ((68e48a19-f25f-4abd-9fae-66d437d2e452))
+	-
