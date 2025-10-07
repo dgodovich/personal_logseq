@@ -1,0 +1,2 @@
+file:: [Monack and Theriot - 2001 - Actin-based motility is sufficient for bacterial membrane protrusion formation and host cell uptake.pdf](file://C:/Users/David/Zotero/storage/LK3ZKZU5/Monack and Theriot - 2001 - Actin-based motility is sufficient for bacterial membrane protrusion formation and host cell uptake.pdf)
+file-path:: file://C:/Users/David/Zotero/storage/LK3ZKZU5/Monack and Theriot - 2001 - Actin-based motility is sufficient for bacterial membrane protrusion formation and host cell uptake.pdf
