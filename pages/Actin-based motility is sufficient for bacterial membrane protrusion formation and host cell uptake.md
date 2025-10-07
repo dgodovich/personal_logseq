@@ -30,4 +30,15 @@ links:: [Local library](zotero://select/library/items/QPU8YLR4), [Web library](h
 	- unable to escape into cytoplasm of adjacent epithelial cell
 	- 4th class is unknown reasons
 - This is building on [[The making of a gradient: IcsA (VirG) polarity in Shigella flexneri]] Robbins
--
+- lipopolysaccharide characteristics are also relevant to IcsA gradient
+- membrane bound protrusions seem to be the mechanism of cell transfer
+- ((68e485e0-6293-498e-af64-306db6c91109))
+	- Express IcsA in E. coli and see if they can move around in a host cell
+	- engineered E coli is able to infect cells which it normally can't? I think that's the part about listeriolysin O
+	- number of bacteria in the host cell increases over time, and they polymerize actin
+	- Figure 1 shows the E coli in the cells with actin comet tails
+	- Figure 2 is a growth curve of E coli in the host cells
+- They also check that unipolar distribution of IcsA matters, and it does
+	- no comet tail formation without that
+	- IcsP is also relevant in the same way as in the previous paper
+	- having the unipolar distribution also makes the E coli move faster
