@@ -1,6 +1,7 @@
 - ![MOL504_Fall2025_SP.pdf](../assets/MOL504_Fall2025_SP_1756824447343_0.pdf)
 - [[504 Minigrant]]
 - [[Oct 2nd, 2025]] Signal Transduction
+  collapsed:: true
 	- Reading
 		- [[The Biochemical Basis of an All-or-None Cell Fate Switch in Xenopus Oocytes]]
 		- [[Using Optogenetics to Interrogate the Dynamic Control of Signal Transmission by the Ras-Erk Module]]
