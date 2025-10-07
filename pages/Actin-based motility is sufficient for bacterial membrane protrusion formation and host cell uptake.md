@@ -54,4 +54,7 @@ links:: [Local library](zotero://select/library/items/QPU8YLR4), [Web library](h
 - they can measure the double membrane in E coli because it can't escape
 	- no machinery to do that like shigella would have
 - ((68e48a19-f25f-4abd-9fae-66d437d2e452))
+	- virulence in shigella is mostly on a large plasmid
+		- side note, evolution of these things is pretty cool
+		- some interesting selective pressures
 	-

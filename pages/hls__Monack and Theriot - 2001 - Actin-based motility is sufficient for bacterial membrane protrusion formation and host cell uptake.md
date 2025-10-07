@@ -123,3 +123,53 @@ file-path:: file://C:/Users/David/Zotero/storage/LK3ZKZU5/Monack and Theriot - 2
   hl-page:: 8
   hl-color:: purple
   id:: 68e48a19-f25f-4abd-9fae-66d437d2e452
+- sults show that the cytoplasm of mammalian endothelial and epithelial cells is also permissive for replication of some Gram-negative organism
+  ls-type:: annotation
+  hl-page:: 9
+  hl-color:: yellow
+  id:: 68e48a5e-2fa6-47ae-950b-f1a551d3c2c3
+- have extended this finding by demonstrating that the S. flexneri virulence plasmid is also not required to confer the ability to perform cytoplasmic replication on E. coli, ruling out adaptatio
+  ls-type:: annotation
+  hl-page:: 9
+  hl-color:: yellow
+  id:: 68e48aa4-c592-4dff-b010-098d48d97ea5
+- his reliance on cytoplasmic extracts as a surrogate for host cells has come about simply because of the technical difficulty of introducing non-pathogenic bacteria into the cytoplasmic compartment of living cells
+  ls-type:: annotation
+  hl-page:: 9
+  hl-color:: blue
+  id:: 68e48abf-fabd-48f2-beda-89f065e88e22
+- ng a two-step method to introduce nonpathogenic bacteria into cytoplasm: induction of pathogendirected endocytosis by expression of invasin from Y. pseudotuberculosis followed by vacuolar escape mediated by listeriolysin O from L. monocytogene
+  ls-type:: annotation
+  hl-page:: 9
+  hl-color:: red
+  id:: 68e48aca-f5ab-4e1c-acf3-3a2d825088ed
+- icient conversion of actin clouds into actin tails and for the initiation of actin-based movemen
+  ls-type:: annotation
+  hl-page:: 10
+  hl-color:: yellow
+  id:: 68e48ae0-54c6-4f53-9ba8-d298a624689a
+- urprisingly, speed does not correlate well with polarity, with IcsP expression or with LPS structur
+  ls-type:: annotation
+  hl-page:: 10
+  hl-color:: green
+  id:: 68e48aec-260e-4650-91b7-26777198e4f7
+- irectional movement is necessary and sufficien
+  ls-type:: annotation
+  hl-page:: 10
+  hl-color:: yellow
+  id:: 68e48afe-edb8-4eba-89d7-475a6c76c888
+- st strikingly, we found a significant strong correlation between the frequency of protrusion formation in all strains examined and the frequency of unidirectional movemen
+  ls-type:: annotation
+  hl-page:: 10
+  hl-color:: yellow
+  id:: 68e48b29-d4cd-4b14-802b-18d4ec868ab5
+- ese `sideways' individuals were still able to form membrane protrusions as observed by live video microscop
+  ls-type:: annotation
+  hl-page:: 11
+  hl-color:: yellow
+  id:: 68e48b4f-d7d9-4082-9cf4-4df60e174153
+- t they must be moving in a determined and persistent manne
+  ls-type:: annotation
+  hl-page:: 11
+  hl-color:: green
+  id:: 68e48b57-e6f8-4354-921a-8de9dfadd53f
