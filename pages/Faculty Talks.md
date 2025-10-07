@@ -9,7 +9,11 @@
 			- some are independent, others have some overlap / crosstalk
 	- [[Michael Skinnider]]
 		- mostly computational lab
-		-
+		- chemical language models
+			- everything is a transformer
+		- predict designer drugs and metabolites using a foundation model based on SMILES
+			- some tokenizer for chemistry
+		- pretty cool stuff but I'm good
 - [[Oct 6th, 2025]]
 	- [[Daniel J. Cohen]]
 	  collapsed:: true
