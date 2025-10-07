@@ -21,4 +21,13 @@ links:: [Local library](zotero://select/library/items/QPU8YLR4), [Web library](h
 - Attachments
 	- [Full Text](https://onlinelibrary.wiley.com/doi/pdfdirect/10.1046/j.1462-5822.2001.00143.x) {{zotero-imported-file LK3ZKZU5, "Monack and Theriot - 2001 - Actin-based motility is sufficient for bacterial membrane protrusion formation and host cell uptake.pdf"}}
 	- [PubMed entry](http://www.ncbi.nlm.nih.gov/pubmed/11553015)
+- This is like final boss of reconstituting a system in vitro, do it in vivo in a different system
+- actin based motility is necessary for intercellular spread, but it's not known if the force generated is sufficient for protrusions
+	- Is it that the bacteria forces its way out of the cell by actin polymerization, or does it interact with membrane proteins to do something else?
+- 4 classes of mutants that can't spread
+	- defects in intracellular multiplication because of a metabolic problem
+	- actin polymerization mutants
+	- unable to escape into cytoplasm of adjacent epithelial cell
+	- 4th class is unknown reasons
+- This is building on [[The making of a gradient: IcsA (VirG) polarity in Shigella flexneri]] Robbins
 -
