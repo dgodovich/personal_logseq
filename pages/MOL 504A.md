@@ -1,12 +1,15 @@
 - ![MOL504_Fall2025_SP.pdf](../assets/MOL504_Fall2025_SP_1756824447343_0.pdf)
 - [[504 Minigrant]]
+- [[Oct 7th, 2025]] Pathogenesis
+	- Reading
+		- [[Actin-based motility is sufficient for bacterial membrane protrusion formation and host cell uptake]]
+		- [[The Gradient-Sensing Mechanism in Bacterial Chemotaxis]]
 - [[Oct 2nd, 2025]] Signal Transduction
   collapsed:: true
 	- Reading
 		- [[The Biochemical Basis of an All-or-None Cell Fate Switch in Xenopus Oocytes]]
 		- [[Using Optogenetics to Interrogate the Dynamic Control of Signal Transmission by the Ras-Erk Module]]
 			- convenient reading assignment
-	-
 - [[Sep 30th, 2025]] Intracellular Trafficking
   collapsed:: true
 	- Reading
