@@ -1,5 +1,4 @@
 - [[PyCLM: programming-free, closed-loop microscopy for real-time measurement, segmentation, and optogenetic stimulation]]
-- Usage
-	- Currently in an anaconda environment
-	- Safer to run in PyCharm because that can catch errors better
-- Function to parse hdf5s
+- Running PyCLM
+	- `uv run pyclm "[FOLDER PATH]"`
+	-
