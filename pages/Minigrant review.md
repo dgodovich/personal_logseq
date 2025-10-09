@@ -1,0 +1,18 @@
+- Primary Reviewer for Grant 12 (5 minute limit)
+	- You will provide a brief summary of the grant proposal. Mention the subject, the approach, and the significance. You should be able to get all the information from the grant.
+	- List the greatest strength of the proposal and the biggest weakness (only 1 of each is needed and you can find that the grant is lacking strength or weakness). You will announce these in class.
+	- Announce your score for the grant.
+	- Aims
+		- Specific Aim 1: Determine if TRP4 Ca²⁺ channels have different forms between 26°C to 31°C.
+		- Specific Aim 2: Show if pSTAT3 positively regulates itself to commit to female development.
+	- Background notes
+		- Low temperatures (male) (26C) Kdm6b is upregulated
+			- this is a demethylase, so repressive Me marks are removed from cells
+			- Specifically results in an increase of Dmrt1 expression, specifies male gonads
+		- Kdm6b is repressed at female temperatures by STAT3 signaling
+			- Transient Receptor Potential (TRP) cals
+-
+- Secondary Reviewer for Grant 10  (3 minute limit)
+	- You will add anything you think the Primary reviewer didn’t highlight that is important for scoring purposes.
+	- List the greatest strength and biggest weakness from your analysis (only 1 of each is needed). You will announce these in class.
+	- Announce your score for the grant.

@@ -45,6 +45,7 @@
 	- How does the cell sense temporal resolution of wavefront
 		- FRAP?
 -
+- [[Minigrant review]]
 -
 - ![Example of minigrant.pdf](../assets/Example_of_minigrant_1758826448226_0.pdf)
 -
