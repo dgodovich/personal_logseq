@@ -25,7 +25,14 @@
 	- Aim 1: Determine if TRP4 Ca²⁺ channels have different forms between 26°C to 31°C.
 		- The system requires a cellular component able to broadcast either two different signals at 26°C vs 31°C or offer no signal at all at one temperature
 			- this is a claim, there's other ways to do this? Why couldn't you have a gradient?
-		-
+		- Microscale thermophoresis (MST) for binding affinities at specific temperatures
+		- also cryoEM that I'm not sure will work
+		- Also look into alternative splicing
+			- affinity tag chromatography for specific exons? can you do this?
+			- I feel like it's gotta be sequencing right?
+		- cool technique for RNA secondary structure, SHAPE-MaP
+	- Aim 2: show if pSTAT3 positively regulates itself to commit to female development
+		- treat with different levels of calcium to activate pSTAT3
 		-
 -
 - Secondary Reviewer for Grant 10  (3 minute limit)
