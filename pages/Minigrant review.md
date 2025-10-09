@@ -60,6 +60,11 @@
 - why -> how -> so what
 	- need the why and the so what
 	- Have to get through the how very well, but it's not the critical part
+- Don't want to have incremental progress, want big questions
+	- important to avoid bias by saying you're proving something or it's a small knowledge gap
+	- Better to launch into a new thing
+- Predict something happening but without being prescriptivist
+-
 -
 - notes on my grant
 	- better controls
