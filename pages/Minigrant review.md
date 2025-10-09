@@ -36,8 +36,17 @@
 		- get Hill coefficient
 	- Summary
 		- Turtles have temperature dependent sex determination
--
+		- TRP calcium channels could have a temperature dependence, or maybe there's an RNA component
+		- Strength:
+			- Grant addresses various possibilities of temperature dependence and offers overlapping experiments to fully characterize
+		- Weakness:
+			- No health relevance
+		- Score:
+			- 5
 - Secondary Reviewer for Grant 10  (3 minute limit)
 	- You will add anything you think the Primary reviewer didn’t highlight that is important for scoring purposes.
 	- List the greatest strength and biggest weakness from your analysis (only 1 of each is needed). You will announce these in class.
 	- Announce your score for the grant.
+	- This is a real tough one to read
+		- The abstract and background felt good and aim 1 is immediately into like goddamn what is going on
+	-
