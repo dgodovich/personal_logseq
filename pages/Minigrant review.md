@@ -64,7 +64,7 @@
 	- important to avoid bias by saying you're proving something or it's a small knowledge gap
 	- Better to launch into a new thing
 - Predict something happening but without being prescriptivist
--
+- Too little is a problem, too big is hard to get to so don't worry about it as much
 -
 - notes on my grant
 	- better controls
