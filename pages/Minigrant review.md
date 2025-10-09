@@ -56,3 +56,23 @@
 		- aim 2 doesn't have alternative experiments
 	- Score
 		- 2
+-
+- why -> how -> so what
+	- need the why and the so what
+	- Have to get through the how very well, but it's not the critical part
+-
+- notes on my grant
+	- better controls
+	  background-color:: yellow
+		- optogenetics in MDCK cells as control
+	- RPPA - blind spots in the array design
+		- try to overcome the blind spot by checking the protein list
+	- aim 1 is too broad, specifying are better
+	- list what outcomes are expected
+		- sentence or two at end to summarize aims
+	- reader doesn't necessarily know what's going on
+		- rationale of which cell line is used
+	- confusing to follow
+	- very methods heavy not enough so what
+		- put this into the aims to keep segueing consistently
+	-
