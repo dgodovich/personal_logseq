@@ -49,4 +49,10 @@
 	- Announce your score for the grant.
 	- This is a real tough one to read
 		- The abstract and background felt good and aim 1 is immediately into like goddamn what is going on
-	-
+	- Strength
+		- very thorough
+	- Weakness
+	  id:: 68e73230-fed3-4020-9ed6-43583dc8a310
+		- aim 2 doesn't have alternative experiments
+	- Score
+		- 2
