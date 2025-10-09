@@ -10,7 +10,23 @@
 			- this is a demethylase, so repressive Me marks are removed from cells
 			- Specifically results in an increase of Dmrt1 expression, specifies male gonads
 		- Kdm6b is repressed at female temperatures by STAT3 signaling
-			- Transient Receptor Potential (TRP) cals
+			- Transient Receptor Potential (TRP) calcium cation channels mediate this
+			- pSTAT3 is important for repression
+		- Increasing pSTAT3 leads to female regardless of temp
+			- likewise, decreasing leads to male regardless of temp
+		- There's a specific window of sensitivity
+			- stages 15-20, irreversible after 20
+			- If you pulse high temp at this time you get the pulsed one, not the normal one
+		- Thoughts about the background
+			- There's a bunch of information missing here
+				- What's up with the staging? How long is turtle development? Is 4h actually quick?
+			- Why are you focusing on TRP4 specifically?
+			- Health relevance?
+	- Aim 1: Determine if TRP4 Ca²⁺ channels have different forms between 26°C to 31°C.
+		- The system requires a cellular component able to broadcast either two different signals at 26°C vs 31°C or offer no signal at all at one temperature
+			- this is a claim, there's other ways to do this? Why couldn't you have a gradient?
+		-
+		-
 -
 - Secondary Reviewer for Grant 10  (3 minute limit)
 	- You will add anything you think the Primary reviewer didn’t highlight that is important for scoring purposes.
