@@ -33,7 +33,9 @@
 		- cool technique for RNA secondary structure, SHAPE-MaP
 	- Aim 2: show if pSTAT3 positively regulates itself to commit to female development
 		- treat with different levels of calcium to activate pSTAT3
-		-
+		- get Hill coefficient
+	- Summary
+		- Turtles have temperature dependent sex determination
 -
 - Secondary Reviewer for Grant 10  (3 minute limit)
 	- You will add anything you think the Primary reviewer didn’t highlight that is important for scoring purposes.
