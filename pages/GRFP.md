@@ -1,5 +1,15 @@
 - [[Sep 29th, 2025]]
 	- solicitation for this year just came out and it's limited to first years sooo I gotta apply now or don't
+- NOW Email Kat!
+  :LOGBOOK:
+  CLOCK: [2025-10-09 Thu 10:59:47]
+  CLOCK: [2025-10-09 Thu 10:59:49]
+  :END:
+-
+- Actual application time
+	- Aim 1: in vitro optimization of RTK platform for targeted migration
+	- Aim 2: in vivo performance testing with LNP delivery systems in a mouse skin healing model
+-
 - I gotta start thinking / working on this if I hope to submit in time
 - Due in october
 	- October 16, 2024
