@@ -145,3 +145,18 @@ file-path:: file://C:/Users/David/Zotero/storage/2BWWPQ7H/Slauch and Silhavy - 1
   id:: 68e86d78-a42a-4849-b884-69d17f1b196e
   hl-type:: area
   hl-stamp:: 1760062839930
+- hown in Figure 2, the OmpF’, OmpC-constitutive phenotype conferred by ompR3 mutations is clearly dominant to ompR472
+  ls-type:: annotation
+  hl-page:: 6
+  hl-color:: green
+  id:: 68e86e9e-4eda-46b3-86f0-19a76600e0c4
+- gulation of ompF in ompR* /ompR2 merodiploids. This suggests that wild-type OmpR is capable of negatively regulating the expression of omp
+  ls-type:: annotation
+  hl-page:: 6
+  hl-color:: green
+  id:: 68e86fd2-4da5-4add-9a96-2ff8811e5dee
+- The nature of the ompR mutation
+  ls-type:: annotation
+  hl-page:: 7
+  hl-color:: purple
+  id:: 68e87013-3c75-470d-b73b-74f0ee497a50

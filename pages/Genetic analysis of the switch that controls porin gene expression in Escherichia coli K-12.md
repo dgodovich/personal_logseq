@@ -70,6 +70,18 @@ links:: [Local library](zotero://select/library/items/2BTBKXU5), [Web library](h
 		- little complementation
 	- ((68e86d78-a42a-4849-b884-69d17f1b196e))
 - More investigation into that dominant phenotype
+	- mixed oligomers are non functional for activation?
+		- In this case dominance should be somewhat allele specific
+			- i.e. can get some to be normal in complementation bc of specific interactions
+	- The other option is osmoregulation by OmpR is normally negatively controlling ompF
+		- this option seems to have more support
+	- ompR3 mutations are dominant over ompR2 mutants
+		- constitutive expression from ompR2 mutation is no good
+		- they also check this with a gene fusion and get the same result
+	- OmpF- dominant, OmpC+ phenotype is the normal regulation porins
+	- wt OmpR is capable of negatively regulating the expression of ompF
+	- brief aside to explore if it's an RNA product that does it, it's not
+- ((68e87013-3c75-470d-b73b-74f0ee497a50))
 	-
 - ((68e85e42-a0d3-419b-a4ac-d5572a3227c3))
 -
