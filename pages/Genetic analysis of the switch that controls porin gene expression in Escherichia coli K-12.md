@@ -82,6 +82,12 @@ links:: [Local library](zotero://select/library/items/2BTBKXU5), [Web library](h
 	- wt OmpR is capable of negatively regulating the expression of ompF
 	- brief aside to explore if it's an RNA product that does it, it's not
 - ((68e87013-3c75-470d-b73b-74f0ee497a50))
-	-
+	- EnvZ functions to mediate conversion between forms of OmpR
+	- mutant locked into one form of OmpR (e.g. OmpF+ OmpC-) should be fine to lose EnvZ
+	- Figure 4 shows that EnvZ is critical for the behavior of the mutants
+		- so it's not that these are locked into one form, it's more that one of the forms is inactivated
+		- that's in the ompR2 mutants
+	- OmpR3 mutants do some weird stuff that I'm not sure that I follow
+-
 - ((68e85e42-a0d3-419b-a4ac-d5572a3227c3))
 -

@@ -160,3 +160,18 @@ file-path:: file://C:/Users/David/Zotero/storage/2BWWPQ7H/Slauch and Silhavy - 1
   hl-page:: 7
   hl-color:: purple
   id:: 68e87013-3c75-470d-b73b-74f0ee497a50
+- utant that is locked into a given conformation would no longer require EnvZ to activate porin gene expressi
+  ls-type:: annotation
+  hl-page:: 7
+  hl-color:: yellow
+  id:: 68e87088-2ce9-4d11-94ba-93b2aab8cdeb
+- ompR mutant by determining if the remaining functions of the mutant protein require Env
+  ls-type:: annotation
+  hl-page:: 7
+  hl-color:: red
+  id:: 68e87092-9d8e-4ba8-bd55-3d91ec0216dd
+- As shown in Figure 4, the various ompR2 mutations, including ompk472, are completely dependent on EnvZ, some even more so than the wild type prote
+  ls-type:: annotation
+  hl-page:: 7
+  hl-color:: green
+  id:: 68e870c0-c60b-4c7a-a601-a77234e07e17
