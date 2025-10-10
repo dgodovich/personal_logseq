@@ -1,0 +1,2 @@
+file:: [Slauch and Silhavy - 1989 - Genetic analysis of the switch that controls porin gene expression in Escherichia coli K-12.pdf](file://C:/Users/David/Zotero/storage/2BWWPQ7H/Slauch and Silhavy - 1989 - Genetic analysis of the switch that controls porin gene expression in Escherichia coli K-12.pdf)
+file-path:: file://C:/Users/David/Zotero/storage/2BWWPQ7H/Slauch and Silhavy - 1989 - Genetic analysis of the switch that controls porin gene expression in Escherichia coli K-12.pdf
