@@ -52,7 +52,13 @@ links:: [Local library](zotero://select/library/items/2BTBKXU5), [Web library](h
 	- This is a powerful strategy to work with two very closely linked genes
 	- ompC lacZ fusion
 		- dude these fusions are crazy
-	- ompF specific phage sensitivity defines OmpF+
+	- ompF specific phage sensitivity defines OmpF+ K20
+	- there's also an analogous ompC specific phage SS4
+		- very low number of hits (only 2)
+	- ompR2 mutations are ompC-/ompF+
+	- ompR3 mutations are ompC+/ompF-
+- ((68e864b6-4b22-4f3d-92c9-0300453e4593))
+	- Table 2 shows the degree of production of ompC and ompF
 	-
 - ((68e85e42-a0d3-419b-a4ac-d5572a3227c3))
 -

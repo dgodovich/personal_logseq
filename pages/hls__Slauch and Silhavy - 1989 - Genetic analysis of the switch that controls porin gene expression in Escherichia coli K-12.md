@@ -117,3 +117,13 @@ file-path:: file://C:/Users/David/Zotero/storage/2BWWPQ7H/Slauch and Silhavy - 1
   hl-page:: 3
   hl-color:: red
   id:: 68e86452-1ebf-4bf5-ab4f-77b53b92569d
+- Characterization of the ompR2 and ompR3 mutations
+  ls-type:: annotation
+  hl-page:: 4
+  hl-color:: purple
+  id:: 68e864b6-4b22-4f3d-92c9-0300453e4593
+- enotype conferred by the various ompR2 mutations is seen in the merodiploids, in which the recessive null mutation ompR101 is in tran
+  ls-type:: annotation
+  hl-page:: 4
+  hl-color:: yellow
+  id:: 68e86501-0823-4fe4-a524-cd7754735906
