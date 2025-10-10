@@ -90,4 +90,4 @@ links:: [Local library](zotero://select/library/items/2BTBKXU5), [Web library](h
 	- OmpR3 mutants do some weird stuff that I'm not sure that I follow
 -
 - ((68e85e42-a0d3-419b-a4ac-d5572a3227c3))
--
+	- I didn't take notes here because it became relatively easy to follow

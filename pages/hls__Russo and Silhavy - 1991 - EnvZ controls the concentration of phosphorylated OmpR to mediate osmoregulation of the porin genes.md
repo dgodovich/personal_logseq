@@ -1,0 +1,2 @@
+file:: [Russo and Silhavy - 1991 - EnvZ controls the concentration of phosphorylated OmpR to mediate osmoregulation of the porin genes.pdf](file://C:/Users/David/Zotero/storage/7MPKLEUQ/Russo and Silhavy - 1991 - EnvZ controls the concentration of phosphorylated OmpR to mediate osmoregulation of the porin genes.pdf)
+file-path:: file://C:/Users/David/Zotero/storage/7MPKLEUQ/Russo and Silhavy - 1991 - EnvZ controls the concentration of phosphorylated OmpR to mediate osmoregulation of the porin genes.pdf

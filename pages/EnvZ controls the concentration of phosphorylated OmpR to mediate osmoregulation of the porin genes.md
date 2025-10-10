@@ -21,3 +21,4 @@ links:: [Local library](zotero://select/library/items/ZUY32HY7), [Web library](h
 - Attachments
 	- [PDF](zotero://select/library/items/7MPKLEUQ) {{zotero-imported-file 7MPKLEUQ, "Russo and Silhavy - 1991 - EnvZ controls the concentration of phosphorylated OmpR to mediate osmoregulation of the porin genes.pdf"}}
 	- [PubMed entry](http://www.ncbi.nlm.nih.gov/pubmed/1660927)
+-
