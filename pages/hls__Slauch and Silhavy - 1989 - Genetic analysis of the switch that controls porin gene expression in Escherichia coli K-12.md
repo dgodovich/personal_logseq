@@ -127,3 +127,21 @@ file-path:: file://C:/Users/David/Zotero/storage/2BWWPQ7H/Slauch and Silhavy - 1
   hl-page:: 4
   hl-color:: yellow
   id:: 68e86501-0823-4fe4-a524-cd7754735906
+- he mutation ompR321 is the least defective, with ompR472, isolated by Verhoef et al. (1979), being the most defective. In the ompk472 strain, OmpF production is fully constitutive and no OmpC is produ
+  ls-type:: annotation
+  hl-page:: 4
+  hl-color:: yellow
+  id:: 68e86cfa-075d-460a-97fa-d853720ba731
+  hl-stamp:: 1760062718478
+- he ompR2 mutations synthesize less OmpC and more OmpF in high osmolarity than does the wild-typ
+  ls-type:: annotation
+  hl-page:: 4
+  hl-color:: green
+  id:: 68e86d02-8263-4b25-903b-3bb34c64d193
+- [:span]
+  ls-type:: annotation
+  hl-page:: 4
+  hl-color:: green
+  id:: 68e86d78-a42a-4849-b884-69d17f1b196e
+  hl-type:: area
+  hl-stamp:: 1760062839930

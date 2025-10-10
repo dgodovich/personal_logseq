@@ -59,6 +59,17 @@ links:: [Local library](zotero://select/library/items/2BTBKXU5), [Web library](h
 	- ompR3 mutations are ompC+/ompF-
 - ((68e864b6-4b22-4f3d-92c9-0300453e4593))
 	- Table 2 shows the degree of production of ompC and ompF
+	- ompR101 is a recessive null mutant
+		- so there's no ompR normally?
+	- strains are doubly defective
+		- ompR2 strains do less ompC (expected) and also more ompF (less expected)
+		- opposite true for ompR3 strains
+	- ompF is able to be complemented, but ompC is incomplete complementation with wt
+		- ompF- is recessive, probably ompC- also is in the ompR2 mutants
+	- ompR3 mutations are dominant
+		- little complementation
+	- ((68e86d78-a42a-4849-b884-69d17f1b196e))
+- More investigation into that dominant phenotype
 	-
 - ((68e85e42-a0d3-419b-a4ac-d5572a3227c3))
 -
