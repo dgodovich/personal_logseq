@@ -22,4 +22,9 @@ links:: [Local library](zotero://select/library/items/2BTBKXU5), [Web library](h
 	- [PDF](zotero://select/library/items/2BWWPQ7H) {{zotero-imported-file 2BWWPQ7H, "Slauch and Silhavy - 1989 - Genetic analysis of the switch that controls porin gene expression in Escherichia coli K-12.pdf"}}
 	- [PubMed entry](http://www.ncbi.nlm.nih.gov/pubmed/2557454)
 - We're in deep now
--
+- Introduction
+	- ompF and C are the major outer membrane proteins
+	- these are regulated at the transcriptional level by ompR and EnvZ
+		- products of the *ompB* operon
+	- OmpR is DNA binding to the promoters of ompF and ompC
+	-
