@@ -1,9 +1,9 @@
 - [[Sep 29th, 2025]]
 	- solicitation for this year just came out and it's limited to first years sooo I gotta apply now or don't
-- NOW Email Kat!
+- DONE Email Kat!
   :LOGBOOK:
   CLOCK: [2025-10-09 Thu 10:59:47]
-  CLOCK: [2025-10-09 Thu 10:59:49]
+  CLOCK: [2025-10-09 Thu 10:59:49]--[2025-10-10 Fri 14:30:46] =>  27:30:57
   :END:
 -
 - Actual application time
