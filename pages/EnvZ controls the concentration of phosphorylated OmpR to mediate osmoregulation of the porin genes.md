@@ -21,4 +21,13 @@ links:: [Local library](zotero://select/library/items/ZUY32HY7), [Web library](h
 - Attachments
 	- [PDF](zotero://select/library/items/7MPKLEUQ) {{zotero-imported-file 7MPKLEUQ, "Russo and Silhavy - 1991 - EnvZ controls the concentration of phosphorylated OmpR to mediate osmoregulation of the porin genes.pdf"}}
 	- [PubMed entry](http://www.ncbi.nlm.nih.gov/pubmed/1660927)
+- ompF and C are porins
+- total amount is consistent, but individual concentration changes
+- EnvZ (sensor) stimulus probably comes from the membrane or periplasm, not cytoplasm
+	- OmpR is downstream effector in the cytoplasm
+- model has low osmolarity OmpR binding to an activator at omfF
+- high osmolarity OmpR binds to activator at ompC and repressor at F
+- same phage sensitivity test as last time
+- This is a very similar paper it seems, they're just doing it for EnvZ mutants insead of OmpR
+- 6 hits that are not EnvZ null but are completely non functional
 -
