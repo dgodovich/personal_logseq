@@ -22,9 +22,34 @@ links:: [Local library](zotero://select/library/items/2BTBKXU5), [Web library](h
 	- [PDF](zotero://select/library/items/2BWWPQ7H) {{zotero-imported-file 2BWWPQ7H, "Slauch and Silhavy - 1989 - Genetic analysis of the switch that controls porin gene expression in Escherichia coli K-12.pdf"}}
 	- [PubMed entry](http://www.ncbi.nlm.nih.gov/pubmed/2557454)
 - We're in deep now
-- Introduction
+- ((68e85e19-0df5-4616-9a1c-1e22821b7f1a))
 	- ompF and C are the major outer membrane proteins
 	- these are regulated at the transcriptional level by ompR and EnvZ
 		- products of the *ompB* operon
 	- OmpR is DNA binding to the promoters of ompF and ompC
+	- EnvZ is thought to be a sensor whos readout is ompR activity
+		- sensing membrane osmolarity
+	- Two component regulatory system
+		- sensor (EnvZ) and effector (OmpR)
+	- OmpF and C are mutually exclusive
+- ((68e85e28-46ed-4b8b-bb79-6a8ee29ac72c))
+	- they use a \lambda derivative as a generalized transducing phage
+	- and a helper phage G216 to get it into the genome
+		- because the \lambda\RT2 is *int*
+			- integrase negative
+			- helper phage provides this in trans
+	- merodiploids are RecA- so that they don't recombine again and kick anything out
+	- mutagenize with nitrosoguanidine
+- ((68e85e2f-0489-4cf9-9ba5-09db607e9067))((68e85fb3-9147-4de5-9c6c-747684a6b6dd))
+	- OmpR was thought to have multiple forms that activate either ompF or ompC
+		- look for mutants that can do one of these but not both
+			- screen for mutants that lower expression of one of the omps
+		- so looking for a missense mutation that reduces specific binding activity?
+	- They use strains that have diploid ompB operon
+		- but each copy only has one of ompR or envZ working
+		- Tn10 insertion into envZ in the normal chromosome
+		- non-polar deletion in ompR on the phage copy
+	- This is a powerful strategy to work with two very closely linked genes
 	-
+- ((68e85e42-a0d3-419b-a4ac-d5572a3227c3))
+-
