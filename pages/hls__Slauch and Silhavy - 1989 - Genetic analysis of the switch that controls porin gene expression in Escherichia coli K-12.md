@@ -112,3 +112,8 @@ file-path:: file://C:/Users/David/Zotero/storage/2BWWPQ7H/Slauch and Silhavy - 1
   hl-page:: 3
   hl-color:: yellow
   id:: 68e860a3-6307-4cce-b8ec-19cdf5a56f1b
+- ing sensitivity to the OmpF-specific phage K2
+  ls-type:: annotation
+  hl-page:: 3
+  hl-color:: red
+  id:: 68e86452-1ebf-4bf5-ab4f-77b53b92569d

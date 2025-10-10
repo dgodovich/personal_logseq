@@ -50,6 +50,9 @@ links:: [Local library](zotero://select/library/items/2BTBKXU5), [Web library](h
 		- Tn10 insertion into envZ in the normal chromosome
 		- non-polar deletion in ompR on the phage copy
 	- This is a powerful strategy to work with two very closely linked genes
+	- ompC lacZ fusion
+		- dude these fusions are crazy
+	- ompF specific phage sensitivity defines OmpF+
 	-
 - ((68e85e42-a0d3-419b-a4ac-d5572a3227c3))
 -
