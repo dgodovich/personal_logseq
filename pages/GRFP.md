@@ -18,7 +18,7 @@
 	- Adela?
 -
 - I gotta start thinking / working on this if I hope to submit in time
-- Due in october
+- Due in november
 	- November 10, 2024
 	- Life Sciences
 		- but I should have an engineering focus it seems
@@ -27,7 +27,23 @@
 		- 3 letters
 		- Kat, Jared
 		- Adela? Dr. Jin?
-- [Description](https://new.nsf.gov/funding/opportunities/nsf-graduate-research-fellowship-program-grfp/nsf24-591/solicitation)
+- [Description](https://www.nsf.gov/funding/opportunities/grfp-nsf-graduate-research-fellowship-program/nsf25-547/solicitation)
+	- Applicants must submit the following information through the GRFP Application Module: Personal Information; Education, Work and Other Experience; Official Transcript PDFs; Proposed Field of Study; Proposed Graduate Study and Graduate School Information; the names and email addresses of at least three reference letter writers (reference letters will be provided separately by these writers); Personal, Relevant Background, and Future Goals Statement PDF; and Graduate Research Plan Statement PDF.
+	- Cited references must include the titles of the journal or publication (abbreviations accepted)
+	- Images may be included and do not modify the page limits.
+	- Format
+		- 8.5x11 page, maximum 11pt font
+			- Arial or Courier New or Palatino Linotype can be used at 10
+		- Descriptive alternative text must be provided for all images, graphs, and charts, including sufficient color contrast for text and graphics, and must be submitted in a machine readable/accessible electronic format (e.g., HTML)
+		- PDF format
+		- Separate sections for "Intellectual Merit" and "Broader Impacts," under individual headings and separated by a line break must be included in both the Personal and Research Plan statements. DO NOT include other terms in the individual headings, combine these two sections into one section, or combine them with any other section
+		- Personal and Research Plan statements must have line breaks between sections. Applications that do not have line breaks between sections will be returned without review
+		- Personal, Relevant Background, and Future Goals statement is 3 pages
+		- Graduate Research Plan statement is 2 pages
+	- But it will also tell you if your submission is not compliant, which is kinda nice
+	- The Intellectual Merit criterion encompasses the potential to advance knowledge
+	- Broader Impacts criterion encompasses the potential to benefit society and contribute to the achievement of specific, desired societal outcomes
+	-
 	- NSF prioritizes research aligned with the budget statement, which makes sense
 		- Unfortunately this doesn't involve life science unless I can think of a way to connect it to climate change which seems tenuous at best
 		- [here's the actual presidential budget that outlines the points (page 129-130)](https://www.whitehouse.gov/wp-content/uploads/2024/03/budget_fy2025.pdf)
