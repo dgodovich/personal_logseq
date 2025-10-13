@@ -1,6 +1,7 @@
 - Reading
 	- [[An Excitable Ras/PI3K/ERK Signaling Network Controls Migration and Oncogenic Transformation in Epithelial Cells]]
 	- [[Large-scale control over collective cell migration using light-activated epidermal growth factor receptors]]
+	- [[Propagating Wave of ERK Activation Orients Collective Cell Migration]]
 - Right so I did not do that very well
 - Some notes
 	- I need to read earlier and take more meaningful notes

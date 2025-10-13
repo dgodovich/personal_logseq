@@ -1,21 +1,32 @@
 - [[Sep 29th, 2025]]
 	- solicitation for this year just came out and it's limited to first years sooo I gotta apply now or don't
-- DONE Email Kat!
-  :LOGBOOK:
-  CLOCK: [2025-10-09 Thu 10:59:47]
-  CLOCK: [2025-10-09 Thu 10:59:49]--[2025-10-10 Fri 14:30:46] =>  27:30:57
-  :END:
--
 - Actual application time
 	- Aim 1: in vitro optimization of RTK platform for targeted migration
 	- Aim 2: in vivo performance testing with LNP delivery systems in a mouse skin healing model
+- Reading
+	- [[Propagating Wave of ERK Activation Orients Collective Cell Migration]]
+- Broader Impacts
+- Intellectual Merit
+- Rec letters
+	- ((68b75a8a-f6f7-4c4b-bf6d-7279f9221716))
+	- DONE Email Kat!
+	  :LOGBOOK:
+	  CLOCK: [2025-10-09 Thu 10:59:47]
+	  CLOCK: [2025-10-09 Thu 10:59:49]--[2025-10-10 Fri 14:30:46] =>  27:30:57
+	  :END:
+	- Talk to Jared about letter (also maybe Danelle? but she wouldn't know me at all)
+	- Adela?
 -
 - I gotta start thinking / working on this if I hope to submit in time
 - Due in october
-	- October 16, 2024
+	- November 10, 2024
 	- Life Sciences
-	- **Reference Letters Must be Submitted by October 11, 2024 (Friday) 5:00 p.m. EASTERN TIME**
+		- but I should have an engineering focus it seems
+	- **Reference Letters Must be Submitted by November 7, 2025 (Friday) 5:00 p.m. EASTERN TIME**
+	  id:: 68b75a8a-f6f7-4c4b-bf6d-7279f9221716
 		- 3 letters
+		- Kat, Jared
+		- Adela? Dr. Jin?
 - [Description](https://new.nsf.gov/funding/opportunities/nsf-graduate-research-fellowship-program-grfp/nsf24-591/solicitation)
 	- NSF prioritizes research aligned with the budget statement, which makes sense
 		- Unfortunately this doesn't involve life science unless I can think of a way to connect it to climate change which seems tenuous at best
@@ -30,4 +41,3 @@
 	- [Wiilam's GRFP application](https://www.williamxie.nyc/grfp.html)
 	- [Blog with a lot of useful thoughts](https://www.alexhunterlang.com/nsf-fellowship)
 	- [Epic compilation of successful applicants](https://docs.google.com/spreadsheets/d/1xoezGhbtcpg3BvNdag2F5dTQM-Xl2EELUgAfG1eUg0s/edit?gid=0#gid=0)
--

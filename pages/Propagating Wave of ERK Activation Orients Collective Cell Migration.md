@@ -1,0 +1,23 @@
+tags:: [[ERK]], [[FRET]], [[collective cell migration]], [[force]], [[mathematical model]], [[myosin light chain]], [[simulation]]
+date:: [[Nov 6th, 2017]]
+issn:: 1534-5807
+issue:: 3
+doi:: 10.1016/j.devcel.2017.10.016
+title:: Propagating Wave of ERK Activation Orients Collective Cell Migration
+pages:: 305-317.e5
+volume:: 43
+item-type:: [[journalArticle]]
+access-date:: 2025-09-26T14:33:48Z
+original-title:: Propagating Wave of ERK Activation Orients Collective Cell Migration
+url:: https://www.sciencedirect.com/science/article/pii/S1534580717308298
+publication-title:: Developmental Cell
+journal-abbreviation:: Developmental Cell
+authors:: [[Kazuhiro Aoki]], [[Yohei Kondo]], [[Honda Naoki]], [[Toru Hiratsuka]], [[Reina E. Itoh]], [[Michiyuki Matsuda]]
+library-catalog:: ScienceDirect
+links:: [Local library](zotero://select/library/items/JRXQ3AXI), [Web library](https://www.zotero.org/users/6106196/items/JRXQ3AXI)
+
+- [[Abstract]]
+	- The biophysical framework of collective cell migration has been extensively investigated in recent years; however, it remains elusive how chemical inputs from neighboring cells are integrated to coordinate the collective movement. Here, we provide evidence that propagation waves of extracellular signal-related kinase (ERK) mitogen-activated protein kinase activation determine the direction of the collective cell migration. A wound-healing assay of Mardin-Darby canine kidney (MDCK) epithelial cells revealed two distinct types of ERK activation wave, a “tidal wave” from the wound, and a self-organized “spontaneous wave” in regions distant from the wound. In both cases, MDCK cells collectively migrated against the direction of the ERK activation wave. The inhibition of ERK activation propagation suppressed collective cell migration. An ERK activation wave spatiotemporally controlled actomyosin contraction and cell density. Furthermore, an optogenetic ERK activation wave reproduced the collective cell migration. These data provide new mechanistic insight into how cells sense the direction of collective cell migration.
+- Attachments
+	- [ScienceDirect Full Text PDF](https://pdf.sciencedirectassets.com/272236/1-s2.0-S1534580716X00226/1-s2.0-S1534580717308298/main.pdf?X-Amz-Security-Token=IQoJb3JpZ2luX2VjEAYaCXVzLWVhc3QtMSJHMEUCIQDbqIWB0f%2B2uD5e0zU%2FgmSgnDG0wwr6hvLJrGwvgAoBpQIgTLpmFzV0rKFfkdtPAjVszt4NKo%2FJJujQ16UXmTOgXN4qvAUIj%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARAFGgwwNTkwMDM1NDY4NjUiDElWalXIFypZh3g8UiqQBYR2GuVZbws%2BLHmowOjgzHt7A9bVR3BROtxTd9AXZMBi3P7tCBbzVS3oiZ7Spark9AnwgaO4CamP%2Fn6vMMgEDg7b99ADxOzry8aT9qkMQhZUXF292iGay0bNidxle386Z6CiVKX2PaYxbiN3Rx9%2BJkXm%2Bg5CHN8owJSNYOIghrAaWQCjse2B6z0cYcbl6Nzzu5ZZ8eWowDYR1t8nKiuDLiicuRhSHWBnoPMQIbpQtGZlf%2BKIHcdWmu1%2F4AGIDdDkRVMfKcqS85mbo2UFds68o8ZNARTDuyM9aqq6y%2F1tDM%2F%2BKwEpDzgEm7mxoRWmjuaKqFWwi10hIcIgluir2zhjiuhu9cFDb%2FXeGvb9MwIb34d%2B4q2VfffZGt1fRHI3cdMrwK6fgYgDRKWezQ5AG37MImwCX9gEjZC%2FbnF3dyBqLijzoh50mXdaoXm%2FAOdlY%2BkboXw5RNrTORGsHHw%2B%2BdK17K7gYitOJDRL0d7lu%2Bmzfpb%2Fm6AQvYdSXDUtUdSCZUdG08WsDtNcackIBMfT7afCqdESHQHtHj5r72d6OYRpM%2BvsgLvCCLXJXiHR%2Fi0N70zWQL%2BtJEQR8WuV3kMmimnU1JPm30ooa%2BZegCHd9ZpsvZc9pt2F4h5lI83va0NCQOdBcFrLlXaXBGUIsb9t9ZIBUiBbGmNTxhgzztbSekgqGfrh3iXLl8xrFG5OlWyhr%2BytGyqvrtEWr3bqDplIHrqqo8nF4qvTlwl06i6U7ojMRl0BTH7yjjp5HnhhOr4%2BhpFLIjXOBdNzQ037E3HUUvrSP0%2FRCYkovjv5j%2FZMdnYQdwW4OSnloTZBF0HUBuONX76TqZf%2B%2FhxTSip29a4Ug0XXDzcEA%2FY0NnwIz0yI7%2FH99DHqMJ222sYGOrEBqgmcN3LggFFJBzVNJkQrXgRxPH%2FZMJXVt5zYkKxktCb%2BYeETot2cwEYVa9pk5UMlKJSMYrAny2XfWjDldL0aCoj%2FdfFEPMO6%2BnoTzOGh%2BbdnuY8DZaE3Dl9iq63ceNF%2Fagnr5AU14Iqd%2FQy9K5nHI78RGBgVTxKhxo21RUrtIW9b%2F%2Bdjbn%2FvhFXy2sT22RrnfoqpVYqge0YS0ySrQ%2BCVjvZ7k8ZNtDNIMYgu0v1HHQBq&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20250926T143356Z&X-Amz-SignedHeaders=host&X-Amz-Expires=300&X-Amz-Credential=ASIAQ3PHCVTYTKFGMNZI%2F20250926%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Signature=954234b6d1a349dcfb972906c34794e58a92b9f2e1aa3e42321945947d297511&hash=bb0b6951897ec93eca70e48d232aceff2413655d5534f292dd41966331bb79aa&host=68042c943591013ac2b2430a89b270f6af2c76d8dfd086a07176afe7c76c2c61&pii=S1534580717308298&tid=spdf-c43b3cee-f9b2-4d1d-bf0d-b4808fe55952&sid=e2441fc9508a914a679929c346c28d3b4a95gxrqa&type=client&download=true&tsoh=d3d3LnNjaWVuY2VkaXJlY3QuY29t&rh=d3d3LnNjaWVuY2VkaXJlY3QuY29t&ua=13115f5e54505805050a&rr=98537aadcc956fa7&cc=us) {{zotero-imported-file X7WXLETQ, "Aoki et al. - 2017 - Propagating Wave of ERK Activation Orients Collective Cell Migration.pdf"}}
+	- [ScienceDirect Snapshot](https://www.sciencedirect.com/science/article/pii/S1534580717308298) {{zotero-imported-file NGLJYSUC, "S1534580717308298.html"}}
