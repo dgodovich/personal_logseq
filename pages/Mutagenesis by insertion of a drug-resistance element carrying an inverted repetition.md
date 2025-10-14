@@ -1,4 +1,4 @@
-tags:: [[Chromosome Aberrations]], [[Chromosome Mapping]], [[DNA]], [[Viral]], [[Drug Resistance]], [[Microbial]], [[Gene Frequency]], [[Mutation]], [[Nucleic Acid Conformation]], [[Salmonella Phages]], [[Salmonella typhimurium]], [[Species Specificity]], [[Tetracycline]], [[Transduction]], [[Genetic]], [[Translocation]]
+tags:: [[Chromosome Aberrations]], [[Chromosome Mapping]], [[Drug Resistance]], [[Gene Frequency]], [[Nucleic Acid Conformation]], [[Salmonella Phages]]
 date:: [[Oct 5th, 1975]]
 issn:: 0022-2836
 issue:: 4
