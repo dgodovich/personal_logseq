@@ -43,6 +43,10 @@
 	- But it will also tell you if your submission is not compliant, which is kinda nice
 	- The Intellectual Merit criterion encompasses the potential to advance knowledge
 	- Broader Impacts criterion encompasses the potential to benefit society and contribute to the achievement of specific, desired societal outcomes
+	- In accordance with these requirements, proposed projects involving use of any vertebrate animal for research or education must be approved by the submitting organization's Institutional Animal Care and Use Committee (IACUC) before an award can be made
+		- hmmmm this might complicate using mouse models
+		- I wonder if Danelle has experience with this, people from her lab must have gotten GRFP
+			- check the board maybe
 	-
 	- NSF prioritizes research aligned with the budget statement, which makes sense
 		- Unfortunately this doesn't involve life science unless I can think of a way to connect it to climate change which seems tenuous at best
