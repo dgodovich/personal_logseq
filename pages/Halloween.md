@@ -1,0 +1,10 @@
+- Miku inspired synth
+	- ![maxresdefault-3468392023.jpg](../assets/maxresdefault-3468392023_1760585692908_0.jpg)
+	- ![image.png](../assets/image_1760585698829_0.png)
+	- Reference images
+- Wire colors
+	- teal
+		- primary
+		- [metal wire](https://www.amazon.com/gp/product/B01FG9FJ7S?smid=A22VZWVFX8VNVP&th=1)
+	- pink, black, silver
+	- maybe red
