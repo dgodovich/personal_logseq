@@ -4,8 +4,13 @@
 - Readings
 	- [[Epidermal growth factor receptors containing a single tyrosine in their C-terminal tail bind different effector molecules and are signaling-competent]]
 - [[Imaging]]
+- Experiments
+	- [[Oct 16th, 2025]]
+		- Not sure that I need to do anything with the 3X cells, as they don't seem to be very responsive to migration
+		- Need to plate various densities of PEF cells to get differential conditions
 - [[pyCLM]]
 - [[Oct 1st, 2025]] Meeting with Jared
+  collapsed:: true
 	- Agenda
 		- Imaging updates
 			- PEF cells do seem to be more responsive (show movie)
@@ -16,6 +21,7 @@
 			- can the minigrant thoughts be turned into a GRFP proposal
 		- I will be out on thursday
 - Cell lines
+  collapsed:: true
 	- [MCF10A](logseq://graph/personal_logseq?block-id=68c83ab3-3e3d-4519-ad31-52cbba7c00d0)
 		- Triple transgenic
 			- OptoEGFR, Fusion red nuclear, ERK-KTR
