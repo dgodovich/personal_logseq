@@ -53,6 +53,18 @@
 		- [here's the actual presidential budget that outlines the points (page 129-130)](https://www.whitehouse.gov/wp-content/uploads/2024/03/budget_fy2025.pdf)
 		- One potential angle is through the CHIPS and Science Act which broadly allocates money for semiconductor manufacturing and biotech along with that
 			- So maybe something about method development? but that sounds hard
+- Notes from AJ led workshop
+	- Personal statement is more important because it's 3 pages
+		- want to introduce as an interesting person in the beginning (strong hook)
+		- Future directions are important
+		- overall arc
+		- For this I think I should combine things from my grad school SoP and personal statements to get the CV story arc and also the strong hook
+			- I guess I can use the princeton essay? They're all basically the same though
+	- Research plan is good practice, but it's less important for the GRFP
+		- main goal is fundamental science advancement, not health relevance
+	- Aims
+		- Overall strategy, methodology, should be well reasoned
+			- Figure is super helpful here!
 - Things to keep in mind
 	- [Reviewer guidelines 1](https://www.nsfgrfp.org/reviewers/review-process/)
 	- [Reviewer guidelines 2](https://www.nsf.gov/bfa/dias/policy/merit_review/mrfaqs.jsp)
