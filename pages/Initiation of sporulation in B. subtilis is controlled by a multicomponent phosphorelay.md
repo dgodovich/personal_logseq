@@ -42,3 +42,23 @@ links:: [Local library](zotero://select/library/items/EPZERC7M), [Web library](h
 	- N terminus is similar to OmpR N terminus
 		- phosphorylation homology
 	- There isn't a transmitter kinase yet
+- ((68f45814-61fd-425c-b01a-955e44ea0119))
+	- KinA can phosphorylate both Spo0F and Spo0A
+		- but it's way better for Spo0F (3450 fold) table 1
+	- Spo0B is needed to transfer phosphate from Spo0F to Spo0A
+		- KinA can only phosphorylate Spo0F
+		- Adding Spo0F along with B you get transfer of Pi to B
+			- And adding A to this mix you get further transfer to A
+		- This could be cause by a phosphotransfer, or something is changing KinA so that it's effective on Spo0A
+	- KinA used to phosphorylate Spo0F and then that's transferred and that is sufficient to transfer to B and A
+		- ((68f45a25-cd72-41dc-93e7-a9415d066597))
+	- They also test that B can transfer independently to F and A
+		- figure 4
+		- When you have B_P, it preferentially transfers to A over F
+	- They also check in Figure 5 which residue the P is transferred to
+		- Asp 10 and Asp56 -> Asn mutations make it non functional
+		- Analogous to CheY system, which makes sense
+		- They also check this with pH sensitivity and it checks out
+			- B is extremely sensitive to acid but not to base, this seems to be His
+- ((68f45d00-8c21-49f0-bdeb-eff51104f9af))
+	-

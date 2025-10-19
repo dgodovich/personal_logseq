@@ -36,3 +36,70 @@ file-path:: file://C:/Users/David/Zotero/storage/D4T9HLKF/Burbulys et al. - 1991
   hl-page:: 2
   hl-color:: red
   id:: 68f457db-e875-4af1-9913-ca2d540a6652
+- Results
+  ls-type:: annotation
+  hl-page:: 2
+  hl-color:: purple
+  id:: 68f45814-61fd-425c-b01a-955e44ea0119
+- action mixtures with [7-32p]ATP, kinase, and SpoOF or Spo0A proteins were separated on SDS-polyacrylamide gels, and the accumulation of label in the components was determined by autoradiograph
+  ls-type:: annotation
+  hl-page:: 2
+  hl-color:: red
+  id:: 68f458b6-e22a-424b-a978-a27bed3ae133
+- us the preferred or even exclusive substrate for KinA in the cell should be Spo
+  ls-type:: annotation
+  hl-page:: 2
+  hl-color:: green
+  id:: 68f458bd-ddee-4b84-bd68-62dbfa965a69
+- wever, when SpoOF and Spo0B were incubated together, both SpoOF and Spo0B were labeled
+  ls-type:: annotation
+  hl-page:: 2
+  hl-color:: green
+  id:: 68f4591b-6b01-44f8-9f40-a1b09bd113be
+- n an HPLC sizing column Spo0B runs as a dime
+  ls-type:: annotation
+  hl-page:: 2
+  hl-color:: yellow
+  id:: 68f4592e-e396-4b9c-a595-c6c164286c85
+- sayed its effect on the phosphorylation of Spo0A by Ki
+  ls-type:: annotation
+  hl-page:: 2
+  hl-color:: red
+  id:: 68f4593c-2aca-454c-9832-20d1541ab824
+- he results indicated that Spo0A could become highly phosphorylated by [7-32p]ATP in the presence of KinA, Spo0B, and Spo
+  ls-type:: annotation
+  hl-page:: 2
+  hl-color:: green
+  id:: 68f459a3-16e2-43ba-afec-c89cf0d7bbe7
+- osphorylated SpoOF protein was isolated away from KinA
+  ls-type:: annotation
+  hl-page:: 2
+  hl-color:: red
+  id:: 68f459d6-df19-47b2-b384-400a7b5e0b2c
+- po0F,~P was the donor for phosphotransfer to Spo0B with these two components alone (Figure 3). Addition of KinA with or without ATP had no effect on this reactio
+  ls-type:: annotation
+  hl-page:: 3
+  hl-color:: green
+  id:: 68f459e2-356b-4d4a-a56a-d996277efa05
+- [:span]
+  ls-type:: annotation
+  hl-page:: 3
+  hl-color:: purple
+  id:: 68f45a25-cd72-41dc-93e7-a9415d066597
+  hl-type:: area
+  hl-stamp:: 1760844323949
+- oOF, and Spo0A were incubated together, the label was found almost exclusively in Spo0A
+  ls-type:: annotation
+  hl-page:: 3
+  hl-color:: yellow
+  id:: 68f45a85-57d0-43ac-9d1d-cdf7f47f56d9
+- duct of Spo0B phosphotransferase on Spo0A is an acyl-phosphate on the same aspartate res=due of Spo0A as would be found with a transmitter kin
+  ls-type:: annotation
+  hl-page:: 4
+  hl-color:: green
+  id:: 68f45c9f-cd9a-4163-b4ca-7ea114d9c308
+- Discussion
+  ls-type:: annotation
+  hl-page:: 4
+  hl-color:: purple
+  id:: 68f45d00-8c21-49f0-bdeb-eff51104f9af
