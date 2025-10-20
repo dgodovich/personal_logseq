@@ -61,4 +61,9 @@ links:: [Local library](zotero://select/library/items/EPZERC7M), [Web library](h
 		- They also check this with pH sensitivity and it checks out
 			- B is extremely sensitive to acid but not to base, this seems to be His
 - ((68f45d00-8c21-49f0-bdeb-eff51104f9af))
+	- response regulator is often a transcriptional activator
+	- relay gives you another opportunity for control of a very expensive system
+		- sporulation is hard and you wouldn't want to reverse it
+	- KinA is also a phosphatase at high ATP levels
+	- Spo0A turns off AbrB and also makes a \sigma for sporulation
 	-

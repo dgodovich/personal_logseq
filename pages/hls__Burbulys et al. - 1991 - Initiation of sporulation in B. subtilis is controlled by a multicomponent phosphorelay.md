@@ -103,3 +103,35 @@ file-path:: file://C:/Users/David/Zotero/storage/D4T9HLKF/Burbulys et al. - 1991
   hl-page:: 4
   hl-color:: purple
   id:: 68f45d00-8c21-49f0-bdeb-eff51104f9af
+- mology observed in such kinases may be related to the binding of ATP and the autophosphorylation reacti
+  ls-type:: annotation
+  hl-page:: 5
+  hl-color:: blue
+  id:: 68f461a2-e713-4190-a55d-cbfc7fec3fb0
+- smitter kinases in the ultimate location and nature of the phosphate group transfer
+  ls-type:: annotation
+  hl-page:: 5
+  hl-color:: yellow
+  id:: 68f461a9-1c51-4187-9c77-75d9f55fe228
+- phoramidate bond of Spo0B was equivalent to that of the acyl-phosphate of Spo
+  ls-type:: annotation
+  hl-page:: 5
+  hl-color:: yellow
+  id:: 68f461d6-79f1-4f63-a907-ac379cfa4dd3
+- iation of sporulation is a nontrivial event involving the ultimate activation of hundreds of genes and the expenditure of a great deal of ener
+  ls-type:: annotation
+  hl-page:: 5
+  hl-color:: green
+  id:: 68f461e2-4255-4ae8-a7c4-bfea1dd942be
+- [:span]
+  ls-type:: annotation
+  hl-page:: 5
+  hl-color:: yellow
+  id:: 68f461fa-9adc-4f17-8784-49cae1268ed6
+  hl-type:: area
+  hl-stamp:: 1760846328812
+- nA is an effective phosphatase of Spo0F
+  ls-type:: annotation
+  hl-page:: 5
+  hl-color:: yellow
+  id:: 68f46249-f70a-408f-b5e3-52157a03604d
