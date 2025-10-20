@@ -23,6 +23,9 @@
 - These priorities have not changed with the Trump administration, generally speaking
 - White house R&D priorities don't really apply to me but if it isn't a huge stretch would be nice
 	- quantum, cybersecurity, AI. It's all computation stuff
+	- nuclear fission and fusion, hydropower, geothermal
+	- biotech, biosafety, domestic bio-manufacturing
+	- space
 - Evaluation criteria
 	- demonstrated potential
 	- initiative, creativity, perserverance
@@ -36,9 +39,36 @@
 	- personal preferences are how you think about yourself and what you want to
 - Why does your research matter?
 	- What draws you to your research area? Which societal needs and issues most connect to your work, ahd which are most pressing, interesting, or important to you?
-	- Humans are simultaneously extremely frag
+	- Humans are simultaneously extremely fragile and extremely resilient. We can robustly heal from traumatic injury and go about our lives almost as if nothing happened, but there's a fine line at which point it is too much and homeostasis can't be restored and we die. Why are other organisms better or worse at regeneration? Can we improve native human regeneration?
 - What will your impact be?
 	- Do you want to be known as a great mentor? An influential collaborator with industry? A bridge between science and the arts? A public science ambassador?
 - How will you share your work?
 	- Who you like to engage with? What experience to you already have? What skills do you want to develop? Can you incorporate your hobbies as a way of connection? Are there opportunities for interdisciplinary collaboration?
+	- I'm really drawn to the adult science outreach (a la nerd nite, facts machine). I think especially in combination with comedy, you have an opportunity to really engage with diverse people
+	- I forgot that I wanted to publish something on substack
+- Approach broader impacts the same way that you approach intellectual merit - it is as important
+	- Are there things in the lab or in the department that I can engage with already? MBOP?
+	- what's realistic given the time constraints that you have? Don't get in over your head with broader impact activities - most of your time should be research
+	- choose activities that interest you and build on your past experience
+	- don't reinvent the wheel, build off of existing things
+	- Be specific! Say exactly what you're planning of doing / have done
+		- include in this how you can measure success
+	- Include citations? Studies on effectiveness of BI?
+	- Potential to grow and scale over time
+		- as everything, you want to have a story
+- Campus resources
+	- CST
+		- Lab Tales
+			- this is Daniel Cohen's thing, hopefully will participate at some point
+		- lots of other programming
+	- GradFUTURES has tons of trainings and internships
+	- MBOP
+	- Prison teaching initiative
+- ARIS at rutgers (Advancing Research Impact in Society)
+	- external outreach resources
+	- They have literature to back things up, good thing to cite there
+- I should go to the writing center
+	- Actually, I should make an appointment now because I really don't have a lot of time and I need to get my ass in gear
+	- It's gonna have to overlap with Tom's midterm, there's no way around it I think
+- use citations liberally to support claims, and for these it's even better to refer to specific NSF documents
 -
