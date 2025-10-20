@@ -8,6 +8,13 @@
 	- [[Oct 16th, 2025]]
 		- Not sure that I need to do anything with the 3X cells, as they don't seem to be very responsive to migration
 		- Need to plate various densities of PEF cells to get differential conditions
+		- Ended up getting density and wave patterns, but neither of them moved
+			- I'm not really sure what caused this?
+		- Waves were off center
+			- this was caused by the get_meshgrid() function returning \mu\m when I expected pixels
+			- Easy fix, change center to be the \mu\m center instead of the pixel center
+		- Not super usable data unfortunately
+			- or at least, nothing interesting happened
 - [[pyCLM]]
 - [[Oct 1st, 2025]] Meeting with Jared
   collapsed:: true
