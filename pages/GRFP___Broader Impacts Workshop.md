@@ -1,0 +1,44 @@
+- nsfgrfp.org is a second website that has some more information
+- Broader impacts are the potential to benefit society and contribute to the achievment of specific desired societal outcomes
+- Can be accomplished through
+	- research itself -> direct implications for economic competitiveness, national security, etc
+		- this is easiest with engineering or applied things
+		- framing research in a larger context. Articulate why it's important
+	- Activities that are directly related to research project
+		- citizen science
+	- Activities that are supported by but are complementary to the research project
+		- going into classes, teaching, tutoring
+- Should be excited by broader impacts
+	- this is how you can actually communicate that you're going to do it and you want to do it, and they can tell
+- NSF priorites
+	- increased participation in STEM
+	- more education
+	- scientific liteary
+	- acamedia, industry collaborations
+	- educator development
+	- globally competitive stem workforce
+	- national security
+	- economic
+	- research and education infrastructure
+- These priorities have not changed with the Trump administration, generally speaking
+- White house R&D priorities don't really apply to me but if it isn't a huge stretch would be nice
+	- quantum, cybersecurity, AI. It's all computation stuff
+- Evaluation criteria
+	- demonstrated potential
+	- initiative, creativity, perserverance
+	- leadership, outreach, future growth
+- Start by thinking of what I've already done
+	- I've mostly done this already but some new thoughts are thesis partner (guy german)
+	- describe what you did and why it mattered, and what it taught you
+	- also connect to the future
+- Impact Identity
+	- middle of your research, what society needs, what you can do in your institute, what you're good at, and your personal preferences
+	- personal preferences are how you think about yourself and what you want to
+- Why does your research matter?
+	- What draws you to your research area? Which societal needs and issues most connect to your work, ahd which are most pressing, interesting, or important to you?
+	- Humans are simultaneously extremely frag
+- What will your impact be?
+	- Do you want to be known as a great mentor? An influential collaborator with industry? A bridge between science and the arts? A public science ambassador?
+- How will you share your work?
+	- Who you like to engage with? What experience to you already have? What skills do you want to develop? Can you incorporate your hobbies as a way of connection? Are there opportunities for interdisciplinary collaboration?
+-
