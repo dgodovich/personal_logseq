@@ -67,7 +67,11 @@ links:: [Local library](zotero://select/library/items/Q82ECTJZ), [Web library](h
 		- null has slower degradation
 		- Figure 3
 		- this is specific to these RNAs, does not affect degradation speed of general RNA
-	- I don't really understand the experiment to
+		- there's also an increase in protein levels
+	- I don't really understand the experiment to test that it's a post translational modification but it's in figure 4
+		- lacZ fusion??
+		- Oh it's a transcriptional vs translational fusion so that they can see what causes increased activity
+			- transcriptional doesn't do anything but translational does
 - ((68f5b02a-834d-459f-8128-875e09eefed8))
 	-
 - ((68f58294-4ff7-4c1e-8fbd-ccbfd156b76e))
