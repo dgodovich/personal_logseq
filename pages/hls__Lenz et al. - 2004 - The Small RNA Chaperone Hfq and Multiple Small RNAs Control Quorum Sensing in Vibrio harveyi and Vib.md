@@ -98,3 +98,38 @@ file-path:: file://C:/Users/David/Zotero/storage/8IMTIU6Q/Lenz et al. - 2004 - T
   hl-page:: 3
   hl-color:: yellow
   id:: 68f5ade9-06fb-4f22-b313-c0d6462e0cd3
+- wo predictions: first, quorum-sensing repression occurs posttranscriptionally, and, second, there must be one or more sRNAs involved
+  ls-type:: annotation
+  hl-page:: 4
+  hl-color:: blue
+  id:: 68f5ae90-6ee2-49c6-84f6-598594900967
+- Knowing this suggested two possible methods by which Hfq could repress quorum sensing-controlled gene expression. First, Hfq could directly act on the mRNA encoding each of the known target genes of the quorum-sensing regulons. Second, Hfq could act on the mRNAs encoding LuxR in V. harveyi and HapR in V. choler
+  ls-type:: annotation
+  hl-page:: 4
+  hl-color:: yellow
+  id:: 68f5aed6-926e-43e0-9eeb-f580a26dd04c
+- Rifampicin was added to cultures to terminate transcription, after which the /uxR and hapR transcripts were monitored over tim
+  ls-type:: annotation
+  hl-page:: 4
+  hl-color:: red
+  id:: 68f5afb7-ca71-48cc-9290-194e38c7d161
+- uxR and hapR transcripts disappear immediately following termination of transcript
+  ls-type:: annotation
+  hl-page:: 4
+  hl-color:: yellow
+  id:: 68f5aff7-882c-4146-bfac-0b711b76167a
+- hfq double mutants, the transcripts show significantly increased longevit
+  ls-type:: annotation
+  hl-page:: 4
+  hl-color:: green
+  id:: 68f5affa-2754-4daf-aa48-338f31222baa
+- Western blots show that the increased stability of the JuxR and hapR mRNAs in the hfq mutants leads to increased levels of the LuxR and HapR proteins
+  ls-type:: annotation
+  hl-page:: 4
+  hl-color:: yellow
+  id:: 68f5b019-e681-44cd-a374-4efc809658c2
+- Identification of SRNAs Involved in QuorumSensing using Bioinformatics
+  ls-type:: annotation
+  hl-page:: 4
+  hl-color:: purple
+  id:: 68f5b02a-834d-459f-8128-875e09eefed8

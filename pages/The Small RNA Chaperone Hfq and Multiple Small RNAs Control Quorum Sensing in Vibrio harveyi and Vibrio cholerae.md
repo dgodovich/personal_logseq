@@ -56,8 +56,21 @@ links:: [Local library](zotero://select/library/items/Q82ECTJZ), [Web library](h
 	- Hfq null is constitutively bright
 		- required for repression of lux expression
 	- Same is true in cholera, orthogonal species
-- ((68f5826e-8e4d-4584-8469-fa0c12415f7b))
-	-
+		- they also show that this effect is relevant for virulence, not just brightness
 - ((68f58278-305c-41ed-8b70-95b0676532c8))
+	- Hfq binds a variety of sRNAs and varies the stability of target mRNA
+		- So, regulation of quorum sensing repression is post-translational, and involves one or more sRNAs
+	- Take a look at LuxR/HapR (master regulators of regulons)
+		- Hfq could directly act on the target genes of these regulators
+		- Or, it could act on the mRNA of the regulator (which makes more sense to me)
+	- Hfq lowers the stability of the luxR and hapR mRNA
+		- null has slower degradation
+		- Figure 3
+		- this is specific to these RNAs, does not affect degradation speed of general RNA
+	- I don't really understand the experiment to
+- ((68f5b02a-834d-459f-8128-875e09eefed8))
+	-
 - ((68f58294-4ff7-4c1e-8fbd-ccbfd156b76e))
+	-
 - ((68f582ab-e233-4724-b571-6fdce0cc5346))
+	-
