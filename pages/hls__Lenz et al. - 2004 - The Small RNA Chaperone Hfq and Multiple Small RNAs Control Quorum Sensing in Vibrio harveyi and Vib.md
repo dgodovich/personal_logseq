@@ -56,3 +56,45 @@ file-path:: file://C:/Users/David/Zotero/storage/8IMTIU6Q/Lenz et al. - 2004 - T
   hl-page:: 12
   hl-color:: purple
   id:: 68f582ab-e233-4724-b571-6fdce0cc5346
+- D47E mutation alters the site of phosphorylation, and “locks” the LuxO D47E protein into a state mimicking Lux
+  ls-type:: annotation
+  hl-page:: 2
+  hl-color:: yellow
+  id:: 68f5ac70-e606-424a-a643-102910dbb4f6
+- We mutagenized a V. harveyi luxO D47E strain with the transposon Mini-MulacZ and screened for colonies that had acquired a bright phenotype
+  ls-type:: annotation
+  hl-page:: 2
+  hl-color:: red
+  id:: 68f5accb-3f48-4982-855d-c31e20a879ef
+- erlapping regions of DNA, suggesting that a single locus was respo
+  ls-type:: annotation
+  hl-page:: 2
+  hl-color:: yellow
+  id:: 68f5ad55-a1a5-413e-b4fd-d0dd0731ee27
+- gion identified was cloned and sequenced and found to contain the gene hfgq
+  ls-type:: annotation
+  hl-page:: 2
+  hl-color:: green
+  id:: 68f5ad5b-3d69-4d69-acd0-5286ae9e57ca
+- hfq null mutations were introduced onto the chromosomes of the V. harveyi wild-type and luxO D47E strain
+  ls-type:: annotation
+  hl-page:: 2
+  hl-color:: red
+  id:: 68f5ad72-4bf2-4df7-8b81-4310f4d0307d
+- [:span]
+  ls-type:: annotation
+  hl-page:: 2
+  hl-color:: yellow
+  id:: 68f5addc-081e-48b0-a3d6-d1eaceb0a0d5
+  hl-type:: area
+  hl-stamp:: 1760931291524
+- fq mutant (circles) has a phenotype indistinguishable from the /uxO mutan
+  ls-type:: annotation
+  hl-page:: 2
+  hl-color:: green
+  id:: 68f5ade0-6f95-4671-af7e-597333d1f10a
+- uxO D47E, hfq double mutant (closed triangles) is also constitutively bright, showing that repression of Jux by Hfq occurs downstream of Lu
+  ls-type:: annotation
+  hl-page:: 3
+  hl-color:: yellow
+  id:: 68f5ade9-06fb-4f22-b313-c0d6462e0cd3

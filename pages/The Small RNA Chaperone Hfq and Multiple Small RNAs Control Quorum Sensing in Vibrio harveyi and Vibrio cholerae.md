@@ -43,8 +43,21 @@ links:: [Local library](zotero://select/library/items/Q82ECTJZ), [Web library](h
 		- they're showing small RNAs
 		- idea is that it's an indirect effect, and repressors don't need a weird \sigma
 - ((68f5824c-dce8-4534-9dc3-f8bb3e1ceb93))
+	- use a mutant that is perma activated and always in LuxO-P state (appearance wise)
+		- LuxO-P is a transcriptional activator for the repressor of lux
+		- cells look dark even in groups (no bioluminescence)
+	- Use transposon insertion mutagenesis and select for bright colonies
+		- most of the mutants were in luxO or rpoN (\sigma54) which is not what they want
+	- Use a phage plasmid library (cosmid) to search for complementation to do the genomic mapping
+		- single locus
+	- hfq gene
 - ((68f58264-c742-4d13-8522-30fe0f417ef3))
+	- null mutations were used to identify what it does
+	- Hfq null is constitutively bright
+		- required for repression of lux expression
+	- Same is true in cholera, orthogonal species
 - ((68f5826e-8e4d-4584-8469-fa0c12415f7b))
+	-
 - ((68f58278-305c-41ed-8b70-95b0676532c8))
 - ((68f58294-4ff7-4c1e-8fbd-ccbfd156b76e))
 - ((68f582ab-e233-4724-b571-6fdce0cc5346))
