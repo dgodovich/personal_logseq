@@ -1,0 +1,5 @@
+- [[Oct 21st, 2025]]
+	-
+- Microscopy course
+	- no reading!
+-
