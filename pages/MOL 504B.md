@@ -22,7 +22,17 @@
 	- Wave view of light has energy as amplitude, particle view has number of particles (photons)
 	- Silver is a good reflector for visible light but kinda bad for other wavelengths
 	- curved mirrors turn plane waves into spherical waves
-	-
+	- Steer lasers and whatever with mirrors by rotating and tilting them
+	- Dichroic mirrors reflect one wavelength and transmit the other
+		- mostly thin film interference things
+	- refractive index of water is 1.3, glass is 1.5
+		- Snells law
+		- Dispersion is when the index of refraction depends on the color
+	- total internal reflection has no transmittance
+		- fiber optics
+		- TIRF
+			- you get a little bit of electric field into the sample at the very surface
+			- Can use this to excite molecules right at the surface
 - Microscopy course
 	- no reading!
 -
