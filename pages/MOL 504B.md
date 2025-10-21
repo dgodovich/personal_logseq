@@ -1,4 +1,9 @@
 - [[Oct 21st, 2025]]
+	- Most microscopes just kinda work, but it's useful to know about it anyway
+	- light propagates changes of EM fields
+	- spherical wavefronts are from average emission
+		- intensity goes down as a function of 1/r^2 as surface area goes up
+		- from a point source of light
 	-
 - Microscopy course
 	- no reading!
