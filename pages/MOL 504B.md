@@ -4,6 +4,24 @@
 	- spherical wavefronts are from average emission
 		- intensity goes down as a function of 1/r^2 as surface area goes up
 		- from a point source of light
+	- Plane waves propagate in a perpendicular direction
+		- doesn't actually exist but is a good approximation
+	- looking at a spherical wave from far away looks like a plane wave
+	- rays are perpendicular to wavefronts
+	- Light oscillations don't really matter because you're always averaging it
+		- It's always going to be integrated over the exposure time
+		- temporal
+	- Spatial structure does matter - hundreds of nm scale is relevant for biology
+	- polarizing filters block off direction oscillations
+		- light that passes through actually makes a new wave
+		- can control intensity by rotating a set of polarizing filters
+		- beam splitters create two beams by splitting unpolarized light into horizontal and vertical
+		- half waves are easy to move in one axis, hard in the other, so they slow the wave in one direction and it rotates
+		- use a half wave plate to control amplitude between two polarizing filters so that it's always the same direction coming out
+	- E = hv = hc/\lambda
+	- Wave view of light has energy as amplitude, particle view has number of particles (photons)
+	- Silver is a good reflector for visible light but kinda bad for other wavelengths
+	- curved mirrors turn plane waves into spherical waves
 	-
 - Microscopy course
 	- no reading!
