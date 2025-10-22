@@ -70,3 +70,13 @@ links:: [Local library](zotero://select/library/items/CC475ZFR), [Web library](h
 	- discussion is pretty straightforward I think
 	- I'm not sure that I can answer all of Tom's questions though
 -
+- Tom questions
+	- What do you think is the basis for the Mal sensitive phenotype?
+		- accumulation of byproducts is toxic
+		- the lamB defective ones can't bring large amounts of maltose into the cell, but if you can do that and don't have maltose processing I guess you die
+	- Be sure to understand the logic described in the first part of the results
+	- How were the unwanted, uninteresting mutants screened out?
+		- This is the
+	- What are the limits to this selection?
+	- Are the conclusions well-founded?
+		- Well I'd hope so, it's Toms paper

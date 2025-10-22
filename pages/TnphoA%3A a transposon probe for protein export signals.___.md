@@ -45,4 +45,27 @@ links:: [Local library](zotero://select/library/items/NVGA5FAV), [Web library](h
 	- mutate with a selection for plasmid linked suppressor independent expression of phoA
 - Figure 2 has a western blot that didn't work lmao
 	- B3 has no band
+	- eh there's a band nvm it's just faint
+- So it seems that during recombination you get an inversion of the R fragment at the end of phoA and it becomes L
+	- or maybe the whole thing inverts?
+- B-[1234] are bla-phoA fusions
+- G-[34] are lacZ-phoA fusions
 -
+- Tom questions
+	- Make sure you understand the logic and rationale of the approach
+	- What are the limitations of this technique?
+		- You need to have transposon jumping, so probably need to have a lot of screening? How can you be sure that the transposon jumps to the right spot in the genome? off target effects? limit it to one jump?
+	- How could you decide whether these limitations are serious?
+		- It seems that you can do the screening fairly easily because it's all in E. coli
+		- Maybe the off target effects just suppress? Is there a way to activate/deactivate the transposon when you want it? add and then remove a plasmid?
+	- what would you do to test the possibilities of the approach further?
+	- Suggest at least two possible reasons for the low-level alkaline phosphatase activity in the "cytoplasmic" fusions and propose experiments that could distinguish between them.
+		- So we know that alkaline phosphatase is not active in the cytoplasm
+		- pH? can't fold correctly because of a charge imbalance
+		- Some kind of phosphorylation? or other post translational modification that inactivates it
+		- Oh it seems that it's a disulfide bond thing according to Tom above
+	- How do you think the Sec machinery assembles membrane proteins with multiple transmembrane domains? polytopic membrane proteins?
+		- This is a great question I have not ever thought about
+		- It could wrap it around other hydrophobic things that can insert more easily into the membrane?
+		- Make some kind of core
+		- could you slip the whole transmembrane domain out of the translocon in one moment

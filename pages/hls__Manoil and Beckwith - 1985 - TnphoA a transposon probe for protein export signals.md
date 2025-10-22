@@ -56,3 +56,60 @@ file-path:: file://C:/Users/David/Zotero/storage/Z54HNJHU/Manoil and Beckwith - 
   hl-page:: 4
   hl-color:: yellow
   id:: 68f8390f-b8a0-478e-bd0b-72d740c6d345
+- ppears that the smaller protein may be a degradation product of the full-length hybrid that has lost f3-lactamase sequenc
+  ls-type:: annotation
+  hl-page:: 4
+  hl-color:: yellow
+  id:: 68f83ce6-a0f4-4966-bda2-b62437cc3ae8
+- rid protein encoded by the derivative of fusion B-4 deleted of its signal sequence was extremely unstab
+  ls-type:: annotation
+  hl-page:: 4
+  hl-color:: yellow
+  id:: 68f83cf9-692f-4cc7-a198-b9d094f2a954
+- The 47-kDa putative degradation products of these hybrid proteins fractionated mainly to the periplasm 
+  ls-type:: annotation
+  hl-page:: 4
+  hl-color:: yellow
+  id:: 68f83d8c-a3d3-48ea-9d06-c82d4f02bdb4
+- [:span]
+  ls-type:: annotation
+  hl-page:: 4
+  hl-color:: yellow
+  id:: 68f83d95-d5d4-49ac-bb5e-e7e77191081e
+  hl-type:: area
+  hl-stamp:: 1761099155936
+- he hybrid proteins were relatively stable, although most broke down slowly to give alkaline phosphatase-sized fragment
+  ls-type:: annotation
+  hl-page:: 5
+  hl-color:: yellow
+  id:: 68f83dd9-cd03-40ba-898d-c5678ea51420
+- rthermore, fusions to the cytoplasmic proteins chloramphenicol transacetylase and,f-galactosidase gave very low or undetectable enzyme activit
+  ls-type:: annotation
+  hl-page:: 5
+  hl-color:: yellow
+  id:: 68f83de8-9d38-4158-b2ca-036443e69a40
+- plasmic alkaline phosphatase was found to be unstable, and our results do not distinguish whether its lack of activity is due solely to this instability or whether a stable cytoplasmic form would also be inacti
+  ls-type:: annotation
+  hl-page:: 5
+  hl-color:: blue
+  id:: 68f83df5-3faf-46e4-a274-717ca2d4fce6
+- ansposon TnphoA combines the advantages of working with hybrid proteins able to be secreted (4) with the versatility of Tn5 transposition in generating the hybrid
+  ls-type:: annotation
+  hl-page:: 5
+  hl-color:: yellow
+  id:: 68f83e20-7c14-4c48-9719-9b36fbb83a15
+- ch a gene fusion can also be directly manipulated by using phoA genetic selectio
+  ls-type:: annotation
+  hl-page:: 5
+  hl-color:: green
+  id:: 68f83e2c-0cd8-40a7-8db0-09ef74a9859b
+- new genes encoding transmembrane and periplasmic proteins simply by their ability to give hybrid proteins with alkaline phosphatase activity
+  ls-type:: annotation
+  hl-page:: 5
+  hl-color:: green
+  id:: 68f83e33-0bf5-4de7-be98-d1906a2e30c1
+- ntify regions of the membrane protein facing the peripla
+  ls-type:: annotation
+  hl-page:: 5
+  hl-color:: yellow
+  id:: 68f83e3b-0898-4d7b-a5bd-66ee0444c744
