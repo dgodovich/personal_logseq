@@ -1,3 +1,7 @@
+- [[Butler Journal Clubs]]
+- [[Oct 22nd, 2025]] Ned Ruby Caltech
+  id:: 68f8fbfa-f985-43d0-9439-79c02bbfc7b2
+	-
 - [[Sep 24th, 2025]] Cedric Feschotte #transposons
   collapsed:: true
 	- TEs are essential component of the genome - Barbara McClintock
@@ -30,4 +34,5 @@
 		- ERNI in chicken, also a neural crest marker and a Gag TE
 			- regulated by piwi, which is normally functional in germ cells
 - [[Sep 17th, 2025]] Lucciano Marraffini #CARF #bacteriophage
-	- written notes, transfer here later
+	- written, transfer here later
+-
