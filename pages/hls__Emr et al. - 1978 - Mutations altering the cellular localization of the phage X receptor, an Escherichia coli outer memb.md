@@ -128,3 +128,8 @@ file-path:: file://C:/Users/David/Zotero/storage/IPUZEQT6/Emr et al. - 1978 - Mu
   hl-page:: 5
   hl-color:: yellow
   id:: 68f825f8-61ac-4700-a25c-f1aceaf02a99
+- The five isolate
+  ls-type:: annotation
+  hl-page:: 2
+  hl-color:: yellow
+  id:: 68f8ef09-657b-4b55-a1fc-a7a42a388b66
