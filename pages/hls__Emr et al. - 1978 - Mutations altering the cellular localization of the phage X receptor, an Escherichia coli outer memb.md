@@ -51,3 +51,65 @@ file-path:: file://C:/Users/David/Zotero/storage/IPUZEQT6/Emr et al. - 1978 - Mu
   hl-page:: 2
   hl-color:: yellow
   id:: 68f81e20-408e-44a5-a309-f3ab6bf1ce1f
+- ltose sensitivity but rather the transport of this hybrid protein through the inner membrane or its incorporation into the outer membra
+  ls-type:: annotation
+  hl-page:: 2
+  hl-color:: yellow
+  id:: 68f81e7f-835d-4987-8e48-1dfeb0e52af1
+- [:span]
+  ls-type:: annotation
+  hl-page:: 2
+  hl-color:: purple
+  id:: 68f81f28-2eb3-4db5-bec3-958f4ef65112
+  hl-type:: area
+  hl-stamp:: 1761091366943
+- ndings show that the f,-galactosidase activity that was predominantly membrane bound in pop3186 is essentially all cytoplasmic in the MalR Lac+ mutant
+  ls-type:: annotation
+  hl-page:: 2
+  hl-color:: green
+  id:: 68f81f76-8365-4599-be3c-aba8e803f27f
+- previously noted that pop3186 is able to grow on lactose either with or without an intact lactose transport syste
+  ls-type:: annotation
+  hl-page:: 2
+  hl-color:: yellow
+  id:: 68f81f81-5e30-4a96-8613-5d20e9c956dc
+- ese two strains were made lacY-, however, they no longer grew on lactos
+  ls-type:: annotation
+  hl-page:: 2
+  hl-color:: green
+  id:: 68f81fd1-4bd9-41ce-8b04-cd3395a984cc
+- results show that all three strains make a maltose-inducible lamB-lacZ hybrid protei
+  ls-type:: annotation
+  hl-page:: 2
+  hl-color:: yellow
+  id:: 68f81fe6-39bd-471c-8ad4-b431a4552a63
+- Recombination of the lamB mutations S68 and S69 into wild-type gene lamB
+  ls-type:: annotation
+  hl-page:: 3
+  hl-color:: purple
+  id:: 68f82117-6e62-4512-9632-163f781c21a3
+- 00-fold higher than spontaneous XR in the MC4100 contro
+  ls-type:: annotation
+  hl-page:: 3
+  hl-color:: green
+  id:: 68f82176-b911-49f2-be48-17539d5af5c4
+- move the lamB-lacZ hybrid gene from the merodiploid, the lysogens were cured of the respective Xp transducing phages by selecting for the loss of the Mals phenotype in the presence of Xv (s
+  ls-type:: annotation
+  hl-page:: 3
+  hl-color:: red
+  id:: 68f823f9-0720-4f11-b085-455df02c3f86
+- ese strains are SE2068 and SE2069, respectiv
+  ls-type:: annotation
+  hl-page:: 3
+  hl-color:: yellow
+  id:: 68f823fe-727a-4ca9-8d65-ec1adba90b6f
+- DISCUSSION
+  ls-type:: annotation
+  hl-page:: 4
+  hl-color:: purple
+  id:: 68f824fb-179e-4105-b3b5-42251a5877e7
+- mutations were initially obtained in the lamB-lacZ fusion strain pop3186, which produces a hybrid protein comprised of an NH2-terminal fragment of the X receptor and a functional COOH-terminal fragment of fl-galactosidase
+  ls-type:: annotation
+  hl-page:: 4
+  hl-color:: yellow
+  id:: 68f82506-a073-4c0c-bdea-af6f5a1bef8e
