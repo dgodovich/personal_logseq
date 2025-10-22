@@ -76,7 +76,8 @@ links:: [Local library](zotero://select/library/items/CC475ZFR), [Web library](h
 		- the lamB defective ones can't bring large amounts of maltose into the cell, but if you can do that and don't have maltose processing I guess you die
 	- Be sure to understand the logic described in the first part of the results
 	- How were the unwanted, uninteresting mutants screened out?
-		- This is the
+		- This is the MalR/Lac+ combo
+		- Need to have the second selection with lacZ to find these ones
 	- What are the limits to this selection?
 	- Are the conclusions well-founded?
 		- Well I'd hope so, it's Toms paper
