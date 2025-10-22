@@ -113,3 +113,18 @@ file-path:: file://C:/Users/David/Zotero/storage/IPUZEQT6/Emr et al. - 1978 - Mu
   hl-page:: 4
   hl-color:: yellow
   id:: 68f82506-a073-4c0c-bdea-af6f5a1bef8e
+- mutations were recombined into a wild-type gene lamB they resulted in a Dex- AR phenot
+  ls-type:: annotation
+  hl-page:: 4
+  hl-color:: yellow
+  id:: 68f82587-2129-4dae-b5a2-2c50c6cbdcf1
+- tation, we suggest that a single amino acid change is sufficient to alter cellular location of the X rec
+  ls-type:: annotation
+  hl-page:: 5
+  hl-color:: blue
+  id:: 68f825eb-7a6d-402e-aa74-7414c2258df1
+- ar to those with gene lamB have been obtained with fusions of f-galactosidase to the maltose-binding protein, a periplasmic prote
+  ls-type:: annotation
+  hl-page:: 5
+  hl-color:: yellow
+  id:: 68f825f8-61ac-4700-a25c-f1aceaf02a99

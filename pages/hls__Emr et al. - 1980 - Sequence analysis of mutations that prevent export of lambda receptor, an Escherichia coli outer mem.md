@@ -1,0 +1,2 @@
+file:: [Emr et al. - 1980 - Sequence analysis of mutations that prevent export of lambda receptor, an Escherichia coli outer mem.pdf](file://C:/Users/David/Zotero/storage/GPY3J9UV/Emr et al. - 1980 - Sequence analysis of mutations that prevent export of lambda receptor, an Escherichia coli outer mem.pdf)
+file-path:: file://C:/Users/David/Zotero/storage/GPY3J9UV/Emr et al. - 1980 - Sequence analysis of mutations that prevent export of lambda receptor, an Escherichia coli outer mem.pdf

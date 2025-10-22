@@ -65,5 +65,8 @@ links:: [Local library](zotero://select/library/items/CC475ZFR), [Web library](h
 - ((68f824fb-179e-4105-b3b5-42251a5877e7))
 	- why is the gene fusion needed for isolation of these mutants?
 		- I guess there's not really anything to screen for?
-		- \lambda
+		- \lambda\R and Mal+/- R/S kinda go hand in hand because it's all lamB defects, so lac gives you another thing to look at?
+		- After you find the mutant with lac you can  look at it's properties with \lambda and Mal, but before that you don't really know what the problem would be?
+	- discussion is pretty straightforward I think
+	- I'm not sure that I can answer all of Tom's questions though
 -

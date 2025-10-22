@@ -21,3 +21,7 @@ links:: [Local library](zotero://select/library/items/MLTRTFI2), [Web library](h
 - Attachments
 	- [PDF](zotero://select/library/items/GPY3J9UV) {{zotero-imported-file GPY3J9UV, "Emr et al. - 1980 - Sequence analysis of mutations that prevent export of lambda receptor, an Escherichia coli outer mem.pdf"}}
 	- [PubMed entry](http://www.ncbi.nlm.nih.gov/pubmed/6445509)
+- Not super deep reading of this paper, will skim
+- signal sequence has a 1-3AA basic component at the start and then a strongly hydrophobic sequence
+	- changing any of those residues to a charged one breaks the whole thing
+-
