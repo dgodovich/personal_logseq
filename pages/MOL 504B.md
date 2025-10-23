@@ -39,7 +39,8 @@
 		- $NA_i \approx n \frac{D}{2f}$
 		- maximum NA is the index of refraction of the material
 		- higher numbers also correlate with higher collection angle, ~1.5 you get almost 150 degrees
-	-
+	- Infinity corrected objectives make everything easier because you can move it arbitrarily far
+	- condenser lens to focus the illumination
 - [[Oct 21st, 2025]] Physics overview
   collapsed:: true
 	- Most microscopes just kinda work, but it's useful to know about it anyway
