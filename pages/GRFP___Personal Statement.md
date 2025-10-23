@@ -1,12 +1,19 @@
-- Recycling things from my graduate school statements
-	- I think the personal statements have a better hook and the SoPs have more of the juicy details
-	- I'd say I should base it on my Princeton statement since that one was successful but they're really all the same
--
 - General Structure
-	- Hook and summary I think comes from personal statement
-	- SoP can get slotted into IM
-		- add on some Princeton stuff
+	- 1-2 paragraph introduction
+		- Big thesis of my personal statement should be that I am really into regeneration / wound healing and that I want to combine engineering approaches with biology
+			- Hook / intro in the beginning has to really hit on both of these points
+			- My personal statements have good phrasing of these
+	- IM
+		- SoP can get slotted into IM
+			- add on some Princeton stuff
+			- edit SoP to have a deeper focus on wound healing and applying engineering, continuously hitting on the thesis from the intro
+		- Princeton stuff
+			- I think I need to discuss at least a little here what my plans are for creating collaborations in the department
+			- probably would be good to mention co-mentorship as a possibility?
 	- BI has additional CV expansion
+		- Here's where I talk about extensive teaching and outreach work
+	- Future Goals
+		- This one is a bit more nebulous
 -
 - Intellectual Merit
 	- engineering approaches for biological questions is my whole shtick
