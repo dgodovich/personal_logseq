@@ -10,6 +10,10 @@
 		- Princeton stuff
 			- I think I need to discuss at least a little here what my plans are for creating collaborations in the department
 			- probably would be good to mention co-mentorship as a possibility?
+			- Rotation in Jared Toettcher's lab
+				- Do I mention rotating? Or just in Jared Toettcher's lab I have been doing....
+				- human cell culture work in a inducible migratory system with optogenetics
+			- Collaborations
 	- BI has additional CV expansion
 		- Here's where I talk about extensive teaching and outreach work
 	- Future Goals
