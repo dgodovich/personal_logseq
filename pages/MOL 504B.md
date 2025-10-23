@@ -1,4 +1,24 @@
-- [[Oct 21st, 2025]]
+- [[Oct 23rd, 2025]] Images and simple microscopes
+	- I should try to find my notes from bioimaging from senior year
+	- Plane waves coming into a flat interface all bend in the same direction
+		- curved interface you would have convergence or divergence because of the different face angle
+	- Lenses focus light but you can have aberrations from not super correct focusing
+		- astigmatism is left to right
+		- spherical aberration is radial
+	- distance f; focal length
+		- $1/f = (n-1)[1/R_1 + 1/R_2]$
+		- where n is the index of refraction, R1 and R2 are the radii of curvature on either side of the lens
+	- cylindrical lens also works and you get a focal line
+		- convergence in only 1 direction
+		- useful for super resolution imaging
+	- objects can be thought of as collections of point sources of light emanating in all directions
+	- parallel interfaces
+	- image created on the other side of the lens
+		- this is not a point source because it's not an emitter
+		- upside down compared to input object
+	- when object is at focal length, image is infinitely far away
+- [[Oct 21st, 2025]] Physics overview
+  collapsed:: true
 	- Most microscopes just kinda work, but it's useful to know about it anyway
 	- light propagates changes of EM fields
 	- spherical wavefronts are from average emission
