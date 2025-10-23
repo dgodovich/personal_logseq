@@ -1,0 +1,16 @@
+- Recycling things from my graduate school statements
+	- I think the personal statements have a better hook and the SoPs have more of the juicy details
+	- I'd say I should base it on my Princeton statement since that one was successful but they're really all the same
+-
+- Intellectual Merit
+	-
+- Broader Impacts
+	- outreach and education are my primary broader impacts angles I think
+	- Outreach
+		- BMES
+			- ICK! leadership for multiple years
+			-
+		- RockEDU Science Saturday
+		- Fencing? this isn't science but shows that I'm a leader in my communities? I think it could be useful
+	- Education
+	-
