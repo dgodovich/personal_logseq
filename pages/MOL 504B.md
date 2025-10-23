@@ -5,6 +5,7 @@
 	- Lenses focus light but you can have aberrations from not super correct focusing
 		- astigmatism is left to right
 		- spherical aberration is radial
+		- chromatic aberration - rainbow effect from white light bc the different colors refract differently
 	- distance f; focal length
 		- $1/f = (n-1)[1/R_1 + 1/R_2]$
 		- where n is the index of refraction, R1 and R2 are the radii of curvature on either side of the lens
@@ -17,6 +18,28 @@
 		- this is not a point source because it's not an emitter
 		- upside down compared to input object
 	- when object is at focal length, image is infinitely far away
+		- so then you put another lens that has the object at infinity and the image at focal length
+		- $1/o + 1/i = 1/f; M = -i/o$
+		- o is distance of object, i is distance of image, f is focal length
+	- virtual image is where you can't see the image because it looks like it's coming from behind the object and you can't actually detect the image
+		- magnifying glasses make virtual images - upright image
+		- appears further away and bigger
+	- concave lenses only ever make virtual images bc it's a diverging lens
+	- stacking lenses allows you to change the effective focal length
+	- ABCD method for ray propagation
+		- what's going on inside your optical system
+		- matrix multiplication
+		- $\begin{pmatrix} r' \\ \theta'  \end{pmatrix} = \begin{pmatrix} A & B \\ C & D \end{pmatrix} \begin{pmatrix} r \\ \theta \end{pmatrix}$
+	- microscope objectives have one million lenses inside that are all thin film coated
+		- these guys don't have movement, you move the whole thing to change focus
+		- sometimes it has an adjustment collar for immersion / media index of refraction
+	- Numerical aperture is the size of the opening (roughly)
+		- how much light can the objective lens collect
+		- ratio of diameter to focal length
+		- $NA_i \approx n \frac{D}{2f}$
+		- maximum NA is the index of refraction of the material
+		- higher numbers also correlate with higher collection angle, ~1.5 you get almost 150 degrees
+	-
 - [[Oct 21st, 2025]] Physics overview
   collapsed:: true
 	- Most microscopes just kinda work, but it's useful to know about it anyway
