@@ -1,0 +1,6 @@
+- [[Oct 23rd, 2025]]
+- Pre meeting thoughts
+	- I feel bad that I'm going there with almost nothing
+	- I feel like I need a direction to move in and to actually start writing
+		- It is so hard for me to start writing
+	-

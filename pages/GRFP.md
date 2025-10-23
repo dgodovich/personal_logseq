@@ -1,5 +1,6 @@
 - [[GRFP/Research Plan]]
 - [[GRFP/Personal Statement]]
+- [[GRFP/Writing Center Appointment]]
 -
 - [[Sep 29th, 2025]]
 	- solicitation for this year just came out and it's limited to first years sooo I gotta apply now or don't
