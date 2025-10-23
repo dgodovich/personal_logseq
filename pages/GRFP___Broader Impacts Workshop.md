@@ -65,6 +65,7 @@
 	- MBOP
 	- Prison teaching initiative
 - ARIS at rutgers (Advancing Research Impact in Society)
+	- [link here](https://aris.marine.rutgers.edu/)
 	- external outreach resources
 	- They have literature to back things up, good thing to cite there
 - I should go to the writing center

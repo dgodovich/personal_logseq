@@ -2,15 +2,19 @@
 	- I think the personal statements have a better hook and the SoPs have more of the juicy details
 	- I'd say I should base it on my Princeton statement since that one was successful but they're really all the same
 -
+- General Structure
+	- I think I should do the big statement + small IM & BI at the end as a summary
+-
 - Intellectual Merit
-	-
+	- engineering approaches for biological questions is my whole shtick
 - Broader Impacts
 	- outreach and education are my primary broader impacts angles I think
 	- Outreach
 		- BMES
 			- ICK! leadership for multiple years
-			-
+			- Extended track record of working with local groups and engaging kids
+				- This feeds into the NSF goals of STEM education,
 		- RockEDU Science Saturday
 		- Fencing? this isn't science but shows that I'm a leader in my communities? I think it could be useful
 	- Education
-	-
+	- [ARIS from Rutgers for citations for broader impacts, might be nice to have one or two?](https://aris.marine.rutgers.edu/)

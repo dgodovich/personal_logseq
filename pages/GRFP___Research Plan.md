@@ -1,8 +1,18 @@
-- Aim 1: in vitro optimization of RTK platform for targeted migration
-- Aim 2: in vivo performance testing with LNP delivery systems in a mouse skin healing model
+- **Title:**
+- **Aim 1: in vitro optimization of RTK platform for targeted migration**
+	- this is built off of my 504 minigrant
+- **Aim 2: in vivo performance testing with LNP delivery systems in a mouse skin healing model**
+	- Maybe would be good to talk to Deepika about this again?
+	- Mentioning Danelle (and Kai?) here for sure
+		- that supports the merit criteria that they like to see of how I will be using Princeton specific resources
 -
-- Broader Impacts
 - Intellectual Merit
+	- I think leveraging collaborations in my department is pretty good to talk about here?
+	- Some kind of summary of the above research plan?
+- Broader Impacts
+	- Wound healing is epic
+	- Cresilon I think would be good to mention here, especially given that I will be getting a rec from Adela
+	- [ARIS from Rutgers for citations for broader impacts, might be nice to have one or two?](https://aris.marine.rutgers.edu/)
 -
 - Reading
 	- [[Propagating Wave of ERK Activation Orients Collective Cell Migration]]
