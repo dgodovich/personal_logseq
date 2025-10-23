@@ -3,7 +3,10 @@
 	- I'd say I should base it on my Princeton statement since that one was successful but they're really all the same
 -
 - General Structure
-	- I think I should do the big statement + small IM & BI at the end as a summary
+	- Hook and summary I think comes from personal statement
+	- SoP can get slotted into IM
+		- add on some Princeton stuff
+	- BI has additional CV expansion
 -
 - Intellectual Merit
 	- engineering approaches for biological questions is my whole shtick
