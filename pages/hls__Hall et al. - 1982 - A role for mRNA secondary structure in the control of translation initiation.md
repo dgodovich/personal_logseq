@@ -1,0 +1,2 @@
+file:: [Hall et al. - 1982 - A role for mRNA secondary structure in the control of translation initiation.pdf](file://C:/Users/David/Zotero/storage/SFSST959/Hall et al. - 1982 - A role for mRNA secondary structure in the control of translation initiation.pdf)
+file-path:: file://C:/Users/David/Zotero/storage/SFSST959/Hall et al. - 1982 - A role for mRNA secondary structure in the control of translation initiation.pdf
