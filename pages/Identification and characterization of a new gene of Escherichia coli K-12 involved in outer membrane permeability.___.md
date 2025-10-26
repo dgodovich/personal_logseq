@@ -46,4 +46,17 @@ links:: [Local library](zotero://select/library/items/P7R83WZA), [Web library](h
 	- 100 fold change in permeability of large molecules
 	- No change in phage sensitivity
 	- They do a bunch of genetic mapping
+- Diploid analysis to see if it's dominant
+	- imp+ on the plasmid
+	- Dex+ and MacConkey agar sensitive phenotype is recessive
+	- Nov sensitive and Em sensitive is dominant
+	- mutant is lost in recombination, wt preferred
+	- Look for revertants by selecting for detergent and/or drug resistance
+		- they only get pseudorevertants
+		- is that a suppressor?
+- imp gene is essential
+	- selection drives deletion of mutant imp -> essential?
+	- imp phenotype - NovobiocinS Erythromycin (Em)S MacConkey Agar S Dex+
+- Use strains lacking porins to show that it's not because of a change in porin structure
+- Ran gels to look for protein difference in OM, none found
 -
