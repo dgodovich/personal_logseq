@@ -91,3 +91,13 @@ file-path:: file://C:/Users/David/Zotero/storage/P35LZ9DH/Sampson et al. - 1989 
   hl-page:: 4
   hl-color:: yellow
   id:: 68fe76b6-f8cd-428d-8124-c39b0e8f39b4
+- oted that the linkage of the imp-42 13 andwild-type alleles to flanking markerswas not thesame. The linkage of the imp' allele is always higherthanthe linkage of the imp42 13 allele to the same markers, ksgA and leu (Fig
+  ls-type:: annotation
+  hl-page:: 4
+  hl-color:: yellow
+  id:: 68fe8606-6312-47ea-b8b5-e1f0e93b9eaa
+- his suggests that the two mutations areeither very close to each other, identical alterations, or overlapping delet
+  ls-type:: annotation
+  hl-page:: 4
+  hl-color:: yellow
+  id:: 68fe863f-81bc-4487-8e32-4165b1943bd3

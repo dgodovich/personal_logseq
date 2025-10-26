@@ -45,4 +45,5 @@ links:: [Local library](zotero://select/library/items/P7R83WZA), [Web library](h
 		- antibiotic sensitivity, detergent sensitivity, Dex+
 	- 100 fold change in permeability of large molecules
 	- No change in phage sensitivity
-	-
+	- They do a bunch of genetic mapping
+-
