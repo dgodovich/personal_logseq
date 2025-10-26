@@ -32,4 +32,17 @@ links:: [Local library](zotero://select/library/items/P7R83WZA), [Web library](h
 - Start with lamB- strain and select for Dex+
 	- these strains must be porous enough to let in maltodextrins
 - ((68fe6e5a-5a84-4343-932d-7c7accc6bc65))
+	- transposon mutagenesis
+	- kasugamycin is an antibiotic I guess
+- ((68fe75a1-c54b-4628-950e-ddf4c7a6599e))
+	- most mutants that they get in their lamB- Dex+ selection are OmpF/C mutants
+	- They find two very rare mutants 4213 and 208
+	- these are in imp
+- ((68fe7613-0dfa-4804-97d9-908d4e84c66d))
+	- transfer imp mutations with P1 generalized transduction into a strain using a linked Tn10
+	- Linked to known Tn10 markers? not sure what this means
+	- pleiotropic gene
+		- antibiotic sensitivity, detergent sensitivity, Dex+
+	- 100 fold change in permeability of large molecules
+	- No change in phage sensitivity
 	-
