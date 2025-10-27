@@ -26,3 +26,38 @@ file-path:: file://C:/Users/David/Zotero/storage/ZRU47H3M/Ruiz et al. - Chemical
   hl-page:: 1
   hl-color:: yellow
   id:: 68fee664-9404-4cfa-8919-94035249be4c
+- l of the base substitution mutations obtained were recessive null alleles of yfgL or missense alterations of imp4273 itself
+  ls-type:: annotation
+  hl-page:: 4
+  hl-color:: yellow
+  id:: 68ff7e0a-33c3-4931-8890-617dc1cb88c3
+- resistant to CBPV but not to vancomycin or to other antibiotic
+  ls-type:: annotation
+  hl-page:: 4
+  hl-color:: green
+  id:: 68ff7e16-65c9-47fa-8f77-4e132f02be95
+- nce MacConkey agar contains bile salts
+  ls-type:: annotation
+  hl-page:: 4
+  hl-color:: red
+  id:: 68ff7e99-4f03-4220-9739-3e18913962d3
+- ndependent selections, we determined that30%-60% of the bile salt-resistant mutants were also CBPV resista
+  ls-type:: annotation
+  hl-page:: 4
+  hl-color:: yellow
+  id:: 68ff7ed4-a997-4b79-b80b-88561b61299a
+- nd will not be discussed any furth
+  ls-type:: annotation
+  hl-page:: 4
+  hl-color:: red
+  id:: 68ff7edc-dc0a-43fd-82bc-196e598d4da8
+- utations that mapped to the yfgML locus were recessive loss-of-function alleles, since expression of wild-type yfgL in trans restored sensitivity to both bile salts and CBP
+  ls-type:: annotation
+  hl-page:: 4
+  hl-color:: yellow
+  id:: 68ff7ee7-553f-4d6c-a05d-7c737f60512e
+- hough selections for CBPV or moenomycin resistance only yielded one type of mutation in the yfgL locus (IS7E element insertions, see above), selections for bile salt resistance yielded multiple types of yfgL mutations. For example, yfgL8 is an in-frame 12 base pair deletion
+  ls-type:: annotation
+  hl-page:: 4
+  hl-color:: yellow
+  id:: 68ff7f0e-0c43-4a83-9b9d-829039751ecc
