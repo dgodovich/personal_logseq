@@ -5,13 +5,20 @@
 	- 2
 		- I think this one is the fish has a cone angle greater than 180 degrees? Because the dark would be the pond right
 			- but wouldn't that be not actually darkness
-		- how do you compute the cone angle, couldn't it be anything greater than 180
+			- nope it's not the pond
+		- how do you compute the cone angle, couldn't it be anything greater than 180]
+		- oh it's asking for the cone angle of the light opening, that one I understand
+		- $\arcsin(\theta_c) = \frac{1}{n_w}$
 	- 3
 		- This one seems pretty straightforward
 	- 4
 		- this is also just using the lens equations directly
 	- 5
-		- matrix multiplication of
-		- $\begin{pmatrix} 1 & d \\ 0 & 1 \end{pmatrix} \begin{pmatrix} r \\ \theta \end{pmatrix}$
+		- a) matrix multiplication of $\begin{pmatrix} 1 & d \\ 0 & 1 \end{pmatrix} \begin{pmatrix} 1 & 0 \\ \frac{n_1-n_2}{Rn_2} & \frac{n_1}{n_2}\end{pmatrix}$
+		- b and c I think is using the lens equations directly again
 	- 6
+		- This seems a bit harder
 	- 7
+		- figure out how to get ABCD matrix from magnification?
+		- This must be possible
+-
