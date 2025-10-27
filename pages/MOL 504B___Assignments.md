@@ -1,0 +1,3 @@
+- Assignment 1
+	- ![BPY504_Assignment1_2025.pdf](../assets/BPY504_Assignment1_2025_1761602306555_0.pdf)
+	-
