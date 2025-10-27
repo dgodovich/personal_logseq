@@ -1,3 +1,17 @@
 - Assignment 1
 	- ![BPY504_Assignment1_2025.pdf](../assets/BPY504_Assignment1_2025_1761602306555_0.pdf)
-	-
+	- 1
+		- use snells law with a bit of an offset to get the depth as a component of the vector. Will appear to be deeper than it is
+	- 2
+		- I think this one is the fish has a cone angle greater than 180 degrees? Because the dark would be the pond right
+			- but wouldn't that be not actually darkness
+		- how do you compute the cone angle, couldn't it be anything greater than 180
+	- 3
+		- This one seems pretty straightforward
+	- 4
+		- this is also just using the lens equations directly
+	- 5
+		- matrix multiplication of
+		- $\begin{pmatrix} 1 & d \\ 0 & 1 \end{pmatrix} \begin{pmatrix} r \\ \theta \end{pmatrix}$
+	- 6
+	- 7

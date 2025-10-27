@@ -1,6 +1,5 @@
 - [[MOL 504B/Assignments]]
 - [[Oct 23rd, 2025]] Images and simple microscopes
-  collapsed:: true
 	- I should try to find my notes from bioimaging from senior year
 	- Plane waves coming into a flat interface all bend in the same direction
 		- curved interface you would have convergence or divergence because of the different face angle
