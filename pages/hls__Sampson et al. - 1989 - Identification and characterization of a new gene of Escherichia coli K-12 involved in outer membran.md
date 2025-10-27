@@ -206,3 +206,23 @@ file-path:: file://C:/Users/David/Zotero/storage/P35LZ9DH/Sampson et al. - 1989 
   hl-page:: 9
   hl-color:: yellow
   id:: 68fe8a1b-91d2-478d-81d5-d2e3ff165c6b
+- astly, attempts to obtain amber mutations, gene fusions to, or transposons in the imp gene have been unsuccess
+  ls-type:: annotation
+  hl-page:: 9
+  hl-color:: green
+  id:: 68fee36c-b87e-456b-889f-970242f893af
+- vor the alternative simpler explanation that thevarious phenotypes reflect different levelsof increased permeability within a single barrier funct
+  ls-type:: annotation
+  hl-page:: 9
+  hl-color:: yellow
+  id:: 68fee37e-0739-4b34-a713-61044fe8d005
+- nly a small increase in sensitivity to antibiotics which predominately cross theouter membrane via the po
+  ls-type:: annotation
+  hl-page:: 9
+  hl-color:: yellow
+  id:: 68fee394-026f-4a36-856f-fa37bca74521
+- he plasmids were then used to further demonstrate the codominant natureof the mutations and show that gene dosage of the mutant and wild-type alleles correlated with the degreeof the imp conferred pheno
+  ls-type:: annotation
+  hl-page:: 10
+  hl-color:: green
+  id:: 68fee3ff-0c66-4b9c-88dd-6e7c1e7f68e0
