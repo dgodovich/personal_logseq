@@ -1,5 +1,25 @@
 - [[MOL 504B/Assignments]]
+- [[Oct 28th, 2025]] Illumination and Detection
+	- parabolic mirror used to align "collimate" the light
+	- LEDs are very efficient and generally make narrow band light
+		- can have multiple colors by using RGB
+		- or use a blue LED + phosphor to emit broad white light
+			- this one you can't control, but you can tune phosphor color temperature
+	- Stimulated emission of radiation
+		- electron can decay to ground state by being hit by an incoming photon
+		- Incoming photon has to have E = E_gap
+		- outgoing photons are in phase and have the same energy - copies
+	- Light Amplification by Stimulated Emission or Radiation (LASER)
+		- need to get everything into the excited state, but then it all goes together
+		- mirrors at ends to bounce the generated light back and forth
+	- Most microscopes are continuous CW output
+		- 2 photon excitation needs to have very high photon density
+			- pulsed lasers avoid frying your sample
+	- Can pass a laser through a crystal or fiber to get a continuum laser
+		- pretty efficient, not quite broadband but it's pretty good
+	- Convert photos to
 - [[Oct 23rd, 2025]] Images and simple microscopes
+  collapsed:: true
 	- I should try to find my notes from bioimaging from senior year
 	- Plane waves coming into a flat interface all bend in the same direction
 		- curved interface you would have convergence or divergence because of the different face angle
