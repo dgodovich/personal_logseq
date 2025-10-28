@@ -17,7 +17,11 @@
 			- pulsed lasers avoid frying your sample
 	- Can pass a laser through a crystal or fiber to get a continuum laser
 		- pretty efficient, not quite broadband but it's pretty good
-	- Convert photos to
+	- Convert photons to numbers through the photoelectric effect
+		- photodiode is the reverse of an LED
+	- Use an ADC to get a discrete value
+	- EMCCD use hardware electron multiplication to get pre-amp gain
+	-
 - [[Oct 23rd, 2025]] Images and simple microscopes
   collapsed:: true
 	- I should try to find my notes from bioimaging from senior year
