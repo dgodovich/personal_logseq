@@ -15,6 +15,8 @@
 			- Easy fix, change center to be the \mu\m center instead of the pixel center
 		- Not super usable data unfortunately
 			- or at least, nothing interesting happened
+	- [[Oct 27th, 2025]]
+		-
 - [[pyCLM]]
 - [[Oct 1st, 2025]] Meeting with Jared
   collapsed:: true
@@ -27,6 +29,13 @@
 		- GRFP
 			- can the minigrant thoughts be turned into a GRFP proposal
 		- I will be out on thursday
+- [[Oct 28th, 2025]] Meeting with Jared
+	- One more imaging run to be done in the next week
+	- Wave patterns
+		- speed needs to be slower
+		- this has to be in the range of 8 - 10 microns per hour to get the coordinated movement
+		- double check the math on the radial axis, this could be a problem of moving too fast? Potentially the bars are moving slower than the radial would appear
+	- Density patterns
 - Cell lines
   collapsed:: true
 	- [MCF10A](logseq://graph/personal_logseq?block-id=68c83ab3-3e3d-4519-ad31-52cbba7c00d0)
