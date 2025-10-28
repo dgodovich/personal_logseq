@@ -16,7 +16,7 @@
 		- Not super usable data unfortunately
 			- or at least, nothing interesting happened
 	- [[Oct 27th, 2025]]
-		-
+		- Density works
 - [[pyCLM]]
 - [[Oct 1st, 2025]] Meeting with Jared
   collapsed:: true
@@ -35,26 +35,44 @@
 		- speed needs to be slower
 		- this has to be in the range of 8 - 10 microns per hour to get the coordinated movement
 		- double check the math on the radial axis, this could be a problem of moving too fast? Potentially the bars are moving slower than the radial would appear
+		- Quantification
+			- Cell average velocity?
 	- Density patterns
+		- Seed at slightly lower density so that I get a more patchy region, since I should be able to fill holes faster than control
+		- Run with an unilluminated control
+		- Quantification
+			- Local density as a function of time
+				- Can do this either as a metric of how uniform the density distribution is or by using something like what Harrison showed in his lab meeting of neighbor analysis
+				- Either works, not sure which one is easier
+			- Cell velocity
+			- Hole filling rate
+	- Quantification
+		- Need to use Harrison's segment and track function on the tifs and see what the output of that is
+		- I think it's all already made?
 - Cell lines
-  collapsed:: true
-	- [MCF10A](logseq://graph/personal_logseq?block-id=68c83ab3-3e3d-4519-ad31-52cbba7c00d0)
+	- [MCF10A](logseq://graph/personal_logseq?block-id=68c83ab3-3e3d-4519-ad31-52cbba7c00d0) 3X
 		- Triple transgenic
+		  collapsed:: true
 			- OptoEGFR, Fusion red nuclear, ERK-KTR
 			- Fusion red is stupid bright
 				- Almost problematically bright lol
 		- Human breast tissue immortalized cell line
 		- Frozen by Jared
+		  collapsed:: true
 			- He's interested in seeing what their density patterns look like
 			- When he was imaging them / plating on fibronectin for that, he said that he noticed variability in cell densities
 				- Regions clustered high density, low density outgrowths
 			- Beena has been using a separately engineered cell line and doesn't see that - more consistent cell densities across the well
 			- Is this something intrinsic to the cell line that Jared was working with? Is it a protocol difference?
 			  background-color:: yellow
+		- these ones kinda suck
+		  background-color:: red
 	- 10As from Payam
 		- these ones are not triple transgenic, only have the optoEGFR
 			- this is red and stains membranes
 		- Use Janelia 638 Hoescht dye to get a nuclear marker for segmentation
+	- Beena cell lines
+		- There's 3 of them and I have only tested one, and I don't know what any of their names are because I was only working with 1 for now
 - Questions
 	- (1) how does the *width *of the traveling wave stimulation pattern affect cell movement? (in other words, how macroscopic can we go with our stimulation patterns)?
 		- change bar width, this seems pretty straightforward

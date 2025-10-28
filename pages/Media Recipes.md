@@ -14,14 +14,18 @@
 		- DMEM/F12 11330-032
 		- Horse Serum 16050-122
 		- EGF
+		  collapsed:: true
 			- 20ng/mL final conc.
 			- 100\mu\L stock
 		- Hydrocortisone
+		  collapsed:: true
 			- 0.5 mg/mL final conc.
 			- 1mg/mL stock
 		- Cholera Toxin 50 \mu\L for 10 \mu\g/mL final conc.
+		  collapsed:: true
 			- 1mg/mL stock
 		- Insulin 500 \mu\L for 10 \mu\g/mL final conc.
+		  collapsed:: true
 			- 10mg/mL stock
 	- Starvation media
 		- No EGF, no Serum, no insulin
