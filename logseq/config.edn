@@ -428,4 +428,5 @@
  :orphan-pages? true
  :builtin-pages? false}
  :zotero/settings-v2 {"default" {:extra-tags "", :overwrite-mode? false, :zotero-data-directory "C:/Users/David/Zotero", :include-attachments? true, :type-id "6106196", :notes-block-text "Notes", :page-insert-prefix "", :prefer-citekey? true, :attachments-block-text "Attachments"}}
+ :publishing/all-pages-public? true
  }
