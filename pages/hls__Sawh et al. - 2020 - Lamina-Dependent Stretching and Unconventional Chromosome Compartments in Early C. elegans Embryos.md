@@ -1,0 +1,2 @@
+file:: [Sawh et al. - 2020 - Lamina-Dependent Stretching and Unconventional Chromosome Compartments in Early C. elegans Embryos.pdf](file://C:/Users/David/Zotero/storage/QMSZWRI6/Sawh et al. - 2020 - Lamina-Dependent Stretching and Unconventional Chromosome Compartments in Early C. elegans Embryos.pdf)
+file-path:: file://C:/Users/David/Zotero/storage/QMSZWRI6/Sawh et al. - 2020 - Lamina-Dependent Stretching and Unconventional Chromosome Compartments in Early C. elegans Embryos.pdf

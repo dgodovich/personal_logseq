@@ -1,6 +1,10 @@
 - [[Butler Journal Clubs]]
+- [[Oct 29th, 2025]] Susan Mango Biozentrum
+  id:: 6902321b-b63f-41b8-a111-cefc0716d66b
+	- [[Lamina-Dependent Stretching and Unconventional Chromosome Compartments in Early C. elegans Embryos]]
 - [[Oct 22nd, 2025]] Ned Ruby Caltech
   id:: 68f8fbfa-f985-43d0-9439-79c02bbfc7b2
+  collapsed:: true
 	-
 - [[Sep 24th, 2025]] Cedric Feschotte #transposons
   collapsed:: true
