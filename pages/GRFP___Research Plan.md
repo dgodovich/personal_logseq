@@ -16,3 +16,5 @@
 -
 - Reading
 	- [[Propagating Wave of ERK Activation Orients Collective Cell Migration]]
+	- [[An ERK-dependent molecular switch antagonizes fibrosis and promotes regeneration in spiny mice (Acomys)]]
+	- [[Gradual differentiation uncoupled from cell cycle exit generates heterogeneity in the epidermal stem cell layer]]
