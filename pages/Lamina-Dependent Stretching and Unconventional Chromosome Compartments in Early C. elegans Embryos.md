@@ -18,3 +18,8 @@ links:: [Local library](zotero://select/library/items/Z2SN4IND), [Web library](h
 
 - Attachments
 	- [Full Text](https://www.cell.com/article/S1097276520300769/pdf) {{zotero-imported-file QMSZWRI6, "Sawh et al. - 2020 - Lamina-Dependent Stretching and Unconventional Chromosome Compartments in Early C. elegans Embryos.pdf"}}
+- TADs are very dynamic in embryos
+	- zebrafish TAD present prior to zygotic induction, go away during that and then come back later
+	- flies and mouse TADs arise progressively after zygotic induction
+		- but this happens super early??
+-
