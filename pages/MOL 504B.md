@@ -1,5 +1,27 @@
 - [[MOL 504B/Assignments]]
+- [[Oct 30th, 2025]] Contrast Enhancement
+	- Cells are mostly made of water so they don't really scatter light in an aqueous medium
+		- This means you get pretty low contrast
+		- Microscopy techniques need to do some form of contrast enhancement
+	- Dark field microscopy has a very steep angle
+		- doesn't get any light from the objective, only light that's scattered at very high angles
+		- so you basically only see edges
+		- and you need a ton of light
+	- wavelength depends on index of refraction
+		- $\lambda_n = \frac{\lambda_{air}}{n}$
+	- count number of wavelengths to get optical path length
+	- small difference in index of refraction gives you a big difference in phase
+		- interfere light from cells with light not going through cells to get out that difference
+	- Phase contrast
+		- illuminating light is interfered with scattered light by a specially designed phase ring that gives them opposite phases
+			- so you get black background
+			- you actually have to go through a gray filter ring so that you don't just get darkness bc that looks bad
+		- negative vs positive phase contrast does either constructive or destructive interference respectively
+		- condenser annulus opening size and geometry makes the halos and other specifics
+	- can measure phase difference with a known n or d to measure height or n which is kinda cool
+	-
 - [[Oct 28th, 2025]] Illumination and Detection
+  collapsed:: true
 	- parabolic mirror used to align "collimate" the light
 	- LEDs are very efficient and generally make narrow band light
 		- can have multiple colors by using RGB
