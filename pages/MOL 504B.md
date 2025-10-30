@@ -19,7 +19,23 @@
 		- negative vs positive phase contrast does either constructive or destructive interference respectively
 		- condenser annulus opening size and geometry makes the halos and other specifics
 	- can measure phase difference with a known n or d to measure height or n which is kinda cool
-	-
+	- polarization microscopy is useful for larger specimens or crystals, can do label free imaging
+	- Differential Interference microscopy
+		- polarization microscope with fancy stuff in the middle
+		- Wollaston prism is like a polarizing beam splitter but it doesn't reflect, it changes angle
+			- regular would transmit one, reflect the other
+			- this one bends angle for both of them but still splits
+			- there's a direction associated with the splitting
+		- DIC has a wollaston prism on both sides, one to split, one to come together
+		- different polarizations have different interactions with the sample
+			- one direction will get a phase delay and then you get elliptical polarized light on the other side
+			- you need to have one ray go through the sample and the other to not
+				- i.e. go through an edge
+				- only the edges are visible
+		- Contrast only in one direction because of the directionality of the wollaston prism
+			- can "fix" this by phase shifting one direction arbitrarily so then you get "3d" looking shapes
+			- still have no contrast in the perpendicular direction but they look better
+		- polarizer at the end blocks all light that doesn't interact with sample
 - [[Oct 28th, 2025]] Illumination and Detection
   collapsed:: true
 	- parabolic mirror used to align "collimate" the light
