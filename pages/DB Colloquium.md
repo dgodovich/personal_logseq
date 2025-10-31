@@ -1,3 +1,22 @@
+- [[Oct 31st, 2025]] Helen Scott from Nir Yakoby lab at Rutgers
+	- mid/H15 tandem paralogs in fly
+		- homologous to TBX20 which is important for cardiac development
+	- gene dosage is more than just the number of copies
+		- there can be (often are) synergistic effects
+		- having two copies gets you more than double the effect
+	- Enhancer searching is hard
+	- enhancer bashing to figure out what section is important
+		- you can really zoom in to a particular sequence, can be a small region
+	- Duplication of an enhancer makes the fly unable to lay eggs
+- [[Oct 17th, 2025]] Alison Simpkin Stas' lab
+	- same as retreat talk but longer format
+	- FGF signaling / receptor disentangling
+	- terminal cells in drosophila larval trachea can be counted by FGF/ERK gain or loss
+	- pY tag -> add additional tyrosines on RTK to get readout of activity
+		- Emily Ho in Toettcher lab
+	- FGF seems to only be required for the terminal cell fate
+		- branch is able to extend, fusion cell forms fine
+		- What drives this if it's not FGF?
 - [[Sep 26th, 2025]] [[Ai Ing Lim]]
   collapsed:: true
 	- immunologist by training, dev bio in the last few years

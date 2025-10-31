@@ -2,6 +2,26 @@
 - [[Oct 29th, 2025]] Susan Mango Biozentrum
   id:: 6902321b-b63f-41b8-a111-cefc0716d66b
 	- [[Lamina-Dependent Stretching and Unconventional Chromosome Compartments in Early C. elegans Embryos]]
+	- Princeton grad alumna!
+		- Same year as Mary Brukow which is cool
+	- Do pioneer transcription factors terminate plasticity?
+	- mutants for TF don't seem to change plasticity
+		- is it nuclear organization?
+		- Some way to block (steric) the TF from binding to the DNA?
+	- Gradual movement of chromatin modifier determines timing of compaction
+		- into the nucleus, it's always expressed but cytoplasmic
+		- MET-2/SETDB which deposits me1 and me2
+	- Ask what sequences are positioned next to the lamina
+	- in early embryos, lamina is not disrupting gene expression, but it does later
+		- heterochromatin assembly, but not repression of expression yet
+		- This could be because there's a ton of nuclear pores
+	- Pore machinery blocks DNA at it's location
+	- lamina localized heterochromatin could be a block of UV damage
+		- localize damage to the outside of the nucleus, and you get less damage overall
+		- Does this mean it's just fine to damage the LAD?
+			- probably not, since the top genes associated with melanoma are ones that are positioned next to the lamina
+	- Second story that I didn't get
+	- Crazy fact drop at the end that nocturnal animals have heterochromatin in the middle of the nucleus of their rods to act as microlensesgd
 - [[Oct 22nd, 2025]] Ned Ruby Caltech
   id:: 68f8fbfa-f985-43d0-9439-79c02bbfc7b2
   collapsed:: true
