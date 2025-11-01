@@ -1,0 +1,2 @@
+file:: [Bender and Kleckner - 1986 - Genetic evidence that Tn10 transposes by a nonreplicative mechanism.pdf](file://C:/Users/David/Zotero/storage/WEEKX7JK/Bender and Kleckner - 1986 - Genetic evidence that Tn10 transposes by a nonreplicative mechanism.pdf)
+file-path:: file://C:/Users/David/Zotero/storage/WEEKX7JK/Bender and Kleckner - 1986 - Genetic evidence that Tn10 transposes by a nonreplicative mechanism.pdf
