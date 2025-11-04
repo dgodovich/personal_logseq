@@ -1,5 +1,11 @@
 - [[MOL 504B/Assignments]]
+- [[Nov 4th, 2025]] Fluorescence Microscopy
+	- Problem with DIC and phase contrast is that you don't really know what you're looking at
+	- Bind specific molecules to things that we understand
+		- genetically encoding it or doing an antibody
+	-
 - [[Oct 30th, 2025]] Contrast Enhancement
+  collapsed:: true
 	- Cells are mostly made of water so they don't really scatter light in an aqueous medium
 		- This means you get pretty low contrast
 		- Microscopy techniques need to do some form of contrast enhancement
