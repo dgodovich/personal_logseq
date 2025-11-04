@@ -6,6 +6,12 @@
 	- Mentioning Danelle (and Kai?) here for sure
 		- that supports the merit criteria that they like to see of how I will be using Princeton specific resources
 -
+- aging? [[Nov 4th, 2025]] Brainstorm with Jared
+	- Look at EGFR receptor activity in young vs old mice
+	- Literature suggests that they lose receptor activity
+		- opto tool could circumvent that
+	- This also supports an overarching question with aims 1 and 2
+-
 - Intellectual Merit
 	- I think leveraging collaborations in my department is pretty good to talk about here?
 	- Some kind of summary of the above research plan?
