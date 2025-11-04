@@ -11,7 +11,19 @@
 		- can normalize to the starting position, but that influences background too
 	- can label proteins (lysine or cysteine residues) with dyes
 		- chemical linkage, done in a kit
-	-
+	- GFP and other fluorescent proteins have size
+		- can significantly impact protein function
+	- Epifluorescence is same side illumination
+		- emitted light goes back through the objective
+		- get specific filter and dichroic for each fluorophore
+	- Can design one pass filter set or a multi-band pass filter
+	- worst autofluorescence is coming from UV/blue absorption and emission in green
+		- 488 is probably the worst, 405 can also be bad
+	- You also have overlap of spectra
+		- You can unmix spectra with linear algebra or unsupervised clustering
+		- theoretically this can unmix many colors but for practical reasons it's hard
+	- FRET can be used to make mixed probes that give you more "colors"
+		- not actually colors, different efficiency
 - [[Oct 30th, 2025]] Contrast Enhancement
   collapsed:: true
 	- Cells are mostly made of water so they don't really scatter light in an aqueous medium
