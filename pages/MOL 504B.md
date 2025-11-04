@@ -3,6 +3,14 @@
 	- Problem with DIC and phase contrast is that you don't really know what you're looking at
 	- Bind specific molecules to things that we understand
 		- genetically encoding it or doing an antibody
+	- most dyes have aromatic systems
+		- These are responsive to polarized light because there's an axis of the rings
+	- There's some finite number of photons that can come out of the fluorophore
+		- bc they switch to phosphorescence which sucks
+	- Different dyes bleach at different rates
+		- can normalize to the starting position, but that influences background too
+	- can label proteins (lysine or cysteine residues) with dyes
+		- chemical linkage, done in a kit
 	-
 - [[Oct 30th, 2025]] Contrast Enhancement
   collapsed:: true
