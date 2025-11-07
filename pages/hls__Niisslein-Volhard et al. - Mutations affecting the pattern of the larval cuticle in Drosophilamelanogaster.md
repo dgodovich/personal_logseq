@@ -92,3 +92,28 @@ file-path:: file://C:/Users/David/Zotero/storage/PGA8KTGZ/Niisslein-Volhard et a
   hl-page:: 6
   hl-color:: yellow
   id:: 690d52ac-95b9-4a87-b2e2-1bc8ee4b14a1
+- ent of 259 of the 276 mutations into 48 complementation groups with 2-18 allel
+  ls-type:: annotation
+  hl-page:: 8
+  hl-color:: green
+  id:: 690d52e9-7de0-4027-96ae-4f5d56916a95
+- henever possible, the back-cross was performed with an independent allele in order to complement other lethal functions which might have been induced simultaneously in the heavily mutagenized chromo
+  ls-type:: annotation
+  hl-page:: 9
+  hl-color:: yellow
+  id:: 690d533b-c424-4e5a-b0c9-a04d4b3e2c2b
+- s not been especially designed to isolate ts mutants, so our sample of 10 ts mutants per 272 mutants is probably under-represente
+  ls-type:: annotation
+  hl-page:: 13
+  hl-color:: yellow
+  id:: 690d53e7-2fb8-4456-b306-9c09dcbc3391
+- nes stopping development before the appearance of cuticular structures - we scored a large number of lethal lines (corresponding to approximately 2000 lethal hits) for early phenotypes in living embryos and did not find an
+  ls-type:: annotation
+  hl-page:: 13
+  hl-color:: yellow
+  id:: 690d54a1-a658-4c28-8519-3696a2b71590
+- e found only alleles of previously identified
+  ls-type:: annotation
+  hl-page:: 14
+  hl-color:: yellow
+  id:: 690d54dc-1d10-49a1-9c24-5f8262c59380
