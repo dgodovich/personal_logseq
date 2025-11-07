@@ -11,6 +11,8 @@
 	- Literature suggests that they lose receptor activity
 		- opto tool could circumvent that
 	- This also supports an overarching question with aims 1 and 2
+	- So there's quite a bit of literature that shows that they're still downstream competent
+		- But maybe there's still more to dissect there about migration
 -
 - Intellectual Merit
 	- I think leveraging collaborations in my department is pretty good to talk about here?
