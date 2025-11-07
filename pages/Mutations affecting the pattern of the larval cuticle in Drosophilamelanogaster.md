@@ -19,4 +19,15 @@ links:: [Local library](zotero://select/library/items/EYVGR77A), [Web library](h
 - Maternal effect are the global RNA gradient deposits
 	- bicoid, nanos, etc
 	- These are known at this time
--
+- Roughly 1500 genes are embryonic lethal (that's a lot of genes to screen)
+- Dominant temp sensitive used to kill unwanted progeny so you don't have to sort anything
+- Whole mount with clearing to look at embryos quickly
+- Methods
+	- mutagenize with ethyl methane sulfonate (EMS) in food
+	- CyO is used as a balancer for everything
+		- homozygous lethal
+	- DTS91 is a temp sensitive balancer to screen out things
+	- mapping and complementation with other known mutant alleles
+	- cn bw sp males
+		- white eyes,
+	- DTS91 b pr cn sca / CyO females
