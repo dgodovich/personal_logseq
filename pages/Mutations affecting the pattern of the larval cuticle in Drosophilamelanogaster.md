@@ -29,5 +29,11 @@ links:: [Local library](zotero://select/library/items/EYVGR77A), [Web library](h
 	- DTS91 is a temp sensitive balancer to screen out things
 	- mapping and complementation with other known mutant alleles
 	- cn bw sp males
-		- white eyes,
+		- white eyes, something
 	- DTS91 b pr cn sca / CyO females
+		- bunch of recessive stuff to help identify escapers from temp
+		- same females used for F1 cross
+	- Collect eggs that didn't hatch after 36 hours
+	- dechorionate and fix
+	- Then get a better idea of the hatch rate
+	-

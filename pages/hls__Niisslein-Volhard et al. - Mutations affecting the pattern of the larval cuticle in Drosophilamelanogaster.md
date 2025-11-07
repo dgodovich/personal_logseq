@@ -52,3 +52,18 @@ file-path:: file://C:/Users/David/Zotero/storage/PGA8KTGZ/Niisslein-Volhard et a
   hl-page:: 2
   hl-color:: red
   id:: 690d4d45-bef2-4aee-afa4-515f7af4fd15
+- help of a vacuum clean
+  ls-type:: annotation
+  hl-page:: 2
+  hl-color:: purple
+  id:: 690d4e59-c367-461e-bae1-4fa7a6d456ae
+- ays containing more than 20% unhatched eggs colle
+  ls-type:: annotation
+  hl-page:: 3
+  hl-color:: red
+  id:: 690d4eb7-3cc3-44be-9e51-7ff13343e01a
+- e egg-screening procedure was repeated; however, in this second screen the hatch rates were determined more accurately by counting the number of unhatched eggs per 100 total eg
+  ls-type:: annotation
+  hl-page:: 3
+  hl-color:: red
+  id:: 690d4f02-eab4-439f-9ecd-01c29d457b1b
