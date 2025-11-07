@@ -1,0 +1,2 @@
+file:: [Niisslein-Volhard et al. - Mutations affecting the pattern of the larval cuticle in Drosophilamelanogaster.pdf](file://C:/Users/David/Zotero/storage/PGA8KTGZ/Niisslein-Volhard et al. - Mutations affecting the pattern of the larval cuticle in Drosophilamelanogaster.pdf)
+file-path:: file://C:/Users/David/Zotero/storage/PGA8KTGZ/Niisslein-Volhard et al. - Mutations affecting the pattern of the larval cuticle in Drosophilamelanogaster.pdf
