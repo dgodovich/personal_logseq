@@ -67,3 +67,28 @@ file-path:: file://C:/Users/David/Zotero/storage/PGA8KTGZ/Niisslein-Volhard et a
   hl-page:: 3
   hl-color:: red
   id:: 690d4f02-eab4-439f-9ecd-01c29d457b1b
+- ot reciprocally, suggesting that these lines contained a leaky dominant maternal effect mutatio
+  ls-type:: annotation
+  hl-page:: 5
+  hl-color:: yellow
+  id:: 690d51a9-8269-4c4d-a810-72daaa78cb80
+- n 24 of 28 cases, an isogenization of third chromosomes resulted in the isolation of mutants mapping on the third chromo
+  ls-type:: annotation
+  hl-page:: 5
+  hl-color:: yellow
+  id:: 690d51ad-c3f6-48ee-8725-a88f1e309e49
+- ome of these lines were found to be contaminated with DTS91 escaper flies and the secondchromosomal mutants could be recovered by re-isogenizatio
+  ls-type:: annotation
+  hl-page:: 5
+  hl-color:: yellow
+  id:: 690d51b3-8e17-4245-8b04-ebbf293ecfb0
+- neral, this strategy proved useful and in many instances our predictions of allelism were correc
+  ls-type:: annotation
+  hl-page:: 6
+  hl-color:: yellow
+  id:: 690d525f-7ef3-454f-b7f7-ce71d04db92c
+- o n reinspection, we noticed that, although the mutants all had a distinct phenotype, this phenotype came very close to wild-type or to mutants of the" p o o r l y differentiated" class which we had disca
+  ls-type:: annotation
+  hl-page:: 6
+  hl-color:: yellow
+  id:: 690d52ac-95b9-4a87-b2e2-1bc8ee4b14a1

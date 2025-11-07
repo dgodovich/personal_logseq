@@ -36,4 +36,6 @@ links:: [Local library](zotero://select/library/items/EYVGR77A), [Web library](h
 	- Collect eggs that didn't hatch after 36 hours
 	- dechorionate and fix
 	- Then get a better idea of the hatch rate
-	-
+- Need to go to F3 to get your line established before you can test for lethality
+-
+-
