@@ -117,3 +117,18 @@ file-path:: file://C:/Users/David/Zotero/storage/PGA8KTGZ/Niisslein-Volhard et a
   hl-page:: 14
   hl-color:: yellow
   id:: 690d54dc-1d10-49a1-9c24-5f8262c59380
+- equency of chromosomes having received at least one lethal hit in our experiment was 73% (4217/5764
+  ls-type:: annotation
+  hl-page:: 15
+  hl-color:: yellow
+  id:: 690d5593-ec19-4e64-993f-e091b60edba2
+- nd g the average number of hits per chromosom
+  ls-type:: annotation
+  hl-page:: 15
+  hl-color:: yellow
+  id:: 690d55a1-9a6e-4e3f-85ce-70f6827da890
+- ation yields a total number of about 1700 leth
+  ls-type:: annotation
+  hl-page:: 15
+  hl-color:: yellow
+  id:: 690d55b8-3374-4289-ab7c-c423f9a2f936
