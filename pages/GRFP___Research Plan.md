@@ -14,6 +14,10 @@
 	- So there's quite a bit of literature that shows that they're still downstream competent
 		- But maybe there's still more to dissect there about migration
 -
+- Nanba says that EGFR doesn't go down in aging but that phosphatase activity is up
+	- This is somewhat aligned with previous results but not entiretly
+	- Wells group suggests that EGFR levels do go down, and also that phosphatase is up
+-
 - Intellectual Merit
 	- I think leveraging collaborations in my department is pretty good to talk about here?
 	- Some kind of summary of the above research plan?
