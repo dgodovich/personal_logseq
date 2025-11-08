@@ -17,6 +17,8 @@
 - Nanba says that EGFR doesn't go down in aging but that phosphatase activity is up
 	- This is somewhat aligned with previous results but not entiretly
 	- Wells group suggests that EGFR levels do go down, and also that phosphatase is up
+	- these guys are also looking at keratinocytes where I think I should be looking at fibroblasts
+		- Both are migratory cell types involved in wound healing so it's still applicable
 -
 - Intellectual Merit
 	- I think leveraging collaborations in my department is pretty good to talk about here?
