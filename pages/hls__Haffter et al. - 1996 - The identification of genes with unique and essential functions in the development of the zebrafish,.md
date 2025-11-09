@@ -81,3 +81,53 @@ file-path:: file://C:/Users/David/Zotero/storage/F882AUG9/Haffter et al. - 1996 
   hl-page:: 6
   hl-color:: red
   id:: 6910e66c-2d0c-4f23-ab21-9774813446d8
+- age 1.1 mutations with a recessive phenotype clearly visible in 25% of the embryos/larvae were found per mutagenized genom
+  ls-type:: annotation
+  hl-page:: 6
+  hl-color:: red
+  id:: 6910e710-8f30-429c-a471-7b579382f063
+- total of 2092 independent mutant progeny were kept and subjected to a second scre
+  ls-type:: annotation
+  hl-page:: 7
+  hl-color:: red
+  id:: 6910e78e-47c9-4b6d-a200-583757eaf105
+- reen, the embryos were scored during early somite stages, twice during the pharyngula period, and once at all subsequent days until the swimming larva period
+  ls-type:: annotation
+  hl-page:: 7
+  hl-color:: red
+  id:: 6910e79d-dd1f-42b5-be8d-69987e56814d
+- ctice the viability and vigor of ﬁsh resulting from inbreeding was very much reduced compared to outbred ﬁs
+  ls-type:: annotation
+  hl-page:: 7
+  hl-color:: red
+  id:: 6910e7fc-0804-4af3-9182-aec5c013806f
+- ENU had the highest mutagenicity of the agents tested, inducing apparent point mutations at a rate of about one mutation causing a visible phenotype in the embryo or larva per treated haploid geno
+  ls-type:: annotation
+  hl-page:: 7
+  hl-color:: red
+  id:: 6910e82d-406a-4e87-b661-b0c7fd738b6d
+- X-rays, EMS, or insertion of DNA proved to be by one to several orders of magnitude less efficient at inducing recoverable mutat
+  ls-type:: annotation
+  hl-page:: 7
+  hl-color:: yellow
+  id:: 6910e837-6e18-4f1b-bdfe-8b2bc84dc9d0
+- gle pair matings were performed between F1 ﬁsh and 4070 F 2 progeny from each mating were raise
+  ls-type:: annotation
+  hl-page:: 7
+  hl-color:: red
+  id:: 6910e851-9e16-454c-9df1-496a1d2e3945
+- ily of sibling ﬁsh that share a gene pool of two mutagenized haploid genomes (one from each pare
+  ls-type:: annotation
+  hl-page:: 7
+  hl-color:: yellow
+  id:: 6910e85c-1dd2-4ab5-8764-bb255246865f
+- s between F2 siblings were carried out and the resulting embryos scored for the occurrence of mutant phenotype
+  ls-type:: annotation
+  hl-page:: 7
+  hl-color:: yellow
+  id:: 6910e862-b6ae-4a20-b6fd-837819c1e925
+- y 50% of the ﬁsh in a family share a particular mutation, on average every fourth cross yields embryos homozygous for a mutation originating from one of the F 1 parents of that fam
+  ls-type:: annotation
+  hl-page:: 7
+  hl-color:: red
+  id:: 6910e86a-ed39-465c-9ee3-35b27f7cd077

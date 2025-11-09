@@ -22,9 +22,13 @@ links:: [Local library](zotero://select/library/items/SBMS3RZP), [Web library](h
 - Attachments
 	- [PDF](zotero://select/library/items/F882AUG9) {{zotero-imported-file F882AUG9, "Haffter et al. - 1996 - The identification of genes with unique and essential functions in the development of the zebrafish,.pdf"}}
 - Big screen kinda based on the fly screen
--
+- Useful diagrams of fish development
+- Can't look at severe phenotypes because it's too complicated to do complementation / hard to cross
+- figure 3 is drawn with only one het but they use both parents as het
 -
 - 1) How does this screen differ (in strategy) from the Drosophila screen?
 - 2) Why is screening done in families?
+	- because you have recombination
+	- Flies can't recombine because of balancers, but fish don't have that
 - 2) What are the advantages and disadvantages of the strategy used in zebrafish?
 - 3) What types of problems did they encounter when trying to classify phenotypes?
