@@ -1,3 +1,64 @@
+- Outline plan of what I have to do:
+	- Intro
+		- This needs to be a bit longer and hit on the main points
+		- Thesis is "using a combination of engineering and biology approaches to ask and answer questions in wound healing"
+			- That is what I want to do in my PhD
+		- GRFP is really about what kind of PhD student do you want to be
+			- I want to be a biologist who uses engineering approaches I think
+			- I think fundamentally I don't want to be an engineer
+				- Problem solving is exciting to me, but that's the engineering approach
+				- I don't really want to do tool dev which is the engineer's way
+			- This is what Jared was telling me (and I think Sheina, and some other people)
+		- I think if possible try to sell it a bit more (in IM?) about why engineering approaches are necessary for wound healing questions
+			- This is pretty self-explanatory to me, but that isn't actually true
+	- IM
+		- Princeton Paragraph
+			- Edit my stream of consciousness
+			- Main points to hit here are
+				- Engineering vs biology program and why I chose this one
+					- Furthering that, how it's already given me this biology framework thinking
+					- genetic screens, prokaryotic foundational concepts, etc
+				- Fostering collaboration between Danelle, Jared, and Kai
+					- This is the dream team for longitudinal studies of wound healing efficacy and aging
+					- They're already starting down this path, but I think I can be a good intermediary between them
+		- Rotation with Jared
+			- This might be worth making into its whole own paragraph
+				- actually for sure should be
+			- Highlight that this is me leveraging my unique skillset
+				- programming for biological control
+				- Really thinking about biological systems "like an engineer"
+			- Getting data and potential applications of that?
+		- Editing existing paragraphs
+			- In the interest of time I think I won't/can't do this that much
+			- Add something referencing planned single cell / other computational experiments from research plan in the MSK paragraph
+			- Some slight pivoting a bit closer to the thesis, but I think this is not 100% needed / already most of the way there
+		- See how long it is after this and then revisit
+	- BI
+		- Edit my word salad
+		- Main points to hit here
+			- Teaching paragraph
+				- EDD / chem341
+					- this is nice because that's really fostering stem outreach
+					- Maybe can say something about public institution?
+						- Could be a valid point, but that might get kinda hairy
+				- tutoring?
+				- EduMate
+				- Connect-in-place
+				- I think I could mention tutoring in latin in high school but I'm not sure that that's actually effective
+			- Outreach paragraph
+				- ICK
+				- community day
+				- science saturday
+				- Starting to work with MBOP
+			- Community engagement
+				- Panels for EDD, WCAC
+			- Future plans
+				- Continuing to do outreach
+				- Want to pivot more towards adult outreach to promote science education
+					- This also might have some hairy sentences I have to be careful with
+					- Science comedy, informal talks
+					- Here's the CST / LabTales plug
+-
 - General Structure
 	- 1-2 paragraph introduction
 		- Big thesis of my personal statement should be that I am really into regeneration / wound healing and that I want to combine engineering approaches with biology

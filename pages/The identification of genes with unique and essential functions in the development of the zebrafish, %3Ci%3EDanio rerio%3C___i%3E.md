@@ -32,3 +32,4 @@ links:: [Local library](zotero://select/library/items/SBMS3RZP), [Web library](h
 	- Flies can't recombine because of balancers, but fish don't have that
 - 2) What are the advantages and disadvantages of the strategy used in zebrafish?
 - 3) What types of problems did they encounter when trying to classify phenotypes?
+-
