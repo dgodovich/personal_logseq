@@ -1,5 +1,6 @@
 - [[MOL 504B/Assignments]]
 - [[Nov 4th, 2025]] Fluorescence Microscopy
+  collapsed:: true
 	- Problem with DIC and phase contrast is that you don't really know what you're looking at
 	- Bind specific molecules to things that we understand
 		- genetically encoding it or doing an antibody
