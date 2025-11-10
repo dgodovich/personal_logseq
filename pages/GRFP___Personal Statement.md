@@ -32,6 +32,7 @@
 			- In the interest of time I think I won't/can't do this that much
 			- Add something referencing planned single cell / other computational experiments from research plan in the MSK paragraph
 			- Some slight pivoting a bit closer to the thesis, but I think this is not 100% needed / already most of the way there
+			- After doing this I feel like I might have to bring these even closer to the research plan question, rather than leaving it kinda broad as I have it now
 		- See how long it is after this and then revisit
 	- BI
 		- Edit my word salad
@@ -45,6 +46,7 @@
 				- EduMate
 				- Connect-in-place
 				- I think I could mention tutoring in latin in high school but I'm not sure that that's actually effective
+				  id:: 6910f3b1-2902-413d-b6aa-b2936d61f2d5
 			- Outreach paragraph
 				- ICK
 				- community day
