@@ -1,0 +1,23 @@
+- [[Nov 11th, 2025]]
+- Went great!
+- Jared's main feedback is to bother the PI more
+	- Talking about the problem with ideas is that he's full of them but doesn't know how to assign
+	- Things that matter in that assignment are how busy you are, your bandwidth for new ideas, reception to new ideas
+	- Especially as a first year / early graduate student, interacting with the PI is important and how you build that relationship
+	- This is something that I've previously struggled with in Kat's lab
+		- I never talked to her, and I thought that was part of her style / me being a tech, but it's also definitely on me in some sense
+		- Need to reach out and have more continuous informal interactions
+- Harrison's paper got revisions!
+	- They need to show some more radial stuff
+	- I think my density things are going in the paper which is kinda crazy
+	- and Matteo's which is awesome
+	- coauthorship from a rotation moment
+- Co-mentoring is a possibility
+	- Requires PIs to have a scope of project already planned out and have it be feasible
+	- One of the issues with co-mentorship is that if a project doesn't work, which happens all the time, you're more restricted in the available search space of potential research ideas
+	- So with that in mind, it's a bit harder to plan for a comentorship with [[Kai Mesa]] since his stuff is so new and not really established yet
+		- They are working on a grant together
+	- [[Danelle Devenport]] is more possible as they already have joint funding and existing collaborations
+	- But, Jared generally is looking to expand the application of his opto tools into translational settings
+		- and this requires a mouse model that he will be getting from a collaboration
+-

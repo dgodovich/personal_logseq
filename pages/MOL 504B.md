@@ -1,5 +1,6 @@
 - [[MOL 504B/Assignments]]
 - [[Nov 11th, 2025]] Resolution
+  collapsed:: true
 	- Spatial frequency that can get captured by the optics of the microscope is what limits the resolution
 	- Lenses make a fourier transform
 		- objective lens takes forward fourier transform
