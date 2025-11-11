@@ -12,7 +12,16 @@
 			- wider aperture = more detail
 	- Resolution limit or Rayleigh criterion is related to wavelength
 		- $\frac{\lambda}{2NA} \approx 200nm$
-	-
+	- can filter on specific directions for edge detection
+	- Optical transfer function is a linear loss of signal as you get closer to resolution cutoff
+		- but you can measure this and account for it
+			- measure the PSF (Point Spread Function) with a known bright sample (bead)
+		- deconvolution
+	- blur can be thought of as a convolution between the PSF and the ideal point sources of light
+	- one of the great things about fourier transform is that it makes a convolution into a product so you avoid double integral
+	- Types of deconvolution
+		- Inverse filter (in fourier space)
+		- iterative algorithm
 - [[Nov 6th, 2025]] Diffraction and FT
 	- I didn't go to this class
 - [[Nov 4th, 2025]] Fluorescence Microscopy
