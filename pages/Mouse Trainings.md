@@ -1,2 +1,6 @@
 - EHS Animal worker training
 	- Did this one a while ago
+- All Personnel IACUC
+	- lots of info, but most of it is IACUC related and not something I actually have to know now I think?
+	- Compliance and whatnot
+	-
