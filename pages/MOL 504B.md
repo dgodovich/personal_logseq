@@ -1,4 +1,20 @@
 - [[MOL 504B/Assignments]]
+- [[Nov 11th, 2025]] Resolution
+	- Spatial frequency that can get captured by the optics of the microscope is what limits the resolution
+	- Lenses make a fourier transform
+		- objective lens takes forward fourier transform
+			- this is flat because there's an equal amplitude for each spatial frequency
+		- tube lens does an inverse
+		- aperture filters out high frequencies
+			- further away from the center is higher frequency
+			- This is a physical low pass filter
+		- larger aperture has a smaller airy disk (gaussian blob)
+			- wider aperture = more detail
+	- Resolution limit or Rayleigh criterion is related to wavelength
+		- $\frac{\lambda}{2NA} \approx 200nm$
+	-
+- [[Nov 6th, 2025]] Diffraction and FT
+	- I didn't go to this class
 - [[Nov 4th, 2025]] Fluorescence Microscopy
   collapsed:: true
 	- Problem with DIC and phase contrast is that you don't really know what you're looking at
@@ -88,6 +104,7 @@
 	- EMCCD use hardware electron multiplication to get pre-amp gain
 	-
 - [[Oct 23rd, 2025]] Images and simple microscopes
+  collapsed:: true
 	- I should try to find my notes from bioimaging from senior year
 	- Plane waves coming into a flat interface all bend in the same direction
 		- curved interface you would have convergence or divergence because of the different face angle
