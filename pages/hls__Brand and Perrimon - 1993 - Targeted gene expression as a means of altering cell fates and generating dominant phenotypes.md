@@ -36,3 +36,18 @@ file-path:: file://C:/Users/David/Zotero/storage/LTA9394Z/Brand and Perrimon - 1
   hl-page:: 4
   hl-color:: yellow
   id:: 69141104-bbce-4fca-8efb-4f2dc6ad67da
+- L4 transcription can be driven by characterized Drosophila promot
+  ls-type:: annotation
+  hl-page:: 4
+  hl-color:: yellow
+  id:: 69141153-b7d8-4b06-b5af-c1dc0a531496
+- y fusing the GAL4 coding sequence to the P-transposase promoter, we constructed a vector that, depending upon its genomic site of integration, can direct expression of GAL4 in a wide range of patterns in embryos, larvae and adult
+  ls-type:: annotation
+  hl-page:: 4
+  hl-color:: yellow
+  id:: 69141184-5bd7-4fe6-a65f-31da9f93d1cf
+- MATERIALS AND METHODS
+  ls-type:: annotation
+  hl-page:: 4
+  hl-color:: purple
+  id:: 69141223-0344-4c69-8a41-bdc476e5d87a

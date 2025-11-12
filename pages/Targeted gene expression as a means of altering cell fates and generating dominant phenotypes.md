@@ -34,6 +34,15 @@ links:: [Local library](zotero://select/library/items/FFINYX5J), [Web library](h
 		- Second has activator but no target gene
 		- So it's only the progeny that get both
 	- Use yeast GAL4 as an ectopic activator
+		- This needs a specific site to bind to, UAS (Upstream Activation Sequence)
+	- Pattern the activator to get expression patterns
+		- Can use characterized promoters to drive GAL4 expression
+		- Can also attach it to a transposase promoter that can drive itself or be attached to other genes
+	- Can generate dominant phenotypes in adult with the same system
+		- Hopefully they explain more of this later I didn't get it
+- ((69141223-0344-4c69-8a41-bdc476e5d87a))
+  id:: 6914120e-0b86-4d5d-9e45-75ae5fe35c5d
+	- Liz says we need to read the methods
 	-
 -
 - Questions:
