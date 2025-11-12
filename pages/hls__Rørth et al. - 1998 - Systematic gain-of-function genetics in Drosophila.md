@@ -41,3 +41,8 @@ file-path:: file://C:/Users/David/Zotero/storage/GT9FNAI3/Rørth et al. - 1998 -
   hl-page:: 6
   hl-color:: purple
   id:: 6914a4fe-3b4f-475e-a34b-6f4877acc77f
+- ntially more informative class of defects are those that could result from overexpression of a protein which fortuitously interacts with an endogenous protein in a way that reduces its activity (e.g. titration by binding
+  ls-type:: annotation
+  hl-page:: 7
+  hl-color:: blue
+  id:: 6914a58c-36d1-4dca-af05-0e14cbb88319
