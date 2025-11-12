@@ -43,6 +43,9 @@ links:: [Local library](zotero://select/library/items/FFINYX5J), [Web library](h
 - ((69141223-0344-4c69-8a41-bdc476e5d87a))
   id:: 6914120e-0b86-4d5d-9e45-75ae5fe35c5d
 	- Liz says we need to read the methods
+	- enhancer detection
+	- I don't really get it but that's ok
+- ((691417c0-5d77-4fff-9dae-69b8d8add157))
 	-
 -
 - Questions:
