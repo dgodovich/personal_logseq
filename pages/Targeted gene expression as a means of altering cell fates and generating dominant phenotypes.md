@@ -54,6 +54,17 @@ links:: [Local library](zotero://select/library/items/FFINYX5J), [Web library](h
 	- NLS on the P-transposase sequence so it's transcriptionally active GAL4
 	- They somehow get a lot in the salivary glands but this seems like an accident
 	- Generally they get a good amount that have tissue specific expression
+		- Look at some examples of this in figure 3
+- ((69141ad5-4461-4d5c-bd33-b996c2ffb2c5))
+	- Combo tissue specific GAL4 with target gene UAS to get misexpression of target gene
+	- UAS-eve with *hairy* enhancer line, so eve shows up where *hairy* is supposed to be
+	- Extra denticle phenotype because you don't get wingless
+- ((69141ba6-a240-45b0-b4a5-775a3841f5ee))
+	- Limit transcription of a mutant to a non-essential tissue so that it's not lethal
+	- Dras2^Val14 mutant is lethal most of the time and always has a severe phenotype
+		- But you can make this not a problem if you limit it's expression to just the eye with a tissue specific Gal4
+		- Has to be the right tissue, because depending on when it's expressed it could still be lethal
+		- But you get more control in any case
 	-
 -
 - Questions:

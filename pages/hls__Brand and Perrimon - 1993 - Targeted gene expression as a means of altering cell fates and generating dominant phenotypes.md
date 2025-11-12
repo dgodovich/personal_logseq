@@ -137,3 +137,53 @@ file-path:: file://C:/Users/David/Zotero/storage/LTA9394Z/Brand and Perrimon - 1
   hl-page:: 8
   hl-color:: yellow
   id:: 69141a29-b639-4393-8c96-e0b0d0915ceb
+- Altering cell fates by targeted expression of evenskipped
+  ls-type:: annotation
+  hl-page:: 9
+  hl-color:: purple
+  id:: 69141ad5-4461-4d5c-bd33-b996c2ffb2c5
+- nsgenic lines carrying UAS-even-skipped were crossed to the GAL4expressing lines show
+  ls-type:: annotation
+  hl-page:: 9
+  hl-color:: red
+  id:: 69141af5-228d-4705-ae10-a18beec326e7
+- his stage of development (stage 9,3:40-4:20 hours) even-skipped expression would normally have faded, but expression persists due to GAL4-directed transcriptio
+  ls-type:: annotation
+  hl-page:: 11
+  hl-color:: green
+  id:: 69141b3b-f402-47c7-8e91-6838b037d29d
+- artinez Arias, 1992). Misexpression of even-skipped within the wingless-expressing cells might therefore switch off wingless transcription and effect a cell fate change such that cells that would normally secrete naked cuticle instead produce dentic
+  ls-type:: annotation
+  hl-page:: 11
+  hl-color:: yellow
+  id:: 69141b67-5c88-4a85-aff3-ca50ecd11093
+- hibit extra denticles between alternating segments, as sho
+  ls-type:: annotation
+  hl-page:: 11
+  hl-color:: yellow
+  id:: 69141b72-91c9-40ca-87a0-134232eafd15
+- hen UAS-even-skipped is activated by pairedGAL4, wingless transcription is turned off in alternating segments along the entire length of the embry
+  ls-type:: annotation
+  hl-page:: 11
+  hl-color:: green
+  id:: 69141b9f-3dd3-4965-9bf9-63253f9ee487
+- Generation of dominant adult phenotypes by directed expression of activated Dras2
+  ls-type:: annotation
+  hl-page:: 11
+  hl-color:: purple
+  id:: 69141ba6-a240-45b0-b4a5-775a3841f5ee
+- ext, transcription of the gene can be targeted to non-essential tissues, to permit the generation of viable adults with visible phenotyp
+  ls-type:: annotation
+  hl-page:: 11
+  hl-color:: yellow
+  id:: 69141c41-cadf-4649-a4a0-79f15a1e795c
+- in three crosses adult phenotypes are apparent (
+  ls-type:: annotation
+  hl-page:: 11
+  hl-color:: yellow
+  id:: 69141ca7-f12a-4dce-8839-0c6f662c8c0c
+- e can also generate a rough eye phenotype, in the absence of a wing defect, by activating UAS-Dras2Val14 in the developing eye using GAL4 expressed from the sevenless prom
+  ls-type:: annotation
+  hl-page:: 12
+  hl-color:: green
+  id:: 69141cd4-4311-4a86-978e-3978857b02e8
