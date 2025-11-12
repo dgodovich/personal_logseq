@@ -46,6 +46,14 @@ links:: [Local library](zotero://select/library/items/FFINYX5J), [Web library](h
 	- enhancer detection
 	- I don't really get it but that's ok
 - ((691417c0-5d77-4fff-9dae-69b8d8add157))
+	- fuse to an ocelli specific promoter and that works, Fig 2
+- ((6914193a-72d2-4b05-9f0e-3505cbf112b8))
+	- They have a vector that's sensitive to enhancers? How does that work?
+	- directed by weak promoter of the P-transposase gene
+	- random integration and then the promoter goes under the control of genomic enhancers
+	- NLS on the P-transposase sequence so it's transcriptionally active GAL4
+	- They somehow get a lot in the salivary glands but this seems like an accident
+	- Generally they get a good amount that have tissue specific expression
 	-
 -
 - Questions:
