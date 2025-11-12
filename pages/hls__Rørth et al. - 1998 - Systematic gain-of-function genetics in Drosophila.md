@@ -46,3 +46,13 @@ file-path:: file://C:/Users/David/Zotero/storage/GT9FNAI3/Rørth et al. - 1998 -
   hl-page:: 7
   hl-color:: blue
   id:: 6914a58c-36d1-4dca-af05-0e14cbb88319
+- ake the EP collection, an EP element was mobilized from CyO by crossing with a stable source of P transposa
+  ls-type:: annotation
+  hl-page:: 2
+  hl-color:: red
+  id:: 6914b56c-f7cf-4d1c-8b85-63cfaf0b0425
+- make the EP collection, an EP element was mobilized from CyO by crossing with a stable source of P transposase
+  ls-type:: annotation
+  hl-page:: 2
+  hl-color:: red
+  id:: 6914b570-3ba6-46a0-a71a-5566d8903606
