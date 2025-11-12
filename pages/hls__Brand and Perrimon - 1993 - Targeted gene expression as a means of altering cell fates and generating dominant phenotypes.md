@@ -1,0 +1,2 @@
+file:: [Brand and Perrimon - 1993 - Targeted gene expression as a means of altering cell fates and generating dominant phenotypes.pdf](file://C:/Users/David/Zotero/storage/LTA9394Z/Brand and Perrimon - 1993 - Targeted gene expression as a means of altering cell fates and generating dominant phenotypes.pdf)
+file-path:: file://C:/Users/David/Zotero/storage/LTA9394Z/Brand and Perrimon - 1993 - Targeted gene expression as a means of altering cell fates and generating dominant phenotypes.pdf
