@@ -187,3 +187,18 @@ file-path:: file://C:/Users/David/Zotero/storage/LTA9394Z/Brand and Perrimon - 1
   hl-page:: 12
   hl-color:: green
   id:: 69141cd4-4311-4a86-978e-3978857b02e8
+- n contrast, none of the enhancer detection/GAL4 lines we screened show appreciable expression in the germ li
+  ls-type:: annotation
+  hl-page:: 12
+  hl-color:: yellow
+  id:: 69141d1d-be60-430f-9a15-e4b9d2e58d15
+- tion in early embryos are: (1) that the GAL4 mRNA is not translated during early embryonic developm
+  ls-type:: annotation
+  hl-page:: 12
+  hl-color:: blue
+  id:: 69141d3f-d9e3-409e-a1e2-49db3a5e19b7
+- we have used GAL4 to target expression of the A chain of diphtheria toxin, and have demonstrated GAL4dependent cell killin
+  ls-type:: annotation
+  hl-page:: 13
+  hl-color:: blue
+  id:: 69141d9c-a62e-488a-856e-f1b2342f359c
