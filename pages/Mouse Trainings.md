@@ -43,3 +43,5 @@
 		- CFA is a spooky human health hazard
 		- There's a bunch of alternatives that are less scary
 		- subcutaneous route is recommended
+	- Analgesics, Sedatives, and Anesthetics
+		-
