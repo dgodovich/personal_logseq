@@ -17,6 +17,7 @@
 	- Inbred strains have identical genetics
 	- Outbred have better kids but have genetic variability
 	- Anatomical specifics
+	  collapsed:: true
 		- May develop red coloring around eyes and nostrils due to porphyrins from the Harderian gland
 			- Accumulation happens in distressed or sick conditions
 		- Jaw misalignment and tooth overgrowth can happen
@@ -26,15 +27,16 @@
 		- Mice are albino because of a defect in tyrosinase, and this also causes issues with neurons so they behave differently
 		- High metabolism = fast drug clearance
 		- Vulnerable to hypothermia during sedation because they have a high surface area
-	- ![image.png](../assets/image_1762984472985_0.png)
-	- 25-29 gauge needle for blood collection
-	- Typically inject and collect blood from the facial vein, but there are other options
-	- 25-27 gauge needle for injection
-		- Larger volumes ok for intraperitoneal or subcutaneous injection, otherwise have to limit to pretty small
+		- ![image.png](../assets/image_1762984472985_0.png)
+			- 25-29 gauge needle for blood collection
+			- Typically inject and collect blood from the facial vein, but there are other options
+			- 25-27 gauge needle for injection
+				- Larger volumes ok for intraperitoneal or subcutaneous injection, otherwise have to limit to pretty small
 	- Monoclonal antibodies can be made from hybridoma cells in the peritoneal lining
 		- Need to prove that you have to use animal hybridomas and not an in vitro method to make your antibody
 		- carefully consider all steps of in vivo method
 	- Adjuvants
+	  collapsed:: true
 		- Freund's adjuvant is the most commonly used one
 			- Complete has killed tuberculosis and gets very strong immune response
 				- Can only use this once because it's too strong
@@ -44,4 +46,17 @@
 		- There's a bunch of alternatives that are less scary
 		- subcutaneous route is recommended
 	- Analgesics, Sedatives, and Anesthetics
-		-
+	  collapsed:: true
+		- Dosage for mice may be comparatively higher than for humans because of fast metabolism
+		- several options for analgesics (opiods or nsaids)
+			- buprenorphine, lidocaine, carprofen, meloxicam
+		- Sedatives
+			- Midazolam and zolazepam, usually mixed with another drug
+			- Medetomedine and xylazine are sedatives with analgesic effect
+		- Anesthetics
+			- isoflurane is the recommended gaseous one
+			- Injectable is easier, usually ketamine 70-100 mg/kg + xylazine 10-20 mg/kg injected intraperitoneally
+	- Surgery should be aseptic and done in a specific place
+		- test with toe pinch to see if anesthesia is working
+		- should withdraw as a reflex
+	-
