@@ -4,4 +4,7 @@
 	- lots of info, but most of it is IACUC related and not something I actually have to know now I think?
 	- Compliance and whatnot
 - [[Mouse Trainings/Intro to Mice]]
--
+- [[Mouse Trainings/Aseptic Technique for Rodent Survival Surgery]]
+- [[Mouse Trainings/Colony Management 1: Breeding and Recordkeeping]]
+- [[Mouse Trainings/Inhalation Anesthesia Systems for Rodents]]
+- [[Mouse Trainings/Pain Management in Lab Animals]]

@@ -1,0 +1,17 @@
+- Infection after surgery is a problem, so use sterile technique
+- It's not actually sterile, it's just aseptic
+- Use a sterile field and precautions to prevent infection
+- Survival vs non-survival surgery
+	- Survival is also major vs minor
+	- Major is anything that penetrates and exposes a body cavity, or has extensive tissue dissection
+	- Minor causes little or no physical impairment
+- Locations for conducting surgery
+	- Dedicated space is a space that reserved for a specific period of time for surgery
+		- procedure room or surgery suite
+		- no other uses at the same time as surgery
+		- should be clean, not cluttered, large enough, have separations
+		- Disinfect with quaternary ammonium or phenolics or alcohols
+	- Designated facility is a surgical suite specifically designated for surgery
+		- not required but better
+	- Physically separated functions to further reduce contamination
+		- Animal preparation
