@@ -27,7 +27,36 @@
 		- camera detector
 		- very fast and less bleaching
 		- Not as high res and some artifacts
-	-
+		- 3 image planes
+			- Sample is imaged onto pinhole disk, pinhole disk is imaged onto the camera
+		- Spinning the microlens and pinhole disks mostly covers the full area when you do it really fast
+	- Spinning disk has less laser power than confocal because it's always acquiring
+		- You have no dead time bleaching
+		- There's also less light going in to the sample
+		- And you image way faster so there's less overall light going in
+	- Re: pinhole size
+		- laser scanning you change the pinhole with the wavelength so maximize light
+		- But you don't reallyyy have to do this
+		- And you usually don't in spinning disk because it's "good enough"
+	- 2-photon
+		- Simultaneous excitation with two lower energy (higher wavelength) photons
+			- e.g. 2 750nm photons = 1 350nm
+		- Because you need two events to happen at the same exact time, this is really limited to your focal depth
+			- Probability of two photon excitation = light density distribution ^2
+		- Longer wavelengths also don't scatter as much in biological samples
+			- this makes a less blurry image
+		- You need wayyyy more power so it's a way bigger laser
+			- $I_{2-photon-excitation} \propto I_{laser}^2 \propto (\frac{P_{avg}}{F_{rep}\tau})^2$
+			- So you need very high laser power
+		- Dyes aren't as bright, fluorophores are also way less bright
+		- Shouldn't do 2-photon unless you have to go deep into a sample, but then you kinda have to
+	- Total Internal Reflection Microscopy (TIRF)
+		- $I(z) \propto e^{-z/d}$
+		- $d = \frac{\lambda}{4\pi} \sqrt{n_2^2\sin^2\theta-n_1^2} \sim 100nm$
+		- Light into samples decays inside sample as an exponential with distance so you only get surface
+		- Z sectioning but only for 1 plane
+		- Use a high NA objective - has to be bigger than 1.33
+		- Shine light right on the side straight up and then it TIRs over to the other side
 - [[Nov 11th, 2025]] Resolution
   collapsed:: true
 	- Spatial frequency that can get captured by the optics of the microscope is what limits the resolution
