@@ -32,4 +32,7 @@
 		- 121C for 15 minutes is sufficient
 		- hot bead sterilizers are an option but only sterilize by contact
 			- handles are not sterilized, nor are inside of containers
-		-
+		- after chemical sterilization, instruments should be rinsed with sterile water or saline to avoid tissue damage
+		- high level disinfection is submerging in a liquid chemical to mostly kill everything, can use Cidex OPA or peracetic acid
+	-
+-
