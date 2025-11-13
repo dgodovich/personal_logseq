@@ -14,4 +14,22 @@
 	- Designated facility is a surgical suite specifically designated for surgery
 		- not required but better
 	- Physically separated functions to further reduce contamination
-		- Animal preparation
+		- Animal preparation area
+			- administering anesthetic and prepping animal for surgery
+			- can include shaving, disinfection
+		- surgeon prep area
+		- surgery area
+			- anesthesia machines
+			- sterilizer for reusing instruments
+		- post operative recovery area
+			- observation until ambulatory again
+	- Sterile barrier must be replaced between animals if multiple
+	- circulating water heating pad is the best heating solution
+		- heating temp of ~102F is ideal to not overheat
+	- Bunch of stuff about instruments that's all pretty self explanatory, I know surgical instruments
+		- needles should never be held by hand, same for scalpels
+	- Notes about sterilization and autoclaving that I also already know
+		- 121C for 15 minutes is sufficient
+		- hot bead sterilizers are an option but only sterilize by contact
+			- handles are not sterilized, nor are inside of containers
+		-
