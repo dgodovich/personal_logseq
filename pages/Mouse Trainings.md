@@ -59,4 +59,14 @@
 	- Surgery should be aseptic and done in a specific place
 		- test with toe pinch to see if anesthesia is working
 		- should withdraw as a reflex
-	-
+	- Monitor vital signs during surgery
+		- maintaining body temp is important - heating pad
+		- Replacement fluids may be needed based on volume of blood loss
+	- Euthanasia has several acceptable methods
+		- Barbiturate overdose with combinations of pentobarbital
+			- These are schedule 3 which is easier than 2 to get / work with
+			- can't mix with neuromuscular blocking agent bc that could paralyze
+		- Dissociative agent combinations - high dosage of ketamine+xylazine
+		- Gradual fill of inhalant anesthetics (isoflurane)
+		- CO2 is only acceptable from compressed gas cylinder / building
+			- Slow addition mixes w
