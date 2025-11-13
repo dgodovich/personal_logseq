@@ -1,4 +1,33 @@
 - [[MOL 504B/Assignments]]
+- [[Nov 13th, 2025]] 3D Imaging
+	- You get the same blurring in Z as in x and y but it's even worse
+		- $\Delta z = \frac{2\lambda n}{(NA)^2} \approx 500-700nm$
+		- so you get hourglass like shapes
+		- This means that you get light from other planes that you don't want to be imaging
+		- Blob is stretched out in Z 2-3x as in xy-axis
+	- Wide field imaging can't focus as well because you get light everywhere
+	- Depth of field is a function of aperture size
+		- How much is in focus (like camera f stop)
+		- wider aperture =  shallow depth of field (+ more light)
+		- narrower aperture = larger depth of field (+ less light)
+	- Confocal works with this principle to remove light from outside the focus plane
+		- Aperture (pinhole) only allows focused light to arrive to photodetector
+		- physical rejection of out of focus light
+	- Pinhole reduces PSF
+		- Big equation for what z you get, refer to slides
+		- \Delta\z gets to be ~350 which is a lot better but still worse than xy
+	- Point scanning confocal
+		- sequential and slow, with high bleaching
+		- PMT detector
+		- high res
+		- optical steering with laser is a bit faster
+			- galvo mirror with x y control to raster across focus plane
+	- spinning disk confocal
+		- thousands of pinholes using a rotating disk looks like a normal image on a camera
+		- camera detector
+		- very fast and less bleaching
+		- Not as high res and some artifacts
+	-
 - [[Nov 11th, 2025]] Resolution
   collapsed:: true
 	- Spatial frequency that can get captured by the optics of the microscope is what limits the resolution
