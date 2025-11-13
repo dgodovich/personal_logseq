@@ -1,5 +1,6 @@
 - [[MOL 504B/Assignments]]
 - [[Nov 13th, 2025]] 3D Imaging
+  collapsed:: true
 	- You get the same blurring in Z as in x and y but it's even worse
 		- $\Delta z = \frac{2\lambda n}{(NA)^2} \approx 500-700nm$
 		- so you get hourglass like shapes
@@ -54,9 +55,17 @@
 		- $I(z) \propto e^{-z/d}$
 		- $d = \frac{\lambda}{4\pi} \sqrt{n_2^2\sin^2\theta-n_1^2} \sim 100nm$
 		- Light into samples decays inside sample as an exponential with distance so you only get surface
-		- Z sectioning but only for 1 plane
+		- Z sectioning with super high res but only right at the surface,
 		- Use a high NA objective - has to be bigger than 1.33
 		- Shine light right on the side straight up and then it TIRs over to the other side
+	- Light Sheet microscopy (Selective Plane Illumination Microscopy (SPIM))
+		- illuminate from the side and get a whole "sheet" of light at the same time
+		- Can use a cylindrical lens to get the sheet of light, but this is not used much anymore
+		- Use gaussian laser that moves up and down, form bessel beam to make a real cylinder
+		- DiSPIM has two sheets and two images to make a line?
+		- Super low bleaching because you capture way more of the emitted light
+			- no light cones that aren't getting imaged
+		- Spin around sample to get very uniform images
 - [[Nov 11th, 2025]] Resolution
   collapsed:: true
 	- Spatial frequency that can get captured by the optics of the microscope is what limits the resolution
