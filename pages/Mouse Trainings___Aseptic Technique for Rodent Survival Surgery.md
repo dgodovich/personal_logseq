@@ -1,3 +1,4 @@
+- [[Nov 13th, 2025]]
 - Infection after surgery is a problem, so use sterile technique
 - It's not actually sterile, it's just aseptic
 - Use a sterile field and precautions to prevent infection

@@ -1,4 +1,5 @@
 - Assignment 1
+  collapsed:: true
 	- ![BPY504_Assignment1_2025.pdf](../assets/BPY504_Assignment1_2025_1761602306555_0.pdf)
 	- 1
 		- use snells law with a bit of an offset to get the depth as a component of the vector. Will appear to be deeper than it is
@@ -21,4 +22,5 @@
 	- 7
 		- figure out how to get ABCD matrix from magnification?
 		- This must be possible
--
+- Assignment 2
+	-
