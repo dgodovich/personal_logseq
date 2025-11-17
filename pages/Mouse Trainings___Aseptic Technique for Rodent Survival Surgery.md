@@ -54,4 +54,4 @@
 	- square knot with third throw
 	- staples are fine, have to be removed
 	- wound clips are ok but animals don't like them as much
-	-
+- IP administered atipamezole are frequently used to reverse xylazine
