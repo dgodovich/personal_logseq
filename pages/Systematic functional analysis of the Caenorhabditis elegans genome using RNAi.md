@@ -19,6 +19,7 @@ links:: [Local library](zotero://select/library/items/N97ILTZL), [Web library](h
 
 - Attachments
 	- [PDF](zotero://select/library/items/E3HSPTKY) {{zotero-imported-file E3HSPTKY, "Kamath et al. - 2003 - Systematic functional analysis of the Caenorhabditis elegans genome using RNAi.pdf"}}
+- Bruh you can just feed worms RNA
 -
 -
 - 1) What distinguishes forward from reverse genetics - which is this?
