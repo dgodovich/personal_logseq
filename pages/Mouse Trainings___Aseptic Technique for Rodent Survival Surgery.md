@@ -35,9 +35,11 @@
 			- handles are not sterilized, nor are inside of containers
 		- after chemical sterilization, instruments should be rinsed with sterile water or saline to avoid tissue damage
 		- high level disinfection is submerging in a liquid chemical to mostly kill everything, can use Cidex OPA or peracetic acid
-- You clip, not shave, for surgery
+- You clip, not shave, for surgery. Or use Nair
 - reglove for each animal
-- Anethesia
-	- toe pinch
-	-
+- Anethesia - toe pinch
+- ophthalmic ointment to prevent eyes drying
+- If you are working alone, you must prepare the animals for surgery before preparing yourself
+	- because if you don't you have to leave the sterile field
+- sutured wound heals from side to side and not from end to end
 -
