@@ -1,0 +1,15 @@
+- Have to select good breeders and try to maximize efficiency
+- Breeding contract to show how many mice you think you need in the colony
+- intensive breeding has male with two or three females
+	- maximize litters
+	- postpartum estrus
+	- have to move females out when they're pregnant to avoid OC
+- nonintensive is single pair
+	- stay together all the time, just wean the pups
+- Have to consider fighting and what the strain does with pups
+- Timed matings
+	- set up plugs in afternoon, check for plug in the morning
+- Mouse life data
+	- ![image.png](../assets/image_1763345414403_0.png)
+- Sexual maturity for males is
+-
