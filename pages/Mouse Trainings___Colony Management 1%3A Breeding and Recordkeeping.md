@@ -24,3 +24,17 @@
 - Females can be brought into estrus by exposing them to male pheromones, which can be done by adding dirty bedding from a male’s cage to the females’ cage
 - **Bruce Effect: **Introduction of a strange male within 24 hours of mating prevents implantation in bred females and estrus occurs in about 4 days. Females that are already pregnant when the male is introduced may spontaneously abort. This phenomenon occurs in wild mice, outbred mice, and in some inbred strains.
 - Breeder diet is high fat
+- nesting is good for breeding
+- presence of a plug is not a guarantee that the mouse is actually pregnant
+- Gotta check for pregnancy even with plugs bc you can miss or they can not plug
+- Less handing of cage after delivery the better
+- Neonate staging
+  collapsed:: true
+	- ![image.png](../assets/image_1763346474756_0.png)
+	- ![image.png](../assets/image_1763346498522_0.png)
+	- ![image.png](../assets/image_1763346519600_0.png)
+- Usually wean at 21 days
+	- Need to do this before a new litter comes
+	- Add some material from parent cage to the weaning cage
+	- separate by sex at this point
+	-
