@@ -46,4 +46,8 @@
 	- Bunch of options for what happens if mother cannibalizes
 	- Trace back everything about weanlings if they aren't the expected phenotype/genotype
 - Sometimes you have to foster if the litter is valuable and mom isn't taking care of them
+	- add them to a different litter
+	- Total litter size shouldn't change and ages should align
+	- Have the foster mother pee on your hands and rub that on the pups so she accepts them
+	- Need to be able to tell them apart
 -
