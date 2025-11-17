@@ -25,9 +25,19 @@ links:: [Local library](zotero://select/library/items/N97ILTZL), [Web library](h
 - 1) What distinguishes forward from reverse genetics - which is this?
 	- I think this is reverse because they RNAi specific genes to get a phenotype
 - 2) What advantages does RNAi have over mutagenesis?
-	- way faster
+	- way faster to find the genes that you're looking for because you start from those
+	- titrate loss of function
+	- reversible function, you have wild type animals
 - 3) What are the disadvantages of using RNAi?
+	- need to have the genome sequence
+	- off target effects
+		- designing targeted probes can be hard since you use ~30 bp
+	- gene duplications may make it difficult / functional redundance
+	- only loss of function
+	- regulatory information is hidden because it's single allele
+		- mutagenesis can hit multiple alleles and you get a spectrum of information
 - 4) How is the RNAi being delivered, when are the worms are being treated and when are they being screened (i.e. at what developmental stages/which generation)?
+	- feeding L4 RNAi, continued into progeny
 - 5) What difficulties did they encounter in the screen and how did they get around them?
 - 6) Was the screen successful (what is the measure of success)? Do you think they learned
   anything interesting or new from the screen?
