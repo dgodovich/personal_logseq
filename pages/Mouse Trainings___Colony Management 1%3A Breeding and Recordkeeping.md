@@ -11,5 +11,13 @@
 	- set up plugs in afternoon, check for plug in the morning
 - Mouse life data
 	- ![image.png](../assets/image_1763345414403_0.png)
-- Sexual maturity for males is
--
+- Sexual maturity for males is 4-7 weeks, 3-4 weeks for females
+- 18 month old mouse is geriatric
+- Most mice can have 6-7 litters in their life, pup number drops off after that
+- C57BL/6J mice are notorious for losing their first litters
+- Should mate as early as possible, before 4 months for sure
+- Mating pair should be around the same size and healthy
+- Sex mice by anogenital distance, males are greater
+- Strain specific info
+	- ![image.png](../assets/image_1763346006503_0.png)
+- Recording
