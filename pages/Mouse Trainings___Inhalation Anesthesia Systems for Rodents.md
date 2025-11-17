@@ -1,0 +1,6 @@
+- It is important to use the lowest possible dose required to achieve a proper plane of anesthesia
+- in combination with oxygen as the carrier gas, from an oxygen concentrator
+- Planes of anesthesia
+	- ![image.png](../assets/image_1763352573472_0.png)
+-
+-
