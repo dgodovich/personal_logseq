@@ -35,5 +35,9 @@
 			- handles are not sterilized, nor are inside of containers
 		- after chemical sterilization, instruments should be rinsed with sterile water or saline to avoid tissue damage
 		- high level disinfection is submerging in a liquid chemical to mostly kill everything, can use Cidex OPA or peracetic acid
+- You clip, not shave, for surgery
+- reglove for each animal
+- Anethesia
+	- toe pinch
 	-
 -
