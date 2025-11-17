@@ -1,4 +1,4 @@
-tags:: [[Bacterial Proteins]], [[Cell Membrane]], [[Cell Polarity]], [[DNA-Binding Proteins]], [[Diffusion]], [[Fluorescent Antibody Technique]], [[Membrane Fluidity]], [[Shigella flexneri]], [[Transcription Factors]], [[Virulence]]
+tags:: [[Cell Polarity]], [[Shigella flexneri]], [[Subcellular Organization]]
 date:: 2001-08
 issn:: 0950-382X
 issue:: 4

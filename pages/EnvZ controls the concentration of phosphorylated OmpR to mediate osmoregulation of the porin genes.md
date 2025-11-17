@@ -1,4 +1,4 @@
-tags:: [[Bacterial Outer Membrane Proteins]], [[Bacteriophages]], [[Diploidy]], [[Escherichia coli]], [[Gene Expression Regulation]], [[Bacterial]], [[Genes]], [[Regulator]], [[Genetic Complementation Test]], [[Models]], [[Biological]], [[Mutagenesis]], [[Phosphoprotein Phosphatases]], [[Phosphoproteins]], [[Phosphorylation]], [[Plasmids]], [[Porins]], [[Recombinant Fusion Proteins]], [[Repressor Proteins]], [[Signal Transduction]], [[Water-Electrolyte Balance]], [[beta-Galactosidase]]
+tags:: [[Bacterial Outer Membrane Proteins]], [[Gene Expression Regulation]], [[Signal Transduction]], [[2 component signaling]]
 date:: [[Dec 5th, 1991]]
 issn:: 0022-2836
 issue:: 3
