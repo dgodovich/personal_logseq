@@ -8,4 +8,10 @@
 - agent that is fat-soluble quickly reaches saturation
 - ![image.png](../assets/image_1763353198360_0.png)
 - flow meter adjusts the ~50 psi into a flow measured in liters per minute (L/min)
+- precision vaporizer that delivers a controlled anesthetic concentration in a carrier gas
+- isoflurane can be stored in the vaporizer for extended periods of time
+- It makes no difference in a non-rebreathing anesthesia system where the oxygen flow meter is set, whether it is 0.5 liter per minute or 4 liters per minute; the resultant gas flow will be 97.5% oxygen and 2.5% isoflurane
+- face mask should be sized to fit snugly over the nose
+- gas exhaled by the animal is immediately diverted
+- active scavenging system uses negative pressure
 -
