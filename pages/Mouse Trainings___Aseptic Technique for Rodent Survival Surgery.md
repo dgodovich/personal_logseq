@@ -41,5 +41,17 @@
 - ophthalmic ointment to prevent eyes drying
 - If you are working alone, you must prepare the animals for surgery before preparing yourself
 	- because if you don't you have to leave the sterile field
-- sutured wound heals from side to side and not from end to end
--
+- suturing
+	- sutured wound heals from side to side and not from end to end
+	- still better to have a shorter incision
+	- body wall / muscle suture is simple interrupted pattern
+	- subcutaneous continuous pattern
+		- but rodents don't have subcutaneous tissue
+	- skin should have non-adsorbable interrupted pattern
+	- internal tissues use a tapered needle
+	- skin uses a cutting needle
+	- don't use an eye needle, use a swage
+	- square knot with third throw
+	- staples are fine, have to be removed
+	- wound clips are ok but animals don't like them as much
+	-
