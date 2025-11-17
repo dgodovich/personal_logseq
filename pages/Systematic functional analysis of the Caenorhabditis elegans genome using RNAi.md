@@ -23,7 +23,9 @@ links:: [Local library](zotero://select/library/items/N97ILTZL), [Web library](h
 -
 -
 - 1) What distinguishes forward from reverse genetics - which is this?
+	- I think this is reverse because they RNAi specific genes to get a phenotype
 - 2) What advantages does RNAi have over mutagenesis?
+	- way faster
 - 3) What are the disadvantages of using RNAi?
 - 4) How is the RNAi being delivered, when are the worms are being treated and when are they being screened (i.e. at what developmental stages/which generation)?
 - 5) What difficulties did they encounter in the screen and how did they get around them?

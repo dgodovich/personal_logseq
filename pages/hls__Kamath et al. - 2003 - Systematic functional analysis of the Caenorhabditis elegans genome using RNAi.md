@@ -99,3 +99,13 @@ file-path:: file://C:/Users/David/Zotero/storage/E3HSPTKY/Kamath et al. - 2003 -
   hl-page:: 5
   hl-color:: yellow
   id:: 691abc2f-f98c-40d4-adf2-bd6c6987caa1
+- ossible hypothesis is that, perhaps as a consequence of long-range chromatin regulation, genes in these domains are transcriptionally co-regulat
+  ls-type:: annotation
+  hl-page:: 5
+  hl-color:: yellow
+  id:: 691abca9-1c08-4faf-a5f3-bf96e64240e0
+- enePairs primer set of 19,213 primer pairs
+  ls-type:: annotation
+  hl-page:: 6
+  hl-color:: red
+  id:: 691abcf7-8ba2-4226-964b-1c444d052708
