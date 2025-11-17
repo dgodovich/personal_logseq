@@ -37,4 +37,13 @@
 	- Need to do this before a new litter comes
 	- Add some material from parent cage to the weaning cage
 	- separate by sex at this point
-	-
+- Problems can be caused by lots of things
+	- check light cycle (14:10 is recommended, 12:12 is often used)
+	- noise, vibration, location in rack, temp, humidity, etc
+	- Check that you actually have a male and female in the cage
+	- Generally better to rotate females than males
+	- Sometimes males are just bad /shrug
+	- Bunch of options for what happens if mother cannibalizes
+	- Trace back everything about weanlings if they aren't the expected phenotype/genotype
+- Sometimes you have to foster if the litter is valuable and mom isn't taking care of them
+-
