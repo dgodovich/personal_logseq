@@ -50,4 +50,10 @@
 	- Total litter size shouldn't change and ages should align
 	- Have the foster mother pee on your hands and rub that on the pups so she accepts them
 	- Need to be able to tell them apart
--
+- Records
+	- should include species, ID, parents info, sex, DOB, source, disposition, genotype
+	- ear punch / notch, toe clipping valid means of ID
+	- physically separate strains with the same coat color so you don't mix them up
+	- Fill out cage cards right away
+	- Relational database or some kind of electronic record (Kai's lab uses excel sheet)
+	-
