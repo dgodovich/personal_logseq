@@ -20,4 +20,7 @@
 - Sex mice by anogenital distance, males are greater
 - Strain specific info
 	- ![image.png](../assets/image_1763346006503_0.png)
-- Recording
+- Recording DOB on breeding cage is critical so that you don't lose your cages all at the same time
+- Females can be brought into estrus by exposing them to male pheromones, which can be done by adding dirty bedding from a male’s cage to the females’ cage
+- **Bruce Effect: **Introduction of a strange male within 24 hours of mating prevents implantation in bred females and estrus occurs in about 4 days. Females that are already pregnant when the male is introduced may spontaneously abort. This phenomenon occurs in wild mice, outbred mice, and in some inbred strains.
+- Breeder diet is high fat
