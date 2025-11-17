@@ -14,4 +14,7 @@
 - face mask should be sized to fit snugly over the nose
 - gas exhaled by the animal is immediately diverted
 - active scavenging system uses negative pressure
+- passive scavenging system uses the positive pressure of the gas stored in the cylinder (the same pressure that has created the entire system flow) to carry the waste gas away
+- Do not use the flush valve when the animal is connected to the non-rebreathing circuit
+- heat should be maintained during all procedures lasting longer than 1 minute
 -

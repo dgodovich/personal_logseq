@@ -1,0 +1,2 @@
+file:: [Kamath et al. - 2003 - Systematic functional analysis of the Caenorhabditis elegans genome using RNAi.pdf](file://C:/Users/David/Zotero/storage/E3HSPTKY/Kamath et al. - 2003 - Systematic functional analysis of the Caenorhabditis elegans genome using RNAi.pdf)
+file-path:: file://C:/Users/David/Zotero/storage/E3HSPTKY/Kamath et al. - 2003 - Systematic functional analysis of the Caenorhabditis elegans genome using RNAi.pdf
