@@ -1,4 +1,15 @@
 - [[MOL 504B/Assignments]]
+- [[Nov 18th, 2025]] Super Resolution
+	- SIM microscopy doesn't give you a higher res image directly, you do an inverse FFT after to get higher freq
+	- Use aliasing to learn about unavailable high frequency
+	- Use a striped light source to get a sampling at some defined frequency
+		- the difference of the frequencies makes it into the low pass filter (aperture)
+	- Structured Illumination Microscopy (SIM)
+		- uniform illumination on sample produces an image just as a product of fluorophore concentration and Intensity
+		- Sinusoidal illumination does the same but you get a difference based on sampling
+		- $D(r) = [I(r)\times S(r)]\circledast H$
+		- This is basically like Moire patterns
+		-
 - [[Nov 13th, 2025]] 3D Imaging
   collapsed:: true
 	- You get the same blurring in Z as in x and y but it's even worse
@@ -67,6 +78,7 @@
 			- no light cones that aren't getting imaged
 		- Spin around sample to get very uniform images
 - [[Nov 11th, 2025]] Resolution
+  collapsed:: true
 	- Spatial frequency that can get captured by the optics of the microscope is what limits the resolution
 	- Lenses make a fourier transform
 		- objective lens takes forward fourier transform
@@ -92,6 +104,7 @@
 - [[Nov 6th, 2025]] Diffraction and FT
 	- I didn't go to this class
 - [[Nov 4th, 2025]] Fluorescence Microscopy
+  collapsed:: true
 	- Problem with DIC and phase contrast is that you don't really know what you're looking at
 	- Bind specific molecules to things that we understand
 		- genetically encoding it or doing an antibody
@@ -117,6 +130,7 @@
 	- FRET can be used to make mixed probes that give you more "colors"
 		- not actually colors, different efficiency
 - [[Oct 30th, 2025]] Contrast Enhancement
+  collapsed:: true
 	- Cells are mostly made of water so they don't really scatter light in an aqueous medium
 		- This means you get pretty low contrast
 		- Microscopy techniques need to do some form of contrast enhancement
@@ -154,6 +168,7 @@
 			- still have no contrast in the perpendicular direction but they look better
 		- polarizer at the end blocks all light that doesn't interact with sample
 - [[Oct 28th, 2025]] Illumination and Detection
+  collapsed:: true
 	- parabolic mirror used to align "collimate" the light
 	- LEDs are very efficient and generally make narrow band light
 		- can have multiple colors by using RGB
@@ -176,6 +191,7 @@
 	- Use an ADC to get a discrete value
 	- EMCCD use hardware electron multiplication to get pre-amp gain
 - [[Oct 23rd, 2025]] Images and simple microscopes
+  collapsed:: true
 	- I should try to find my notes from bioimaging from senior year
 	- Plane waves coming into a flat interface all bend in the same direction
 		- curved interface you would have convergence or divergence because of the different face angle
