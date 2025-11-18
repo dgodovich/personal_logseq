@@ -1,4 +1,4 @@
-tags:: [[Bacterial Proteins]], [[Centrifugation]], [[Density Gradient]], [[Electrophoresis]], [[Escherichia coli]], [[Genetic Code]], [[Hybridization]], [[Genetic]], [[RNA]], [[Bacterial]], [[Tritium]]
+tags:: [[Transcription Termination]]
 date:: [[Dec 20th, 1969]]
 issn:: 0028-0836
 issue:: 5225
