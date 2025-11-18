@@ -9,7 +9,36 @@
 		- Sinusoidal illumination does the same but you get a difference based on sampling
 		- $D(r) = [I(r)\times S(r)]\circledast H$
 		- This is basically like Moire patterns
-		-
+		- Change phase shift \phi to get a system of equations for each pattern, and also rotate pattern
+		- Can basically double your k_max
+		- Take ~9 images for each sample, each individual image is useless
+		- Non-linear SIM
+			- if you fully saturate the image, you get kind of like a square wave of excitation
+			- Square wave FT has many frequencies inside of it
+			- And that works similarly to the one where you phase shift
+			- So you can keep going without diffraction limit
+			- This isn't very common
+		- Can be done in 3D as well
+		- this needs a lot of light input into your sample, can make bleaching worse
+	- Stimulated Emission Depletion STED
+		- Works on a similar principle to lasers - shining light at the same wavelength of decay can get it to do the decay
+		- Shine in lots of the stimulated emission wavelength and try to saturate fluorophores with it
+			- STED does not excite your fluorophores! It makes them emit at a defined wavelength!
+		- Vortex phase plate looks like a donut after phase shifting and fourier transform
+		- And then you block the stimulated emission
+		- So actually what STED is doing is just throwing away tons of fluorophores
+		- You shrink down the PSF
+		- Super high laser power for STED laser
+		- Using pulsed lasers is good
+			- STED laser should arrive right after the excitation light
+				- fluorophores need time to get down to the lowest energy level to be amenable to stimulated emission
+				- Also if it comes before it won't do anything
+			- ns/ft speed of light
+				- use longer fiber to delay pulse
+		- STED takes a long time because you need more pixels
+		- theoretically unlimited resolution but practically it gets so hot
+		- but also you lose a lot of brightness
+		- This isn't bad for bleaching, but it can burn your sample
 - [[Nov 13th, 2025]] 3D Imaging
   collapsed:: true
 	- You get the same blurring in Z as in x and y but it's even worse
