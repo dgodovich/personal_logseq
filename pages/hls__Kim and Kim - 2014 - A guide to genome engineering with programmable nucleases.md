@@ -76,3 +76,48 @@ file-path:: file://C:/Users/David/Zotero/storage/H5XVDYHR/Kim and Kim - 2014 - A
   hl-page:: 7
   hl-color:: yellow
   id:: 691d3771-22fb-4c76-96db-a40f03aa937f
+- ide RNAs are transcribed by RNA polymerase III under the control of the U6 promoter in cell
+  ls-type:: annotation
+  hl-page:: 7
+  hl-color:: yellow
+  id:: 691d3779-ff11-4865-8387-959517bb7226
+- rast, TALENs have a nearly 100% success rate in mammalian cells if one avoids heavily methylated target sit
+  ls-type:: annotation
+  hl-page:: 7
+  hl-color:: yellow
+  id:: 691d37ab-8e92-402a-86e2-1e926c249133
+- GENs act as monomers — a factor that is not conducive to high specificit
+  ls-type:: annotation
+  hl-page:: 7
+  hl-color:: yellow
+  id:: 691d3802-81b0-47be-9792-abb13789a9d8
+- nlike TALENs that produce deletions much more frequently than insertions(89% versus 1.6% in mammalian cells), ZFNs induce insertions and deletions at comparable frequencie
+  ls-type:: annotation
+  hl-page:: 9
+  hl-color:: yellow
+  id:: 691d3869-31b7-4bbf-9af1-fe4b36a98ecd
+- sient transfection of plasmid DNA through electroporation or liposome transfection is used widely for the delivery of genes that encode programmable nucleases into various cell line
+  ls-type:: annotation
+  hl-page:: 9
+  hl-color:: red
+  id:: 691d388c-612d-44bf-a299-80313b2728b1
+- on-integrating viral vectors — such as integrasedeficient lentivirus vectors (IDLVs), adenoviruses and adeno-associated viruses (AAVs) — can deliver genes encoding programmable nucleases both in vitro and in vivo
+  ls-type:: annotation
+  hl-page:: 9
+  hl-color:: yellow
+  id:: 691d38ae-d4a8-47a1-a1b4-9359b352c3aa
+- tegrating vectors such as lentivirus have been used for continuous expression of Cas9 and sgRNAs in mammalian cell
+  ls-type:: annotation
+  hl-page:: 9
+  hl-color:: yellow
+  id:: 691d38c6-dd5a-49eb-bc81-ddfc5b0ed252
+- ifth, nickases(also known as DNA-nicking enzymes) that induce single-strand breaks (SSBs; that is, ‘nicks’) can minimize off-target mutation
+  ls-type:: annotation
+  hl-page:: 10
+  hl-color:: yellow
+  id:: 691d390c-8ca3-4040-91ab-cc0e5fa2fe08
+- SSBs can stimulate HDR without activating the error-prone NHEJ pathway and can essentially prevent the formation of unwanted indel
+  ls-type:: annotation
+  hl-page:: 10
+  hl-color:: yellow
+  id:: 691d3982-8689-47ff-b865-3ccc0dd54cfa
