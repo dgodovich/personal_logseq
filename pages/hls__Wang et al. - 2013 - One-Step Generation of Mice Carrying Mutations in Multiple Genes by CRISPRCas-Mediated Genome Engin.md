@@ -41,3 +41,13 @@ file-path:: file://C:/Users/David/Zotero/storage/LR6UVHG6/Wang et al. - 2013 - O
   hl-page:: 2
   hl-color:: green
   id:: 691d4461-9347-4270-a306-b513733b2707
+- etermine the optimal concentration of Cas9 mRNA for targeting in vivo, we microinjected varying amounts of Cas9-encoding mRNA with Tet1 targeting sgRNA at constant concentratio
+  ls-type:: annotation
+  hl-page:: 2
+  hl-color:: red
+  id:: 691de2cd-882f-46ca-9169-bb8d08967118
+- cted with the highest amount of Cas9 mRNA (200 ng/ml) showed normal blastocyst development, suggesting low toxici
+  ls-type:: annotation
+  hl-page:: 2
+  hl-color:: yellow
+  id:: 691de2d4-b3e5-48af-ad8b-9a48bba73895
