@@ -16,3 +16,18 @@ file-path:: file://C:/Users/David/Zotero/storage/LR6UVHG6/Wang et al. - 2013 - O
   hl-page:: 1
   hl-color:: yellow
   id:: 691d3f09-5e77-4cbf-8ea5-ab483f0546bb
+- More intriguingly, Cas9 and sgRNA are the only components necessary and sufﬁcient for induction of targeted DNA cleavage in cultured human cells
+  ls-type:: annotation
+  hl-page:: 2
+  hl-color:: yellow
+  id:: 691d414b-6e7f-4895-a29a-86b36fc6e641
+- Because each target locus contains a restriction enzyme recognition site (Figure 1A), we PCR ampliﬁed an 500 bp fragment around each target site and digested the PCR products with the respective enzym
+  ls-type:: annotation
+  hl-page:: 2
+  hl-color:: red
+  id:: 691d41e5-aaf6-43d7-bce4-8dedd50412fd
+- striction fragment length polymorphism (RFLP) assay, we screened 48 ES cell clones from each single-targeting experimen
+  ls-type:: annotation
+  hl-page:: 2
+  hl-color:: red
+  id:: 691d41ec-443f-4a47-bf78-39bafae1b58b

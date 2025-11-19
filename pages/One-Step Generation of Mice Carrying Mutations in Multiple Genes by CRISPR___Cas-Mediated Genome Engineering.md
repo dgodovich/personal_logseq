@@ -24,4 +24,5 @@ links:: [Local library](zotero://select/library/items/2A5G6UBY), [Web library](h
 	- Mutant mice were made by gene targeting in ES cells followed by injection into wt blastocysts, or by mutagenesis
 	- Can now (at the time of this paper) make double stranded breaks that result in mutations that you want
 	- But there's no way to multiplex
+	- Crispr can do this because it can use one Cas9 with multiple gRNA
 	-
