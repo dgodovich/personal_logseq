@@ -31,3 +31,13 @@ file-path:: file://C:/Users/David/Zotero/storage/LR6UVHG6/Wang et al. - 2013 - O
   hl-page:: 2
   hl-color:: red
   id:: 691d41ec-443f-4a47-bf78-39bafae1b58b
+- performed Southern blot analysis and conﬁrmed complete agreement with the RFLP result
+  ls-type:: annotation
+  hl-page:: 2
+  hl-color:: yellow
+  id:: 691d441f-3de4-4925-82f7-dc7e3e43cc68
+- Short PCR products encoding sgRNAs targeting all ﬁve genes (Tet1, Tet2, Tet3, Sry, and Uty) were pooled and cotransfected with a Cas9 expressing plasmid and the PGK puroR cassette into ES cells. Of 96 clones that were screened using the RFLP assay, 10% carried mutations in all eight alleles of the ﬁve gene
+  ls-type:: annotation
+  hl-page:: 2
+  hl-color:: green
+  id:: 691d4461-9347-4270-a306-b513733b2707
