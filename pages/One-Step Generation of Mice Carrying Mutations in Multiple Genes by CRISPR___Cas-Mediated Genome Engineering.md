@@ -25,4 +25,19 @@ links:: [Local library](zotero://select/library/items/2A5G6UBY), [Web library](h
 	- Can now (at the time of this paper) make double stranded breaks that result in mutations that you want
 	- But there's no way to multiplex
 	- Crispr can do this because it can use one Cas9 with multiple gRNA
+- codon optimization
+	- tRNAs for codons are not always equally represented
+		- actually they almost never are
+	- So a mammalian codon optimized can use the same amino acids, but you change the codon for the amino acid
+		- essentially you make silent mutations to match the tRNA availability in your organism
+	- Important to do in the protein that you're expressing
+- One band in figure 1 for the RFLP shows that you have biallelic mutations
+	- if you cut only one copy of the gene then you would get two bands
+- mutations are random
+	- sequences show different lengths of frameshifts
+	- or you can get single nucleotide insertions
+- Can have negatives of biallelic mutation
+	- recessive lethal
+	- if you inject less Cas9 you can get hets
+	- and you usually do this today and then cross to get homozygotes
 	-
