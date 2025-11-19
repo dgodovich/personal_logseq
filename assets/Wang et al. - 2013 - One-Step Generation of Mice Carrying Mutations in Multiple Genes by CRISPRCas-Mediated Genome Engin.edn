@@ -242,4 +242,4 @@
                           :page 2},
                :content {:text "Short PCR products encoding sgRNAs targeting all ﬁve genes (Tet1, Tet2, Tet3, Sry, and Uty) were pooled and cotransfected with a Cas9 expressing plasmid and the PGK puroR cassette into ES cells. Of 96 clones that were screened using the RFLP assay, 10% carried mutations in all eight alleles of the ﬁve gene"},
                :properties {:color "green"}}],
- :extra {:page 2}}
+ :extra {:page 5}}
