@@ -1,5 +1,6 @@
 - [[MOL 504B/Assignments]]
 - [[Nov 18th, 2025]] Super Resolution
+  collapsed:: true
 	- SIM microscopy doesn't give you a higher res image directly, you do an inverse FFT after to get higher freq
 	- Use aliasing to learn about unavailable high frequency
 	- Use a striped light source to get a sampling at some defined frequency
@@ -40,7 +41,6 @@
 		- but also you lose a lot of brightness
 		- This isn't bad for bleaching, but it can burn your sample
 - [[Nov 13th, 2025]] 3D Imaging
-  collapsed:: true
 	- You get the same blurring in Z as in x and y but it's even worse
 		- $\Delta z = \frac{2\lambda n}{(NA)^2} \approx 500-700nm$
 		- so you get hourglass like shapes
