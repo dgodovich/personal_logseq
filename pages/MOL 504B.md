@@ -8,6 +8,15 @@
 	- Z resolution can be achieved by astigmatism
 		- this gives you a difference between blurring in x or y as you move up or down
 	- PALM and STORM are all widefield
+	- FRET you usually measure both colors
+		- this gets you the difference which is a stronger signal (less noisy)
+	- can use FRET probes as a kind of "color"
+		- distance between donor and acceptor on a DNA scaffold
+	- FLIM Fluorescence Lifetime Imaging Microscopy
+		- Measure the time it takes to emit
+		- This is on the order of nanoseconds, but different fluorophores have different times
+		- Can image with overlapping spectra with tau offset
+		-
 - [[Nov 18th, 2025]] Super Resolution
   collapsed:: true
 	- SIM microscopy doesn't give you a higher res image directly, you do an inverse FFT after to get higher freq
