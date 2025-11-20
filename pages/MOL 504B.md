@@ -1,4 +1,13 @@
 - [[MOL 504B/Assignments]]
+- [[Nov 20th, 2025]] Localization
+	- Nyquist sampling limit defines pixel size
+	- Localization microscopy uses single  molecule imaging to get accurate measurement of mean of PSF
+		- PSF should be a gaussian, so if you sample it a lot you can reliably measure the exact middle
+	- blink fluorophores and image them one by one as they turn on
+	- can do this with photoconversion or photoswitching
+	- Z resolution can be achieved by astigmatism
+		- this gives you a difference between blurring in x or y as you move up or down
+	- PALM and STORM are all widefield
 - [[Nov 18th, 2025]] Super Resolution
   collapsed:: true
 	- SIM microscopy doesn't give you a higher res image directly, you do an inverse FFT after to get higher freq
@@ -41,6 +50,7 @@
 		- but also you lose a lot of brightness
 		- This isn't bad for bleaching, but it can burn your sample
 - [[Nov 13th, 2025]] 3D Imaging
+  collapsed:: true
 	- You get the same blurring in Z as in x and y but it's even worse
 		- $\Delta z = \frac{2\lambda n}{(NA)^2} \approx 500-700nm$
 		- so you get hourglass like shapes
