@@ -31,3 +31,23 @@ file-path:: file://C:/Users/David/Zotero/storage/NCGG9N8D/Greenwald - Cell Auton
   hl-page:: 1
   hl-color:: yellow
   id:: 6923d51e-7e33-46dd-973f-1b686ef2c95b
+- 21 and 24, derived from the embryonic founder cell MS, are the somatic progenitors. 22 and 23, the progeny of the embryonic founder cell Pq, are the germline progenitors.
+  ls-type:: annotation
+  hl-page:: 2
+  hl-color:: yellow
+  id:: 6923de62-cc18-4fcf-9c8b-4c2d8bb615ab
+- he AC-to-VU Signal
+  ls-type:: annotation
+  hl-page:: 2
+  hl-color:: purple
+  id:: 6923df10-0f5f-4a77-ae72-87572aaf8758
+- ). Thus, in the absence of all other somatic g
+  ls-type:: annotation
+  hl-page:: 2
+  hl-color:: yellow
+  id:: 6923df41-25de-4b53-a984-ef00aeaca007
+- reby causing it to commit to the VU fate. We term this signal the AC-to-VU signal. This signal mig
+  ls-type:: annotation
+  hl-page:: 2
+  hl-color:: yellow
+  id:: 6923df87-c0ca-46c3-b880-b5224a49c476
