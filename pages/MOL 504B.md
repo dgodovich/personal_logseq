@@ -1,5 +1,6 @@
 - [[MOL 504B/Assignments]]
 - [[Nov 20th, 2025]] Localization
+  collapsed:: true
 	- Nyquist sampling limit defines pixel size
 	- Localization microscopy uses single  molecule imaging to get accurate measurement of mean of PSF
 		- PSF should be a gaussian, so if you sample it a lot you can reliably measure the exact middle
@@ -59,7 +60,6 @@
 		- but also you lose a lot of brightness
 		- This isn't bad for bleaching, but it can burn your sample
 - [[Nov 13th, 2025]] 3D Imaging
-  collapsed:: true
 	- You get the same blurring in Z as in x and y but it's even worse
 		- $\Delta z = \frac{2\lambda n}{(NA)^2} \approx 500-700nm$
 		- so you get hourglass like shapes
@@ -99,6 +99,7 @@
 		- But you don't reallyyy have to do this
 		- And you usually don't in spinning disk because it's "good enough"
 	- 2-photon
+	  id:: 691605c0-7313-4f9f-8499-65cf7e159808
 		- Simultaneous excitation with two lower energy (higher wavelength) photons
 			- e.g. 2 750nm photons = 1 350nm
 		- Because you need two events to happen at the same exact time, this is really limited to your focal depth
