@@ -30,5 +30,7 @@ links:: [Local library](zotero://select/library/items/HUAZPQY3), [Web library](h
 	- hets are healthy and fertile
 	- GFP pattern is the same as LacZ
 - Cross with a R26 lacZ that has a lox block site that gets removed with tamoxifen induced cre
+	- Use this to track over time after Cre pulse
+	- show that at first lacZ is restricted to the originator cell and that after a few days it's only in above cells
 -
 -
