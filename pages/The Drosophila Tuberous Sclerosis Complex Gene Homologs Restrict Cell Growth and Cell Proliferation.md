@@ -35,4 +35,9 @@ links:: [Local library](zotero://select/library/items/F934NAKJ), [Web library](h
 	- it's already different by that point
 - Eye is also nice because you have a normal mitotic arrest point
 	- They use that as a reference, and their mutant cells have additional issues with cell cycle
+- previous results showed that Tsc2 mutants were polyploid, but this isn't the case
+	- they're just big
+	- it's not about ploidy, it's about faster G1
+- Need both proteins
+	- Do an overexpression with a GAL4-UAS system and one or the other doesn't have much effect but together you get a much smaller eye
 -
