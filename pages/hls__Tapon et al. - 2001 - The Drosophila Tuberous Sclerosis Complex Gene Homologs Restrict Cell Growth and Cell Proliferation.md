@@ -47,3 +47,66 @@ file-path:: file://C:/Users/David/Zotero/storage/LM53CSXX/Tapon et al. - 2001 - 
   hl-page:: 2
   hl-color:: yellow
   id:: 692cfae1-d3e2-4bd6-81e9-2ebaa08becae
+- ely to represent null alleles of Tsc1
+  ls-type:: annotation
+  hl-page:: 2
+  hl-color:: yellow
+  id:: 692cfb97-1df1-4549-9615-11ad4049a531
+- es bearing clones of mutant Tsc1 tissue were signif
+  ls-type:: annotation
+  hl-page:: 2
+  hl-color:: yellow
+  id:: 692cfbc3-6e83-441c-94e0-69397bed4ef4
+- tly larger than wild-type eyes with a substantial ov
+  ls-type:: annotation
+  hl-page:: 2
+  hl-color:: yellow
+  id:: 692cfbc5-99eb-4b8a-aea3-35335ecf6264
+- esentation of mutant tissue over wild-type tissu
+  ls-type:: annotation
+  hl-page:: 2
+  hl-color:: yellow
+  id:: 692cfbc8-3263-4d9f-bd52-acef96f3b617
+- ating that the requirement fo
+  ls-type:: annotation
+  hl-page:: 3
+  hl-color:: yellow
+  id:: 692cfbe1-8e92-46c2-8914-76585a419067
+- sc function is cell autonomou
+  ls-type:: annotation
+  hl-page:: 3
+  hl-color:: yellow
+  id:: 692cfbe4-d4b6-4b43-8279-927157f1b573
+- ctions as a negative regulator of cell size in a numb
+  ls-type:: annotation
+  hl-page:: 3
+  hl-color:: yellow
+  id:: 692cfc15-05af-4bfc-a671-84c1ab1a9b18
+- [:span]
+  ls-type:: annotation
+  hl-page:: 3
+  hl-color:: yellow
+  id:: 692cfd37-62f3-4be0-9042-c81d377f12e6
+  hl-type:: area
+  hl-stamp:: 1764556084844
+- ditional BrdU incorporation occurred posterior to th
+  ls-type:: annotation
+  hl-page:: 3
+  hl-color:: yellow
+  id:: 692cfd50-856d-4fe0-b013-216265ecfc14
+- cond mitotic wave in clones of either Tsc2 or Tsc
+  ls-type:: annotation
+  hl-page:: 3
+  hl-color:: yellow
+  id:: 692cfd52-904b-41de-9d4f-07765b05a747
+- lows cells to enter S phase in regions whe
+  ls-type:: annotation
+  hl-page:: 3
+  hl-color:: green
+  id:: 692cfd5e-d181-489c-a53f-1dd9d67ee68b
+  hl-stamp:: 1764556130924
+- ey are normally quiescen
+  ls-type:: annotation
+  hl-page:: 3
+  hl-color:: green
+  id:: 692cfd61-da35-4a2d-91a5-81ea9017143b

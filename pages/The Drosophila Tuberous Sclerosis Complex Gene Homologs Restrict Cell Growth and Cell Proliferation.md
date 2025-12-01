@@ -21,3 +21,18 @@ links:: [Local library](zotero://select/library/items/F934NAKJ), [Web library](h
 	- [PDF](zotero://select/library/items/LM53CSXX) {{zotero-imported-file LM53CSXX, "Tapon et al. - 2001 - The Drosophila Tuberous Sclerosis Complex Gene Homologs Restrict Cell Growth and Cell Proliferation.pdf"}}
 - screened for mutations that result in an increased representation of mutant tissue at the expense of wild-type tissue
 - use recombinase in eye to get homozygote cells in the eyes of het animals
+	- use eyeless gene to control the recombinase
+	- same kind of strategy as in Gal4 UAS
+- dosage sensitive *white* so they can tell efficiency
+- They're looking for mutations that increase the amount of mutant tissue
+	- normal ones I guess would be about equal?
+	- or have less mutant
+	- Some of these are in Tsc1 and 2, others they don't talk about but I guess give some other competitive advantage to the mutant cells
+- Eye cell layout is useful for this kind of screen
+	- distinct, repetitive pattern of cells
+- Tsc1 consistently has a large cell phenotype
+- Use imaginal disc staining during various larval stages to identify when it acts
+	- it's already different by that point
+- Eye is also nice because you have a normal mitotic arrest point
+	- They use that as a reference, and their mutant cells have additional issues with cell cycle
+-
