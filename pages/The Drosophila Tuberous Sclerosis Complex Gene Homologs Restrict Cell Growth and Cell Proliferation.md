@@ -40,4 +40,6 @@ links:: [Local library](zotero://select/library/items/F934NAKJ), [Web library](h
 	- it's not about ploidy, it's about faster G1
 - Need both proteins
 	- Do an overexpression with a GAL4-UAS system and one or the other doesn't have much effect but together you get a much smaller eye
+- bunch of stuff about cyclins and how that can relate to the human disease
+	- I think I can gloss over this
 -

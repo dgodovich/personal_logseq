@@ -160,3 +160,8 @@ file-path:: file://C:/Users/David/Zotero/storage/LM53CSXX/Tapon et al. - 2001 - 
   hl-page:: 6
   hl-color:: green
   id:: 692cff2f-18b2-4b76-84bf-9531d7b7c490
+- utations in either Tsc1 or Tsc2 result in large cells with normal ploid
+  ls-type:: annotation
+  hl-page:: 7
+  hl-color:: yellow
+  id:: 692d04fc-f4d5-42e6-a951-0e5740d6d120
