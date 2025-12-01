@@ -165,3 +165,8 @@ file-path:: file://C:/Users/David/Zotero/storage/LM53CSXX/Tapon et al. - 2001 - 
   hl-page:: 7
   hl-color:: yellow
   id:: 692d04fc-f4d5-42e6-a951-0e5740d6d120
+- verexpression of PTEN 1 Tsc1 1 Tsc2 caused lethality in male
+  ls-type:: annotation
+  hl-page:: 9
+  hl-color:: red
+  id:: 692d0722-c5a6-4e45-b7eb-62ff83f29beb

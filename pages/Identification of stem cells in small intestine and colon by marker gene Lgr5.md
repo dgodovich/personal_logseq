@@ -19,3 +19,7 @@ links:: [Local library](zotero://select/library/items/HUAZPQY3), [Web library](h
 
 - Attachments
 	- [PDF](zotero://select/library/items/64TCTDXK) {{zotero-imported-file 64TCTDXK, "Barker et al. - 2007 - Identification of stem cells in small intestine and colon by marker gene Lgr5.pdf"}}
+- Initial screen of Wnt signaling genes because Wnt is active in the gut
+	- find one target gene Lgr5 that isn't expressed in Paneth cells, so might be a target of stem cells
+	- I think they do this in a previous paper and with staining? in situ
+-
