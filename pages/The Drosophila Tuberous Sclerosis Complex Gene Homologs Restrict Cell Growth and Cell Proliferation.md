@@ -19,4 +19,5 @@ links:: [Local library](zotero://select/library/items/F934NAKJ), [Web library](h
 
 - Attachments
 	- [PDF](zotero://select/library/items/LM53CSXX) {{zotero-imported-file LM53CSXX, "Tapon et al. - 2001 - The Drosophila Tuberous Sclerosis Complex Gene Homologs Restrict Cell Growth and Cell Proliferation.pdf"}}
--
+- screened for mutations that result in an increased representation of mutant tissue at the expense of wild-type tissue
+- use recombinase in eye to get homozygote cells in the eyes of het animals
