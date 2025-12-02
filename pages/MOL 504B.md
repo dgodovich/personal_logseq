@@ -16,13 +16,17 @@
 			- the whole thing is acousto-optical
 		- SP5 also has a similar system
 		- this can get you very complicated colors, especially when you add in tau offset
+		- \lambda scan option to get information about optimizing fluorophores and tissue autofluorescence
 	- Nikon systems
 		- resonant scanner enables faster imaging but you lose some resolution
 			- Nikon A1R the R stands for resonant
 		- can all do FRAP
 		- DMD on A1Rsi
 			- 447, 635, 735nm led light option so it's pretty flexible for photoactivation / optogenetics
-		-
+		- Bunch of spinning disks: Disc1, Disc2, W1, W1x2
+			- slightly different features to these but pretty comparable
+			- W1 can do long term live imaging
+		- Ji for automated plate reading
 - [[Nov 20th, 2025]] Localization
   collapsed:: true
 	- Nyquist sampling limit defines pixel size
