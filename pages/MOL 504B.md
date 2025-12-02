@@ -1,4 +1,28 @@
 - [[MOL 504B/Assignments]]
+- [[Dec 2nd, 2025]] Confocal Imaging Core Talk
+	- From Sha Wang, senior specialist
+	- Mostly nikon instruments
+	- Leica systems
+		- Stellaris 5 Cryo-CLEM
+			- this is cool
+			- get some benefits of EM while still having fluorescence
+			- upright microscope
+		- same flexibility for laser line selection as in Kai's lab 2-photon setup
+			- This comes from the white light laser + prism tuning with acousto-optical tunable filter (AOTF)
+			- emission is also prism based
+				- separate spectra by dispersion
+				- physically reject light from the detector that isn't at the band you want
+				- Because this is a physical detector you can tune this on the fly
+			- the whole thing is acousto-optical
+		- SP5 also has a similar system
+		- this can get you very complicated colors, especially when you add in tau offset
+	- Nikon systems
+		- resonant scanner enables faster imaging but you lose some resolution
+			- Nikon A1R the R stands for resonant
+		- can all do FRAP
+		- DMD on A1Rsi
+			- 447, 635, 735nm led light option so it's pretty flexible for photoactivation / optogenetics
+		-
 - [[Nov 20th, 2025]] Localization
   collapsed:: true
 	- Nyquist sampling limit defines pixel size
