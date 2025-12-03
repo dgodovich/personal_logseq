@@ -12,4 +12,25 @@ links:: [Local library](zotero://select/library/items/C3BWGEE9), [Web library](h
 	- [PDF](zotero://select/library/items/GUGQ4GS4) {{zotero-imported-file GUGQ4GS4, "Simon et al. - Rasl and a Putative Guanine Nucleotide Exchange Factor Perform Crucial Steps in Signaling by the Sev.pdf"}}
 - mediators that they mention in the intro are classic RTK downstream effectors
 - SH2 domain mediating complex assembly
+- They're looking for genes that have protein products that are essential for normal signaling strength
+- Sevenless functions as an RTK in eye development (I guess the sevenless comes from no 7th rhabdomere)
+	- yep
+	- sevenless functions as a receptor only in the R7 cell to specify it's fate
+	- very specific
+- ((692fbd71-44d7-4a31-b135-57f4e34ad393))
+	- why would they name genes like this
+		- bride of sevenless and seven in absentia fuck off
+	- downstream pathway isn't unique to sevenless
+	- looking at enhancers of sevenless is a more specific screening strategy, but I'm not sure how you do that
+	- strategy was to create conditions in which signaling through the Sevenless pathway is so barely adequate that even 2-fold reductions in the gene activity of downstream elements of the pathway might disrupt signaling
+		- I'm not entirely sure what they mean by this
+	- Use temperature sensitive alleles of sev that allow them to titrate signaling strength
+		- Use existing temp sensitive alleles in directed mutagenesis
+		- P transposon
+		- These are really temp specific
+			- 22.7C flies are totally wt, 24.3C they have no R7
+	- So what they want is R7 absent at the permissive condition
+		- these are enhancers because nothing else is wrong and it's in het? I think?
+	- Find 7 loci total and a bunch of these are lethal
+	-
 -
