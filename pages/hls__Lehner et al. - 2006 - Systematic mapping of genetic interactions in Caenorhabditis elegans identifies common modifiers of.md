@@ -31,3 +31,29 @@ file-path:: file://C:/Users/David/Zotero/storage/5IFHNMM8/Lehner et al. - 2006 -
   hl-page:: 2
   hl-color:: yellow
   id:: 692fccad-73ac-4540-89cc-b8960202b4a6
+- mall number of genes interact with many different query gene
+  ls-type:: annotation
+  hl-page:: 3
+  hl-color:: green
+  id:: 692fcd1c-2502-4b95-8109-be6cd40ef7ee
+- ot a general property of all genes that function in chromatin modiﬁcation but rather seems limited to a deﬁned subset of gen
+  ls-type:: annotation
+  hl-page:: 4
+  hl-color:: yellow
+  id:: 692fcd38-a299-4950-bcce-0eca274609cd
+- proposed role of the chaperone hsp90 as a ‘genetic buffer’ or ‘capacitor’ of phenotypic variation18,19. Notably, hsp90 can also buffer phenotypic variation via its effects on chromatin structu
+  ls-type:: annotation
+  hl-page:: 5
+  hl-color:: yellow
+  id:: 692fcd43-162d-4689-9c24-dc7a35126b76
+- nd that reducing the expression of four of the six hub genes by RNAi results in a marked increase in the frequency of the notched head phenoty
+  ls-type:: annotation
+  hl-page:: 5
+  hl-color:: yellow
+  id:: 692fcd5b-9d03-4ffa-a335-204c0a52027b
+- out 1 million different pairwise combinations of mutations that can result in lethality in a typical anim
+  ls-type:: annotation
+  hl-page:: 6
+  hl-color:: blue
+  id:: 692fcdde-ddfe-49b2-8f4f-fafa258a311d
+  hl-stamp:: 1764740577052
