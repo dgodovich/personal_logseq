@@ -53,3 +53,13 @@ file-path:: file://C:/Users/David/Zotero/storage/GUGQ4GS4/Simon et al. - Rasl an
   hl-page:: 4
   hl-color:: purple
   id:: 692fc231-53bb-47ba-874d-8bca08b9fe6f
+- ways that are parallel to the Sevenlessmediated pathway and are also essential for the formation of the R7 ce
+  ls-type:: annotation
+  hl-page:: 12
+  hl-color:: blue
+  id:: 692fc595-606c-4841-b980-9bc02e230a8b
+- his failure to enhance the sep4 phenotype might be expected if the ligand is presented in considerably greater quantity than is necessary to saturate the sev protein ligand-bindi
+  ls-type:: annotation
+  hl-page:: 12
+  hl-color:: blue
+  id:: 692fc842-b856-4d0f-8038-8dd5a670fe30

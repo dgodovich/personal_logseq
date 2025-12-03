@@ -30,12 +30,19 @@ links:: [Local library](zotero://select/library/items/C3BWGEE9), [Web library](h
 		- These are really temp specific
 			- 22.7C flies are totally wt, 24.3C they have no R7
 	- So what they want is R7 absent at the permissive condition
-		- these are enhancers because nothing else is wrong and it's in het? I think?
+		- these are "enhancers" because nothing else is wrong and it's in het? I think?
 	- Find 7 loci total and a bunch of these are lethal
 - ((692fc231-53bb-47ba-874d-8bca08b9fe6f))
 	- Use X irradiation to force ectopic recombination to get homozygotes in the eye cells
 	- This allows them to see lethals in the eye
 	- a bunch of these are lethal in the clones too so they're cell essential
 - Use mosaics to show cell autonomy of the E(sev) effect
--
+- Try epistasis to show that it's part of a generic RTK pathway
+	- Get 4 of their loci that also have an effect on a different RTK, which supports that idea
+- Use deletion mapping to map the gene and its Ras1
+	- and then sequence it to really confirm
+	- the other locus they hit a lot is Sos, which is directly downstream of Sev
+		- And indeed we know now that it is involved in many RTK events
+		- Also sequence this to show what their mutations are doing
+	-
 -

@@ -1,0 +1,2 @@
+file:: [Lehner et al. - 2006 - Systematic mapping of genetic interactions in Caenorhabditis elegans identifies common modifiers of.pdf](file://C:/Users/David/Zotero/storage/5IFHNMM8/Lehner et al. - 2006 - Systematic mapping of genetic interactions in Caenorhabditis elegans identifies common modifiers of.pdf)
+file-path:: file://C:/Users/David/Zotero/storage/5IFHNMM8/Lehner et al. - 2006 - Systematic mapping of genetic interactions in Caenorhabditis elegans identifies common modifiers of.pdf
