@@ -48,3 +48,8 @@ file-path:: file://C:/Users/David/Zotero/storage/GUGQ4GS4/Simon et al. - Rasl an
   hl-page:: 3
   hl-color:: yellow
   id:: 692fbf64-3105-4ed0-859a-46c3d07398aa
+- Four of the E(sev) Loci Appear to Be Required for Photoreceptor Development
+  ls-type:: annotation
+  hl-page:: 4
+  hl-color:: purple
+  id:: 692fc231-53bb-47ba-874d-8bca08b9fe6f
