@@ -14,6 +14,16 @@
 		- can image the positions of the bead to really high resolution
 	- acousto-optic deflector works by basically making a diffraction grating with sound density modulations
 	- can create multiple traps with fancy beam splitting or pwm kind of effect
+	- AFM
+		- bending of cantilever is read out by shining a laser on the back of it, this functions like changing the angle of a mirror
+		- change out cantilever to get different stiffnesses
+		- can adjust force
+			- imaging is very gentle
+			- push things harder to move them around
+		- stretch proteins apart and then let them refold
+			- attach one side to piezo and the other to the afm tip
+			- get stepwise domain folding, can get connectivity
+		-
 - [[Dec 2nd, 2025]] Confocal Imaging Core Talk
   collapsed:: true
 	- From Sha Wang, senior specialist
