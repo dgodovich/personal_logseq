@@ -1,5 +1,21 @@
 - [[MOL 504B/Assignments]]
+- [[Dec 4th, 2025]] Force Microscopy
+	- picoNewton per nanometer is pretty much the energy range of tissues (kT? not sure what this is)
+	- light has momentum put it's small
+		- can push things around
+		- solar sail
+		- optical trap
+	- 1mW laser pointer applies a 10pN force
+	- Optical traps are basically springs made of light
+		- manipulate the position of bacteria or glass beads (micron scale)
+		- ~100 pN forces
+		- restoring forces is refractive bending through the object
+			- angle changes which bends the light more the other way and then that pushes back the other way
+		- can image the positions of the bead to really high resolution
+	- acousto-optic deflector works by basically making a diffraction grating with sound density modulations
+	- can create multiple traps with fancy beam splitting or pwm kind of effect
 - [[Dec 2nd, 2025]] Confocal Imaging Core Talk
+  collapsed:: true
 	- From Sha Wang, senior specialist
 	- Mostly nikon instruments
 	- Leica systems
@@ -88,6 +104,7 @@
 		- but also you lose a lot of brightness
 		- This isn't bad for bleaching, but it can burn your sample
 - [[Nov 13th, 2025]] 3D Imaging
+  collapsed:: true
 	- You get the same blurring in Z as in x and y but it's even worse
 		- $\Delta z = \frac{2\lambda n}{(NA)^2} \approx 500-700nm$
 		- so you get hourglass like shapes
