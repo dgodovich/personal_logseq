@@ -23,7 +23,6 @@
 		- stretch proteins apart and then let them refold
 			- attach one side to piezo and the other to the afm tip
 			- get stepwise domain folding, can get connectivity
-		-
 - [[Dec 2nd, 2025]] Confocal Imaging Core Talk
   collapsed:: true
 	- From Sha Wang, senior specialist
