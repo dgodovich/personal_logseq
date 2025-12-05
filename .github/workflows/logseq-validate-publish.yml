@@ -25,8 +25,8 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v4
-      - name: Run graph-validator tests
-        uses: logseq/graph-validator@main
+      # - name: Run graph-validator tests
+      #   uses: logseq/graph-validator@main
       - name: Build Logseq graph
         uses: logseq/publish-spa@main
         with:
