@@ -1,4 +1,2 @@
 - [[Vermont Skiing]]
 - [[Montana Skiing]]
--
-- #Travel

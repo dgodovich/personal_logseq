@@ -1,5 +1,3 @@
 - [[Japan]]
 - [[Taipei]]
 - [[Bangkok]]
--
-- #Travel

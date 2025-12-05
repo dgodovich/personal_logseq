@@ -1,6 +1,4 @@
 - Trip is Aug 23 - 28
 - Probably won't get the scuba certification but I do want to go on a dive
 - Need to do shopping
-- [[Discover]]
--
-- #Travel
+- [[Discover]
