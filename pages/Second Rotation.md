@@ -1,5 +1,16 @@
 - [[Kai Mesa]]
 - [[Mouse Trainings]]
 - [[Imaris]]
+- Experiments
+	- [[dec 5th, 2025]]
+		- Imaged Macgreen mTmG older male (M7?) fully from the shared cage with Zoe
+			- ~130 micron depth with one laser
+			- proximal punch
+		- Imaged mTmG older male (M2?) until he woke up which wasn't all that much actually
+			- distal punch
+		- Also punched females in shared cage with Emilys cx4cr1 mouse
+			- F3 died but unclear which one that was
+				- two F3 one with macgreen one with mTmG (genotype mTmG by looking at it)
+			- other two females got both proximal and distal punches
 - Reading
 	-
