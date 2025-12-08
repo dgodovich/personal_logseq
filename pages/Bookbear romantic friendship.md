@@ -1,4 +1,4 @@
-- Preview from
+- Preview from [Bookbear paid post about romantic friendship](https://www.avabear.xyz/p/is-friendship-romantic)
 - ### i. What’s the difference?
 - What’s the difference between friendship and romance? As far as I’m concerned, not much. Personally, I believe that close friendships are inherently romantic because they are inherently intimate. (The same may not apply to your gym buddy.) If you’re spending extended amounts of time together, sharing your deepest feelings, and having a lot of fun together, there’s inherently a level of intensity and depth there that’s somewhat romantic. So, what *is* the difference?
 - Here’s how I see it, coming from a non-polyamorous but friendship-centered perspective:
