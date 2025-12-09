@@ -131,3 +131,8 @@ file-path:: file://C:/Users/David/Zotero/storage/F882AUG9/Haffter et al. - 1996 
   hl-page:: 7
   hl-color:: red
   id:: 6910e86a-ed39-465c-9ee3-35b27f7cd077
+- patterning and distribution of pigment cells is a phenotypic feature affected by mutations in nine gene
+  ls-type:: annotation
+  hl-page:: 9
+  hl-color:: yellow
+  id:: 6937a923-e5da-4d30-a8f9-3fdb02710b4e
