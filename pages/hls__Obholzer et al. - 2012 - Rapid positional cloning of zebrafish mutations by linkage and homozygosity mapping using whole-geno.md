@@ -100,3 +100,8 @@ file-path:: file://C:/Users/David/Zotero/storage/LSPPKD7C/Obholzer et al. - 2012
   hl-page:: 7
   hl-color:: green
   id:: 6911926a-43f7-4c24-b72f-2285b228a4f7
+- utant an158-3 using a library prepared from200 pooled phenotypically mutant F1 progeny to at least sixfold coverag
+  ls-type:: annotation
+  hl-page:: 4
+  hl-color:: red
+  id:: 6937ad41-a8c4-4539-b531-6cb423c40a42
