@@ -10,7 +10,9 @@
 	- Figure 1 + S1 and S2 are design of device to do CRISPR screen
 		- this one I think I don't know too much about but I can probably think of some questions
 		- How much does the media conductivity change over time?
-			- I imagine this is why you use a 1L reservoi
+			- I imagine this is why you use a 1L reservoir so that during your experiment you get functionally no change in media pH
+			- But I wonder how strong this effect is in an actual wound healing / in vivo electrotaxis event - are wounds acidic? Does their pH change?
+		-
 	-
 - [[Oct 29th, 2025]] Susan Mango Biozentrum
   id:: 6902321b-b63f-41b8-a111-cefc0716d66b
