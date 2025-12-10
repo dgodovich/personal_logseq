@@ -1,4 +1,16 @@
 - [[Butler Journal Clubs]]
+- [[Dec 10th, 2025]] Julie Theriot
+	- My journal club
+	- General Questions
+		- Do you think collective migrations in electrotaxis (and generally) are summations?
+		- Could it trigger similar pathways as EGFR mediated migration? Is it actually the same pathway?
+		- Any evidence for ERK activity?
+		- Could there be an additional diffusible ligand? ADAM17 or other matrix remodelers?
+		- What's the level for collective migration? 2, 3, 10 cells?
+	- Figure 1 + S1 and S2 are design of device to do CRISPR screen
+		- this one I think I don't know too much about but I can probably think of some questions
+		-
+	-
 - [[Oct 29th, 2025]] Susan Mango Biozentrum
   id:: 6902321b-b63f-41b8-a111-cefc0716d66b
 	- [[Lamina-Dependent Stretching and Unconventional Chromosome Compartments in Early C. elegans Embryos]]
