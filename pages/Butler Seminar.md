@@ -9,7 +9,8 @@
 		- What's the level for collective migration? 2, 3, 10 cells?
 	- Figure 1 + S1 and S2 are design of device to do CRISPR screen
 		- this one I think I don't know too much about but I can probably think of some questions
-		-
+		- How much does the media conductivity change over time?
+			- I imagine this is why you use a 1L reservoi
 	-
 - [[Oct 29th, 2025]] Susan Mango Biozentrum
   id:: 6902321b-b63f-41b8-a111-cefc0716d66b
