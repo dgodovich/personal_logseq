@@ -72,7 +72,6 @@
 		- Can image with overlapping spectra with tau offset
 		-
 - [[Nov 18th, 2025]] Super Resolution
-  collapsed:: true
 	- SIM microscopy doesn't give you a higher res image directly, you do an inverse FFT after to get higher freq
 	- Use aliasing to learn about unavailable high frequency
 	- Use a striped light source to get a sampling at some defined frequency
