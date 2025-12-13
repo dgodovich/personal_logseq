@@ -53,7 +53,6 @@
 			- W1 can do long term live imaging
 		- Ji for automated plate reading
 - [[Nov 20th, 2025]] Localization
-  collapsed:: true
 	- Nyquist sampling limit defines pixel size
 	- Localization microscopy uses single  molecule imaging to get accurate measurement of mean of PSF
 		- PSF should be a gaussian, so if you sample it a lot you can reliably measure the exact middle
