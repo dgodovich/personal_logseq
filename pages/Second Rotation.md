@@ -12,5 +12,9 @@
 			- F3 died but unclear which one that was
 				- two F3 one with macgreen one with mTmG (genotype mTmG by looking at it)
 			- other two females got both proximal and distal punches
+		- [[Dec 10th, 2025]] Day 5
+		- [[Dec 12th, 2025]] Day 7
+		- [[Dec 15th, 2025]] Day 10
+		- [[Dec 17th, 2025]] Day 12
 - Reading
 	-
