@@ -5,3 +5,4 @@ alias:: [[Kailin R. Mesa]]
 - [[Nov 10th, 2025]] Meeting
 	- Project overview
 	- I didn't take a lot of notes because I was mostly listening, but I have a lot of reading to do
+	-

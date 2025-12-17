@@ -1,4 +1,8 @@
-- [[Nov 6th, 2025]] Ahmad Khalil Harvard Synthetic Reconstitution of Cellular Function
+- [[Dec 4th, 2025]] Peng Yin, [[Harvard]] , DNA Based Measurement tools
+	- Snoozefest of a talk
+	- SABER-FISH
+	- bunch of other cool stuff that I don't remember at all because it was so boring
+- [[Nov 6th, 2025]] Ahmad Khalil, [[Harvard]] , Synthetic Reconstitution of Cellular Function
 	- synthetic biology to make complex systems possible
 	- epigenetic memory circuits
 	- multiple valency of reader part suppresses noise
@@ -15,4 +19,6 @@
 		- This is a cool way to have multiple things coalesce to get TF activation
 		- Membrane 3-hybrid (built from yeast 2-hybrid)
 	- [[draws/2025-12-17-11-35-21.excalidraw]]
-	-
+	- Can functionally reconstitute GPCR in yeast
+	- built in fitness with mutation strains
+-
