@@ -1,0 +1,18 @@
+- [[Nov 6th, 2025]] Ahmad Khalil Harvard Synthetic Reconstitution of Cellular Function
+	- synthetic biology to make complex systems possible
+	- epigenetic memory circuits
+	- multiple valency of reader part suppresses noise
+		- this also makes a stronger signal, double good
+	- Make cells fuse together
+		- this was a cool video of cell fusion
+	- Coupling of multiple methylation + gene regulatory tools enhanced memory
+	- How does this work with global wipes like in development around implantation? Or in the germ cells?
+		- I asked him this and he did not have a very good answer
+		- Something about there's multiple mechanisms so they overlap
+	- Negative selection in evolution
+		- screening is important
+	- circuit with cleavable TF using a split protease
+		- This is a cool way to have multiple things coalesce to get TF activation
+		- Membrane 3-hybrid (built from yeast 2-hybrid)
+	- [[draws/2025-12-17-11-35-21.excalidraw]]
+	-
