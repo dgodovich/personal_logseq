@@ -1,5 +1,6 @@
 - #seminars
 - [[Oct 27th, 2025]] Sharad Ramanathan, Harvard
+  id:: 69442c8c-c994-42fc-b1b5-acd07fbd001c
 	- Anand Cell 2023
 	- Apical cells don't like matrix, so it balls up into sphere
 	- They use communication between gastruloids to get them all stacked together

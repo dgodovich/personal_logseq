@@ -5,7 +5,20 @@
 		- What's going through the connection?
 		- Not mitochondria
 			- photoconvertible mitochondria don't move between cells
-			-
+		- 2-photon bleaching of cytoplasmic stuff to see if that's moving
+			- membrane contents do exchange (restoration of fluorescence to half starting value)
+		- pretty cool application of 2-photon
+	- Pauline (gastruloids)
+		- reintroduce external constraints to gastruloid models
+			- idea is to get closer to real Waddington landscape
+		- Do you think absolute cell number has an impact on Chir signaling?
+			- like it's too big to be receptive to signaling
+		- morphodynamics are governed by system overall size
+		- some gene expression is size dependent / localization changes
+		- I didn't like this talk because it felt kinda pointless tbh
+			- So much less advanced than ((69442c8c-c994-42fc-b1b5-acd07fbd001c))
+			- Why bother when you have someone trying the same kind of stuff and doing it way better than you
+			- I'm also not convinced that it has real application to anything, but that's a general problem with gastruloids
 - [[Oct 31st, 2025]] Helen Scott from Nir Yakoby lab at Rutgers
   collapsed:: true
 	- mid/H15 tandem paralogs in fly
