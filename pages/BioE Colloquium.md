@@ -1,3 +1,4 @@
+- #seminars
 - [[Dec 4th, 2025]] Peng Yin, [[Harvard]] , DNA Based Measurement tools
 	- Snoozefest of a talk
 	- SABER-FISH

@@ -1,3 +1,4 @@
+- #seminars
 - [[Sep 26th, 2025]]
 	- [[Beena]] from [[Jared Toettcher]]
 		- engineering synthetic RTKs to tune signaling responses

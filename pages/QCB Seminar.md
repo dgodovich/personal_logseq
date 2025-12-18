@@ -1,0 +1,21 @@
+- #seminars
+- [[Oct 27th, 2025]] Sharad Ramanathan, Harvard
+	- Anand Cell 2023
+	- Apical cells don't like matrix, so it balls up into sphere
+	- They use communication between gastruloids to get them all stacked together
+	- computationally inferred design
+		- pattern of placement on surface so that gastruloids have spatial signaling
+		- Also add in beads soaked with growth factors and whatever else you want in precise placement
+	- Notch waves make individual somites
+		- Porique 2001
+	- Signaling beads do a lot of the localized work
+		- BMP / FGF
+	- Can get single, double, ectopic axes
+	- Pretty scary stuff overall, he has so much power over the developing system
+	- Physical stretching causes Yap activation
+	- Can make astrocytes which is pretty crazy apparently
+		- This is hard for some reason and takes a million years
+		- triggered by yap activation from stretch
+			- This is also a human specific function
+			- Stretch doesn't happen in mouse
+	-

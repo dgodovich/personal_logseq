@@ -1,4 +1,6 @@
+- #seminars
 - [[Oct 31st, 2025]] Helen Scott from Nir Yakoby lab at Rutgers
+  collapsed:: true
 	- mid/H15 tandem paralogs in fly
 		- homologous to TBX20 which is important for cardiac development
 	- gene dosage is more than just the number of copies
@@ -18,7 +20,6 @@
 		- branch is able to extend, fusion cell forms fine
 		- What drives this if it's not FGF?
 - [[Sep 26th, 2025]] [[Ai Ing Lim]]
-  collapsed:: true
 	- immunologist by training, dev bio in the last few years
 	- Mother and offspring are evolutionary partners
 	- Infection has impacts on child's life
