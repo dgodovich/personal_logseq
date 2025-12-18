@@ -1,5 +1,13 @@
 - #seminars
+- [[Nov 14th, 2025]] Isabella Leite from Eszter and Stas' labs; Pauline in Gregor and McNamara (Yale, [[Jared Toettcher]] postdoc) labs
+	- Isabella
+		- mouse reporter line for Tex14 at bridges between germ cells
+		- What's going through the connection?
+		- Not mitochondria
+			- photoconvertible mitochondria don't move between cells
+			-
 - [[Oct 31st, 2025]] Helen Scott from Nir Yakoby lab at Rutgers
+  collapsed:: true
 	- mid/H15 tandem paralogs in fly
 		- homologous to TBX20 which is important for cardiac development
 	- gene dosage is more than just the number of copies

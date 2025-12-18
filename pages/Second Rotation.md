@@ -16,5 +16,6 @@
 		- [[Dec 12th, 2025]] Day 7
 		- [[Dec 15th, 2025]] Day 10
 		- [[Dec 17th, 2025]] Day 12
+- [[Second Rotation/Lab Meetings]]
 - Reading
 	-

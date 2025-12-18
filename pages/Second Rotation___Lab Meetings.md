@@ -1,0 +1,10 @@
+- [[Nov 13th, 2025]] Char Generals practice
+	- macs from from EMPs from yolk sac
+		- embryonic hematopoiesis from Gottgens lab
+	- each tissue has their own macrophage population
+	- Some populations are self-renewing, some are bone marrow derived
+		- Microglia, langerhans cells (epidermis), kuppfer cells in liver are self renewing
+		- gut population is entirely bone marrow derived
+	- Most have a combination
+	- Local proliferation vs recruitment of macrophages
+	-
