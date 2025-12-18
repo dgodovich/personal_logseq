@@ -13,6 +13,10 @@
 		- How much does the media conductivity change over time?
 			- I imagine this is why you use a 1L reservoir so that during your experiment you get functionally no change in media pH
 			- But I wonder how strong this effect is in an actual wound healing / in vivo electrotaxis event - are wounds acidic? Does their pH change?
+- [[Dec 3rd, 2025]] Daniel Mucida Rockefeller
+	- Type 2 immunity
+	- immune cells moving around in gut epithelium
+	- Hoyt 2025 40773557
 - [[Oct 29th, 2025]] Susan Mango Biozentrum
   id:: 6902321b-b63f-41b8-a111-cefc0716d66b
 	- [[Lamina-Dependent Stretching and Unconventional Chromosome Compartments in Early C. elegans Embryos]]
