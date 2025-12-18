@@ -1,6 +1,5 @@
 - #seminars
 - [[Oct 31st, 2025]] Helen Scott from Nir Yakoby lab at Rutgers
-  collapsed:: true
 	- mid/H15 tandem paralogs in fly
 		- homologous to TBX20 which is important for cardiac development
 	- gene dosage is more than just the number of copies

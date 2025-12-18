@@ -1,5 +1,6 @@
 - [[MOL 504B/Assignments]]
 - [[Dec 4th, 2025]] Force Microscopy
+  collapsed:: true
 	- picoNewton per nanometer is pretty much the energy range of tissues (kT? not sure what this is)
 	- light has momentum put it's small
 		- can push things around
@@ -53,6 +54,7 @@
 			- W1 can do long term live imaging
 		- Ji for automated plate reading
 - [[Nov 20th, 2025]] Localization
+  collapsed:: true
 	- Nyquist sampling limit defines pixel size
 	- Localization microscopy uses single  molecule imaging to get accurate measurement of mean of PSF
 		- PSF should be a gaussian, so if you sample it a lot you can reliably measure the exact middle
@@ -71,6 +73,7 @@
 		- Can image with overlapping spectra with tau offset
 		-
 - [[Nov 18th, 2025]] Super Resolution
+  collapsed:: true
 	- SIM microscopy doesn't give you a higher res image directly, you do an inverse FFT after to get higher freq
 	- Use aliasing to learn about unavailable high frequency
 	- Use a striped light source to get a sampling at some defined frequency
@@ -231,7 +234,6 @@
 	- FRET can be used to make mixed probes that give you more "colors"
 		- not actually colors, different efficiency
 - [[Oct 30th, 2025]] Contrast Enhancement
-  collapsed:: true
 	- Cells are mostly made of water so they don't really scatter light in an aqueous medium
 		- This means you get pretty low contrast
 		- Microscopy techniques need to do some form of contrast enhancement

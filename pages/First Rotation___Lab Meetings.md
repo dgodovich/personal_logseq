@@ -4,6 +4,18 @@
 	- nuclei are pilots of the environment, density of nuclei matters a lot
 	- 9 divisions in yolk, then edge migration, 4 more divisions at the edge
 		- not all nuclei go to the surface, yolk nuclei become polyploid
+	- Early nuclear cycles have like no interphase
+		- no time for transcription
+		- Most early developmental genes have no introns
+			- e.g. Sox2 in mammals and equivalents in fly
+		- How do germ cells not get mitotic waves?
+	- Cell fates can be adopted extremely precisely, within 1 nuclear position
+	- Surface mesh with nuclei as vertices
+		- measure area of faces adjacent to vertex
+		- Those areas are averaged to get the "size" of the nucleus which translates to the density
+	- Can also do a dual mesh by connecting face centers, and then face area is the local area
+	- Could try this for cell segmentation to measure density, might be more effective
+	- How much surface area is each nucleus taking up relative to if it was all equal
 - [[Sep 24th, 2025]] Sabrina
   collapsed:: true
 	- copying over handwritten notes
