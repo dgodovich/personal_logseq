@@ -1,3 +1,9 @@
+- Emily and Zoe
+	- reinjury and punch location
+	- Didn't take great notes
+- Second Char generals talk I didn't take notes on
+	- was better though
+	- clearer flow through the sections, less bloat
 - [[Nov 13th, 2025]] Char Generals practice
 	- macs from from EMPs from yolk sac
 		- embryonic hematopoiesis from Gottgens lab

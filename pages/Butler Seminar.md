@@ -13,12 +13,41 @@
 		- How much does the media conductivity change over time?
 			- I imagine this is why you use a 1L reservoir so that during your experiment you get functionally no change in media pH
 			- But I wonder how strong this effect is in an actual wound healing / in vivo electrotaxis event - are wounds acidic? Does their pH change?
-- [[Dec 3rd, 2025]] Daniel Mucida Rockefeller
+- [[Dec 3rd, 2025]] Daniel Mucida, Rockefeller
+  collapsed:: true
 	- Type 2 immunity
 	- immune cells moving around in gut epithelium
-	- Hoyt 2025 40773557
-- [[Oct 29th, 2025]] Susan Mango Biozentrum
+	- [Hoyt 2025](https://www.science.org/doi/full/10.1126/science.adp0240) and [Bachtel 2025](https://pubmed.ncbi.nlm.nih.gov/40773543/)
+		- allergy papers about what causes anaphylaxis, of general interest to me
+		- Anaphylaxis is apparently triggered via interactions with the gut epithelium
+	- Increased oral challenges have more allergy
+	- Immune cells in allergic reactions
+		- Kinetics
+			- influx of eosinophils that resolves within two days
+			- mast cells come later
+				- these are the ones that do histamine release
+				- come and stay
+		- Interactions
+			- eosinophils don't seem to interact in the beginning but then start after sequential challenges
+			- Mast cells start interacting right away
+			- both interact with enteroendocrine cells and paneth cells
+		- depleting eosinophils alleviates asthma symptoms
+	- General talk notes
+		- He credits people in his lab and also others in the field a lot
+		- Also interacts with the audience quite a bit
+			- This is relevant to what this person in the audience is doing, you professor know about this because of this, etc
+	- In helminth infection eosinophils explode in number but don't go to the epithelium
+	- mast cell influx in gut results in serotonin signaling increase
+	- this causes vagus activation in brain stem
+- Britt Glaunsinger, UC Berkeley
+	- virology stuff
+- Sun Hur, Harvard
+	- Immune self / non-self discrimination
+- Anna Marie Pyle, Yale
+	- RNA
+- [[Oct 29th, 2025]] Susan Mango, Biozentrum
   id:: 6902321b-b63f-41b8-a111-cefc0716d66b
+  collapsed:: true
 	- [[Lamina-Dependent Stretching and Unconventional Chromosome Compartments in Early C. elegans Embryos]]
 	- Princeton grad alumna!
 		- Same year as Mary Brukow which is cool
@@ -44,7 +73,7 @@
   id:: 68f8fbfa-f985-43d0-9439-79c02bbfc7b2
   collapsed:: true
 	-
-- [[Sep 24th, 2025]] Cedric Feschotte #transposons
+- [[Sep 24th, 2025]] Cedric Feschotte
   collapsed:: true
 	- TEs are essential component of the genome - Barbara McClintock
 	- Mutagenic activity of transposition
@@ -75,6 +104,6 @@
 		- Effects on cell migration
 		- ERNI in chicken, also a neural crest marker and a Gag TE
 			- regulated by piwi, which is normally functional in germ cells
-- [[Sep 17th, 2025]] Lucciano Marraffini #CARF #bacteriophage
+- [[Sep 17th, 2025]] Lucciano Marraffini
 	- written, transfer here later
 -
