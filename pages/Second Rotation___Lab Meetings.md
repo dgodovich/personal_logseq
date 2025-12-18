@@ -1,6 +1,6 @@
 - Emily and Zoe
 	- reinjury and punch location
-	- Didn't take great notes
+	- Didn't take great notes, not much to say I think
 - Second Char generals talk I didn't take notes on
 	- was better though
 	- clearer flow through the sections, less bloat
