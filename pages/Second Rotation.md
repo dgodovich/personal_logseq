@@ -2,14 +2,71 @@
 - [[Mouse Trainings]]
 - [[Imaris]]
 - Experiments
+	- [[Jan 14th, 2026]]
+		- Second time series experiment
+		- From the first one we saw that there's a difference in early stages
+			- Even by day 5 there's a difference in the initial response between proximal and distal wounds
+			- Collagen fiber orientation at edge is different
+				- Degradation kinetics are not the same
+			- So, focus in on the early time points
+			- 0, 2, 4, 6 days post injury
+		- Mice
+			- nTnG Macgreen
+				- nTnG is a bit dimmer
+					- bump up laser power to 25 - 50% excitation gain through the stack
+				- Nuclear instead of membrane staining
+					- not a big deal, can still see the shape of the tissues
+					- in any case I don't reallllyy need this channel, it's pretty much just to see the wound boundary / epidermis edge
+			- no mTmG available, but that's ok
+			- Cages:
+				- 191763 F1 nTnG Macgreen
+					- also punched F4 in this cage but she's not actually Macgreen+
+				- 191764 M5 nTnG Macgreen
+					- shared cage with Meg's PDGFRa mice
+				- 189059 M2 M6 nTnG Macgreen
+					- Hopefully both of these are Macgreen+
+				- 191796 Macgreen
+					- backup cage of just Macgreen+ mice (no nTnG)
+		- Other experiment notes
+			- Larger hole area coverage
+				- Starting from 3x4 area instead of 2x4
+			- Only 1 ear punched
+		- Day 0
+			- Cage 191763 F1
+				- proximal 1.5mm punch
+				- Ketamine info
+					- 23g weight, 160 \mu\g dosage
+					- ~1h10minutes to wake up
+			- 191763 F4
+				- distal 1.5mm punch
+				- No macgreen :(
+				- get a replacement mouse
+			- 191764 M5
+				- distal 1.5mm punch
+				- Ketamine info
+					- 29g weight, 210 \mu\g dosage
+					- ~1h20 min to wake up
+						- But this cage "is full of violence" so need to wait longer for him to be fully ambulatory
+						- Also takes a lil while to fully go down
+			- Did not do the other two mice because of having to redo one of them
+		- [[Jan 16th, 2026]] Day 2 + Day 0
+			- Bring up 191763, 191764, 189059, 191796
+				- 191796 is Macgreen+ for backup
+			- Day 2 for 191763 F1 and 191764 M5
+			- Day 0 for 189059 M2, M6
+		-
 	- [[dec 5th, 2025]]
 		- Imaged Macgreen mTmG older male (M7?) fully from the shared cage with Zoe
+		  collapsed:: true
 			- ~130 micron depth with one laser
 			- proximal punch
 		- Imaged mTmG older male (M2?) until he woke up which wasn't all that much actually
+		  collapsed:: true
 			- distal punch
 		- Also punched females in shared cage with Emilys cx4cr1 mouse
+		  collapsed:: true
 			- F3 died but unclear which one that was
+			  collapsed:: true
 				- two F3 one with macgreen one with mTmG (genotype mTmG by looking at it)
 			- other two females got both proximal and distal punches
 		- [[Dec 10th, 2025]] Day 5
