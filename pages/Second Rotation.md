@@ -76,3 +76,4 @@
 - [[Second Rotation/Lab Meetings]]
 - Reading
 	- [[Tissue-resident macrophages contribute to ear hole regeneration of early postnatal mice]]
+	- [[Comparative analysis of ear-hole closure identifies epimorphic regeneration as a discrete trait in mammals]]
