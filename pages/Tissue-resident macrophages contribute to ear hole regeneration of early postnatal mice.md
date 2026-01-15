@@ -39,4 +39,29 @@ links:: [Local library](zotero://select/library/items/Y95CG6T6), [Web library](h
 	- Collected at 4, 8, 16h post wound and 1, 2, 3, 5, 7, 14, 21, 35 days post
 	- Ablated macrophages at the initial stage and at the re-differentiation stage
 		- Do this by injecting the liposome at the base of the ear
-	-
+	- Antibodies
+		- CD68
+		- F4/80
+			- EMR1
+		- iNOS
+		- CD86
+		- IL10
+		- CD206
+		- Msx2
+		- I should know what these proteins are marking
+- ((6969114b-eaae-4532-b7bf-e3c4188d5854))
+	- ((69691157-b6f6-49b1-85bf-7ff2ed228963))
+		- CD68 and F4/80 are pan-macrophage markers
+			- ((69691243-c955-4fdd-b01e-b0cf547e9cef))
+			- I don't understand this
+			- why would they be different
+		- CD68+ cells are probably monocytes coming in, F4/80 cells are a tissue resident
+		- Figure is showing that there's a difference in populations at the wound edge and that it changes over the course of healing
+	- ((696914a5-9111-412f-8af1-21dc23dbfe68))
+		- F4/80+ cells are the ones expressing iNOS
+		- IL10 present in blastema but not before
+		- CD206 expression goes down and then comes back up
+			- mannose receptor, relevant for innate immunity
+			- This makes sense?
+	- ((6969162b-7576-4449-85f2-7427e10d8dee))
+		-
