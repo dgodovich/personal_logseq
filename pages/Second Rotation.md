@@ -18,4 +18,4 @@
 		- [[Dec 17th, 2025]] Day 12
 - [[Second Rotation/Lab Meetings]]
 - Reading
-	-
+	- [[Tissue-resident macrophages contribute to ear hole regeneration of early postnatal mice]]
