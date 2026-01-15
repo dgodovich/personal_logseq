@@ -64,4 +64,20 @@ links:: [Local library](zotero://select/library/items/Y95CG6T6), [Web library](h
 			- mannose receptor, relevant for innate immunity
 			- This makes sense?
 	- ((6969162b-7576-4449-85f2-7427e10d8dee))
-		-
+		- Depletion slows down healing
+		- But it seems that depletion only affects F4/80+ population
+			- There's still influx of CD68+ cells
+			- Can this be because of the injection into the ear? So it's not actually a global depletion?
+		- Competition? cd68 fills a vacant niche?
+		- iNOS+ population doesn't change
+			- This is interesting because before iNOS was correlated with F4/80 and now those are gone
+			- I'm not sure I agree that it's a different kind of immune cell
+	- macrophage depletion later induced cartilage formation
+- ((69691847-3656-4e1c-a6c3-d643f702f9e2))
+	- [Other people have also suggested](https://pubmed.ncbi.nlm.nih.gov/18367204/) that CD68 and F4/80 are not that effective as pan-macrophage markers
+	- CD206 might not be expressed by macrophages at all? or maybe macrophages and an additional cell type
+	- ((69691b80-e45a-4d1b-8dd8-56fee219c476))
+		- Based on uptake of clodronate liposomes, but I'm not sure that this is the only possibility
+		- Why not that it's more tissue limited? Or you have additional production after clearance? You do get more CD68+ macs after, so there's compensation
+		- Some kind of niche filling
+	-
