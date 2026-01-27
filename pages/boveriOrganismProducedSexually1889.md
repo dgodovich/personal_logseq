@@ -24,4 +24,10 @@ links:: [Local library](zotero://select/library/items/BP866MHJ), [Web library](h
 	- Calcareous skeleton of the larva is very species typic
 - He wasn't able to get any fertilized eggs with the cross species?
 	- Not sure what to make of this
+	- I don't think I understood this correctly
+		- I think in just putting them together they don't mate
+	- But he's able to do the artificial insemination and make the "bastards"
+- Bastards are in the middle phenotypically
+- I think the middle bastard progeny have both DNA
+- Not sure what to make of the Echinus sperm that becomes fully that one
 -

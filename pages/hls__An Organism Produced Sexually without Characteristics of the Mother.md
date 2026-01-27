@@ -72,3 +72,43 @@ file-path:: file://C:/Users/David/Zotero/storage/6MSYHF2K/An Organism Produced S
   hl-page:: 6
   hl-color:: yellow
   id:: 697848ad-4b37-4c73-aa1f-c44efaeb8aee
+- nucleated egg-fragments of Spherechinus were brought together with the sperm
+  ls-type:: annotation
+  hl-page:: 8
+  hl-color:: red
+  id:: 697849b0-4faa-4d84-9325-a29e679478d1
+- All genuine bastards, with not a single exception, represent both in the shape of the body as well as in the skeleton an almost exact middle form standing between the two paren
+  ls-type:: annotation
+  hl-page:: 10
+  hl-color:: green
+  id:: 697849e7-147f-4cf2-bfe5-697abe711708
+- ertain of the eggs remain intact after the process, and these do give the genuine bastard for
+  ls-type:: annotation
+  hl-page:: 10
+  hl-color:: yellow
+  id:: 69784a14-e578-4c60-8e88-5d6c1f5c8b73
+- ese must have been produced chiefly from enucleated fragme
+  ls-type:: annotation
+  hl-page:: 10
+  hl-color:: yellow
+  id:: 69784a36-ff52-4890-82fe-1e7ee5baf60a
+- ne can distinguish in a preserved and colored larva whether or not it has originated from a nucleated or enucleated egg, and this from the size of its nucl
+  ls-type:: annotation
+  hl-page:: 11
+  hl-color:: yellow
+  id:: 69784a8b-7d5e-4a93-8c3d-6702a9c2c156
+- have mixed together with the Bastard-type the true Echinus type, and the latter (true Echinus type) shows proportionately considerably smaller nuclei than the preceding on
+  ls-type:: annotation
+  hl-page:: 11
+  hl-color:: yellow
+  id:: 69784aae-f2cd-4571-bff8-ff0dfedee92b
+- but the larvae arising from the enucleated fragments of eggs have entirely the characteristics of the parent (male) spec
+  ls-type:: annotation
+  hl-page:: 12
+  hl-color:: green
+  id:: 69784af8-69cb-4e82-bd7c-811ce1abe9f6
+- phenomenon of growth of tbe enucleated protoplasmic mass is entirely governed by the introduced spermatozoo
+  ls-type:: annotation
+  hl-page:: 12
+  hl-color:: yellow
+  id:: 69784b15-9617-4da8-b310-2ad6b75bb656
