@@ -1,7 +1,28 @@
 - [[Kai Mesa]]
 - [[Mouse Trainings]]
 - [[Imaris]]
+- To do before I end
+	- Write some documentation explaining what everything is on the server
+	- Write some documentation for how to use the command line versions of ctFIRE and CurveAlign
+	- Edit code to add minDist as a parameter for CurveAlign?
+		- This is I think easy to do and would be nice to have for future
+	- Clean up files
+		- Delete parallel temp directories
+		- procmap.tiff compression
+- End of rotation meeting
+	- I think Kai would be a great mentor
+	- I like his approach to management and his plans for stewardship of the lab
+	- Big wins from the rotation for me
+		- Mouse work
+			- Learning how to scruff, anesthetize, kill, etc
+			- Did not learn much colony management or breeding but I think that's not so bad and I do know how to genotype
+		- 2 photon imaging
+			- Cool different modality that it was great to get hands on experience with and to approach imaging in a slightly different way
+			- Live imaging over days is cool and registration is non-trivial
+	- What can I improve on / work on
+	- What's thesis projects are you considering for the next students
 - Experiments
+  collapsed:: true
 	- [[Jan 14th, 2026]]
 		- Second time series experiment
 		- From the first one we saw that there's a difference in early stages
