@@ -83,3 +83,8 @@ file-path:: file://C:/Users/David/Zotero/storage/46W2WXHE/Munro et al. - 2004 - 
   hl-page:: 5
   hl-color:: blue
   id:: 69817d8c-6b50-4beb-8e09-1300a9b9a06b
+- The Sperm MTOC Cue Is Associated with a Local Inhibition of Contractility
+  ls-type:: annotation
+  hl-page:: 5
+  hl-color:: purple
+  id:: 69817e84-d8ac-4dce-ab45-cfc0b3abf743

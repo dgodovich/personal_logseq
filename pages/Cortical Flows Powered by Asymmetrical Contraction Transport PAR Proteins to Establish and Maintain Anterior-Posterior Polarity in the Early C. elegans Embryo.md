@@ -41,5 +41,17 @@ links:: [Local library](zotero://select/library/items/PYVP4QBY), [Web library](h
 		- shared flow for all of the granules and the PAR protein complex
 	- They find that general cytoskeletal associated proteins move to the anterior
 		- E-cad, \beta-catenin
--
+- Is it the myosin network that's contracting to generate the flow?
+	- Assumptions from this hypothesis are
+		- Cortical flow speeds should increase monotonically from center towards edge
+		- Net convergence of neighboring foci during flow but not before
+			- Before flow foci can freely move towards or away from each other, net balanced
+			- During there's a big shift to moving closer together
+		- If actomyosin contractility is doing all of the moving, then PAR-6 and yolk granules and myosin should all respond the same way to perturbation
+	- These are all true
+- ((69817e84-d8ac-4dce-ab45-cfc0b3abf743))
+	- It is the MTOC itself driving the reorganization bc embryos that don't have a functional sperm centrosome don't do the asymmetry formation
+- They also look at later cell divisions that are known to have PAR asymmetry in division
+	- Find similar things of all of these proteins moving together
+	- Cortical flows are driving the asymmetric localization during the prior cell division
 -
