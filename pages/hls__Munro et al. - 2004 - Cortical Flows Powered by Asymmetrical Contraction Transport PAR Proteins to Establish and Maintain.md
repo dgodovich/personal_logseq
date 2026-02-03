@@ -88,3 +88,23 @@ file-path:: file://C:/Users/David/Zotero/storage/46W2WXHE/Munro et al. - 2004 - 
   hl-page:: 5
   hl-color:: purple
   id:: 69817e84-d8ac-4dce-ab45-cfc0b3abf743
+- ther early embryonic cells exhibit apicobasal PAR asymmetry, and in these cells there is no obvious relationship between centrosomes/microtubules and the apicobasal ax
+  ls-type:: annotation
+  hl-page:: 10
+  hl-color:: yellow
+  id:: 698239c4-b443-4fc6-aa0b-de7d57ea3379
+- ies that these proteins are not simply passive cargo transported by an independent flo
+  ls-type:: annotation
+  hl-page:: 10
+  hl-color:: blue
+  id:: 698239ce-5d57-4c9f-997c-e0c3cba68a58
+- rnative possibility is that the anterior PAR complex could modulate cortical elements that passively resist focus moveme
+  ls-type:: annotation
+  hl-page:: 10
+  hl-color:: yellow
+  id:: 698239df-b46e-4411-9401-d2494651ae3c
+- ead, our observations suggest that the loss of anterior PAR asymmetry in par-2(RNAi) embryos is caused by an aberrant flow of NMY2::GFP and PAR-6::GFP toward the posterior pole that results from the ectopic return of NMY-2 to the posterior cortex after pseudocleav
+  ls-type:: annotation
+  hl-page:: 10
+  hl-color:: yellow
+  id:: 69823a16-41f0-472b-953e-e19df7ce6aba
