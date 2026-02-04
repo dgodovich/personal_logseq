@@ -29,6 +29,7 @@
 -
 - Apartment upgrades
 	- Shoe rack
+	- Runner for entrance
 	- Done
 		- ~~Door mat~~
 		- ~~Kitchen Island~~

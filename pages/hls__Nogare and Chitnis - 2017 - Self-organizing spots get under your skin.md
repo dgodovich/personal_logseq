@@ -71,3 +71,23 @@ file-path:: file://C:/Users/David/Zotero/storage/HWCYAPRB/Nogare and Chitnis - 2
   hl-page:: 8
   hl-color:: yellow
   id:: 6983b0e2-5126-4fb1-8da5-42f56c4af2fe
+- a cell becomes the center of a local contractile force, compression of the surrounding matrix increases the local density and alignment of adhesive sites, which can bias migration of surrounding cells toward the center of the contractile force
+  ls-type:: annotation
+  hl-page:: 8
+  hl-color:: yellow
+  id:: 6983b323-3897-470c-b30f-161bcebf8400
+- Ultimately, at some distance from the growing cell condensate, stiffness of the matrix equilibrates with the contractile force
+  ls-type:: annotation
+  hl-page:: 8
+  hl-color:: yellow
+  id:: 6983b332-5c7e-4137-9c04-61b839fd4397
+- heir observations suggest that mesenchymal cells in the dermis have a propensity to aggregate, and as they do, they draw in more cell
+  ls-type:: annotation
+  hl-page:: 9
+  hl-color:: yellow
+  id:: 6983b3a0-f879-4023-be54-91416dcaadf3
+- markably, this compression releases β-catenin, which translocates to the nucleus to promote Wnt activity in the epidermal cells.
+  ls-type:: annotation
+  hl-page:: 9
+  hl-color:: green
+  id:: 6983b3bb-6484-4e28-ba61-366a585f16e2

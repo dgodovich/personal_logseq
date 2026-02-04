@@ -8,6 +8,7 @@
 		- Reviews
 			- [[Periodic pattern formation during embryonic development]]
 			- [[Self-organizing spots get under your skin]]
+				- Did a once over but my eyes kinda glazed over
 		- [[Dermal Condensate Niche Fate Specification Occurs Prior to Formation and Is Placode Progenitor Dependent]]
 		- [[Hierarchical patterning modes orchestrate hair follicle morphogenesis]]
 		- [[β-Catenin Controls Hair Follicle Morphogenesis and Stem Cell Differentiation in the Skin]]

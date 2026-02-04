@@ -1,0 +1,2 @@
+file:: [Struhl et al. - 1989 - The gradient morphogen bicoid is a concentration-dependent transcriptional activator.pdf](file://C:/Users/David/Zotero/storage/RW8K9VDH/Struhl et al. - 1989 - The gradient morphogen bicoid is a concentration-dependent transcriptional activator.pdf)
+file-path:: file://C:/Users/David/Zotero/storage/RW8K9VDH/Struhl et al. - 1989 - The gradient morphogen bicoid is a concentration-dependent transcriptional activator.pdf
