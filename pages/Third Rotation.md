@@ -1,17 +1,6 @@
 - [[Danelle Devenport]]
+- [[Third Rotation/Deepika Project]]
+- [[Third Rotation/Brooke Project]]
 - Working with Deepika and Brooke
 - Reading
-	- Deepika
-		- [[Lef1 expression in fibroblasts maintains developmental potential in adult skin to regenerate wounds]]
-		- [[Single‐cell transcriptomic analysis of small and large wounds reveals the distinct spatial organization of regenerative fibroblasts]]
-	- Brooke
-		- Reviews
-			- [[Periodic pattern formation during embryonic development]]
-			- [[Self-organizing spots get under your skin]]
-				- Did a once over but my eyes kinda glazed over
-		- [[Dermal Condensate Niche Fate Specification Occurs Prior to Formation and Is Placode Progenitor Dependent]]
-		- [[Hierarchical patterning modes orchestrate hair follicle morphogenesis]]
-		- [[β-Catenin Controls Hair Follicle Morphogenesis and Stem Cell Differentiation in the Skin]]
-		- [[WNT and DKK Determine Hair Follicle Spacing Through a Reaction-Diffusion Mechanism]]
-		- [[Fgf20 governs formation of primary and secondary dermal condensations in developing hair follicles]]
-	- General
+	-
