@@ -1,0 +1,11 @@
+- [[Danelle Devenport]]
+- Working with Deepika and Brooke
+- Reading
+	- Deepika
+		- [[Lef1 expression in fibroblasts maintains developmental potential in adult skin to regenerate wounds]]
+		- [[Single‐cell transcriptomic analysis of small and large wounds reveals the distinct spatial organization of regenerative fibroblasts]]
+	- Brooke
+		- Reviews
+			- [[Periodic pattern formation during embryonic development]]
+			-
+	- General
