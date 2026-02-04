@@ -20,3 +20,4 @@ links:: [Local library](zotero://select/library/items/V5K8EG5I), [Web library](h
 - Attachments
 	- [Full Text](https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/exd.14244) {{zotero-imported-file 968CENWM, "Phan et al. - 2021 - Single‐cell transcriptomic analysis of small and large wounds reveals the distinct spatial organizat.pdf"}}
 	- [Catalog Page](https://pmc.ncbi.nlm.nih.gov/articles/PMC7839523/)
+-

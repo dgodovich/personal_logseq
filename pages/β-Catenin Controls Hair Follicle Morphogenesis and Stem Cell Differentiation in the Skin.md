@@ -1,0 +1,22 @@
+date:: [[May 18th, 2001]]
+issn:: 0092-8674
+issue:: 4
+doi:: 10.1016/S0092-8674(01)00336-1
+title:: β-Catenin Controls Hair Follicle Morphogenesis and Stem Cell Differentiation in the Skin
+pages:: 533-545
+volume:: 105
+item-type:: [[journalArticle]]
+access-date:: 2026-02-02T20:32:32Z
+original-title:: β-Catenin Controls Hair Follicle Morphogenesis and Stem Cell Differentiation in the Skin
+url:: https://www.sciencedirect.com/science/article/pii/S0092867401003361
+publication-title:: Cell
+journal-abbreviation:: Cell
+authors:: [[Joerg Huelsken]], [[Regina Vogel]], [[Bettina Erdmann]], [[George Cotsarelis]], [[Walter Birchmeier]]
+library-catalog:: ScienceDirect
+links:: [Local library](zotero://select/library/items/EW3KSS54), [Web library](https://www.zotero.org/users/6106196/items/EW3KSS54)
+
+- [[Abstract]]
+	- β-Catenin is an essential molecule in Wnt/wingless signaling, which controls decisive steps in embryogenesis. To study the role of β-catenin in skin development, we introduced a conditional mutation of the gene in the epidermis and hair follicles using Cre/loxP technology. When β-catenin is mutated during embryogenesis, formation of placodes that generate hair follicles is blocked. We show that β-catenin is required genetically downstream of tabby/downless and upstream of bmp and shh in placode formation. If β-catenin is deleted after hair follicles have formed, hair is completely lost after the first hair cycle. Further analysis demonstrates that β-catenin is essential for fate decisions of skin stem cells: in the absence of β-catenin, stem cells fail to differentiate into follicular keratinocytes, but instead adopt an epidermal fate.
+- Attachments
+	- [ScienceDirect Full Text PDF](https://pdf.sciencedirectassets.com/272196/1-s2.0-S0092867400X01390/1-s2.0-S0092867401003361/main.pdf?X-Amz-Security-Token=IQoJb3JpZ2luX2VjECQaCXVzLWVhc3QtMSJHMEUCICF4QKSeyO%2Fz2EQN1YM4zJBPZ4nyb0ar4tlrUXsuLCXHAiEAxJzECrg%2FLjIVu0CEAW%2Bw3cLED2pcnti3XN3nRbqZYfkqugUI7f%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARAFGgwwNTkwMDM1NDY4NjUiDPjrhNNm1tb2KGaWhiqOBcqWWhnJnfikK4rLhRySjCeCQc%2FtF7yJzcsuJaz9VHl%2B4pPUwyHNkDqN%2B2xirQxpEVapJEPJUGAOnbbGEgPQS5i9sOZhbkLFUSQQZyZwNmSOl1%2BFPBME9v8DL7qzFP8%2Fs53A9PDxsByTTRgJJLPNYEdppzRZ%2F3TcN6T5Pu9RmvYFWZxweFyEI0pVHtRzaId3WtJ%2B18saRJcQPX4ISo9Lr1UJyjjHtRDStx2f2DHYTsnhZUwbI86p8jhg5J%2BP94xrJEq6qNX%2B%2FtLNGhzYayIpDtQRrQ%2BhRiMg78F6BiDl%2BYLeJlpJbAwZwurNUft%2F45CuOSWfyw0Fp4ujiZitmLvUC6HqQ%2F9F%2BzS7CRF9gvX41nelBjbvkLpQa34wA1gZKwWDn0NGSCoO3DUVnpploISWSCr3Ou3Fe5btXSeEKOXH%2F7EOd%2BIivs13UwKrMTkD%2BllaDBWrOo958h25YloXKdBAIUIfkOW4nTl%2Bv87xbvl%2B1M%2FCCmAKERJQE1Mrzs2AOi3poY%2BiXSAR5P8FfIc%2BdoGBwGXI1l%2FGtyWlxECIMu3pkMcJeUMEYF9fqxJw17f4HUKf%2FdgMWnYtkFwWt2okX12JcRaBDmRCLUhAWATmI%2FmO3lGCqlBZ4vlzGZtMiC4DO%2F6S4%2B7XKo3qk56gyoRMZBqn9YIyTFmhXTpzELplArECbpMkOxe89X22txq9WCtNc1R7hy6Okgg2I%2FvnrZzJwr5soRkYHWVTiuyrA0pKl1glQCXEM%2Bhhlz4gEvSKLTfssUJtds5czdwZLA4z1O5g4jy6baKt95uvrb1yyAd8bqJMYiONAOOtB1jYSJldGV5PGiSAFbL9gnBK43XjP2rIY74XzT3Igans0vXKQ4I7iQz3NjDR94PMBjqxAZxY7oRnX5PlU5VMM7UaUJAI40pHq972kI0RUMJX0eGH1ZVnpNzdGJrhQZUFUFb3ixWl%2BQICHnBz6HZqgx43FcYDCt01Qq7gVYqOsVOK6rG2kPCyMvutZ%2FUpkN7iYmgqU6nusdpqBwICbUek933uzfXFr2Y6a6JYm2gTOYrX1YqIm3ka1giztzXPwIhOmcyvoEpn42GdH5JsiGmE%2B1nZ9Yt2SNakKqCr5s9vFQDD6O4wdg%3D%3D&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20260202T203238Z&X-Amz-SignedHeaders=host&X-Amz-Expires=300&X-Amz-Credential=ASIAQ3PHCVTYS65WLV6L%2F20260202%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Signature=7697c911ff3ad11966a1b7eee69cbdb37fe2f4d81eae5881929ec7c3c7fe764f&hash=7012abffc9b71f783fa1c92005cc09e20ee7b6b62e4708393d75c9492d09f660&host=68042c943591013ac2b2430a89b270f6af2c76d8dfd086a07176afe7c76c2c61&pii=S0092867401003361&tid=spdf-0e489351-7926-4da7-8b50-0a55d2ba439e&sid=3758d4eb741025434a1af3c6fcc8aec7cf2egxrqa&type=client&tsoh=d3d3LXNjaWVuY2VkaXJlY3QtY29tLmV6cHJveHkucHJpbmNldG9uLmVkdQ%3D%3D&rh=d3d3LXNjaWVuY2VkaXJlY3QtY29tLmV6cHJveHkucHJpbmNldG9uLmVkdQ%3D%3D&ua=13175802580359525951&rr=9c7c75814a1fe63d&cc=us) {{zotero-imported-file WKYJHUYN, "Huelsken et al. - 2001 - β-Catenin Controls Hair Follicle Morphogenesis and Stem Cell Differentiation in the Skin.pdf"}}
+	- [ScienceDirect Snapshot](https://www.sciencedirect.com/science/article/pii/S0092867401003361) {{zotero-imported-file ZAHD5W98, "S0092867401003361.html"}}
