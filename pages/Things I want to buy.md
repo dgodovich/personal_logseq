@@ -1,26 +1,35 @@
-- Second monitor
-- double monitor arm
+-
 - bathrobe
+- Purchased
+	- ~~double monitor arm~~
+	- ~~Second monitor~~
 -
 - Room upgrades
-	- Nightstand
-	- Dresser?
-		- What if I retrofit drawers onto the old desk? I kinda like the idea of having two desks...
-			- Potential for a workbench? Could be cool
-		- Would go where the desk is currently
-	- Make standing desk actually work as a standing desk
-		- Not sure exactly what I need for this
-		- It does kinda work right now but it's ugly
-		- Platform for subwoofer? that seems like a stupid idea
-		- Elevate computer to about desk height would be nice
-		- Move power plugs to the surge protector on the desk
-	- Some form of drawers next to desk
-		- Ikea alex?
 	- Additional shelving
 		- Can't use the space above my desk if I'm using it as a standing desk because of collisions
 		- Not sure where else that would go then :/
 		- Closet side? that works but would have to be shallower
+	- Done
+	  collapsed:: true
+		- ~~Nightstand~~
+		- ~~Dresser?~~
+		  collapsed:: true
+			- What if I retrofit drawers onto the old desk? I kinda like the idea of having two desks...
+				- Potential for a workbench? Could be cool
+			- Would go where the desk is currently
+		- ~~Make standing desk actually work as a standing desk~~
+		  collapsed:: true
+			- Not sure exactly what I need for this
+			- It does kinda work right now but it's ugly
+			- Platform for subwoofer? that seems like a stupid idea
+			- Elevate computer to about desk height would be nice
+			- Move power plugs to the surge protector on the desk
+		- ~~Some form of drawers next to desk~~
+			- ~~Ikea alex~~
 -
 - Apartment upgrades
 	- Shoe rack
-	- Door mat
+	- Done
+		- ~~Door mat~~
+		- ~~Kitchen Island~~
+		- ~~Table~~
