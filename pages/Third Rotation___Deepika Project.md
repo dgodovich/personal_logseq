@@ -1,6 +1,10 @@
 - Reading
 	- [[Lef1 expression in fibroblasts maintains developmental potential in adult skin to regenerate wounds]]
 	- [[Single‐cell transcriptomic analysis of small and large wounds reveals the distinct spatial organization of regenerative fibroblasts]]
+	- [[Distinct Regulatory Programs Control the Latent Regenerative Potential of Dermal Fibroblasts during Wound Healing]]
+	- [[Epithelial-Mesenchymal Micro-niches Govern Stem Cell Lineage Choices]]
+	- [[Assaying proliferation and differentiation capacity of stem cells using disaggregated adult mouse epidermis]]
+		- protocol for Phan paper (Lef1)
 - Current main task
 	- Read protocols of these single cell papers and other papers from Elaine Fuchs' lab and find some common threads to try this soon (next week?)
 		- Starting with adult skins that don't mean much / not useful

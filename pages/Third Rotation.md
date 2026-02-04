@@ -3,4 +3,7 @@
 - [[Third Rotation/Brooke Project]]
 - Working with Deepika and Brooke
 - Reading
-	-
+	- readings that are especially relevant to both projects or general will go here, otherwise in the specific page
+	- [[The pioneer factor SOX9 competes for epigenetic factors to switch stem cell fates]]
+		- seems relevant, Sox9 is important and the early factor, and also they do single cell suspension
+- Adult skin
