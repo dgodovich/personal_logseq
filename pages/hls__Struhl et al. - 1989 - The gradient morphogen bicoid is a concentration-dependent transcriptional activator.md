@@ -51,3 +51,28 @@ file-path:: file://C:/Users/David/Zotero/storage/RW8K9VDH/Struhl et al. - 1989 -
   hl-page:: 3
   hl-color:: green
   id:: 69841fb8-af40-42fe-af17-89f7dc4bfee6
+- hat the posterior boundary of expression moves progressively posteriorly as the either the number of copies of a fragment or the size of the fragment increas
+  ls-type:: annotation
+  hl-page:: 3
+  hl-color:: yellow
+  id:: 69842424-6960-4692-a727-52a24d8adec9
+- istinct possibility since hb protein, unlike lacZ protein, is generally trapped in nuclei)
+  ls-type:: annotation
+  hl-page:: 3
+  hl-color:: yellow
+  id:: 69842459-4d38-455e-9fa2-730443bf41e9
+- tent of the response, especially the posterior boundary of expression, clearly depends on additional regulatory element
+  ls-type:: annotation
+  hl-page:: 3
+  hl-color:: green
+  id:: 6984246a-ef6b-425f-80ff-c69ad462858a
+- se results indicate that the activity of the747 bp regulatory domain depends on the collective behavior of a series of partially redundant elemen
+  ls-type:: annotation
+  hl-page:: 5
+  hl-color:: yellow
+  id:: 698424b1-daf4-4518-959b-527faddba647
+- Further, they suggest that the 123 bp core region, which is both necessary and sufficient for activation, may itself depend on at least two component elements, one of which can substitute for the other when present in multiple copie
+  ls-type:: annotation
+  hl-page:: 5
+  hl-color:: blue
+  id:: 698424ba-7490-45cf-b944-0283f309db1b
