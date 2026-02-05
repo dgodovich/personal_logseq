@@ -1,6 +1,7 @@
 - [[Danelle Devenport]]
 - [[Third Rotation/Deepika Project]]
 - [[Third Rotation/Brooke Project]]
+- [[Third Rotation/Lab Meetings]]
 - Working with Deepika and Brooke
 - Reading
 	- readings that are especially relevant to both projects or general will go here, otherwise in the specific page
