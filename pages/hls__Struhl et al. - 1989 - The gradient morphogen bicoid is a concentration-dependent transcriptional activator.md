@@ -31,3 +31,23 @@ file-path:: file://C:/Users/David/Zotero/storage/RW8K9VDH/Struhl et al. - 1989 -
   hl-page:: 1
   hl-color:: yellow
   id:: 69841e8c-faa0-4403-a003-ea8eadebe331
+- Zygotic activation of the proximal promoter is one of the first transcriptional events detected in early embryos and is completely dependent on bcd functio
+  ls-type:: annotation
+  hl-page:: 2
+  hl-color:: yellow
+  id:: 69841f53-3337-4ed4-bee3-94b3027d506e
+- ment of the hb upstream region (HB747) contains regulatory elements capable of activating anterior expression of the HSZ reporter gene
+  ls-type:: annotation
+  hl-page:: 2
+  hl-color:: yellow
+  id:: 69841f91-67d0-4983-af07-7335d8d1988a
+- oximal (HB263) fragments revealed that only the proximal 263 bp fragment could activate anterior lacZ expressio
+  ls-type:: annotation
+  hl-page:: 2
+  hl-color:: yellow
+  id:: 69841f9c-9c66-4312-bc24-f6880b8bb4e0
+- n a 123 bp core region that is normally situated around 200 bp upstream of the proximal start site of hb transcriptio
+  ls-type:: annotation
+  hl-page:: 3
+  hl-color:: green
+  id:: 69841fb8-af40-42fe-af17-89f7dc4bfee6
