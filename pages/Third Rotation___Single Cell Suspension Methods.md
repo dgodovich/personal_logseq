@@ -1,8 +1,15 @@
 - Adult skin
+	- Seems like there's different protocols for collecting dermis or epidermis
+		- Need to look a bit closer at each paper to see what they're actually looking for in the single cell
 	- [[The pioneer factor SOX9 competes for epigenetic factors to switch stem cell fates]]
 		- the whole back skins were first dissected from the mouse. After **scraping off the fat tissues from the dermal side**, the tissues were incubated in **0.25% trypsin/ethylenediaminetetraacetic acid (EDTA) (Gibco) for 45–60 min at 37 °C**. After quenching the trypsin with cold FACS buffer (5% foetal bovine serum, 10 mM EDTA and 1 mM HEPES in PBS), the epidermal layer and HFs were scraped off the epidermal side of the skin. The tissues were mechanically separated and filtered through a 70 μm cell strainer (BD) into a single-cell suspension
 		- Doesn't say if they do dermal side up or down
 	- [[Assaying proliferation and differentiation capacity of stem cells using disaggregated adult mouse epidermis]]
 		- This one is quite detailed plus pics
-		-
+	- [[Hedgehog stimulates hair follicle neogenesis by creating inductive dermis during murine skin wound healing]]
+		- Skin wounds were collected ... and **incubated in 20 mM EDTA solution at 37 °C for 30 min** to separate dermis from epidermis. The separated dermis was incubated in **DMEM containing 10% FBS and 0.35% type I collagenase at 37 °C for 1 h**
+		- dermis
 - Embryonic skin
+	- Will be getting protocol from Mallarino lab
+	- [[Dermal Condensate Niche Fate Specification Occurs Prior to Formation and Is Placode Progenitor Dependent]]
+		-
