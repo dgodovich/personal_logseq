@@ -1,0 +1,8 @@
+- Adult skin
+	- [[The pioneer factor SOX9 competes for epigenetic factors to switch stem cell fates]]
+		- the whole back skins were first dissected from the mouse. After **scraping off the fat tissues from the dermal side**, the tissues were incubated in **0.25% trypsin/ethylenediaminetetraacetic acid (EDTA) (Gibco) for 45–60 min at 37 °C**. After quenching the trypsin with cold FACS buffer (5% foetal bovine serum, 10 mM EDTA and 1 mM HEPES in PBS), the epidermal layer and HFs were scraped off the epidermal side of the skin. The tissues were mechanically separated and filtered through a 70 μm cell strainer (BD) into a single-cell suspension
+		- Doesn't say if they do dermal side up or down
+	- [[Assaying proliferation and differentiation capacity of stem cells using disaggregated adult mouse epidermis]]
+		- This one is quite detailed plus pics
+		-
+- Embryonic skin
