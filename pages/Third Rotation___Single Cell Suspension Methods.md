@@ -34,17 +34,26 @@
 				- I guess they scrape with a scalpel but that's not very intense
 			- I think this might be an aggregate protocol, not a single cell suspension. They don't have a clear protocol for the single cell
 	- Protocol
+		- Dissect trunk skin
 		- Dispase to separate dermis and epidermis
-			- 1mg/mL; 30 minutes; 37C
-			- 5mg/mL?
+			- 5mg/mL; 30 minutes; 37C in HBSS
+			- Notes / alternatives
+				- Concentrations range from 1 - 5 mg/mL
+				- Time is 30-120 minutes
+				- 0.25% trypsin/EDTA can also be used; 1h; 37C
 		- Epidermis
 			- 0.25% Trypsin w/o EDTA; 1h; 37C
-			- mince and pipette for mechanical dissociation
-			- cell strainer
+			- mince in beginning, pipette at end for mechanical dissociation
+			- 50 um cell strainer
+			- Notes / alternatives
+				-
 		- Dermis
 			- 0.35% collagenase; 1h; 37C
-			- mince and pipette for mechanical dissociation
-			- cell strainer
+				- 3.5 mg/mL equivalent
+			- mince in beginning, pipette at end for mechanical dissociation
+			- 50 um cell strainer
+			- Notes / alternatives
+				- Concentrations used are .2 - .35% collagenase
 - Embryonic skin
 	- Will be getting protocol from Mallarino lab
 	- [[Dermal Condensate Niche Fate Specification Occurs Prior to Formation and Is Placode Progenitor Dependent]]
