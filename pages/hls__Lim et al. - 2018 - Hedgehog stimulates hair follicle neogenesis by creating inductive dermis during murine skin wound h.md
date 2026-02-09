@@ -1,0 +1,2 @@
+file:: [Lim et al. - 2018 - Hedgehog stimulates hair follicle neogenesis by creating inductive dermis during murine skin wound h.pdf](file://C:/Users/David/Zotero/storage/AVHHJR3Q/Lim et al. - 2018 - Hedgehog stimulates hair follicle neogenesis by creating inductive dermis during murine skin wound h.pdf)
+file-path:: file://C:/Users/David/Zotero/storage/AVHHJR3Q/Lim et al. - 2018 - Hedgehog stimulates hair follicle neogenesis by creating inductive dermis during murine skin wound h.pdf

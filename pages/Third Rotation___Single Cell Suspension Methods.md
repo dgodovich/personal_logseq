@@ -4,25 +4,48 @@
 		- Not entirely sure which compartment Deepika would be interested in looking at tbh
 			- both
 			- Sample list could be epidermis; dermis (mT - no Cre); dermis (mG - Cre transduction)
-	- [[The pioneer factor SOX9 competes for epigenetic factors to switch stem cell fates]]
-		- the whole back skins were first dissected from the mouse. After **scraping off the fat tissues from the dermal side**, the tissues were incubated in **0.25% trypsin/ethylenediaminetetraacetic acid (EDTA) (Gibco) for 45–60 min at 37 °C**. After quenching the trypsin with cold FACS buffer (5% foetal bovine serum, 10 mM EDTA and 1 mM HEPES in PBS), the epidermal layer and HFs were scraped off the epidermal side of the skin. The tissues were mechanically separated and filtered through a 70 μm cell strainer (BD) into a single-cell suspension
-		- Doesn't say if they do dermal side up or down
-		- epidermis
-	- [[Assaying proliferation and differentiation capacity of stem cells using disaggregated adult mouse epidermis]]
-		- This one is quite detailed plus pics
+	- Paper methods
+		- [[The pioneer factor SOX9 competes for epigenetic factors to switch stem cell fates]] Fuchs
+			- the whole back skins were first dissected from the mouse. After **scraping off the fat tissues from the dermal side**, the tissues were incubated in **0.25% trypsin/ethylenediaminetetraacetic acid (EDTA) (Gibco) for 45–60 min at 37 °C**. After quenching the trypsin with cold FACS buffer (5% foetal bovine serum, 10 mM EDTA and 1 mM HEPES in PBS), the epidermal layer and HFs were scraped off the epidermal side of the skin. The tissues were mechanically separated and filtered through a 70 μm cell strainer (BD) into a single-cell suspension
+			- Doesn't say if they do dermal side up or down
+			- epidermis
+		- [[Assaying proliferation and differentiation capacity of stem cells using disaggregated adult mouse epidermis]] Phan method
+			- This one is quite detailed plus pics
+			- Epidermis
+				- Remove fat and muscle from dermis side
+				- Float the tissue epidermal side up in 10 ml 0.25% trypsin w/o EDTA in a petri dish either overnight at 4 °C or for 2 h at 37 °C
+				- Transfer the floating tissue to the inside of the lid of the petri dish epidermal side up
+				- Scrape the epidermis off the dermis, discard dermis
+				- mince and pipette to dissociate, 50um cell strainer
+			- Embryonic dermis
+				- They say that adult dermis is way worse at disaggregation
+					- But this protocol was used for an adult skin paper so probably fine
+				- Dispase-trypin solution (0.25% trypsin w/o EDTA + dispase 1:1 ratio) for 1h at 37C
+				- Mince dermis in 0.25% collagenase/FAD+Ca, incubate for 1h at 37C
+				- Pipette to dissociate
+			- Yields
+				- ((698a1bae-c6c3-47a6-98f0-65dc4a595591))
+		- [[Hedgehog stimulates hair follicle neogenesis by creating inductive dermis during murine skin wound healing]] Lim
+			- Skin wounds were collected ... and **incubated in 20 mM EDTA solution at 37 °C for 30 min** to separate dermis from epidermis. The separated dermis was incubated in **DMEM containing 10% FBS and 0.35% type I collagenase at 37 °C for 1 h**
+			- dermis
+		- [[Distinct Regulatory Programs Control the Latent Regenerative Potential of Dermal Fibroblasts during Wound Healing]] Abbasi
+			- ((698a2145-6810-48bf-8a3c-61f5e0959dca))
+			- 3-4 minutes is kinda crazy, and no mention of mechanical dissociation either
+				- I guess they scrape with a scalpel but that's not very intense
+			- I think this might be an aggregate protocol, not a single cell suspension. They don't have a clear protocol for the single cell
+	- Protocol
+		- Dispase to separate dermis and epidermis
+			- 1mg/mL; 30 minutes; 37C
 		- Epidermis
-			- Remove fat and muscle from dermis side
-			- Float the tissue epidermal side up in 10 ml 0.25% trypsin w/o EDTA in a petri dish either overnight at 4 °C or for 2 h at 37 °C
-			- Transfer the floating tissue to the inside of the lid of the petri dish epidermal side up
-			- Scrape the epidermis off the dermis, discard dermis
-		- Embryonic dermis
-			- They say that adult dermis is way worse at disaggregation
-		- Yields
-			- ((698a1bae-c6c3-47a6-98f0-65dc4a595591))
-	- [[Hedgehog stimulates hair follicle neogenesis by creating inductive dermis during murine skin wound healing]]
-		- Skin wounds were collected ... and **incubated in 20 mM EDTA solution at 37 °C for 30 min** to separate dermis from epidermis. The separated dermis was incubated in **DMEM containing 10% FBS and 0.35% type I collagenase at 37 °C for 1 h**
-		- dermis
+			- 0.25% Trypsin w/o EDTA; 1h; 37C
+			- mince and pipette for mechanical dissociation
+			- cell strainer
+		- Dermis
+			- 0.35% collagenase; 1h; 37C
+			- mince and pipette for mechanical dissociation
+			- cell strainer
 - Embryonic skin
 	- Will be getting protocol from Mallarino lab
 	- [[Dermal Condensate Niche Fate Specification Occurs Prior to Formation and Is Placode Progenitor Dependent]]
 		-
+-
