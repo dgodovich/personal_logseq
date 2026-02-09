@@ -36,6 +36,7 @@
 	- Protocol
 		- Dispase to separate dermis and epidermis
 			- 1mg/mL; 30 minutes; 37C
+			- 5mg/mL?
 		- Epidermis
 			- 0.25% Trypsin w/o EDTA; 1h; 37C
 			- mince and pipette for mechanical dissociation
