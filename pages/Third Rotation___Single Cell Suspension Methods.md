@@ -2,11 +2,23 @@
 	- Seems like there's different protocols for collecting dermis or epidermis
 		- Need to look a bit closer at each paper to see what they're actually looking for in the single cell
 		- Not entirely sure which compartment Deepika would be interested in looking at tbh
+			- both
+			- Sample list could be epidermis; dermis (mT - no Cre); dermis (mG - Cre transduction)
 	- [[The pioneer factor SOX9 competes for epigenetic factors to switch stem cell fates]]
 		- the whole back skins were first dissected from the mouse. After **scraping off the fat tissues from the dermal side**, the tissues were incubated in **0.25% trypsin/ethylenediaminetetraacetic acid (EDTA) (Gibco) for 45–60 min at 37 °C**. After quenching the trypsin with cold FACS buffer (5% foetal bovine serum, 10 mM EDTA and 1 mM HEPES in PBS), the epidermal layer and HFs were scraped off the epidermal side of the skin. The tissues were mechanically separated and filtered through a 70 μm cell strainer (BD) into a single-cell suspension
 		- Doesn't say if they do dermal side up or down
+		- epidermis
 	- [[Assaying proliferation and differentiation capacity of stem cells using disaggregated adult mouse epidermis]]
 		- This one is quite detailed plus pics
+		- Epidermis
+			- Remove fat and muscle from dermis side
+			- Float the tissue epidermal side up in 10 ml 0.25% trypsin w/o EDTA in a petri dish either overnight at 4 °C or for 2 h at 37 °C
+			- Transfer the floating tissue to the inside of the lid of the petri dish epidermal side up
+			- Scrape the epidermis off the dermis, discard dermis
+		- Embryonic dermis
+			- They say that adult dermis is way worse at disaggregation
+		- Yields
+			- ((698a1bae-c6c3-47a6-98f0-65dc4a595591))
 	- [[Hedgehog stimulates hair follicle neogenesis by creating inductive dermis during murine skin wound healing]]
 		- Skin wounds were collected ... and **incubated in 20 mM EDTA solution at 37 °C for 30 min** to separate dermis from epidermis. The separated dermis was incubated in **DMEM containing 10% FBS and 0.35% type I collagenase at 37 °C for 1 h**
 		- dermis
