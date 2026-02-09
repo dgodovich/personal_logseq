@@ -1,0 +1,2 @@
+file:: [Mok et al. - 2019 - Dermal Condensate Niche Fate Specification Occurs Prior to Formation and Is Placode Progenitor Depen.pdf](file://C:/Users/David/Zotero/storage/23JGNYX8/Mok et al. - 2019 - Dermal Condensate Niche Fate Specification Occurs Prior to Formation and Is Placode Progenitor Depen.pdf)
+file-path:: file://C:/Users/David/Zotero/storage/23JGNYX8/Mok et al. - 2019 - Dermal Condensate Niche Fate Specification Occurs Prior to Formation and Is Placode Progenitor Depen.pdf

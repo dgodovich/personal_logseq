@@ -36,7 +36,7 @@
 	- Protocol
 		- Dissect trunk skin
 		- Dispase to separate dermis and epidermis
-			- 5mg/mL; 30 minutes; 37C in HBSS
+			- 5mg/mL; 30 minutes; 37C in HBSS -/-
 			- Notes / alternatives
 				- Concentrations range from 1 - 5 mg/mL
 				- Time is 30-120 minutes
@@ -48,12 +48,16 @@
 			- Notes / alternatives
 				-
 		- Dermis
-			- 0.35% collagenase; 1h; 37C
+			- 0.35% collagenase; 1h; 37C in DMEM / F12
 				- 3.5 mg/mL equivalent
 			- mince in beginning, pipette at end for mechanical dissociation
 			- 50 um cell strainer
+			- Spin 400g x 10 min
+			-
 			- Notes / alternatives
 				- Concentrations used are .2 - .35% collagenase
+		- Spin (400g ), wash, count
+		- spin, resuspend in FACS buffer
 - Embryonic skin
 	- Will be getting protocol from Mallarino lab
 	- [[Dermal Condensate Niche Fate Specification Occurs Prior to Formation and Is Placode Progenitor Dependent]]
