@@ -86,4 +86,6 @@
 		-
 - General resources that may be helpful
 	- [Worthington tissue guide](https://www.worthington-biochem.com/tools-resources/tissue-dissociation-guide)
-		- [specific skin one]
+		- [specific skin one](https://www.worthington-biochem.com/tools-resources/tissue-tables/skin)
+	- [10X sample prep guidelines](https://assets.10xgenomics.com/m/7122b03c55bc48ca/original/CG00053_Handbook_CellPreparation_SingleCellProtocols.pdf)
+	-
