@@ -43,6 +43,7 @@
 				- 0.25% trypsin/EDTA can also be used; 1h; 37C
 		- Epidermis
 			- 0.25% Trypsin w/o EDTA; 1h; 37C
+				- we only have trypsin w/ EDTA, hopefully that's fine too
 			- mince in beginning, pipette at end for mechanical dissociation
 			- 50 um cell strainer
 			- Notes / alternatives
