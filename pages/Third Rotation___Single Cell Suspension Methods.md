@@ -36,7 +36,7 @@
 	- Protocol
 		- Dissect trunk skin
 		- Dispase to separate dermis and epidermis
-			- 5mg/mL; 30 minutes; 37C in HBSS -/-
+			- 5mg/mL; 30 minutes; 37C in HBSS / PBS -/-
 			- Notes / alternatives
 				- Concentrations range from 1 - 5 mg/mL
 				- Time is 30-120 minutes
