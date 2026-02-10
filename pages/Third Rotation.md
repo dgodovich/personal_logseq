@@ -8,4 +8,12 @@
 	- [[The pioneer factor SOX9 competes for epigenetic factors to switch stem cell fates]]
 		- seems relevant, Sox9 is important and the early factor, and also they do single cell suspension
 - [[Third Rotation/Single Cell Suspension Methods]]
--
+- Project
+	- Single cell dissociation is I guess the primary thing
+	- Not super sure what I'm doing with Brooke
+		- Skin culturing and IF?
+- Imaging
+	- Talked to Sha about training but she's so busy
+	- Made concessions about which scope to end up on
+		- STED would be great to have consistent results with Brooke, but whichever is available is probably fine
+	-
