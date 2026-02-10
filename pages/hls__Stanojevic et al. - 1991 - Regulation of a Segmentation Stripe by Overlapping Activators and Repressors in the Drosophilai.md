@@ -1,0 +1,2 @@
+file:: [Stanojevic et al. - 1991 - Regulation of a Segmentation Stripe by Overlapping Activators and Repressors in the Drosophilai.pdf](file://C:/Users/David/Zotero/storage/DNYGGKKQ/Stanojevic et al. - 1991 - Regulation of a Segmentation Stripe by Overlapping Activators and Repressors in the Drosophilai.pdf)
+file-path:: file://C:/Users/David/Zotero/storage/DNYGGKKQ/Stanojevic et al. - 1991 - Regulation of a Segmentation Stripe by Overlapping Activators and Repressors in the Drosophilai.pdf
