@@ -3,18 +3,14 @@
 	  collapsed:: true
 		- Need to look a bit closer at each paper to see what they're actually looking for in the single cell
 		- Not entirely sure which compartment Deepika would be interested in looking at tbh
-		  collapsed:: true
 			- both
 			- Sample list could be epidermis; dermis (mT - no Cre); dermis (mG - Cre transduction)
 	- Paper methods
-	  collapsed:: true
 		- [[The pioneer factor SOX9 competes for epigenetic factors to switch stem cell fates]] Fuchs
-		  collapsed:: true
 			- the whole back skins were first dissected from the mouse. After **scraping off the fat tissues from the dermal side**, the tissues were incubated in **0.25% trypsin/ethylenediaminetetraacetic acid (EDTA) (Gibco) for 45–60 min at 37 °C**. After quenching the trypsin with cold FACS buffer (5% foetal bovine serum, 10 mM EDTA and 1 mM HEPES in PBS), the epidermal layer and HFs were scraped off the epidermal side of the skin. The tissues were mechanically separated and filtered through a 70 μm cell strainer (BD) into a single-cell suspension
 			- Doesn't say if they do dermal side up or down
 			- epidermis
 		- [[Assaying proliferation and differentiation capacity of stem cells using disaggregated adult mouse epidermis]] Phan method
-		  collapsed:: true
 			- This one is quite detailed plus pics
 			- Epidermis
 			  collapsed:: true
@@ -35,21 +31,17 @@
 			  collapsed:: true
 				- ((698a1bae-c6c3-47a6-98f0-65dc4a595591))
 		- [[Hedgehog stimulates hair follicle neogenesis by creating inductive dermis during murine skin wound healing]] Lim
-		  collapsed:: true
 			- Skin wounds were collected ... and **incubated in 20 mM EDTA solution at 37 °C for 30 min** to separate dermis from epidermis. The separated dermis was incubated in **DMEM containing 10% FBS and 0.35% type I collagenase at 37 °C for 1 h**
 			- dermis
 		- [[Distinct Regulatory Programs Control the Latent Regenerative Potential of Dermal Fibroblasts during Wound Healing]] Abbasi
-		  collapsed:: true
 			- ((698a2145-6810-48bf-8a3c-61f5e0959dca))
 			- 3-4 minutes is kinda crazy, and no mention of mechanical dissociation either
 			  collapsed:: true
 				- I guess they scrape with a scalpel but that's not very intense
 			- I think this might be an aggregate protocol, not a single cell suspension. They don't have a clear protocol for the single cell
 	- Protocol
-	  collapsed:: true
 		- Dissect trunk skin
 		- Dispase to separate dermis and epidermis
-		  collapsed:: true
 			- 5mg/mL; 30 minutes; 37C in HBSS / PBS -/-
 			- Notes / alternatives
 			  collapsed:: true
