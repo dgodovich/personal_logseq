@@ -44,27 +44,22 @@
 		- Dispase to separate dermis and epidermis
 			- 5mg/mL; 30 minutes; 37C in HBSS / PBS -/-
 			- Notes / alternatives
-			  collapsed:: true
 				- Concentrations range from 1 - 5 mg/mL
 				- Time is 30-120 minutes
 				- 0.25% trypsin/EDTA can also be used; 1h; 37C
 		- Epidermis
-		  collapsed:: true
 			- 0.25% Trypsin w/o EDTA; 1h; 37C
-			  collapsed:: true
 				- we only have trypsin w/ EDTA, hopefully that's fine too
 			- mince in beginning, pipette at end for mechanical dissociation
-			- 50 um cell strainer
+			- 40 um cell strainer
 			- Notes / alternatives
 			  collapsed:: true
 				-
 		- Dermis
-		  collapsed:: true
 			- 0.35% collagenase; 1h; 37C in DMEM / F12
-			  collapsed:: true
 				- 3.5 mg/mL equivalent
 			- mince in beginning, pipette at end for mechanical dissociation
-			- 50 um cell strainer
+			- 40 um cell strainer
 			- Spin 400g x 10 min
 			-
 			- Notes / alternatives
