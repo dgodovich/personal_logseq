@@ -6,6 +6,7 @@
 			- both
 			- Sample list could be epidermis; dermis (mT - no Cre); dermis (mG - Cre transduction)
 	- Paper methods
+	  collapsed:: true
 		- [[The pioneer factor SOX9 competes for epigenetic factors to switch stem cell fates]] Fuchs
 			- the whole back skins were first dissected from the mouse. After **scraping off the fat tissues from the dermal side**, the tissues were incubated in **0.25% trypsin/ethylenediaminetetraacetic acid (EDTA) (Gibco) for 45–60 min at 37 °C**. After quenching the trypsin with cold FACS buffer (5% foetal bovine serum, 10 mM EDTA and 1 mM HEPES in PBS), the epidermal layer and HFs were scraped off the epidermal side of the skin. The tissues were mechanically separated and filtered through a 70 μm cell strainer (BD) into a single-cell suspension
 			- Doesn't say if they do dermal side up or down
@@ -67,6 +68,16 @@
 				- Concentrations used are .2 - .35% collagenase
 		- Spin (400g ), wash, count
 		- spin, resuspend in FACS buffer
+	- Trial 1 [[Feb 11th, 2026]]
+		- |Sample|Blotter Paper|Dispase|Collagenase||
+		  |--|--|--|--|--|
+		  |Right Anterior (RA) | No paper |2.5 mg/mL ; 2 mL ; 1h|2.5 mg/mL ; 2mL; 1h||
+		  |Right Posterior (RP) |No paper|5 mg/mL ; 2 mL ; 1h|2.5 mg/mL ; 2mL; 1h||
+		  |Left Anterior (LA) |Paper|2.5 mg/mL ; 2 mL ; 1h|2.5 mg/mL ; 2mL; 1h||
+		  |Left Posterior (LP) |No paper|5 mg/mL ; 2 mL ; 1h|2.5 mg/mL ; 2mL; 1h||
+		- Dispase to separate dermis from epidermis
+		- Collagenase digestion for dermis
+		- Trypsin/EDTA digestion for epidermis
 - Embryonic skin
 	- Will be getting protocol from Mallarino lab
 	- [[Dermal Condensate Niche Fate Specification Occurs Prior to Formation and Is Placode Progenitor Dependent]]

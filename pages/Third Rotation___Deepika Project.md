@@ -14,6 +14,7 @@
 		- I think this is epidermis and a bit of dermis
 - Meeting Notes
 	- [[Feb 4th, 2026]] Quick chat with Deepika re what does the rotation look like
+	  collapsed:: true
 		- End goal of project is delivering optoEGFR to a wounded mouse skin and using blue light stimulation to try to heal wounds faster
 		- There is a lot of steps before this though
 			- Delivery
@@ -39,3 +40,5 @@
 			- This has not been done in the lab before, so I gotta find protocols for this and optimize / figure out one that works well
 			- Targeting experiment that looks at potential gene expression differences in an unwounded skin with control and vector delivery (Cre)
 				- no flow because we want to look at all cells, but we'll be able to computationally pull out the Cre ones + mT vs mG
+	- [[Flow Training]]
+	-
