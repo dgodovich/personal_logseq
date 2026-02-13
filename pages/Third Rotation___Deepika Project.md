@@ -6,8 +6,17 @@
 	- [[Assaying proliferation and differentiation capacity of stem cells using disaggregated adult mouse epidermis]]
 		- protocol for Phan paper (Lef1)
 - Current main task
-	- Read protocols of these single cell papers and other papers from Elaine Fuchs' lab and find some common threads to try this soon (next week?)
-		- Starting with adult skins that don't mean much / not useful
+	- Revisit Epidermis dissociation protocols
+	- Done
+	  collapsed:: true
+		- Read protocols of these single cell papers and other papers from Elaine Fuchs' lab and find some common threads to try this soon (next week?)
+			- Starting with adult skins that don't mean much / not useful
+- To dos
+	- TODO Get a list / suggestions for cell strainers
+	- TODO Re-read epidermis dissociation protocols because that didn't work very well
+		- Do I need to get a different reagent? Trypsin w/o EDTA?
+		- Better mincing?
+	- TODO Write notes from talking to Deepika here so I have them for easier reference
 - Questions
 	- How are they processing the back skin? Shaving? Nair?
 	- what layers are we trying to go for?
