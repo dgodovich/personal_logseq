@@ -81,9 +81,22 @@
 - Embryonic skin
 	- Will be getting protocol from Mallarino lab
 	- [[Dermal Condensate Niche Fate Specification Occurs Prior to Formation and Is Placode Progenitor Dependent]]
-		-
+-
+- Reagents and Equipment
+	- [Mitenyi MACS Cell Strainers](https://www.miltenyibiotec.com/US-en/products/macs-smartstrainers.html#130-110-915)
+		- these are recommended in the 10X sample prep guide and fit both 15 and 50 mL conicals which is nice
+		- Get both 30 and 70 um sizes for dermis / epidermis
+	- [Collagenase](https://www.sigmaaldrich.com/US/en/product/sigma/c0130)
 - General resources that may be helpful
 	- [Worthington tissue guide](https://www.worthington-biochem.com/tools-resources/tissue-dissociation-guide)
 		- [specific skin one](https://www.worthington-biochem.com/tools-resources/tissue-tables/skin)
 	- [10X sample prep guidelines](https://assets.10xgenomics.com/m/7122b03c55bc48ca/original/CG00053_Handbook_CellPreparation_SingleCellProtocols.pdf)
+	- [MACS Epidermis dissociation guide](https://static.miltenyibiotec.com/asset/150655405641/document_bo8124fnnl24j2fpqgltr7881a?content-disposition=inline)
+		- [Here's the product link](https://www.miltenyibiotec.com/US-en/products/epidermis-dissociation-kit-acf-mouse.html)
+		- This is an established but proprietary protocol for dissociating adult mouse epidermis (6-10 week old female Bl/6)
+		- They almost certainly do a dispase o/n +4 incubation (enzyme G)
+		- And then a 2 enzyme very quick digestion of the epidermis
+			- 100ul Enzyme P, 20 ul Enzyme A, for 20 minutes at 37C in Buffer S
+			- A comes as a powder, P as a liquid
+			- I think A might be collagenase? P is likely trypsin
 	-
