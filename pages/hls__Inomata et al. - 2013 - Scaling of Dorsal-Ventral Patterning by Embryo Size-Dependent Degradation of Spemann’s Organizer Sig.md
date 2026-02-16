@@ -1,0 +1,2 @@
+file:: [Inomata et al. - 2013 - Scaling of Dorsal-Ventral Patterning by Embryo Size-Dependent Degradation of Spemann’s Organizer Sig.pdf](file://C:/Users/David/Zotero/storage/67VYVWBI/Inomata et al. - 2013 - Scaling of Dorsal-Ventral Patterning by Embryo Size-Dependent Degradation of Spemann’s Organizer Sig.pdf)
+file-path:: file://C:/Users/David/Zotero/storage/67VYVWBI/Inomata et al. - 2013 - Scaling of Dorsal-Ventral Patterning by Embryo Size-Dependent Degradation of Spemann’s Organizer Sig.pdf
