@@ -78,6 +78,28 @@
 		- Dispase to separate dermis from epidermis
 		- Collagenase digestion for dermis
 		- Trypsin/EDTA digestion for epidermis
+		- Outcomes
+			- Dispase
+				- Filter paper seems to work quite well, that one was the easiest to remove the dermis
+				- 5 mg/mL is the right concentration
+				- 2h at 37C seems to be good
+					- no loss of cell viability after 2h, but better dissociation
+				- Collect supernatant and spin
+			- Collagenase
+				- Better viability in media, still high even after o/n +4
+			- Epidermis
+				- 👎 no good
+				- Did not properly mince it
+				- Even after o/n +4 digestion in trypsin there were barely any cells dissociated
+		- Other notes
+			- Did not scrape hypodermis off of the dermis because I thought Deepika's dissection was good, but there was definitely fat in the wells
+				- Should scrape next time
+	- Trial 2 [[Feb 17th, 2026]]
+		- I dissect skin
+		- Things to try
+			- Miltenyi epidermis protocol uses o/n +4 dispase, so lets try that
+			- Really mince up the epidermis before starting trypsin digest
+			- Scrape the fat off of the dermis gently before starting anything
 - Embryonic skin
 	- Will be getting protocol from Mallarino lab
 	- [[Dermal Condensate Niche Fate Specification Occurs Prior to Formation and Is Placode Progenitor Dependent]]

@@ -9,12 +9,14 @@
 	- [[WNT and DKK Determine Hair Follicle Spacing Through a Reaction-Diffusion Mechanism]]
 	- [[Fgf20 governs formation of primary and secondary dermal condensations in developing hair follicles]]
 - To do list
-	- DOING more properly investigate ERK inhibitors
+	- DONE more properly investigate ERK inhibitors
 	  :LOGBOOK:
 	  CLOCK: [2026-02-12 Thu 17:58:27]
-	  CLOCK: [2026-02-12 Thu 17:58:32]
+	  CLOCK: [2026-02-12 Thu 17:58:32]--[2026-02-17 Tue 12:04:01] =>  114:05:29
 	  :END:
 		- Talk to Harrison about what they use, or if he can ask someone who knows
+			- He forwarded me to Sabrina and she gave some advice
+		- Will be using PD0325901
 	- [[Feb 13th, 2026]] Dissection and skin culture!
 - Experiments
 	- [[Feb 13th, 2026]] Skin Culture + PI-103 inhibition
