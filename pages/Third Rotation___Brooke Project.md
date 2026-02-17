@@ -8,6 +8,9 @@
 	- [[β-Catenin Controls Hair Follicle Morphogenesis and Stem Cell Differentiation in the Skin]]
 	- [[WNT and DKK Determine Hair Follicle Spacing Through a Reaction-Diffusion Mechanism]]
 	- [[Fgf20 governs formation of primary and secondary dermal condensations in developing hair follicles]]
+- Current main thing
+	- Staining skins
+		- PI-103 cultured
 - To do list
 	- DONE more properly investigate ERK inhibitors
 	  :LOGBOOK:
@@ -17,13 +20,40 @@
 		- Talk to Harrison about what they use, or if he can ask someone who knows
 			- He forwarded me to Sabrina and she gave some advice
 		- Will be using PD0325901
-	- [[Feb 13th, 2026]] Dissection and skin culture!
 - Experiments
 	- [[Feb 13th, 2026]] Skin Culture + PI-103 inhibition
 		- Serial dilutions of PI3K inhibitor
 			- 5, 50, 100, 150 uM
 		- Made stocks @ 10 and 50 mM in lab -20
 		- Will have to come in on Saturday to fix skins after 24h culturing
+		- 8 total skins
+			- | | |
+			  |5 uM PI-103 |.5 uL DMSO control |
+			  |50 uM PI-103 |1 uL DMSO control  |
+			  |100 uM PI-103 |2 uL DMSO control  |
+			  |150 uM PI-103 |3 uL DMSO control  |
+		- Staining for Sox9 and Madcam (inner / outer cell markers)
+- Skin staining protocol
+	- Fixing
+		- 1h 4% PFA incubation at room temp on planar shaker
+			- 1mL aliquots stored in -20
+		- 3x 30 min PBS -/- wash
+			- 1mL each wash
+		- Transfer skins to tubes (labelled), add 500 \mu\L .4mM sodium azide on top to preserve
+			- Sodium azide stored at +4
+		- Store at +4
+	- Permeabilize
+		- 1h TBST at room temp on planar shaker
+			- Tris Buffered Saline + Tween (or Triton? not sure)
+	- Blocking
+		- overnight +4 planar shaker in blocking buffer
+		- BB recipe
+			- NGS
+			- NDS
+			- sodium azide
+			- BSA
+			- fish gelatin
+		-
 - I still don't really know what this project is going to be but I think something about small molecule inhibition of pERK or PI3K or something like that in cultured skins sounds fun
 - Meetings
 -

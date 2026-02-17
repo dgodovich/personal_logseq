@@ -12,7 +12,7 @@
 		- Read protocols of these single cell papers and other papers from Elaine Fuchs' lab and find some common threads to try this soon (next week?)
 			- Starting with adult skins that don't mean much / not useful
 - To dos
-	- TODO Get a list / suggestions for cell strainers
+	- DONE Get a list / suggestions for cell strainers
 	- TODO Re-read epidermis dissociation protocols because that didn't work very well
 		- Do I need to get a different reagent? Trypsin w/o EDTA?
 		- Better mincing?
