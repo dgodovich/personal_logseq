@@ -44,15 +44,19 @@
 		- Store at +4
 	- Permeabilize
 		- 1h TBST at room temp on planar shaker
-			- Tris Buffered Saline + Tween (or Triton? not sure)
+			- Tris Buffered Saline + .2% Triton
 	- Blocking
 		- overnight +4 planar shaker in blocking buffer
 		- BB recipe
-			- NGS
-			- NDS
-			- sodium azide
-			- BSA
-			- fish gelatin
+			- 2% NGS (200 uL)
+			- 2% NDS (200 uL)
+			- 1% BSA (0.1g)
+			- 1% fish gelatin (0.1g)
+			- .01% Sodium azide
+			- TBST (10mL)
+	- Primary Antibody
+		- overnight +4 planar shaker in blocking buffer
+	- Secondary Antibody
 		-
 - I still don't really know what this project is going to be but I think something about small molecule inhibition of pERK or PI3K or something like that in cultured skins sounds fun
 - Meetings
