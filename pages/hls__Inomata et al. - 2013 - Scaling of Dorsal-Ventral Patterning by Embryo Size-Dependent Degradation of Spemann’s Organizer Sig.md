@@ -163,3 +163,23 @@ file-path:: file://C:/Users/David/Zotero/storage/67VYVWBI/Inomata et al. - 2013 
   hl-color:: green
   id:: 6994befd-a4b5-4514-8335-7e08ac6a8760
   hl-stamp:: 1771355905743
+- yzed endogenous Sizzled protein recovered from the extracellular ﬂuid of the gastrula embryo and found that Chordin depletion led to a marked increase in the amount of Sizzled in viv
+  ls-type:: annotation
+  hl-page:: 6
+  hl-color:: yellow
+  id:: 6994c7cf-bda5-4fbd-9488-e6356bc85e08
+- ount of endogenous Sizzled protein gradually increased as gastrulation progresse
+  ls-type:: annotation
+  hl-page:: 6
+  hl-color:: yellow
+  id:: 6994c802-18bd-470e-bc87-8c0736a7e979
+- rating that Chordin becomes more stable at later gastrula stages in parallel with the accumulation of Sizzl
+  ls-type:: annotation
+  hl-page:: 6
+  hl-color:: yellow
+  id:: 6994c817-e048-48dd-9b84-54c59acb1c11
+- ction of Chordin protein stability was rescued by sizzled overexpress
+  ls-type:: annotation
+  hl-page:: 6
+  hl-color:: yellow
+  id:: 6994c84a-3c32-4d59-aa0a-d1b18cd77145
