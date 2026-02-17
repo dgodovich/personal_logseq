@@ -157,3 +157,9 @@ file-path:: file://C:/Users/David/Zotero/storage/67VYVWBI/Inomata et al. - 2013 
   hl-page:: 4
   hl-color:: yellow
   id:: 6994acd3-d09d-4f7e-885d-1ee82654ef15
+- nlike Chordin, Sizzled is stable and can diffuse over a long distan
+  ls-type:: annotation
+  hl-page:: 6
+  hl-color:: green
+  id:: 6994befd-a4b5-4514-8335-7e08ac6a8760
+  hl-stamp:: 1771355905743
