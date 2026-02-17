@@ -100,6 +100,26 @@
 			- Miltenyi epidermis protocol uses o/n +4 dispase, so lets try that
 			- Really mince up the epidermis before starting trypsin digest
 			- Scrape the fat off of the dermis gently before starting anything
+				- This did not seem to work at all, not sure what we're doing differently
+		- Doing in 12 well plates
+		- Dispase
+			- 5mg/mL in PBS -/- ; used same as last time (so ~1 week old solution, seemed to work totally fine)
+			- 2h 37C on gyrating shaker, 7.5% CO2, filter paper
+				- This worked very well!
+			- o/n +4 on planar shaker, filter paper
+			- Most of it was able to be simply peeled off in a big blob, very easy
+			- Scrape rest with forceps + scalpel on lid of 60mm petri dish
+		- Collagenase
+			- 2.5 mg/mL; used same as last time (so ~1 week old solution)
+			- 1h 37C on gyrating shaker, 7.5% CO2
+			- Dermis
+				- Collagenase in F media
+				- Pelleted dispase solution and added that to the collagenase digest as well
+			- Epidermis
+				- Minced with double scalpel on lid of 60mm dish
+					- This worked quite well, chopped into small pieces
+				- Collagenase in HBSS (this isn't ideal for viability, but should still work to digest, and it's expensive so use up the solution)
+				-
 - Embryonic skin
 	- Will be getting protocol from Mallarino lab
 	- [[Dermal Condensate Niche Fate Specification Occurs Prior to Formation and Is Placode Progenitor Dependent]]
