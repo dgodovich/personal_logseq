@@ -1,0 +1,2 @@
+file:: [Barlan et al. - 2017 - Fat2 and Lar Define a Basally Localized Planar Signaling System Controlling Collective Cell Migratio.pdf](file://C:/Users/David/Zotero/storage/A7K39KMD/Barlan et al. - 2017 - Fat2 and Lar Define a Basally Localized Planar Signaling System Controlling Collective Cell Migratio.pdf)
+file-path:: file://C:/Users/David/Zotero/storage/A7K39KMD/Barlan et al. - 2017 - Fat2 and Lar Define a Basally Localized Planar Signaling System Controlling Collective Cell Migratio.pdf

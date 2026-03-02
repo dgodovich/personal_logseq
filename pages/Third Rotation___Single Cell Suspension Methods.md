@@ -123,10 +123,15 @@
 				-
 - Embryonic skin
 	- Will be getting protocol from Mallarino lab
+		- This doesn't look anything like the other ones I'm seeing, but we can try it
+		-
 	- Rendl Lab has a series of papers that do embryonic dissociation
-		- Helpfully, they all have slightly different protocols :eyeroll:
+		- Helpfully, they all have slightly different protocols 🙄
 		- [[Dermal Condensate Niche Fate Specification Occurs Prior to Formation and Is Placode Progenitor Dependent]]
--
+		- [[An Integrated Transcriptome Atlas of Embryonic Hair Follicle Progenitors, Their Niche, and the Developing Skin]]
+		- Dispase + collagenase 1h 37C
+		- Spin, trypsin very quickly
+		- Spin, cell strain, resuspend in FACS buffer
 - Reagents and Equipment
 	- [Mitenyi MACS Cell Strainers](https://www.miltenyibiotec.com/US-en/products/macs-smartstrainers.html#130-110-915)
 		- these are recommended in the 10X sample prep guide and fit both 15 and 50 mL conicals which is nice
