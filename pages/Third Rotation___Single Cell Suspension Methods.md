@@ -123,7 +123,9 @@
 				-
 - Embryonic skin
 	- Will be getting protocol from Mallarino lab
-	- [[Dermal Condensate Niche Fate Specification Occurs Prior to Formation and Is Placode Progenitor Dependent]]
+	- Rendl Lab has a series of papers that do embryonic dissociation
+		- Helpfully, they all have slightly different protocols :eyeroll:
+		- [[Dermal Condensate Niche Fate Specification Occurs Prior to Formation and Is Placode Progenitor Dependent]]
 -
 - Reagents and Equipment
 	- [Mitenyi MACS Cell Strainers](https://www.miltenyibiotec.com/US-en/products/macs-smartstrainers.html#130-110-915)
