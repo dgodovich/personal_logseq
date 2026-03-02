@@ -1,4 +1,5 @@
 - Adult skin
+  collapsed:: true
 	- Seems like there's different protocols for collecting dermis or epidermis
 	  collapsed:: true
 		- Need to look a bit closer at each paper to see what they're actually looking for in the single cell
