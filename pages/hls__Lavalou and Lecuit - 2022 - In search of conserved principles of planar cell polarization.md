@@ -47,3 +47,8 @@ file-path:: file://C:/Users/David/Zotero/storage/P8Z5CFG5/Lavalou and Lecuit - 2
   hl-color:: green
   id:: 69a64a11-4660-46d9-97ff-e10fbb996f3d
   hl-stamp:: 1772505620420
+- anistically, Fat2 is required non-cell autonomously to recruit Lar in trans in the cell behi
+  ls-type:: annotation
+  hl-page:: 5
+  hl-color:: yellow
+  id:: 69a64dab-3b06-4ba9-801c-9c2150d3a1e4
