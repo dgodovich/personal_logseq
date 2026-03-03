@@ -52,3 +52,33 @@ file-path:: file://C:/Users/David/Zotero/storage/P8Z5CFG5/Lavalou and Lecuit - 2
   hl-page:: 5
   hl-color:: yellow
   id:: 69a64dab-3b06-4ba9-801c-9c2150d3a1e4
+- rtain systems, like the developing mouse limb, a Wnt5 gradient was suggested to be essential for the alignment of PCP across the tissue[56] but recent studies indicated that this gradient could also play a more permissive role in this sys
+  ls-type:: annotation
+  hl-page:: 6
+  hl-color:: yellow
+  id:: 69a64ec1-dc55-4210-b75e-226a52ba1dc2
+- uggests that gradients orient PCP through their multiple roles in morphogenesis rather than through their graded expressi
+  ls-type:: annotation
+  hl-page:: 6
+  hl-color:: yellow
+  id:: 69a64eda-a9c3-4b08-b35d-40ae54187eb5
+- re PCP proteins and disrupting the microtubule network strongly perturbs core PCP proteins distributio
+  ls-type:: annotation
+  hl-page:: 6
+  hl-color:: yellow
+  id:: 69a64f01-ccf9-4129-a792-95853ad0fac5
+- cult to identify a unique cue aligning polarity: morphogenetic gradients probably affect both mechanics and microtubules orientation in a tissue, and mechanics and microtubules orientation likely feedback on each oth
+  ls-type:: annotation
+  hl-page:: 7
+  hl-color:: yellow
+  id:: 69a64f24-78c3-4fdd-a5b1-d7c6bc19d9f0
+- deed, Fj and Ds are expressed as tissue-wide opposing transcriptional gradients in many Drosophila tissues
+  ls-type:: annotation
+  hl-page:: 7
+  hl-color:: yellow
+  id:: 69a64f57-fba9-45ba-945e-729919367e07
+- eed, the prickle locus produces two different isoforms: one of them is independent of the Ft/Ds PCP while the other connects the core PCP with the Ft/Ds PCP [90]. Therefore, the presence of regulatory layers upstream of PCP systems complicates their under
+  ls-type:: annotation
+  hl-page:: 9
+  hl-color:: yellow
+  id:: 69a64f9f-918f-4b24-b3fe-352acb307340
