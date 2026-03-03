@@ -128,10 +128,19 @@
 	- Rendl Lab has a series of papers that do embryonic dissociation
 		- Helpfully, they all have slightly different protocols 🙄
 		- [[Dermal Condensate Niche Fate Specification Occurs Prior to Formation and Is Placode Progenitor Dependent]]
+			- This one has o/n +4 dispase + collagenase, and very low collagenase concentration (.03%) and also 30 min 37C the next day
+			- 40um cell strainer, 350g x 10 minutes spin
+			- Resuspend and stain for flow
 		- [[An Integrated Transcriptome Atlas of Embryonic Hair Follicle Progenitors, Their Niche, and the Developing Skin]]
-		- Dispase + collagenase 1h 37C
-		- Spin, trypsin very quickly
-		- Spin, cell strain, resuspend in FACS buffer
+			- Dispase + .2% collagenase 40min 37C  + 20U/uL DNase
+			- 40um cell strainer, 350g x 5 minutes spin
+			- resuspend and stain for flow
+		- [[Wnt/β-catenin signaling in dermal condensates is required for hair follicle formation]]
+			- Dispase + .2% collagenase + 20U/uL DNase 1h 37C
+			- 300g x 10 minutes spin
+			- Resuspend into 0.25% trypsin + EDTA 5 min @ 37C
+			- I guess spin and resuspend into FACS buffer but they don't say, also don't say when / if they use a cell strainer
+			- This is the oldest paper, so maybe use later one
 - Reagents and Equipment
 	- [Mitenyi MACS Cell Strainers](https://www.miltenyibiotec.com/US-en/products/macs-smartstrainers.html#130-110-915)
 		- these are recommended in the 10X sample prep guide and fit both 15 and 50 mL conicals which is nice

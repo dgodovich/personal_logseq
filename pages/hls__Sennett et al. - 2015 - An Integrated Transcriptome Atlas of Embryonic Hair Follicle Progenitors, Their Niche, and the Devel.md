@@ -1,0 +1,2 @@
+file:: [Sennett et al. - 2015 - An Integrated Transcriptome Atlas of Embryonic Hair Follicle Progenitors, Their Niche, and the Devel.pdf](file://C:/Users/David/Zotero/storage/623FGMB9/Sennett et al. - 2015 - An Integrated Transcriptome Atlas of Embryonic Hair Follicle Progenitors, Their Niche, and the Devel.pdf)
+file-path:: file://C:/Users/David/Zotero/storage/623FGMB9/Sennett et al. - 2015 - An Integrated Transcriptome Atlas of Embryonic Hair Follicle Progenitors, Their Niche, and the Devel.pdf

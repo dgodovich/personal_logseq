@@ -1,0 +1,2 @@
+file:: [Tsai et al. - 2014 - Wntβ-catenin signaling in dermal condensates is required for hair follicle formation.pdf](file://C:/Users/David/Zotero/storage/TZSAZD6E/Tsai et al. - 2014 - Wntβ-catenin signaling in dermal condensates is required for hair follicle formation.pdf)
+file-path:: file://C:/Users/David/Zotero/storage/TZSAZD6E/Tsai et al. - 2014 - Wntβ-catenin signaling in dermal condensates is required for hair follicle formation.pdf
