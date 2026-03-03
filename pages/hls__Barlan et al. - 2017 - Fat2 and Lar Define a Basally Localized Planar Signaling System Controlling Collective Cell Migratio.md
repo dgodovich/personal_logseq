@@ -81,3 +81,18 @@ file-path:: file://C:/Users/David/Zotero/storage/A7K39KMD/Barlan et al. - 2017 -
   hl-page:: 8
   hl-color:: yellow
   id:: 69a660e3-2436-4e14-b4c9-606046df2354
+- at2 and Lar induce leading edge protrusions, and the protrusions help to release the trailing edge of the cell ahe
+  ls-type:: annotation
+  hl-page:: 8
+  hl-color:: yellow
+  id:: 69a66129-9a21-4e10-a9db-3185d72b6ca2
+- ding edge protrusions likely do contribute to trailing edge retraction in the cell ahead, but that Lar also plays a signaling role in this process that is independent of its role in protrusion formation
+  ls-type:: annotation
+  hl-page:: 8
+  hl-color:: yellow
+  id:: 69a66142-a60e-4e4d-a741-eaaaf4c14b60
+- follicle cells expressing CLASP-RNAi do not show defects in trailing edge retraction
+  ls-type:: annotation
+  hl-page:: 9
+  hl-color:: yellow
+  id:: 69a66178-2e4e-4073-af81-91d2eed15545
