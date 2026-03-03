@@ -31,3 +31,19 @@ file-path:: file://C:/Users/David/Zotero/storage/P8Z5CFG5/Lavalou and Lecuit - 2
   hl-page:: 3
   hl-color:: red
   id:: 69a6499f-816b-49c2-9019-1462076401cb
+- ce suggests that Fmi exists in two functional forms, depending on its binding to Fz or Vang, explaining how a homophilic binding protein can form asymmetric bridg
+  ls-type:: annotation
+  hl-page:: 3
+  hl-color:: yellow
+  id:: 69a649bb-8edf-414f-96f3-e0ed46758927
+- r example, vang mutant clones (i.e. groups of cells that express only Fz) recruit Vang and repel Fz from their wild-type neighboring cells while Fz inside the clone accumulates at the interface with wild-type cell
+  ls-type:: annotation
+  hl-page:: 4
+  hl-color:: yellow
+  id:: 69a649d4-d1f2-49e6-b2ad-d8dbfb7c71a9
+- membrane core PCP proteins first form stable asymmetric complexes independently of the cytoplasmic proteins, which in a second step promote the formation of puncta resistant to endocytosis in cis (stabilization) or promote endocytosis in trans(destabilization), strengthening the initial asymme
+  ls-type:: annotation
+  hl-page:: 4
+  hl-color:: green
+  id:: 69a64a11-4660-46d9-97ff-e10fbb996f3d
+  hl-stamp:: 1772505620420
