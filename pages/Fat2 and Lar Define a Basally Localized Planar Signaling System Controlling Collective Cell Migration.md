@@ -21,4 +21,6 @@ links:: [Local library](zotero://select/library/items/Y5DXEE9M), [Web library](h
 - Lar is at the leading edge, Fat2 is trailing
 - Fat2 deficient epithelia do not migrate, but Lar do
 	- just worse
+- Fat2 is non-cell-autonomous
+	- acts through Lar at the leading edge
 -
