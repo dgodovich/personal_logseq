@@ -122,9 +122,17 @@
 				- Collagenase in HBSS (this isn't ideal for viability, but should still work to digest, and it's expensive so use up the solution)
 				-
 - Embryonic skin
-	- Will be getting protocol from Mallarino lab
+	- Mallarino lab Protocol
 		- This doesn't look anything like the other ones I'm seeing, but we can try it
-		-
+		- Trypin based
+		- Dissect 2/3rds to hind limb from midline on each side & forelimb to hindlimb in 250uL cold 1xPBS (3-4 embryos)
+		- + 500 uL trypsin, cut with scissors, add to 9mL trypsin in 15mL conical + 500uL trypsin to wash eppendorf & add
+		- Tape in tumbler and tumble 37C 20min, check +5 min if needed
+		- Strain to 50mL, add 30mL 4% FBS to stop reaction
+		- Spin 300g 4C 10 min
+		- Dump supernatant carefully, check pellet
+		- Resuspend in small volume ~500uL
+		- Count
 	- Rendl Lab has a series of papers that do embryonic dissociation
 		- Helpfully, they all have slightly different protocols 🙄
 		- [[Dermal Condensate Niche Fate Specification Occurs Prior to Formation and Is Placode Progenitor Dependent]]

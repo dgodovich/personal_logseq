@@ -33,6 +33,13 @@
 			  |100 uM PI-103 |2 uL DMSO control  |
 			  |150 uM PI-103 |3 uL DMSO control  |
 		- Staining for Sox9 and Madcam (inner / outer cell markers)
+	- [[Mar 6th, 2026]] First try cell dissociation of embryonic skin
+		- Melissa had E17 plugs which are way old but lets give it a shot
+		- Trying both Mallarino protocol and Rendl
+		- Using old collagenase solution because why not, it's probably fine
+			- best to make fresh but I have it
+			- Added dispase to it at ~2.5mg/mL
+	-
 - Skin staining protocol
 	- Fixing
 		- 1h 4% PFA incubation at room temp on planar shaker
