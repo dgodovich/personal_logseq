@@ -123,7 +123,9 @@
 		- This was with miltenyi and flow for everything
 		- Learned a lot about flow, did not take any notes here
 	- Trial 4 [[Mar 10th, 2026]]
-		-
+		- LNP x2
+		- PBS x2
+		- wt
 - Embryonic skin
   collapsed:: true
 	- Mallarino lab Protocol
