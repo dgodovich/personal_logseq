@@ -1,5 +1,4 @@
 - Adult skin
-  collapsed:: true
 	- Seems like there's different protocols for collecting dermis or epidermis
 	  collapsed:: true
 		- Need to look a bit closer at each paper to see what they're actually looking for in the single cell
@@ -120,8 +119,13 @@
 				- Minced with double scalpel on lid of 60mm dish
 					- This worked quite well, chopped into small pieces
 				- Collagenase in HBSS (this isn't ideal for viability, but should still work to digest, and it's expensive so use up the solution)
-				-
+	- Trial 3 [[Feb 25th, 2026]]
+		- This was with miltenyi and flow for everything
+		- Learned a lot about flow, did not take any notes here
+	- Trial 4 [[Mar 10th, 2026]]
+		-
 - Embryonic skin
+  collapsed:: true
 	- Mallarino lab Protocol
 		- This doesn't look anything like the other ones I'm seeing, but we can try it
 		- Trypin based
