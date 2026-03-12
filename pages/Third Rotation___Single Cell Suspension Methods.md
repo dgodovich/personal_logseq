@@ -126,6 +126,8 @@
 		- LNP x2
 		- PBS x2
 		- wt
+		- 40 um cell strainer
+		- Something didn't go right at the end and my pellets were really soft / almost nonexistent
 - Embryonic skin
   collapsed:: true
 	- Mallarino lab Protocol
