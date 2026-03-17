@@ -10,7 +10,7 @@
 	- [[Fgf20 governs formation of primary and secondary dermal condensations in developing hair follicles]]
 - Current main thing
 	- Staining skins
-		- PI-103 cultured
+		- mek inhibitor
 - To do list
 	- DONE more properly investigate ERK inhibitors
 	  :LOGBOOK:
