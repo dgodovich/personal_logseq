@@ -61,9 +61,13 @@
 			- 1% fish gelatin (0.1g)
 			- .01% Sodium azide
 			- TBST (10mL)
-	- Primary Antibody
+		- 1mL per tube
+	- Primary Antibody in TBST
 		- overnight +4 planar shaker in blocking buffer
-	- Secondary Antibody
+		- wash wash wash wash wash
+	- Secondary Antibody in TBST
+		- wash (first wash with Hoescht)
+		- wash wash wash
 		-
 - I still don't really know what this project is going to be but I think something about small molecule inhibition of pERK or PI3K or something like that in cultured skins sounds fun
 - Meetings
