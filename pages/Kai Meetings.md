@@ -1,7 +1,54 @@
 - #[[Kai Mesa]] #meetings
 - [[Apr 27th, 2026]]
 	- Kaede photomasks
-	-
+		- I think this could be a good direction to get more precision almost for free with the Kaede mouse
+		- Drew some diagrams in my notebook that I would put in here if my touchscreen worked
+		- Pattern designs
+			- checkerboard
+				- This is somewhat difficult to manufacture
+			- Lines
+				- 100um line size, 200-300 um spacing between lines
+			- Everything but the hole
+		- Design considerations
+			- Avoid hitting the mouse - this means that you have to keep it on the coverslip in at least one axis
+			- Alignment is a concern
+				- Things like checkerboard or lines don't have to have any alignment, but if we want to get only half the hole that has to be aligned
+			- Stopping pattern from drifting
+				- Clamp? tape?
+			- Weird optics effects?
+				- Could light bend around it?
+		- Material considerations
+			- Black acrylic is available for free from studiolab
+				- But black plastics are super bright in the 2 photon
+				- Imaging strategy could be really low laser power to get super bright mask, haze from tissue, nothing from hole
+					- This sounds like it would be hard though
+	- Interested in 3 populations during wound healing
+		- Stromal cells (fibroblasts, PDGFRa H2BGFP)
+		- Resident macrophages (Macgreen)
+		- Monocyte derived macrophages (CCR2 RFP)
+	- Mouse notes
+		- H2B720 (and FUCCI) are from CD1 background and need to continue being outcrossed to albino B6 for several more generations
+			- At least 7 generations, and then can send blood sample to Jax or Transgenics for SNP panel
+			- Outcrossing is important for any potential adoptive transfer experiments
+			- Both of these can be kept as het or homo
+		- Kaede is a transgene so it's hemizygous
+		- CCR2 RFP breeding scheme
+			- CCR2 RFP/ CCR2 RFP X CCR2 RFP/+
+			- Plus Macgreen on one side
+				- But not on both! To keep consistent Macgreen levels
+			- Get 2 breeding cages
+		- MacFred (fusion red) X PDGFRa H2BGFP
+			- Get 2 breeding cages
+	- Image a macgreen mouse distal wound at day 2
+		- Have been seeing degradation of ECM nearby the wound site at 24h DPA, things falling into the scab at 48h DPA
+		- Check if the same thing is happening in the distal condition
+	- Wounds don't appear to be any smaller at day 2
+		- First thing that happens is degradation
+		- Then constriction
+		- Then expansion
+	- TODO Image Distal Macgreen Day 2 hole
+	- TODO Figure out how to measure laser cutter resolution
+	- TODO Make photomask illustrator files?
 - [[Apr 13th, 2026]]
 	- We discussed project directions
 	- Kind of the same things that I was working on during my rotation
@@ -9,13 +56,21 @@
 		- What ECM remodeling is happening during the early stages of healing?
 		- What cell types are relevant to this?
 	- Photoconversion
-		- H2B720
-			- FR -> R conversion (720 down to )
+		- H2B720 (miRFP, from Eszter's lab)
+			- Infrared -> Far red conversion (720 down to 650)
 			- efficient conversion with 2 photon at ~1100 nm
 			- 1 z slice
 			- Specific photoconversion with the 2 photon laser as you go through the tissue
 		- Kaede
+			- Green -> Red conversion (488 up to 550)
 			- conversion at 400-450 nm, 2 photon sucks at it so use the white light fluorescence mode on the scope
 			- Because this is single photon, converts the entire tissue in one go (90s conversion time)
--
+	- Mice
+		- Kaede
+		- H2B720
+		- MacGreen
+		- CCR2 RFP
+		- MacFred + PDGFRaH2BGFP
+		- Also maybe Col4 mTurq?
+			- could be relevant
 -
