@@ -1,6 +1,21 @@
 - #[[Kai Mesa]] #meetings
 - [[Apr 27th, 2026]]
+	- Kaede photomasks
+	-
 - [[Apr 13th, 2026]]
-	- We discussed what the project might look like
+	- We discussed project directions
+	- Kind of the same things that I was working on during my rotation
+		- What is the first difference between a regenerating and a scarring wound?
+		- What ECM remodeling is happening during the early stages of healing?
+		- What cell types are relevant to this?
+	- Photoconversion
+		- H2B720
+			- FR -> R conversion (720 down to )
+			- efficient conversion with 2 photon at ~1100 nm
+			- 1 z slice
+			- Specific photoconversion with the 2 photon laser as you go through the tissue
+		- Kaede
+			- conversion at 400-450 nm, 2 photon sucks at it so use the white light fluorescence mode on the scope
+			- Because this is single photon, converts the entire tissue in one go (90s conversion time)
 -
 -
