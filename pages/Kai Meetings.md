@@ -1,0 +1,5 @@
+- #[[Kai Mesa]] #meetings
+- [[Apr 27th, 2026]]
+- [[Apr 13th, 2026]]
+	- We discussed what the project might look like
+-
