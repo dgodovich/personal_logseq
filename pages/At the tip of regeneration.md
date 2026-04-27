@@ -1,0 +1,21 @@
+date:: [[Jun 1st, 2026]]
+issn:: 0959-437X
+doi:: 10.1016/j.gde.2026.102462
+title:: At the tip of regeneration
+pages:: 102462
+volume:: 98
+item-type:: [[journalArticle]]
+access-date:: 2026-04-14T20:08:04Z
+original-title:: At the tip of regeneration
+url:: https://www.sciencedirect.com/science/article/pii/S0959437X26000298
+publication-title:: Current Opinion in Genetics & Development
+journal-abbreviation:: Current Opinion in Genetics & Development
+authors:: [[Camille E Dumas]], [[Lauren Connolly]], [[Mekayla A Storer]]
+library-catalog:: ScienceDirect
+links:: [Local library](zotero://select/library/items/UDSAR2R5), [Web library](https://www.zotero.org/users/6106196/items/UDSAR2R5)
+
+- [[Abstract]]
+	- Regeneration requires coordinated cellular responses that restore tissue structure and function following injury, yet regenerative capacity varies widely across vertebrates. In mammals, regeneration is restricted to specific contexts, including the digit tip, where local tissue environments permit blastema formation and patterned repair. Here, we review emerging insights into the local cues governing mammalian digit tip regeneration, focusing on the roles of the nail organ, inflammatory dynamics, fibroblast heterogeneity, and extracellular matrix mechanics. We then place these mechanisms within a broader systemic context, highlighting how immune, endocrine, and neuroendocrine signals shape regenerative outcomes in diverse models. Together, these studies emphasise regeneration as an organism-wide process integrating local repair programmes with systemic physiological regulation.
+- Attachments
+	- [ScienceDirect Full Text PDF](https://pdf.sciencedirectassets.com/272031/1-s2.0-S0959437X26X20020/1-s2.0-S0959437X26000298/main.pdf?X-Amz-Security-Token=IQoJb3JpZ2luX2VjEMv%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLWVhc3QtMSJGMEQCID2vpFMWodfUMv4MBi73sybhlOIX65L7qd%2BzxjYqJO87AiAEYQUXXgH0e4DNp12pv0llAnRrrZJLaqYALc7rB5rnSiq7BQiU%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F8BEAUaDDA1OTAwMzU0Njg2NSIMgMNtVs2SE5L1pDidKo8FtqcqQ87M5MLYO%2BrWjzYYtU5hVCwLEfh892spZSwQt6LQ2P4yPWzhw0rv05OGYuffpSu%2BQFnKiF05DLHZZx1EjH50mESraH3dHvOVCecgvAaZ%2BX9nvbmkQp%2BmGgaytPMlXMErohIoUojbgCok2q7N2ESDdYpNbPcq2wIn%2BKNvlceHhz%2FkXWh9LyJVLYJ7fy99Y4v4d7oWmSTSuZgHRQ4K7WSEs9t9m%2BZ%2F0OamhhYcGUr5MmrfQiKugEO14zenX27F6VJW5Hvm3Ev2XGJzknxzXdf%2FDBMpKn6M8UlExox3260KwloNUwqp2OLbN1JwcH6xqQJ%2BYenoQC0AlboyRcCRgy9NNSkWfFVa7j2UYaRpcnE9KU%2Byiw2%2B%2Fs3s4WKOTHhn7tWF%2B9ceWCkSZcbb9mcTX%2BZONC4CkYJTIbuEaW9xktvXuOlQhqM456h4mTzmvqmxRrSG5BnzYYKifD2qRcD6lIOJ9%2B7ooFZVeYxc5Lyc4H9SjFLVT6KOqiMHtJzI7%2Fo%2FH9chq3Qfspw22W3DVHFo8sfHDT%2FrUOZOOvg8BvkEv0x%2BsAaYGVC7fw3FuYE8yyTw88Ahd4lhshy8Nuwp8ibqmsT5MOviMZz3E13jt3q1TzHutFmPjMEtvIjJ5g5DMiEdU4zmGqjSBcdjVJTROmlJBW4xik1lbk6VMG45NPbgXKWubJdMuolINyjXUesI0mPLuT5eawTp4Se3R4bjXx0Z75b5m4q6pRwJAw5vMYe4tg8bI58sJ5QbAdmVK5df0NpOtAeylGgeTijygqetTCabD7esWjVqMri91crBtNkBqLnEk3TxP3qlx56NB%2FL49kzIGZPxfSYjL7cvJazD9DKDExYvEO7s1Qzo5j5ZWsAfqDCHmfrOBjqyAVcWwQ2uVuJgbhPX3wgd6sHZq95%2B0t4Qy0MZ1l2Q33L27V97Fgqn51xr2mBkHAUR9vd7xp7vjjVLh82HF6sQcaLknITO36Y4iBH6bBgwMiNwIjnWmjxE6ylB7IjQog2Vjdus97s4ClXNBa6b6gbm9M4mhesjZll9Za0Y9AcVVL%2FNVHzjMPYk3faEj%2BYHPlMx05ncl2xxnWnnphjkQHftKoq8NTWIIXi9fZlojNOg4k96bA8%3D&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20260414T200809Z&X-Amz-SignedHeaders=host&X-Amz-Expires=300&X-Amz-Credential=ASIAQ3PHCVTY3Q4S736Z%2F20260414%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Signature=d72e1d4b12644b0240edac891b57f549053af93f2606e6fa5bdb9496cea79940&hash=543a38b54cc13209e7ca0f9415425bc4694c2621c68c87b6a89b463f6c7f35f7&host=68042c943591013ac2b2430a89b270f6af2c76d8dfd086a07176afe7c76c2c61&pii=S0959437X26000298&tid=spdf-6480a01f-fce3-4c94-9452-528d28ff9566&sid=2ff3e9ac7f14144a6f8aed342c5f88012219gxrqa&type=client&tsoh=d3d3LXNjaWVuY2VkaXJlY3QtY29tLmV6cHJveHkucHJpbmNldG9uLmVkdQ%3D%3D&rh=d3d3LXNjaWVuY2VkaXJlY3QtY29tLmV6cHJveHkucHJpbmNldG9uLmVkdQ%3D%3D&ua=13165706005b56545055&rr=9ec557438cb75567&cc=us) {{zotero-imported-file 3YIL5NJG, "Dumas et al. - 2026 - At the tip of regeneration.pdf"}}
+	- [ScienceDirect Snapshot](https://www.sciencedirect.com/science/article/pii/S0959437X26000298) {{zotero-imported-file Z94CBJMH, "S0959437X26000298.html"}}

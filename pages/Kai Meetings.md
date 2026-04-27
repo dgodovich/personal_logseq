@@ -53,7 +53,7 @@
 		- It seems that making the photomasks might be a lot harder than I expected so maybe that gets tabled for now
 			- Potentially check out a [vendor](https://www.potomac-laser.com/services/cnc-micro-machining-services/) to do microfab
 		- Or scaled back to simpler designs
-		-
+			- Could probably laser cut or CNC very large spacing / grid or hole patterns
 - [[Apr 13th, 2026]]
 	- We discussed project directions
 	- Kind of the same things that I was working on during my rotation
