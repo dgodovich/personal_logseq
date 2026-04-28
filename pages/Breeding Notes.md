@@ -1,14 +1,14 @@
 - PDGFRa H2BGFP must be het
 	- homozygous embryonic lethal
 -
+- CCR2 is het/homo breeding
+-
 - Transgenes / hemizygotes
 	- None of these can be crossed to themselves! Number of copies and genomic location is unknown
 	- Macgreen
 	- CAG-dsRed
 	- CAG-CFP
 	- Kaede
-	-
-	-
 -
 - Can be homo
 	- H2B720
