@@ -1,0 +1,22 @@
+- PDGFRa H2BGFP must be het
+	- homozygous embryonic lethal
+-
+- Transgenes / hemizygotes
+	- None of these can be crossed to themselves! Number of copies and genomic location is unknown
+	- Macgreen
+	- CAG-dsRed
+	- CAG-CFP
+	- Kaede
+	-
+	-
+-
+- Can be homo
+	- H2B720
+	- CCR2 RFP
+	- any single color R26
+		- mTmG / nTnG
+		- dsRed
+		- Confetti
+		- mKate2
+		- DTA (not single color but w/e)
+		-
