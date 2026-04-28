@@ -1,0 +1,19 @@
+- Genotyping has to happen between p7-14
+- Weaning happens at p20-21
+	- Can be pushed back if the pups are small (runty)
+- \H2B720
+	- No working primers
+	- Genotype by photoconversion of cut toes on the scope
+	- Image same day as you cut toes to avoid them drying out
+- MacFred
+	- No working primers (yet)
+-
+- Goggles
+	- Green Goggles + Blue LED light
+		- PDGFRa H2BGFP
+		- Kaede
+		- CAG-CFP
+	- Red Goggles + Green LED light
+		- mTmG / nTnG
+		- dsRed
+-
