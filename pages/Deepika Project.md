@@ -28,7 +28,7 @@ alias:: [[Third Rotation/Deepika Project]]
 	-
 -
 - Current main task
-	- See
+	- See ((69f3bc88-138d-4616-b1e3-9cb813736006))
 	- Done
 	  collapsed:: true
 		- Read protocols of these single cell papers and other papers from Elaine Fuchs' lab and find some common threads to try this soon (next week?)
@@ -43,6 +43,7 @@ alias:: [[Third Rotation/Deepika Project]]
 - Questions
 - Meeting Notes
 	- [[Apr 30th, 2026]] Chat with Deepika
+	  id:: 69f3bc88-138d-4616-b1e3-9cb813736006
 	  collapsed:: true
 		- 2 photon was a big hit in the Devenport lab (not surprising, it's super cool)
 			- Danelle thinks that the movement is not tooooo bad
@@ -55,17 +56,29 @@ alias:: [[Third Rotation/Deepika Project]]
 			- Alternative is a certainly better control
 				- This is the way
 				- Not worth the risk
+		- Next steps
+			- Try ear intradermal injections and image back skin for a bit longer [[May 7th, 2026]]
+				- 12wk mTmG mice needed for this (how many?)
+					- Claimed two in 195633
+					- Do I want different mice if we're doing Cre LNP intradermal injections?
+			- Use [[Jared Toettcher]] sorter
+			  :LOGBOOK:
+			  CLOCK: [2026-04-30 Thu 16:50:04]--[2026-04-30 Thu 16:50:04] =>  00:00:00
+			  :END:
+				- Tentatively [[May 8th, 2026]]
+				- This one is gentler and we don't have to pay for it which is nice
+				- 4 days post LNP transduction - hopefully we have more green cells
+				- Use scraping protocol
+					- ((69f3bec5-9697-4897-80a7-0a71023223d5))
 		- TODO Regate flow data to see if dead cells have enrichment of GFP+
 			- Use lab flowjo for this, or computers in the flow core
 			- Are the LNP transduced cells more fragile? Are they just dying during the process of sorting?
-		- TODO Use [[Jared Toettcher]] sorter
-			- Tentatively [[May 8th, 2026]]
-			- This one is gentler and we don't have to pay for it which is nice
 		- TODO Talk to Kai about some stuff [[Kai Meetings]]
 			- Thoughts about how much movement there was in the back skin movies
 				- Show the movie
 			- How to use the fluorescent beads in an intradermal injection
 			- Learn how to do the scraping dissociation protocol
+			  id:: 69f3bec5-9697-4897-80a7-0a71023223d5
 		- TODO Talk to Emily about going off protocol
 			- Thoughts abouts using the LNPs
 				- This is tricky because if we want to wait 4 days to image they have to go back to the colony
