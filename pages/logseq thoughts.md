@@ -1,0 +1,8 @@
+- I should get a better way to insert dates into my notes rather than typing out the whole thing
+	- Nvm This exists
+- I think I should work on some templates that could be helpful
+	- Genotyping? Haven't done that yet but should think about it at some point
+	- Injury timing / experiment planning
+		- Pretty sure I will be doing relatively consistent imaging, so it would be nice to make a template for each experiment
+		- Minimize work - just fill out a pre-made sheet
+			- Kind of like a quality form like at Cresilon

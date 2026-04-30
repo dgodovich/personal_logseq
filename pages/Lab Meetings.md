@@ -1,7 +1,27 @@
 - #meetings
 - [[May 7th, 2026]] Lab meeting 1
-	-
-	-
+	- Things to talk about
+		- Questions that are guiding me rn
+			- ECM remodeling
+			- What's going on with the degradation
+			- What's the earliest distinguishing feature of a regenerating and scarring wound
+			- Deepika project
+		- Photoconversion
+			- H2B720 expression in the ear hopefully
+				- imaging this [[May 1st, 2026]]
+			- Kaede photomasks
+				- Show pics if I laser cut any?
+				- Ask for ideas from the lab
+				- Make cartoons of the proposed patterns?
+				- Limitations that I hadn't thought of?
+		- Distal Wound tissue degradation (or lack thereof)
+			- imaging this [[May 4th, 2026]] and [[May 6th, 2026]]
+		- ctFIRE
+			- I should really try to get some stuff done for this [[May 1st, 2026]] and over the weekend
+			- Show some stuff from my rotation and current plans
+		- Deepika project
+			- Back skin images?
+			- Ear intradermal injection (but won't have any images of this)
 - [[Apr 30th, 2026]] Char + Camille
 -
 - links to rotation lab meetings

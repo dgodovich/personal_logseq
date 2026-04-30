@@ -1,29 +1,74 @@
 alias:: [[Third Rotation/Deepika Project]]
 
 - Reading
+  collapsed:: true
 	- [[Lef1 expression in fibroblasts maintains developmental potential in adult skin to regenerate wounds]]
 	- [[Single‐cell transcriptomic analysis of small and large wounds reveals the distinct spatial organization of regenerative fibroblasts]]
 	- [[Distinct Regulatory Programs Control the Latent Regenerative Potential of Dermal Fibroblasts during Wound Healing]]
 	- [[Epithelial-Mesenchymal Micro-niches Govern Stem Cell Lineage Choices]]
 	- [[Assaying proliferation and differentiation capacity of stem cells using disaggregated adult mouse epidermis]]
 		- protocol for Phan paper (Lef1)
+-
+- Imaging
+	- [[Apr 29th, 2026]] Imaging Back skin on the 2 photon
+		- mTmG / Macgreen 12wk old
+		- shoulder was tough
+			- Lots of movement from both breathing and heartbeat
+			- but this is a better place to image from flatness and tissue thickness perspectives
+				- Way thinner so it's easier to get good data
+			- Mouse also started to wake up so that was not ideal
+		- flank was better in some ways but worse in others
+			- Less movement (although definitely still some)
+			- Squish as much as you want
+		- Mouse died
+			- probably because it got wet and then body temp got too low
+		- Made some movies for Deepika to show in lab meeting
+-
+- Sorts
+	-
+-
 - Current main task
-	- Revisit Epidermis dissociation protocols
+	- See
 	- Done
 	  collapsed:: true
 		- Read protocols of these single cell papers and other papers from Elaine Fuchs' lab and find some common threads to try this soon (next week?)
 			- Starting with adult skins that don't mean much / not useful
 - To dos
 	- DONE Get a list / suggestions for cell strainers
-	- TODO Re-read epidermis dissociation protocols because that didn't work very well
+	- DONE Re-read epidermis dissociation protocols because that didn't work very well
+	  collapsed:: true
 		- Do I need to get a different reagent? Trypsin w/o EDTA?
 		- Better mincing?
-	- TODO Write notes from talking to Deepika here so I have them for easier reference
+	- DONE Write notes from talking to Deepika here so I have them for easier reference
 - Questions
-	- How are they processing the back skin? Shaving? Nair?
-	- what layers are we trying to go for?
-		- I think this is epidermis and a bit of dermis
 - Meeting Notes
+	- [[Apr 30th, 2026]] Chat with Deepika
+	  collapsed:: true
+		- 2 photon was a big hit in the Devenport lab (not surprising, it's super cool)
+			- Danelle thinks that the movement is not tooooo bad
+				- We can compensate for it because it's periodic
+				- And the theoretical optoEGFR driven migration would still be visible even with that
+		- Decided to not try for opto in the single cell
+			- We're not going to be able to capture cells in a time frame that could be influenced by optoEGFR
+				- too sensitive, and too fast
+			- Low chance of getting really good data
+			- Alternative is a certainly better control
+				- This is the way
+				- Not worth the risk
+		- TODO Regate flow data to see if dead cells have enrichment of GFP+
+			- Use lab flowjo for this, or computers in the flow core
+			- Are the LNP transduced cells more fragile? Are they just dying during the process of sorting?
+		- TODO Use [[Jared Toettcher]] sorter
+			- Tentatively [[May 8th, 2026]]
+			- This one is gentler and we don't have to pay for it which is nice
+		- TODO Talk to Kai about some stuff [[Kai Meetings]]
+			- Thoughts about how much movement there was in the back skin movies
+				- Show the movie
+			- How to use the fluorescent beads in an intradermal injection
+			- Learn how to do the scraping dissociation protocol
+		- TODO Talk to Emily about going off protocol
+			- Thoughts abouts using the LNPs
+				- This is tricky because if we want to wait 4 days to image they have to go back to the colony
 	- [[Feb 4th, 2026]] Quick chat with Deepika re what does the rotation look like
 	  collapsed:: true
 		- End goal of project is delivering optoEGFR to a wounded mouse skin and using blue light stimulation to try to heal wounds faster
