@@ -1,8 +1,12 @@
 - #meetings
--
+- [[May 7th, 2026]] Lab meeting 1
+	-
+	-
+- [[Apr 30th, 2026]] Char + Camille
 -
 - links to rotation lab meetings
   collapsed:: true
 	- [[First Rotation/Lab Meetings]]
 	- [[Second Rotation/Lab Meetings]]
 	- [[Third Rotation/Lab Meetings]]
+-
