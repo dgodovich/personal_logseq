@@ -1,0 +1,7 @@
+- Lysis
+	- 44ul water
+	- 5 buffer
+	- .8 ul enzyme
+	- X number of samples
+	- Use 48.8 uL per sample
+-
