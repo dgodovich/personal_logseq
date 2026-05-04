@@ -82,6 +82,8 @@ alias:: [[Third Rotation/Deepika Project]]
 		- TODO Talk to Emily about going off protocol
 			- Thoughts abouts using the LNPs
 				- This is tricky because if we want to wait 4 days to image they have to go back to the colony
+			- I did not do this and then she went on vacation but it's probably fiiinneeeeee
+				-
 	- [[Feb 4th, 2026]] Quick chat with Deepika re what does the rotation look like
 	  collapsed:: true
 		- End goal of project is delivering optoEGFR to a wounded mouse skin and using blue light stimulation to try to heal wounds faster
