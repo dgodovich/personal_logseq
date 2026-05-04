@@ -77,6 +77,10 @@ alias:: [[Third Rotation/Deepika Project]]
 			- Thoughts about how much movement there was in the back skin movies
 				- Show the movie
 			- How to use the fluorescent beads in an intradermal injection
+				- Use Evan's blue instead
+				  background-color:: yellow
+					- easy to use
+				- maybe dextran? 70kd rhodamine dextran
 			- Learn how to do the scraping dissociation protocol
 			  id:: 69f3bec5-9697-4897-80a7-0a71023223d5
 		- TODO Talk to Emily about going off protocol
