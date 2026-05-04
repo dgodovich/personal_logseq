@@ -2,6 +2,8 @@
 - Notes for next meeting
 	- Immunology summer course? There's a beginner and advanced one, I think I can probably take the advanced one?
 		- A bit over 1k
+- [[May 4th, 2026]]
+	-
 - [[Apr 27th, 2026]]
 	- Kaede photomasks
 		- I think this could be a good direction to get more precision almost for free with the Kaede mouse
