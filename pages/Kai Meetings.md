@@ -4,7 +4,7 @@
 		- A bit over 1k
 - [[May 4th, 2026]]
 	- Immunology course seems to be the move over conference
-		- Conference might be too
+		- Conference might be too much at this point
 - [[Apr 27th, 2026]]
 	- Kaede photomasks
 		- I think this could be a good direction to get more precision almost for free with the Kaede mouse
