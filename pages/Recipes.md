@@ -4,4 +4,9 @@
 	- .8 ul enzyme
 	- X number of samples
 	- Use 48.8 uL per sample
+- OrangeG loading dye
+	- 100mg OrangeG
+	- 15mL Glycerol
+	- ~35mL Distilled Water (to final Volume 50mL)
+	- vortex, aliquot. Good for forever
 -

@@ -54,4 +54,6 @@
 		- [[Hallmarks of regeneration]]
 		- [[Positional Memory in Vertebrate Regeneration: A Century's Insights from the Salamander Limb]]
 		- [[Enduring questions in regenerative biology and the search for answers]]
-	-
+- Regeneration
+	- [[Comparative analysis of ear-hole closure identifies epimorphic regeneration as a discrete trait in mammals]]
+	- [[The Wound Healing: A Mystery Still to Be Solved—What Is the Future?]]
