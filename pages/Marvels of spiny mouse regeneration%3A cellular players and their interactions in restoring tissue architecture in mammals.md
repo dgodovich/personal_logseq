@@ -1,0 +1,22 @@
+date:: [[Aug 1st, 2024]]
+issn:: 0959-437X
+doi:: 10.1016/j.gde.2024.102228
+title:: Marvels of spiny mouse regeneration: cellular players and their interactions in restoring tissue architecture in mammals
+pages:: 102228
+volume:: 87
+item-type:: [[journalArticle]]
+access-date:: 2026-05-13T22:26:32Z
+original-title:: Marvels of spiny mouse regeneration: cellular players and their interactions in restoring tissue architecture in mammals
+url:: https://www.sciencedirect.com/science/article/pii/S0959437X24000777
+short-title:: Marvels of spiny mouse regeneration
+publication-title:: Current Opinion in Genetics & Development
+journal-abbreviation:: Current Opinion in Genetics & Development
+authors:: [[Antonio Tomasso]], [[Vanessa Disela]], [[Michael T Longaker]], [[Kerstin Bartscherer]]
+library-catalog:: ScienceDirect
+links:: [Local library](zotero://select/library/items/M3BHE25H), [Web library](https://www.zotero.org/users/6106196/items/M3BHE25H)
+
+- [[Abstract]]
+	- Understanding the cellular and molecular determinants of mammalian tissue regeneration and repair is crucial for developing effective therapies that restore tissue architecture and function. In this review, we focus on the cell types involved in scarless wound response and regeneration of spiny mice (Acomys). Comparative -omics approaches with scar-prone mammals have revealed species-specific peculiarities in cellular behavior during the divergent healing trajectories. We discuss the developing views on which cell types engage in restoring the architecture of spiny mouse tissues through a co-ordinated spatiotemporal response to injury. While yet at the beginning of understanding how cells interact in these fascinating animals to regenerate tissues, spiny mice hold great promise for scar prevention and anti-fibrotic treatments.
+- Attachments
+	- [ScienceDirect Full Text PDF](https://pdf.sciencedirectassets.com/272031/1-s2.0-S0959437X24X00040/1-s2.0-S0959437X24000777/main.pdf?X-Amz-Security-Token=IQoJb3JpZ2luX2VjEIb%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLWVhc3QtMSJHMEUCIQDDou8HYDMRLvcq5AtNUTn5YuhueKJIvjf2HYJkHMxmlgIgPGEkGUxDSRN0PdzzKGMOLQwT7yfoFRxE%2FfKmFlATzywqswUITxAFGgwwNTkwMDM1NDY4NjUiDBt5Bp2in%2F17cWYONiqQBVDposhbxjxCb%2FEPANew7MuSTL5sdGfKMjFHs1Xbh%2BtBIDDN04zXcVifdvG4Zq1QUsPN9VMQOw1RSKNYjUwWej1S8l2Ia9KFGU5EuddZYjW6GM8uxPa3Yi02WKmhygJXPYq0pwBEE7%2BAFwxLeZvsROIKS7MVn2NiFVMQBR%2BN2PflzJ2fM22oDDy1a%2BJgFiE4a%2FPdGpFTNckG63JQMfRHPnkIghQXzHpynXPmsVjonImzviW9AGEpvmm4HKUomobJpfH%2FmF9lfi7n5HePv1KQEq%2B7PapRA5RkFFnWpLKeIq5zU3Mw89klywuL8EnZKZC1PcglikqAaUexMrZjvrck33L6GNuuasI5kFsURq43BNV0nQsC844lMn%2BSka8tK7BW2TESSWWNUUmNgvEJ8iXarp9BDGaZbd4g%2B2pwfhUSFflPHSKGeEAhzkvzQBMoM%2FD%2BFNls7VmKu63GgCXwdE%2FDDER8zWuh5RPPY8p5Z2Irpw876Fia3liVZjTCBPZoe3uTePKCIUiomP%2BFVsB9U5aIxeZoAmOnhT9kGuOZR02GGL0M9fGGSf5sfb45az46VbY2vlplFJToGJ5MIVWFjr%2BF3VjMVrDKXGUDg1u8tb%2FyGbiL8sIgbYwnlznFN4Lv0AVmmBcUb87dc5OyqJAFrON9oWPlmhB4XeJFWnxokfKyrkw9ZfS2KVAfijldgpn9tQceF%2Bav7l%2Fe2VdWtpkmbYu882mRQCITljk%2BAbXkoGRevPYChH05yPDdQ2Sog7Z%2BiOl6zFiB1chrIrEiXQ1291G6R4N0iKTg7eode57WnfrKV829jkhi5KHbiOozYfSuDnxcujaHBrkJ1qyLJSQ%2B40AJiRsZO%2FCKpSieLydak8hl7O0rMNbjk9AGOrEBlVHOSutrSqBCyaQn3JlXOINC20nMTW97TkFEY6xHhMZWFZgQYiEEc6iJPUWIJjiY3ONA4F7Bz5PLz1N4GDDCOO954vjBASLgm9xtskk%2F%2F%2FyFcQrNIBx3%2Fs4PISuh0g%2Fkt9YwR5hd5luroj9quRQhz%2BNUi0UNmIopoDmdrIpE%2F9AVZE%2Bkd%2FkUahidwjZ8twrr9TW%2B64p4UCictIWNKfPRMKYOB9ib9cv5Q45mr0vBCNP%2F&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20260513T222638Z&X-Amz-SignedHeaders=host&X-Amz-Expires=299&X-Amz-Credential=ASIAQ3PHCVTY2BNFSFGG%2F20260513%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Signature=c783f7a3af544e8340e695d5b977c2a6618c181d958d83f3818a19d22aca20f0&hash=c7dc6afd1ff3561554cac43e1e9611fd4f33a47fee3702794b132f23a6252bc5&host=68042c943591013ac2b2430a89b270f6af2c76d8dfd086a07176afe7c76c2c61&pii=S0959437X24000777&tid=spdf-08de63a1-49b9-4b39-aecf-b23340ad9411&sid=49bfb5ea6415a6406e887b31a2577ff32c03gxrqa&type=client&tsoh=d3d3LnNjaWVuY2VkaXJlY3QuY29t&rh=d3d3LnNjaWVuY2VkaXJlY3QuY29t&ua=161d56030351525104&rr=9fb515fc6cfd0cf6&cc=us) {{zotero-imported-file CFU6Q9UZ, "Tomasso et al. - 2024 - Marvels of spiny mouse regeneration cellular players and their interactions in restoring tissue arc.pdf"}}
+	- [ScienceDirect Snapshot](https://www.sciencedirect.com/science/article/pii/S0959437X24000777) {{zotero-imported-file I4SH62WB, "S0959437X24000777.html"}}
