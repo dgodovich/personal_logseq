@@ -42,6 +42,10 @@ links:: [Local library](zotero://select/library/items/9D3IGJSM), [Web library](h
 		- Timd4/Lyve1/Folr2+; Cd163, Mrc1, Igf1
 		- Ccr2, Cd52, MHC class 2, S100
 		- MHC class 2, lipid metabolism (Trem,Apoe); no Lyve1, Ccr2, etc
+- Read more about senescence because I think it could be relevant given talk from thursday
+- Ccr2 is a common marker of pro-fibrotic macrophages
+	- My interpretation of this is that it's monocyte derived
+	- First wave that comes in to the tissue is the most important one
+		- hmm
 	-
--
 -
