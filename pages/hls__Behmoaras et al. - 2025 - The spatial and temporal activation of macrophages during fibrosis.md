@@ -48,3 +48,18 @@ file-path:: file://C:/Users/David/Zotero/storage/VIA87Y26/Behmoaras et al. - 202
   hl-page:: 8
   hl-color:: purple
   id:: 6a174806-923f-4bef-b163-d1f22d56d096
+- indicates that, depending on the type of injury (sterile inflammation, infectious or autoimmune) and tissue site, different factors may accompany the healing process through type 1 (IFNγ), type 2 (interleukins IL-4 and IL-13) and type 3 (IL-17A) cytokines or other immune and non-immune facto
+  ls-type:: annotation
+  hl-page:: 2
+  hl-color:: yellow
+  id:: 6a1754f9-528e-4558-9d59-17109625b28d
+- also because of their fundamental role in controlling tissue formation and development in embryos26–31, tissue regeneration in early life32, healthy tissue composition in adults33,34 and repair after injury 35,36 (Fig
+  ls-type:: annotation
+  hl-page:: 2
+  hl-color:: red
+  id:: 6a175512-bee4-47a7-a26f-67484efa5667
+- Duffield, J. S. et al. Selective depletion of macrophages reveals distinct, opposing roles during liver injury and repair. J. Clin. Invest. 115, 56–65 (2005)
+  ls-type:: annotation
+  hl-page:: 12
+  hl-color:: red
+  id:: 6a175589-1281-477b-bde3-50d149b84d48

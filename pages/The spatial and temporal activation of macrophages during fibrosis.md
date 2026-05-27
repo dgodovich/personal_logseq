@@ -23,5 +23,25 @@ links:: [Local library](zotero://select/library/items/9D3IGJSM), [Web library](h
 	- Not sure I'm fully understanding this
 	- Maybe they're just saying that fibroblast is the default state and myo is the "activated"?
 - ((6a174799-47aa-48cd-aa53-da9c01da89f0))
+- Type of immune response determines fibrosis status
+	- Type 3 leads to fibrosis, 1 and 2 can do either? That's not super helpful
+	- 1 is IFN\gamma
+	- 2 is IL4 and 13
+	- 3 is IL17A
+- ((6a175512-bee4-47a7-a26f-67484efa5667))
+	- I should read these citations
+- IL1\beta and TLR4 are proinflammatory
+- TGB\beta is profibrotic
+- ((6a175589-1281-477b-bde3-50d149b84d48))
+	- Macrophages have a limited time window in which to be pro-inflammatory before they become pro-fibrotic
+- There's lots of single cell studies, this paper seems to do a fairly good job of laying out what exists
+- There's a bajillion different subtypes of macrophage
+	- Common marker is Lyve1 and HLA class 2 (human)
+	- Trem2, Apoe, Fabp4 is pretty common (lipid metabolism)
+	- In mouse there's 3 classes
+		- Timd4/Lyve1/Folr2+; Cd163, Mrc1, Igf1
+		- Ccr2, Cd52, MHC class 2, S100
+		- MHC class 2, lipid metabolism (Trem,Apoe); no Lyve1, Ccr2, etc
+	-
 -
 -
