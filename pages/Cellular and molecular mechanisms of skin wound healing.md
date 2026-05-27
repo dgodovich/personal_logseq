@@ -57,5 +57,31 @@ links:: [Local library](zotero://select/library/items/WJ54B4ZA), [Web library](h
 	- All epidermal cells in the wound edge express integrins
 		- Normally confined to the basement membrane adjacent cells
 	- They also turn on MMP1 to chew through the hastily assembled matrix of the clot
-	- Partial EMT? See reference
--
+	- Partial EMT? See reference 45
+- ((6a173567-48c1-48d3-b860-d5cacc4df2bf))
+	- Hair follicles can contribute significantly to regeneration if they aren't fully excised
+		- This makes sense, as they have more active stem cell pools
+		- I guess they're able to trans-differentiate
+	- Glands are less well known
+		- ((6a173613-fe6d-4a27-8b3c-d52710efe4e7))
+- PAMP and DAMP signaling for immune system activation
+	- Pathogen / Damage Associated Molecular Patterns
+	- read separate review on this, Kai sent at some point
+	- could be reference 70?
+- More broad signal is Ca gradient and electric field (made by the same thing)
+- ((6a1736e1-f49a-4b26-b4cc-2aa41c25ee6c))
+	- Neutrophils are not tissue resident and extravasate to the wound site
+	- Read different review about how this works
+	- Swarm in response to LTB4 and NETs
+	- Neutrophils probably do more than just kill microbes, read 92
+	- Reverse transendothelial migration? weird
+- ((6a173923-26ba-4344-a1e9-b2aa3b03e786))
+	- Initial tissue resident response is important, but this claims that they're outnumbered by traditional monocyte recruitment very quickly
+		- plus some low amount of non-traditional monocytes that patrol endocytes
+	- ((6a1739c2-d51b-44fe-b1c7-882a68921252))
+		- Macrophage activation spectrum
+	- Relevant to each stage of wound healing in different ways
+- ((6a173b14-9783-4978-9a6d-e6a7a8498f09))
+	- ((6a173ad6-ecdf-4d39-b507-ae7237be8fc3))
+		- could be a developmental origin difference that determines the fibrotic potential of a fibroblast
+	-
