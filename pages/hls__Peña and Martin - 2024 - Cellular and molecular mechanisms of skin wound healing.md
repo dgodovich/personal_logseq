@@ -142,3 +142,62 @@ file-path:: file://C:/Users/David/Zotero/storage/NRX3U87V/Peña and Martin - 202
   hl-color:: red
   id:: 6a173ad6-ecdf-4d39-b507-ae7237be8fc3
   hl-stamp:: 1779907290066
+- rther studies utilizing other markers expressed by different populations of fibroblasts suggest that fibroblast subgroups compete with one another during skin development and that those that have expressed engrailed 1 (EN1) tend to be those that are subsequently recruited to a postnatal wound and contribute to a wound sc
+  ls-type:: annotation
+  hl-page:: 8
+  hl-color:: yellow
+  id:: 6a173c4d-88cc-416d-9f5a-0d8c9a612486
+  hl-stamp:: 1779907663038
+- malian embryos do not scar after wounding, at least up until a transition stage partway through development. This developmental stage coincides with the first time when there is macrophage influx to any site of tissue damag
+  ls-type:: annotation
+  hl-page:: 8
+  hl-color:: yellow
+  id:: 6a173c59-6f48-4373-acf6-be07928045b4
+- cent mouse studies have indicated that collagen can be dragged from deep fascial layers by fascia-resident fibroblasts as they swarm in to rapidly fill in the wound space and, if this is prevented, chronic open wounds can resu
+  ls-type:: annotation
+  hl-page:: 8
+  hl-color:: yellow
+  id:: 6a173c96-a04a-47cc-8d17-7f107a1249ad
+- led to considerable interest in how tissue mechanics might play into fibrotic pathways, and studies in mouse have shown a clear pathway activated by mechanical force and mediated by FAK–ERK–MCP1 signalling that leads to increased inflammation, which in turn drives fibros
+  ls-type:: annotation
+  hl-page:: 8
+  hl-color:: yellow
+  id:: 6a173cba-7310-40d8-ae00-c78af400a54d
+- roblasts in Mus persist for longer in the wound than in Acomys150, but pharmacological inhibition of Yap–TEAD (TEA/ATTS domain) signalling leads to longer retention of myofibroblasts in their wounds and loss of their enhanced wound heali
+  ls-type:: annotation
+  hl-page:: 9
+  hl-color:: yellow
+  id:: 6a173cf9-83ff-4578-bc32-4405b91ecda4
+- Roles for other immune cells in wound healing
+  ls-type:: annotation
+  hl-page:: 9
+  hl-color:: purple
+  id:: 6a173e78-c469-4a7b-8673-4ad53aaf6e9d
+- hese sentinel cells undergo a morphological switch within hours of wounding, from their sensory dendritic shape to an activated, rounded-up phenotyp
+  ls-type:: annotation
+  hl-page:: 9
+  hl-color:: yellow
+  id:: 6a173eba-b6b2-4dca-acbd-5eed7d7f73d6
+  hl-stamp:: 1779908294383
+- Jameson, J. et al. A role for skin γδ T cells in wound repair. Science 296, 747–749 (2002
+  ls-type:: annotation
+  hl-page:: 16
+  hl-color:: red
+  id:: 6a173f2c-31ff-419f-a89d-f506d3b93b1c
+  hl-stamp:: 1779908399006
+- Contribution of other cell types to skin repair
+  ls-type:: annotation
+  hl-page:: 10
+  hl-color:: red
+  id:: 6a173fb1-9a4d-4184-b9a4-ee69a9f55800
+- Contribution of other cell types to skin repair
+  ls-type:: annotation
+  hl-page:: 10
+  hl-color:: purple
+  id:: 6a173fc7-3655-4890-8d5d-83f9a66a9b74
+- ls-type:: annotation
+  hl-page:: 17
+  hl-color:: red
+  id:: 6a17418b-2957-4325-bc10-cdb9fb946804
+  hl-stamp:: 1779909005467
+  245. Ross, R. & Odland, G. Human wound repair. II. Inflammatory cells, epithelialmesenchymal interrelations, and fibrogenesis. J. Cell Biol. 39, 152–168(1968).246. Odland, G. & Ross, R. Human wound repair. I. Epidermal regeneration. J. Cell Biol. 39,135–151 (1968

@@ -1,0 +1,2 @@
+file:: [Behmoaras et al. - 2025 - The spatial and temporal activation of macrophages during fibrosis.pdf](file://C:/Users/David/Zotero/storage/VIA87Y26/Behmoaras et al. - 2025 - The spatial and temporal activation of macrophages during fibrosis.pdf)
+file-path:: file://C:/Users/David/Zotero/storage/VIA87Y26/Behmoaras et al. - 2025 - The spatial and temporal activation of macrophages during fibrosis.pdf

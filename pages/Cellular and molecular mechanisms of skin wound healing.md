@@ -84,4 +84,36 @@ links:: [Local library](zotero://select/library/items/WJ54B4ZA), [Web library](h
 - ((6a173b14-9783-4978-9a6d-e6a7a8498f09))
 	- ((6a173ad6-ecdf-4d39-b507-ae7237be8fc3))
 		- could be a developmental origin difference that determines the fibrotic potential of a fibroblast
+	- macrophage seeding blocks embryonic repair potency
+	- Fibroblasts can drag collagen to rearrange it?
+	- Mechanical force can be important
+		- this might be a key difference between Acomys and Mus - they have softer skin and have more active Yap / less active hippo signaling
+- ((6a173d5e-4f29-4fbb-9a08-91d352deedd1))
+	- Granulation tissue is called that because the blood vessels look weird and granular
+		- Repair process has high oxygen and metabolic demands so the blood supply needs to be higher
+	- VEGFa is secreted by wound edge epithelial cells and macrophages
+	- At first macrophages promote vascularization, but then they switch to M2 and do pruning
+	- Impact on pericyte function at later maturation stages
+- ((6a173e78-c469-4a7b-8673-4ad53aaf6e9d))
+	- Mast cells are around, but not super clear what they do
+		- same for eosinophils
+	- Skin has a lot of \gamma\delta T cells
+		- ((6a173eba-b6b2-4dca-acbd-5eed7d7f73d6))
+		- could these be the round cells we see with Deepika? maybe? That would be cool
+			- See ((6a173f2c-31ff-419f-a89d-f506d3b93b1c))
+		- make a whole lot of FGFs, help to drive re-epithelization
+			- Including FGF9 for hair follicles
+	- Tregs are also probably doing something, but not exceedingly clear
+- ((6a173fc7-3655-4890-8d5d-83f9a66a9b74))
+	- Adipocytes are important to seal the wound in drosophila pupae healing
+	- Release lipids into the wound which might trigger macrophage activation
+	- Some interaction with fibroblasts but not clear if they're transdifferentiating or just signaling or something else
+	- Melanocytes are relevant (hyper/hypopigmentation of scars), but that axis is also not well studied
+	- Glial cells could be imporant?
+		- Rebecca sees the schwann cells are precursor melanocytes, so they're capable of at least some transdifferentiation
+		- Indeed, 222 and 223 are saying similar things
+- ((6a17418b-2957-4325-bc10-cdb9fb946804))
+	-
+	-
+	-
 	-
