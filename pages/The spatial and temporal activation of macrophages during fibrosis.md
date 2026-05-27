@@ -18,3 +18,10 @@ links:: [Local library](zotero://select/library/items/9D3IGJSM), [Web library](h
 
 - Attachments
 	- [PDF](zotero://select/library/items/VIA87Y26) {{zotero-imported-file VIA87Y26, "Behmoaras et al. - 2025 - The spatial and temporal activation of macrophages during fibrosis.pdf"}}
+- Myofibroblasts are the key mediator of fibrosis?
+	- Transdifferentiated form of a fibroblast?
+	- Not sure I'm fully understanding this
+	- Maybe they're just saying that fibroblast is the default state and myo is the "activated"?
+- ((6a174799-47aa-48cd-aa53-da9c01da89f0))
+-
+-
