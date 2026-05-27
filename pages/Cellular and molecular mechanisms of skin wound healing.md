@@ -24,14 +24,14 @@ links:: [Local library](zotero://select/library/items/WJ54B4ZA), [Web library](h
 - Clot / scab forms first
 - This review says that cells migrate to fill the gap, but I'm not sure that this is known to happen in all contexts
 	- i.e. migration vs proliferation
-- Phases of wound healing
+- ((6a173363-7b35-4caf-84e0-a40d9345c124))
 	- Clot formation
 		- Platelet plug formation forms a clot to stop blood flow
-		- Platelet degranulation (coming out of the blood to form a clot) makes a lot of soluble factors
+		- Platelet degranulation makes a lot of soluble factors
 			- TGF\beta, PDGF, CXCL12 (aka SDF1), VEGF, endostatin
 		- but platelets are not required for wound healing
 			- ((6a172c3e-eedb-449e-8fdd-b76cbbf08eaa))
-	- Re-epithelization
+	- ((6a173359-d184-4778-9893-d234d40d5034))
 		- Proliferation relevant citations are 8 - 12
 			- Proliferation begins several hours after wounding and continues for days
 			- Is not at the wound edge, but can get pretty close
@@ -39,5 +39,23 @@ links:: [Local library](zotero://select/library/items/WJ54B4ZA), [Web library](h
 			- Band varies in size and gets bigger as migration finishes
 		- FGF7 (keratinocyte growth factor) is strongly upregulated by fibroblasts near wounds
 			- blocking FDFR2 signaling reduces epidermal migration and proliferation
-		-
+		- There's a bajillion growth factors coming from many places
+			- platelet degranulation
+			- wound edge itself (autocrine)
+			- dermis
+		- Immediate early TFs start to be expressed
+			- cFos, cJun, Egr1
+		- But epigenetic marks matter to
+			- Polycomb deposited repressive marks on the late wound responsive genes
+				- What are they? look at reference 26
+				- ((6a173320-551b-4d2e-ae38-74ffdaa45fe8))
+- ((6a17334b-d0fc-4a01-8d46-bb02fc00c632))
+	- Proliferation is not the only factor - contraction and migration, cell shape changes
+	- ((6a17340f-8dc1-48c2-9cc2-12fbdda280ca))
+	- Migrating epidermal tongue cells need to change their expression profiles
+		- transient tethering, proteolysis, cell junction rearrangments
+	- All epidermal cells in the wound edge express integrins
+		- Normally confined to the basement membrane adjacent cells
+	- They also turn on MMP1 to chew through the hastily assembled matrix of the clot
+	- Partial EMT? See reference
 -
