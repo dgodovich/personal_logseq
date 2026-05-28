@@ -22,3 +22,5 @@
 		- no eraser, but you can draw over
 	- color, object ID
 	- smallest seed point is 1.5x resolution
+	- there is a global cpu and memory setting
+		- but things aren't multithreaded
