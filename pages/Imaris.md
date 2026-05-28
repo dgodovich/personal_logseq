@@ -1,0 +1,18 @@
+- [[May 28th, 2026]] Support Meeting
+	- Save as with colors - can help to actually have them
+	- from the get go he doesn't think filament tracer will work
+	- Filament tracer can't make them long enough
+	- Surface based models
+		- density
+		- Pixel classifier
+	- Import segmentation from ilastik
+		- can import directly
+		- of any mask!
+		- Surface from mask
+	- Filament tracer wants to branch
+	- Intensity as a function of distance to wound
+		- I think this is already something I'm thinking about
+		- More intensity = more fibers
+	- ML in 3D doesn't really work that well when your data is 2.5D
+	- Turn off smoothing
+	-
