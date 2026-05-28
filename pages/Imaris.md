@@ -24,3 +24,7 @@
 	- smallest seed point is 1.5x resolution
 	- there is a global cpu and memory setting
 		- but things aren't multithreaded
+	- vantage surface intensity profile
+		- surface image intensity correlation
+		- normally leave off because it's computationally expensive
+		- fiji -> options -> statistics -> spatial
