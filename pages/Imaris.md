@@ -15,4 +15,10 @@
 		- More intensity = more fibers
 	- ML in 3D doesn't really work that well when your data is 2.5D
 	- Turn off smoothing
-	-
+	- extended section in slicer view
+		- set it to 0 to get true slicer view
+	- smaller iteration is better
+		- to use delete last better
+		- no eraser, but you can draw over
+	- color, object ID
+	- smallest seed point is 1.5x resolution
