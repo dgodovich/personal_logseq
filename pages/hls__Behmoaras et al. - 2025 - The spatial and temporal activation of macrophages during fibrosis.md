@@ -98,3 +98,13 @@ file-path:: file://C:/Users/David/Zotero/storage/VIA87Y26/Behmoaras et al. - 202
   hl-page:: 6
   hl-color:: red
   id:: 6a19a288-29dd-4c80-9399-ef03f1926984
+- sts and FOLR2 + macrophages promote the differentiation of fibroblasts into ECM-secreting myofibroblasts through the WNT–β-catenin path
+  ls-type:: annotation
+  hl-page:: 9
+  hl-color:: yellow
+  id:: 6a19a692-289d-42a3-b92a-d38975c7815a
+- phenotypically distinct fibroblast subtype controls the early stages of fibrogenesis
+  ls-type:: annotation
+  hl-page:: 9
+  hl-color:: green
+  id:: 6a19a6ac-a6e1-46b2-8d44-86c054026481

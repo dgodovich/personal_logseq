@@ -47,5 +47,7 @@ links:: [Local library](zotero://select/library/items/9D3IGJSM), [Web library](h
 	- My interpretation of this is that it's monocyte derived
 	- First wave that comes in to the tissue is the most important one
 		- hmm
-	-
+- ((6a19a6ac-a6e1-46b2-8d44-86c054026481))
+	- senotype? thinking of relation to Elisseeff
+-
 -
