@@ -63,3 +63,38 @@ file-path:: file://C:/Users/David/Zotero/storage/VIA87Y26/Behmoaras et al. - 202
   hl-page:: 12
   hl-color:: red
   id:: 6a175589-1281-477b-bde3-50d149b84d48
+- ting the idea that monocyte-derived macrophages have a major role in driving fibrotic disease in mouse mo
+  ls-type:: annotation
+  hl-page:: 5
+  hl-color:: yellow
+  id:: 6a199efb-13bb-42a1-8605-0f42cd478e96
+- ut instead upregulate ECM regulatory proteins (such as MMPs, TIMPs, cathepsins, the adhesion proteins fibronectin and osteopontin (encoded by SPP1), matrix-associated annexins and galectins), with some exce
+  ls-type:: annotation
+  hl-page:: 5
+  hl-color:: yellow
+  id:: 6a199f25-e489-4de8-a0a0-dd0a4c531ff9
+- In all these macrophage populations, TREM2, SPP1, CD9 and GPNMB seem to be co-expressed with lipid metabolism-related genes (such as FAB
+  ls-type:: annotation
+  hl-page:: 5
+  hl-color:: red
+  id:: 6a199f53-ce30-482b-b354-39ed42f0ccc1
+- ce, infiltrating monocytes are part of an early chemotactic event that subsequently undergo monocyte-to-macrophage differentiation towards a profibrotic state that shares features of a LAM profile across tiss
+  ls-type:: annotation
+  hl-page:: 5
+  hl-color:: green
+  id:: 6a199f72-ba63-461e-b759-476282da1e4f
+- macrophages promote fibrosis. Tissue-resident, locally self-maintaining, macrophage populations have a protective role in healing. For instance, a LYVE1hi MHC class IIlo interstitial macrophage population aids lung 
+  ls-type:: annotation
+  hl-page:: 5
+  hl-color:: yellow
+  id:: 6a19a232-2e1f-4936-b0ec-c12f45273e68
+- ssue-resident macrophages lack expression of the monocyte marker CCR2 (r
+  ls-type:: annotation
+  hl-page:: 6
+  hl-color:: green
+  id:: 6a19a253-6861-4531-8ab8-a91e390a82de
+- ectively targeted in mice by deletion of genes encoding LYVE1, CX3CR1 and CD169
+  ls-type:: annotation
+  hl-page:: 6
+  hl-color:: red
+  id:: 6a19a288-29dd-4c80-9399-ef03f1926984
