@@ -8,5 +8,5 @@
 	- 100mg OrangeG
 	- 15mL Glycerol
 	- ~35mL Distilled Water (to final Volume 50mL)
-	- vortex, aliquot. Good for forever
+	- vortex, aliquot. Goo/d for forever
 -
