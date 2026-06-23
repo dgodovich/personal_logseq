@@ -6,7 +6,7 @@
 	- Genotype by photoconversion of cut toes on the scope
 	- Image same day as you cut toes to avoid them drying out
 - MacFred
-	- No working primers (yet)
+	- Fred DH + Fred wt
 -
 - Goggles
 	- Green Goggles + Blue LED light

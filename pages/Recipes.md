@@ -1,12 +1,20 @@
 - Lysis
 	- 44ul water
-	- 5 buffer
-	- .8 ul enzyme
+	- 5ul 10X KAPA extract buffer
+	- .85 ul enzyme
 	- X number of samples
 	- Use 48.8 uL per sample
+- Genotyping
+	- Per sample:
+		- 5.25ul water
+		- 5ul 2X KAPA hot start
+		- 0.25ul primers
+			- 10uM primer mix
+	- 10uL to tube
+	- 2uL DNA
 - OrangeG loading dye
 	- 100mg OrangeG
 	- 15mL Glycerol
 	- ~35mL Distilled Water (to final Volume 50mL)
-	- vortex, aliquot. Goo/d for forever
+	- vortex, aliquot. Good for forever
 -
