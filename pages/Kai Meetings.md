@@ -9,7 +9,9 @@
 			- What concentration? 1:10
 		- mTmG punches
 			- Quantification on these?
-			-
+	- Macgreen problems
+		- Should I just punch LysM CreER mice? And use these to get a time course
+			- I have a big litter of these being weaned this week, and I will be gradually getting mice from Katie
 - [[May 4th, 2026]]
 	- Immunology course seems to be the move over conference
 		- Conference might be too much at this point
