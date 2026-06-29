@@ -3,6 +3,13 @@
 - [[Jun 29th, 2026]]
 	- Xenium updates
 		- Meeting with Abhishek on friday went pretty well, got environment set up for Char and got a DE notebook
+	- LysM CreER movie experiment 2
+		- did not inject yesterday
+		- inject tam today
+			- What concentration? 1:10
+		- mTmG punches
+			- Quantification on these?
+			-
 - [[May 4th, 2026]]
 	- Immunology course seems to be the move over conference
 		- Conference might be too much at this point
