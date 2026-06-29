@@ -52,7 +52,7 @@
 		- First thing that happens is degradation
 		- Then constriction
 		- Then expansion
-	- TODO Image Distal Macgreen Day 2 hole
+	- DONE Image Distal Macgreen Day 2 hole
 	- TODO Figure out how to measure laser cutter resolution
 	- TODO Make photomask illustrator files?
 	- Post meeting notes
