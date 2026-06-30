@@ -3,15 +3,41 @@
 - [[Jun 29th, 2026]]
 	- Xenium updates
 		- Meeting with Abhishek on friday went pretty well, got environment set up for Char and got a DE notebook
+		- what strategy to use for distance to wound edge
+			- [[draws/2026-06-30-11-10-27.excalidraw]]
+			- can try different binning strategies for ear axis
+			- 500 um next to wound edge, next 500um, and then rest of ear
+		- compare to uninjured rather than rest of ear
+			- this is probably more important
+			- What's the changes? Disregulation?
+		- Gene trends for uninjured ear
+		- Check xenium for Day 1 differences
+			- given what we see in imaging
+			- There seems to be some initial condition difference
 	- LysM CreER movie experiment 2
 		- did not inject yesterday
 		- inject tam today
 			- What concentration? 1:10
-		- mTmG punches
-			- Quantification on these?
+			- 1:500
+		- Injections should be a consistent volume
+	- mTmG punches
+		- Quantification on these?
+			- Do the hair follicle distance measurements
+			- Try to do semi-automated hair follicle detection with spots in Imaris
+			- But measurement across the hole will still be manual
+				- at least mostly manual
+		- Early epidermal closure could be an important difference
+			- Use dsRed mouse to look at the epidermis
+			- very bright, plus with SHG will be able to see very deeply
+				- Could potential see the whole lip
 	- Macgreen problems
 		- Should I just punch LysM CreER mice? And use these to get a time course
 			- I have a big litter of these being weaned this week, and I will be gradually getting mice from Katie
+		- Using LysM CreER will be good for now
+		- MacFred PDGFRa will probably be the big replacement long term, breeding for that soon
+	- stromal activation of Cxcr4
+		- broad marker of blastema population - fibroblasts moving and differentiating
+	-
 - [[May 4th, 2026]]
 	- Immunology course seems to be the move over conference
 		- Conference might be too much at this point
