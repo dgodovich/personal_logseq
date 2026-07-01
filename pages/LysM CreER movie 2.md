@@ -6,10 +6,12 @@
 	- Notes
 		- ~4 months old is pretty old but that's ok for testing
 		- injected high dose tamoxifen 2 months ago
-- Timecourse:
+- Time course:
 	- [[Jul 1st, 2026]] D1 - timelapse
 		-
 	- [[Jun 30th, 2026]] D0 - punch
+		- 175uL ketamine
 		- 1.5mm proximal punch left ear
+		- Got a very flat mount which was epic so took a 8x8 tile of hole at 5um \Delta\z
 	- [[Jun 29th, 2026]] injection
 		- 1:500 tamoxifen ~150uL
