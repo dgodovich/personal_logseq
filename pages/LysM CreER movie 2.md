@@ -8,7 +8,8 @@
 		- injected high dose tamoxifen 2 months ago
 - Time course:
 	- [[Jul 1st, 2026]] D1 - timelapse
-		-
+		- 1:500 is too little, or I did not inject enough
+		- I have basically no labeling
 	- [[Jun 30th, 2026]] D0 - punch
 		- 175uL ketamine
 		- 1.5mm proximal punch left ear
