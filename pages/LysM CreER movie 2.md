@@ -1,4 +1,4 @@
-- Mouse info
+- Mouse
 	- Genotype: LysM CreER; mTmG
 	- DOB: 2/25/2026
 	- Cage number: originally 195678 from Katie, imaging in ____
@@ -6,12 +6,18 @@
 	- Notes
 		- ~4 months old is pretty old but that's ok for testing
 		- injected high dose tamoxifen 2 months ago
+			- interestingly see very few of these
 - Time course:
 	- [[Jul 1st, 2026]] D1 - timelapse
+		- Anesthesia
+			- 150uL ketamine 16:34
+			- Iso turned on about 1 hour later to 1%
+			- bump to 1.5% at 6:15pm
 		- 1:500 is too little, or I did not inject enough
-		- I have basically no labeling
+			- I have basically no labeling
 	- [[Jun 30th, 2026]] D0 - punch
-		- 175uL ketamine
+		- Anesthesia
+			- 175uL ketamine
 		- 1.5mm proximal punch left ear
 		- Got a very flat mount which was epic so took a 8x8 tile of hole at 5um \Delta\z
 	- [[Jun 29th, 2026]] injection
