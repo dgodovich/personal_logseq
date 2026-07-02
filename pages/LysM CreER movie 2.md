@@ -15,6 +15,12 @@
 			- bump to 1.5% at 6:15pm
 		- 1:500 is too little, or I did not inject enough
 			- I have basically no labeling
+		- Imaging
+			- 2 FOV
+			- Time
+				- 1min 45 seconds minimal time step
+				- \Delta\t=4 minutes
+			- z stack
 	- [[Jun 30th, 2026]] D0 - punch
 		- Anesthesia
 			- 175uL ketamine
