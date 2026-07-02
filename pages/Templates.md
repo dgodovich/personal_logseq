@@ -1,3 +1,23 @@
+- Experiment
+  template:: experiment
+  template-including-parent:: false
+	- Mouse:
+		- Genotype:
+		- DOB:
+		- Cage number:
+		- Notes
+	- Goals:
+		-
+	- Time course:
+		- D0
+			- Anesthesia Parameters
+				-
+			- Imaging Parameters
+				-
+	- Relevant Project
+		-
+-
+-
 - School info
   template:: school_info
   template-including-parent:: false
