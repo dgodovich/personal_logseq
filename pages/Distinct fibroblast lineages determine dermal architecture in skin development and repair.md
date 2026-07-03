@@ -21,5 +21,16 @@ links:: [Local library](zotero://select/library/items/F9FG5LY2), [Web library](h
 	- Fibroblasts constitute the major mesenchymal cell type in the connective tissue and their functions are remarkably diverse: here, by characterising lineages of mouse skin fibroblasts, it is shown that distinct subpopulations contribute to skin development and repair during injury.
 - Attachments
 	- [Full Text PDF](https://www-nature-com.ezproxy.princeton.edu/articles/nature12783.pdf) {{zotero-imported-file FD9IMLJZ, "Driskell et al. - 2013 - Distinct fibroblast lineages determine dermal architecture in skin development and repair.pdf"}}
+- This article posits that there are two main fibroblast lineages
+	- One that forms the upper papillary dermis
+		- this is responsible for hair follicle formation
+		- is not recruited in wound healing until later stages
+		- activated by \beta-catenin from the epidermis
+	- One that forms the lower dermis (reticular)
+		- deposits bulk of the fibrillar ECM, forms adipocytes
+		- most of the wound healing fibroblast activation comes from here
+- Fibroblast populations
+	- [[draws/2026-07-03-08-10-48.excalidraw]]
+- Dlk1
 -
 -
