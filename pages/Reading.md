@@ -59,3 +59,8 @@
 - Regeneration
 	- [[Comparative analysis of ear-hole closure identifies epimorphic regeneration as a discrete trait in mammals]]
 	- [[The Wound Healing: A Mystery Still to Be Solved—What Is the Future?]]
+- Kai Journal Club
+	- Reviews
+		-
+	- Ear scars
+	- Back scars
