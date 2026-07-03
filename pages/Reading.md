@@ -61,6 +61,18 @@
 	- [[The Wound Healing: A Mystery Still to Be Solved—What Is the Future?]]
 - Kai Journal Club
 	- Reviews
-		-
+		- [[Fibroblast-macrophage reciprocal interactions in health, fibrosis, and cancer]]
+		- [[Spatiotemporal dynamics of mammalian wound healing]]
+		- [[Fibroblasts as confederates of the immune system]]
 	- Ear scars
+		- [[Comparative analysis of ear-hole closure identifies epimorphic regeneration as a discrete trait in mammals]]
+		- [[Granulocyte colony stimulating factor promotes scarless tissue regeneration]]
+		- [[Aging Suppresses Skin-Derived Circulating SDF1 to Promote Full-Thickness Tissue Regeneration]]
 	- Back scars
+		- [[CD201+ fascia progenitors choreograph injury repair]]
+		- [[Distinct fibroblast lineages determine dermal architecture in skin development and repair]]
+		- [[Fibroblasts of disparate developmental origins harbor anatomically variant scarring potential]]
+		- [[Identification and isolation of a dermal lineage with intrinsic fibrogenic potential]]
+		- [[Patch repair of deep wounds by mobilized fascia]]
+		- [[Preventing <i>Engrailed-1</i> activation in fibroblasts yields wound regeneration without scarring]]
+-
