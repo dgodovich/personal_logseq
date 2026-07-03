@@ -69,10 +69,18 @@
 		- [[Granulocyte colony stimulating factor promotes scarless tissue regeneration]]
 		- [[Aging Suppresses Skin-Derived Circulating SDF1 to Promote Full-Thickness Tissue Regeneration]]
 	- Back scars
-		- [[CD201+ fascia progenitors choreograph injury repair]]
 		- [[Distinct fibroblast lineages determine dermal architecture in skin development and repair]]
-		- [[Fibroblasts of disparate developmental origins harbor anatomically variant scarring potential]]
+			- This article posits that there are two main fibroblast lineages
+				- One that forms the upper papillary dermis
+					- this is responsible for hair follicle formation
+					- is not recruited in wound healing until later stages
+					- activated by \beta-catenin from the epidermis
+				- One that forms the lower dermis (reticular)
+					- deposits bulk of the fibrillar ECM, forms adipocytes
+					- most of the wound healing fibroblast activation comes from here
 		- [[Identification and isolation of a dermal lineage with intrinsic fibrogenic potential]]
 		- [[Patch repair of deep wounds by mobilized fascia]]
 		- [[Preventing <i>Engrailed-1</i> activation in fibroblasts yields wound regeneration without scarring]]
+		- [[CD201+ fascia progenitors choreograph injury repair]]
+		- [[Fibroblasts of disparate developmental origins harbor anatomically variant scarring potential]]
 -

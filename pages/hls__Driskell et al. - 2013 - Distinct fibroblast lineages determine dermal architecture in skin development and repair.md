@@ -1,0 +1,2 @@
+file:: [Driskell et al. - 2013 - Distinct fibroblast lineages determine dermal architecture in skin development and repair.pdf](file://C:/Users/David/Zotero/storage/FD9IMLJZ/Driskell et al. - 2013 - Distinct fibroblast lineages determine dermal architecture in skin development and repair.pdf)
+file-path:: file://C:/Users/David/Zotero/storage/FD9IMLJZ/Driskell et al. - 2013 - Distinct fibroblast lineages determine dermal architecture in skin development and repair.pdf

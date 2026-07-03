@@ -21,3 +21,5 @@ links:: [Local library](zotero://select/library/items/F9FG5LY2), [Web library](h
 	- Fibroblasts constitute the major mesenchymal cell type in the connective tissue and their functions are remarkably diverse: here, by characterising lineages of mouse skin fibroblasts, it is shown that distinct subpopulations contribute to skin development and repair during injury.
 - Attachments
 	- [Full Text PDF](https://www-nature-com.ezproxy.princeton.edu/articles/nature12783.pdf) {{zotero-imported-file FD9IMLJZ, "Driskell et al. - 2013 - Distinct fibroblast lineages determine dermal architecture in skin development and repair.pdf"}}
+-
+-
