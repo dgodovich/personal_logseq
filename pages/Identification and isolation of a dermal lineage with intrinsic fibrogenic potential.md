@@ -18,6 +18,7 @@ library-catalog:: DOI.org (Crossref)
 links:: [Local library](zotero://select/library/items/VB7HJSWH), [Web library](https://www.zotero.org/users/6106196/items/VB7HJSWH)
 
 - [[Abstract]]
+  collapsed:: true
 	- Fibroblasts in fibrosis
 	              
 	                Excess fibrous connective tissue, similar to scarring, forms during the repair of injuries. Fibroblasts are known to be involved, but their role is poorly characterized. Rinkevich

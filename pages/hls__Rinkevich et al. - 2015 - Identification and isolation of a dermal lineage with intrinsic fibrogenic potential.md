@@ -1,0 +1,2 @@
+file:: [Rinkevich et al. - 2015 - Identification and isolation of a dermal lineage with intrinsic fibrogenic potential.pdf](file://C:/Users/David/Zotero/storage/6DAKGWKF/Rinkevich et al. - 2015 - Identification and isolation of a dermal lineage with intrinsic fibrogenic potential.pdf)
+file-path:: file://C:/Users/David/Zotero/storage/6DAKGWKF/Rinkevich et al. - 2015 - Identification and isolation of a dermal lineage with intrinsic fibrogenic potential.pdf
