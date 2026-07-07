@@ -66,3 +66,50 @@ file-path:: file://C:/Users/David/Zotero/storage/Y82M2X5M/Mascharak et al. - 202
   hl-page:: 8
   hl-color:: yellow
   id:: 6a4d8949-9c41-4b55-a4f0-c77d02cbd890
+- ich suggests that verteporfin’s effects were not driven by altered immune response
+  ls-type:: annotation
+  hl-page:: 8
+  hl-color:: yellow
+  id:: 6a4d897e-2d9b-41cc-898e-80c5af4e9def
+- Picrosirius Red histology was colordeconvoluted to isolate ECM fiber components, which were noise-reduced and then binarized
+  ls-type:: annotation
+  hl-page:: 8
+  hl-color:: red
+  id:: 6a4d89d5-734b-4c30-b488-e6f9198542a8
+- D 30 control wounds had significantly reduced tensile strength(versus skin; Fig. 4I, green versus red). In contrast, verteporfin-treated wounds’ tensile strength did not significantly differ from that of unwounded skin
+  ls-type:: annotation
+  hl-page:: 8
+  hl-color:: green
+  id:: 6a4d8a1a-9a28-4196-bf7c-5a32077ddcd0
+- hereas DT-treated wounds exhibited near-complete pEPF ablation up to POD 30
+  ls-type:: annotation
+  hl-page:: 8
+  hl-color:: yellow
+  id:: 6a4d8a6c-705c-473a-a03b-c22038bf1c66
+- uggest that En1 is itself a mechanoresponsive master regulator of fibroblast activatio
+  ls-type:: annotation
+  hl-page:: 8
+  hl-color:: blue
+  id:: 6a4d8a81-a033-4181-ae7c-f939676cace0
+- [:span]
+  ls-type:: annotation
+  hl-page:: 9
+  hl-color:: yellow
+  id:: 6a4d8adc-7ce8-421f-9cd4-22ca44d0cafb
+  hl-type:: area
+  hl-stamp:: 1783466714338
+- onfirming that YAP is required for postnatal En1 activation
+  ls-type:: annotation
+  hl-page:: 8
+  hl-color:: yellow
+  id:: 6a4d8b30-bf6a-48ce-bdb9-9c0117afc944
+- By anatomically fractionating ENFs, we identify Dlk1+ Sca1– reticular ENFs as the predominant mechanosensitive cell capable of postnatal En1 activation
+  ls-type:: annotation
+  hl-page:: 9
+  hl-color:: yellow
+  id:: 6a4d8bc4-ae1d-43a6-b75b-067eafc1dcc3
+- Our data support the notion that it is not the amount of collagen and ECM that determines a scar, but rather the relative organization of the total ECM
+  ls-type:: annotation
+  hl-page:: 11
+  hl-color:: blue
+  id:: 6a4d8cf3-53cf-4595-a7d0-b20f4814f3d1

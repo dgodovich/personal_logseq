@@ -155,4 +155,17 @@ links:: [Local library](zotero://select/library/items/9ZWCKGTH), [Web library](h
 		- EPF does not have active Yap, but ENF does and then becomes pEPF
 - Yap block causes full regeneration which is surprising
 	- block the transition of ENF to pEPF
+- Fiber quantification method
+	- ((6a4d89d5-734b-4c30-b488-e6f9198542a8))
+	- kind of interesting
+	- Length, width individual stats; packing, alignment group stats
+- Pretty night and day differences when you deplete En-1 expressing cells
+	- ((6a4d8adc-7ce8-421f-9cd4-22ca44d0cafb))
+- Yap flox/flox is even better
+- ((6a4d8bc4-ae1d-43a6-b75b-067eafc1dcc3))
+- They say that this is not the fascia condition
+	- didn't go that deep
+	- pEPFs weren't seen outside the dermis
+	- fairly high confidence that reticular fibroblasts were the ones making pEPFs
+		- based on flow data Dlk1+ Sca1-
 -
