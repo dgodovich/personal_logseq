@@ -16,3 +16,13 @@ file-path:: file://C:/Users/David/Zotero/storage/Y82M2X5M/Mascharak et al. - 202
   hl-page:: 1
   hl-color:: yellow
   id:: 6a4d57be-cd8a-4a5e-98d6-e159007e2824
+- hese cells and their progeny, termed embryonic En1-positive fibroblasts or eEPFs, cease to express En1 in homeostatic postnatal ski
+  ls-type:: annotation
+  hl-page:: 2
+  hl-color:: yellow
+  id:: 6a4d5828-2124-4f16-9793-b3243e7c070c
+- hin unwounded skin, all transplanted fibroblasts demonstrated quiescent, elongated morphology (Fig. 1B, top). Wound-engrafted EPFs exhibited activated morphology with extended cellular processes (Fig. 1B, bottom left), consistent with prior reports of wound EPF phenoty
+  ls-type:: annotation
+  hl-page:: 2
+  hl-color:: yellow
+  id:: 6a4d5be8-f1b8-4756-8279-82a2fc2f5f8f

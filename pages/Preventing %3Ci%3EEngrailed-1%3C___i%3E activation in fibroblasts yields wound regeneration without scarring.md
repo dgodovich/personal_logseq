@@ -145,3 +145,4 @@ links:: [Local library](zotero://select/library/items/9ZWCKGTH), [Web library](h
 	                activation and promotes wound regeneration by ENFs, with recovery of skin appendages, ultrastructure, and mechanical strength. This finding suggests that there are two possible outcomes to postnatal wound healing: a fibrotic response (EPF-mediated) and a regenerative response (ENF-mediated).
 - Attachments
 	- [PDF](zotero://select/library/items/Y82M2X5M) {{zotero-imported-file Y82M2X5M, "Mascharak et al. - 2021 - Preventing Engrailed-1 activation in fibroblasts yields wound regeneration without scarring.pdf"}}
+- Answering the next question of where do the adult fibroblasts come from
