@@ -11,3 +11,23 @@ file-path:: file://C:/Users/David/Zotero/storage/6DAKGWKF/Rinkevich et al. - 201
   hl-page:: 1
   hl-color:: green
   id:: 6a4bdebc-dbbc-421c-8eee-1548e6758d41
+- espite the presence of other fibroblast lineages in the dorsal dermis, the Engrailed-1 lineage is the primary contributor to connective tissue secretion and organization during embryonic development, cutaneous wounding, radiation fibrosis, and cancer stroma formation
+  ls-type:: annotation
+  hl-page:: 2
+  hl-color:: yellow
+  id:: 6a4c727f-7263-47ae-b2b6-1725f7b066ef
+- Compared with the third cluster, the first two were defined by increased expression of “fibroblast” genes such as Pdgfra, Vim, P4hb, Col1a1, Col3a1, and Fbn1, as well as decreased expression of CDH1, Epcam, and Pecam1
+  ls-type:: annotation
+  hl-page:: 2
+  hl-color:: yellow
+  id:: 6a4c733a-76be-4a5d-b0aa-6b19868a2204
+- mice demonstrated that EPFs and ENFs shared a high degree of transcriptome-wide similarity
+  ls-type:: annotation
+  hl-page:: 2
+  hl-color:: green
+  id:: 6a4c7354-9423-4b28-ab3c-5561ba4a3163
+- owever, key differences in transcript expression were present, including differential expression of HOXC10, Slit2, Foxp1, leptin receptor (Lepr), myosin light chain kinase(Mylk), and actin alpha 1 (Acta1), among many others
+  ls-type:: annotation
+  hl-page:: 2
+  hl-color:: yellow
+  id:: 6a4c735d-ef37-4d22-88e2-e36711c74179

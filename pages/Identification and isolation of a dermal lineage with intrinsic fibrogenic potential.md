@@ -18,7 +18,6 @@ library-catalog:: DOI.org (Crossref)
 links:: [Local library](zotero://select/library/items/VB7HJSWH), [Web library](https://www.zotero.org/users/6106196/items/VB7HJSWH)
 
 - [[Abstract]]
-  collapsed:: true
 	- Fibroblasts in fibrosis
 	              
 	                Excess fibrous connective tissue, similar to scarring, forms during the repair of injuries. Fibroblasts are known to be involved, but their role is poorly characterized. Rinkevich
@@ -96,4 +95,14 @@ links:: [Local library](zotero://select/library/items/VB7HJSWH), [Web library](h
 	              Dermal fibroblasts represent a heterogeneous population of cells with diverse features that remain largely undefined. We reveal the presence of at least two fibroblast lineages in murine dorsal skin. Lineage tracing and transplantation assays demonstrate that a single fibroblast lineage is responsible for the bulk of connective tissue deposition during embryonic development, cutaneous wound healing, radiation fibrosis, and cancer stroma formation. Lineage-specific cell ablation leads to diminished connective tissue deposition in wounds and reduces melanoma growth. Using flow cytometry, we identify CD26/DPP4 as a surface marker that allows isolation of this lineage. Small molecule–based inhibition of CD26/DPP4 enzymatic activity during wound healing results in diminished cutaneous scarring. Identification and isolation of these lineages hold promise for translational medicine aimed at in vivo modulation of fibrogenic behavior.
 - Attachments
 	- [PDF](zotero://select/library/items/6DAKGWKF) {{zotero-imported-file 6DAKGWKF, "Rinkevich et al. - 2015 - Identification and isolation of a dermal lineage with intrinsic fibrogenic potential.pdf"}}
+- If the En-1 lineage is the primary "fibroblast" lineage what are the others doing?
+	- En-1 is turned on during a migratory period from somites to dorsal trunk dermis
+- There's some transcriptional differences but maybe not that much?
+	- Also might be decreasing differences with age? Unclear
+	- Myosin and actin remain different
+	- I don't believe any of these differences
+		- +- 1 log2 so really barely any change, and filtered on Q score <0.3 which is super high
+- Also becomes a more dominant population over time
+	- Unclear if this is from different proliferation or transdifferentiation or what
+	- Because this is a regular Cre line not a CreER it's not lineage traced right
 -
