@@ -56,3 +56,28 @@ file-path:: file://C:/Users/David/Zotero/storage/JD5T8FZH/Correa-Gallegos et al.
   hl-page:: 3
   hl-color:: yellow
   id:: 6a4d2638-a286-48d2-8477-1f69ae1324d3
+- ese results indicate that the lack of scarring with ePTFE membranes does not reflect chronic inflammation or poor clotting, but rather a blockade of fascia steering mediated by the fascia fibroblast
+  ls-type:: annotation
+  hl-page:: 3
+  hl-color:: yellow
+  id:: 6a4d2750-266a-4fd5-aafb-f8b4f69b05d1
+- ermal EPFs or dermal matrix are unable to repair wounds in the absence of fascia movemen
+  ls-type:: annotation
+  hl-page:: 3
+  hl-color:: green
+  id:: 6a4d2756-e699-4546-98d5-fbea02d69ef4
+- Our results demonstrate that fascia matrix works as an expanding sealant that quickly clogs deep wounds independently of cell proliferatio
+  ls-type:: annotation
+  hl-page:: 5
+  hl-color:: blue
+  id:: 6a4d27c9-9c44-46a1-8ac9-7ec78c2e9307
+- ries, fascia fibroblasts pilot their local composite matrix into wounds that, in coordination with the coagulation cascade, form the provisional matrix.
+  ls-type:: annotation
+  hl-page:: 5
+  hl-color:: blue
+  id:: 6a4d2885-4323-46ef-906e-3344c6e588ff
+- Cultured dermal fibroblasts have been shown to pull and reorient individual collagen or fibronectin fibres locally in cultured plates and in 3D in vitro assay
+  ls-type:: annotation
+  hl-page:: 5
+  hl-color:: yellow
+  id:: 6a4d289d-e202-4876-ab56-00ccdea2a6f7

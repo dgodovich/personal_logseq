@@ -25,5 +25,5 @@ links:: [Local library](zotero://select/library/items/YLBF64RK), [Web library](h
 - They leave but they don't die?
 	- where do they go
 	- 10 weeks after injury is a long time for them to be extruded or something
--
+- Not entirely sure what matrix steering is
 -
