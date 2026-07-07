@@ -113,4 +113,10 @@ links:: [Local library](zotero://select/library/items/VB7HJSWH), [Web library](h
 	- I guess it's true that they're doing all these things but my read is that it's just a numbers thing
 - Tissue location difference is important and oral mucosa fibroblasts are not the same as dermal ones
 	- Less scarring, less ECM deposition
+- En-1 lineage fibroblasts are important for healing
+	- delay wound closure when gone
+- Not sure what a lineage negative gate is
+- CD26 expression in lower dermis in adult
+- Inhibition of CD26 (supposedly lowered activation of this population) makes healing take longer
+	- But makes it better - less scar
 -

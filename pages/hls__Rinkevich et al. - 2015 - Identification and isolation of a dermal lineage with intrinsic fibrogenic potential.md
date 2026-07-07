@@ -97,3 +97,18 @@ file-path:: file://C:/Users/David/Zotero/storage/6DAKGWKF/Rinkevich et al. - 201
   hl-page:: 8
   hl-color:: yellow
   id:: 6a4c7d39-5715-4b7a-9b02-38aa486eb65f
+- WPFs were found to express CD26 at levels similar to EPF
+  ls-type:: annotation
+  hl-page:: 8
+  hl-color:: yellow
+  id:: 6a4c7e7a-43da-4783-b349-33f88c3553b7
+- e identified CD26 as the surface marker offering the highest-fold enrichment of EPFs over ENF
+  ls-type:: annotation
+  hl-page:: 8
+  hl-color:: yellow
+  id:: 6a4c7e7e-4d00-474b-ab94-265d88a7d773
+- gh CD26 immunopositivity was observed in regions of upper dermis between hair follicles, but not on the follicles themselves, and displayed an overlapping pattern with GFP but not RFP fluorescen
+  ls-type:: annotation
+  hl-page:: 8
+  hl-color:: yellow
+  id:: 6a4c7e8a-9323-454a-ba2e-f86a59fcd2cc
