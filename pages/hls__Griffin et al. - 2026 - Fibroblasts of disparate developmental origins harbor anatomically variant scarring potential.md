@@ -1,0 +1,2 @@
+file:: [Griffin et al. - 2026 - Fibroblasts of disparate developmental origins harbor anatomically variant scarring potential.pdf](file://C:/Users/David/Zotero/storage/TQLFJUWR/Griffin et al. - 2026 - Fibroblasts of disparate developmental origins harbor anatomically variant scarring potential.pdf)
+file-path:: file://C:/Users/David/Zotero/storage/TQLFJUWR/Griffin et al. - 2026 - Fibroblasts of disparate developmental origins harbor anatomically variant scarring potential.pdf

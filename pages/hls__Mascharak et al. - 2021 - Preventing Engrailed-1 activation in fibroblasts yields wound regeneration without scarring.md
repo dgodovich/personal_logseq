@@ -1,0 +1,2 @@
+file:: [Mascharak et al. - 2021 - Preventing Engrailed-1 activation in fibroblasts yields wound regeneration without scarring.pdf](file://C:/Users/David/Zotero/storage/Y82M2X5M/Mascharak et al. - 2021 - Preventing Engrailed-1 activation in fibroblasts yields wound regeneration without scarring.pdf)
+file-path:: file://C:/Users/David/Zotero/storage/Y82M2X5M/Mascharak et al. - 2021 - Preventing Engrailed-1 activation in fibroblasts yields wound regeneration without scarring.pdf

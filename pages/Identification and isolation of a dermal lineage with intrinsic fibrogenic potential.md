@@ -116,7 +116,11 @@ links:: [Local library](zotero://select/library/items/VB7HJSWH), [Web library](h
 - En-1 lineage fibroblasts are important for healing
 	- delay wound closure when gone
 - Not sure what a lineage negative gate is
+	- ((6a4c8093-c7d8-4c7e-b75c-486255172115))
+	  id:: 6a4c808a-12dd-40e2-a11c-cf54fbf887aa
 - CD26 expression in lower dermis in adult
 - Inhibition of CD26 (supposedly lowered activation of this population) makes healing take longer
 	- But makes it better - less scar
+- Lots of fibroblasts don't express PDGFRa on their surface? surprising
+-
 -

@@ -112,3 +112,24 @@ file-path:: file://C:/Users/David/Zotero/storage/6DAKGWKF/Rinkevich et al. - 201
   hl-page:: 8
   hl-color:: yellow
   id:: 6a4c7e8a-9323-454a-ba2e-f86a59fcd2cc
+- Our data indicate that within cutaneous tissues, a distinct and local lineage of resident fibroblasts is responsible for the fibrosis seen during wound healing, with an absence of ECM contributions from other mesenchyme or nonmesenchyme lineages
+  ls-type:: annotation
+  hl-page:: 11
+  hl-color:: yellow
+  id:: 6a4c7fcf-1fdb-4be4-a0be-b23366d9f2b0
+- cently reported CD26 to be a marker of the upper dermis during fetal development. Our data demonstrate that CD26 is expressed in both upper and lower dermis at adult stages of developmen
+  ls-type:: annotation
+  hl-page:: 11
+  hl-color:: yellow
+  id:: 6a4c7ff5-9d8b-4d3b-b475-fac451c4bf65
+- icates that 35% and 87% of EPFs and ENFs, respectively, do not express Pdgfra surface protei
+  ls-type:: annotation
+  hl-page:: 11
+  hl-color:: green
+  id:: 6a4c8003-4001-4b31-ac07-1d900ca39838
+- issociated primary dermal fibroblasts after lineagenegative gating of hematopoietic, endothelial, and epithelial cell lineages, using CD31, CD45, Tie2, Ter119, and EpCAM
+  ls-type:: annotation
+  hl-page:: 12
+  hl-color:: red
+  id:: 6a4c8093-c7d8-4c7e-b75c-486255172115
+  hl-stamp:: 1783398549025

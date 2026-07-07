@@ -17,6 +17,7 @@ library-catalog:: DOI.org (Crossref)
 links:: [Local library](zotero://select/library/items/9ZWCKGTH), [Web library](https://www.zotero.org/users/6106196/items/9ZWCKGTH)
 
 - [[Abstract]]
+  collapsed:: true
 	- Regeneration without scarring
 	              
 	                Wounds in adult mammals typically heal by forming fibrotic scars. Mascharak
