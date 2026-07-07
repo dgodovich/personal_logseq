@@ -56,3 +56,44 @@ file-path:: file://C:/Users/David/Zotero/storage/6DAKGWKF/Rinkevich et al. - 201
   hl-page:: 6
   hl-color:: yellow
   id:: 6a4c7adc-5abf-4b60-a0b9-771c2203195a
+- ice displayed a beehive pattern of collagen deposition within the dermis and a characteristic epidermal hyperproliferation of keratinocyt
+  ls-type:: annotation
+  hl-page:: 6
+  hl-color:: yellow
+  id:: 6a4c7b9a-9477-458f-9cca-e86a43fca6e4
+- GFP-positive and hence WPF-derive
+  ls-type:: annotation
+  hl-page:: 6
+  hl-color:: yellow
+  id:: 6a4c7b9d-82d1-4553-92ec-fc6172b73396
+- seen by decreased blue(collagen) staining with Maisson’s trichrom
+  ls-type:: annotation
+  hl-page:: 6
+  hl-color:: red
+  id:: 6a4c7bac-08aa-4890-829a-c75d76e9945a
+- o the dorsal back exhibited considerably reduced scarring in comparison with EPFs transplanted into the oral cavity
+  ls-type:: annotation
+  hl-page:: 6
+  hl-color:: green
+  id:: 6a4c7c31-5034-4f57-b27d-5dcb92f31d53
+  hl-stamp:: 1783397427528
+- dicate that WPFs and EPFs are functionally distinct populations in terms of their migratory and secretory program
+  ls-type:: annotation
+  hl-page:: 8
+  hl-color:: yellow
+  id:: 6a4c7c42-c175-41dc-a857-c770211ee0e2
+- plete healing of DT-treated wounds required 20 days, an additional 6 days over that of control wounds (14 days) and reported splinted excisional wound healing rate
+  ls-type:: annotation
+  hl-page:: 8
+  hl-color:: yellow
+  id:: 6a4c7d11-a9ce-43c5-98cf-60e61d074a57
+- son’s trichrome staining revealed greater cellularity and reduced collagen densit
+  ls-type:: annotation
+  hl-page:: 8
+  hl-color:: yellow
+  id:: 6a4c7d2d-25a9-438c-994e-b52d18abd0dc
+- ken together, these data confirm an important functional role for EPFs both in terms of wound closure and connective tissue deposition during wound healin
+  ls-type:: annotation
+  hl-page:: 8
+  hl-color:: yellow
+  id:: 6a4c7d39-5715-4b7a-9b02-38aa486eb65f

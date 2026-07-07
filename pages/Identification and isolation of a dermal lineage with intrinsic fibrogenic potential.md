@@ -109,4 +109,8 @@ links:: [Local library](zotero://select/library/items/VB7HJSWH), [Web library](h
 - ((6a4c7849-f93f-4450-9cbe-2f892a8c491b))
 	- and they also say that CD26 is a marker, which is backwards of what Driskell says in [[Distinct fibroblast lineages determine dermal architecture in skin development and repair]]
 - There's a lot of reviewer type paragraphs here  that I'm not sure how to interpret
+- I feel like a lot of this is pointing to En-1 positive cells as the main fibroblast population
+	- I guess it's true that they're doing all these things but my read is that it's just a numbers thing
+- Tissue location difference is important and oral mucosa fibroblasts are not the same as dermal ones
+	- Less scarring, less ECM deposition
 -
