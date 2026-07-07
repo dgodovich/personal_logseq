@@ -26,4 +26,6 @@ links:: [Local library](zotero://select/library/items/YLBF64RK), [Web library](h
 	- where do they go
 	- 10 weeks after injury is a long time for them to be extruded or something
 - Not entirely sure what matrix steering is
+	- I guess it's what's doing the first deposition or placement of new matrix in the wound bed
+	-
 -
