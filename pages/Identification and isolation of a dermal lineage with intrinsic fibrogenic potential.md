@@ -18,6 +18,7 @@ library-catalog:: DOI.org (Crossref)
 links:: [Local library](zotero://select/library/items/VB7HJSWH), [Web library](https://www.zotero.org/users/6106196/items/VB7HJSWH)
 
 - [[Abstract]]
+  collapsed:: true
 	- Fibroblasts in fibrosis
 	              
 	                Excess fibrous connective tissue, similar to scarring, forms during the repair of injuries. Fibroblasts are known to be involved, but their role is poorly characterized. Rinkevich
@@ -105,4 +106,6 @@ links:: [Local library](zotero://select/library/items/VB7HJSWH), [Web library](h
 - Also becomes a more dominant population over time
 	- Unclear if this is from different proliferation or transdifferentiation or what
 	- Because this is a regular Cre line not a CreER it's not lineage traced right
+- ((6a4c7849-f93f-4450-9cbe-2f892a8c491b))
+	- and they also say that CD26 is a marker, which is backwards of what Driskell says in [[Distinct fibroblast lineages determine dermal architecture in skin development and repair]]
 -

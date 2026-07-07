@@ -31,3 +31,13 @@ file-path:: file://C:/Users/David/Zotero/storage/6DAKGWKF/Rinkevich et al. - 201
   hl-page:: 2
   hl-color:: yellow
   id:: 6a4c735d-ef37-4d22-88e2-e36711c74179
+- eling of dermal ECM with the fluorescent protein expressed on the surface of the cell responsible for depositing those ECM component
+  ls-type:: annotation
+  hl-page:: 3
+  hl-color:: yellow
+  id:: 6a4c7833-c172-4879-8d3e-ceb2882dc3f3
+- E12.5, EPFs were observed localizing to the papillary dermis only (Fig. 3B, second panel). Subsequently, at E16.5, EPFs appeared to migrate to the lower reticular dermis(Fig. 3B, third panel), complete their migration at P1, and maintain a presence there throughout postnatal stages of developmen
+  ls-type:: annotation
+  hl-page:: 3
+  hl-color:: yellow
+  id:: 6a4c7849-f93f-4450-9cbe-2f892a8c491b
