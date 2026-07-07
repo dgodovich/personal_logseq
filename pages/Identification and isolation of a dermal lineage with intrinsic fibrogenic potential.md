@@ -108,4 +108,5 @@ links:: [Local library](zotero://select/library/items/VB7HJSWH), [Web library](h
 	- Because this is a regular Cre line not a CreER it's not lineage traced right
 - ((6a4c7849-f93f-4450-9cbe-2f892a8c491b))
 	- and they also say that CD26 is a marker, which is backwards of what Driskell says in [[Distinct fibroblast lineages determine dermal architecture in skin development and repair]]
+- There's a lot of reviewer type paragraphs here  that I'm not sure how to interpret
 -

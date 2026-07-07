@@ -41,3 +41,18 @@ file-path:: file://C:/Users/David/Zotero/storage/6DAKGWKF/Rinkevich et al. - 201
   hl-page:: 3
   hl-color:: yellow
   id:: 6a4c7849-f93f-4450-9cbe-2f892a8c491b
+- Tie2 Cre;R26 mTmG (endothelial and hematopoietic lineages
+  ls-type:: annotation
+  hl-page:: 4
+  hl-color:: red
+  id:: 6a4c78b1-5863-40a0-be78-191d94ad49b0
+- repeated this analysis using a humanized model of wound healing, which proceeds through granulation tissue formation and reepithelialization, with minimal contraction
+  ls-type:: annotation
+  hl-page:: 6
+  hl-color:: red
+  id:: 6a4c7a57-53a6-4aeb-9bf3-f0224aadd143
+- he stroma of the melanoma was predominantly EPF-derived
+  ls-type:: annotation
+  hl-page:: 6
+  hl-color:: yellow
+  id:: 6a4c7adc-5abf-4b60-a0b9-771c2203195a
