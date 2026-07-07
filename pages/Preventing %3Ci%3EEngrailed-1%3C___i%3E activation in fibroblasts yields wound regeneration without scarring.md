@@ -146,3 +146,13 @@ links:: [Local library](zotero://select/library/items/9ZWCKGTH), [Web library](h
 - Attachments
 	- [PDF](zotero://select/library/items/Y82M2X5M) {{zotero-imported-file Y82M2X5M, "Mascharak et al. - 2021 - Preventing Engrailed-1 activation in fibroblasts yields wound regeneration without scarring.pdf"}}
 - Answering the next question of where do the adult fibroblasts come from
+- En-1 seems to be turned on during the wound healing response
+	- Transplant of ENF still has green cells after wounding
+	- Reticular fibroblasts are the ones that turn on En-1
+- Activation of En-1 may be driven by mechanical cues
+	- soft hydrogels have lowered activation
+	- Yap signaling regulating this
+		- EPF does not have active Yap, but ENF does and then becomes pEPF
+- Yap block causes full regeneration which is surprising
+	- block the transition of ENF to pEPF
+-
