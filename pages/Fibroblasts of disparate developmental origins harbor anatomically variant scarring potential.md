@@ -26,4 +26,10 @@ links:: [Local library](zotero://select/library/items/DUTWPSPJ), [Web library](h
 	- ventral from lateral plate mesoderm
 	- dorsal from somitic mesoderm
 - facial and scalp wounds re-epitheliazed by day 11, back and ventral by day 14
+- competition between fibroblast populations?
+- You can shift to neural crest like with just a chromatin modifier KO?
+	- feels surprising to me
+- ((6a4e8214-01fc-4134-a1b0-c07f75284eff))
+	- this is weird
+	- you can just broadly transcriptionally repress something and it's a better healing outcome? suspicious
 -
