@@ -28,4 +28,15 @@ links:: [Local library](zotero://select/library/items/3XH47YFN), [Web library](h
 	                progenitor differentiation impaired the spatiotemporal appearances of fibroblasts and chronically delayed wound healing. The discovery of proinflammatory and myofibroblast progenitors and their differentiation pathways provide a new roadmap to understand and clinically treat impaired wound healing.
 - Attachments
 	- [PDF](zotero://select/library/items/YMV34UCY) {{zotero-imported-file YMV34UCY, "Correa-Gallegos et al. - 2023 - CD201+ fascia progenitors choreograph injury repair.pdf"}}
--
+- ((6a4dc4ce-2d24-4b6b-8718-70e2f65acdd3))
+	- check out methods for what mesenchymal enriched fraction means
+- Shared clusters in injured and uninjured
+	- Papillary fibroblast markers - Sparc, Dcn, Lum
+	- Reticular fibroblast markers - Cxcl12, Cygb, Mgp
+	- Fascia markers - Sca1 (Ly6a), Plac8, Pi16, Dpt
+	- Progenitor mesenchymal cell marker CD201 marks fibroblasts in fascia as well
+- Injured specific clusters
+	- Pdpn, Ccl2, Cxcl1 - proinflammatory fibroblasts during inflammation phase
+	- Proliferation phase clusters are myofibroblasts, \alpha\SMA
+	-
+	-
