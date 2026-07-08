@@ -25,4 +25,5 @@ links:: [Local library](zotero://select/library/items/29SI3M74), [Web library](h
 	- inflammatory macrophage markers - Cd80, Ptgs2 (cox2), Tnf, IL1b, Spp1
 	- anti-inflammatory markers - Mrc1, Msr1, Arg1, Cd163, Stat6
 - these are nice and elegant experiments
--
+- cxcr2 also expressed by keratinocytes
+	- used in migration
