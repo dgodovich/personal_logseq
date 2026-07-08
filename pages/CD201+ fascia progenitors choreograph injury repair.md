@@ -51,5 +51,5 @@ links:: [Local library](zotero://select/library/items/3XH47YFN), [Web library](h
 - Retinoic acid is initial regulator of fibroblast differentiation
 	- inhibitor treatment or over activation leads to failure to make myofibroblasts and contract the wound
 	- causes expression of Ccl2
-	-
+-
 -

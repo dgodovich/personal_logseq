@@ -93,3 +93,35 @@ file-path:: file://C:/Users/David/Zotero/storage/YMV34UCY/Correa-Gallegos et al.
   hl-page:: 7
   hl-color:: yellow
   id:: 6a4dcc64-431e-438f-a18e-4fd79056da3d
+- ntial role of RA overactivation in sustaining the proinflammatory stat
+  ls-type:: annotation
+  hl-page:: 5
+  hl-color:: yellow
+  id:: 6a4dcd59-511c-49d7-8f9c-ce880b6cc278
+- Hypoxia gates the second transition ste
+  ls-type:: annotation
+  hl-page:: 7
+  hl-color:: purple
+  id:: 6a4dcd84-793f-4292-a900-4c4151425170
+- rthermore, Hif1a transcriptional activity directly correlates with its expression in proto- and myofibroblasts (Fig. 4a) and HIF1α+ cells were indeed detected within CD201+- and PDPN +-derived lineages as well as in fascia explants at times when proinflammatory fibroblasts transition to proto-myofibroblas
+  ls-type:: annotation
+  hl-page:: 7
+  hl-color:: yellow
+  id:: 6a4dcd9b-6ccb-4434-90b1-a8d6d829370e
+- hese data indicate that HIF1α acts as an upstream regulator of both YAP–TAZ mechanotransduction and TGFβ pathwa
+  ls-type:: annotation
+  hl-page:: 7
+  hl-color:: yellow
+  id:: 6a4dcdcb-20f1-4e6d-8cc9-34330eaba108
+- nfirming that HIF1α has a role only during the later contraction-related phases of wo
+  ls-type:: annotation
+  hl-page:: 7
+  hl-color:: green
+  id:: 6a4dcddd-73b5-4405-9b90-997727581a46
+  hl-stamp:: 1783483872817
+- th systems, wound beds did not contract and develop(Fig. 4e), revealing a limited action of contractile proto-myofibroblast and myofibroblast state
+  ls-type:: annotation
+  hl-page:: 7
+  hl-color:: green
+  id:: 6a4dce19-1274-4a1c-918b-9f06d11ae7eb
+  hl-stamp:: 1783483931183
