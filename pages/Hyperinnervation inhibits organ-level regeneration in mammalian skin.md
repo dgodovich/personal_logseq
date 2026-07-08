@@ -1,0 +1,23 @@
+tags:: [[hyperinnervation]], [[injury repair]], [[nerve-tissue interactions]], [[organ-level regeneration]], [[regeneration]], [[wound healing]]
+date:: [[May 28th, 2026]]
+issn:: 0092-8674
+issue:: 11
+doi:: 10.1016/j.cell.2026.02.027
+title:: Hyperinnervation inhibits organ-level regeneration in mammalian skin
+pages:: 3270-3286.e17
+volume:: 189
+item-type:: [[journalArticle]]
+access-date:: 2026-06-03T17:29:02Z
+original-title:: Hyperinnervation inhibits organ-level regeneration in mammalian skin
+url:: https://www.sciencedirect.com/science/article/pii/S0092867426002345
+publication-title:: Cell
+journal-abbreviation:: Cell
+authors:: [[Hannah T. Tam]], [[Jingyu Peng]], [[Rebecca Freeman]], [[Yulia Shwartz]], [[Shlomi Brielle]], [[Sakshi Garg]], [[Siti Rahmayanti]], [[Stephen J. Crocker]], [[Devin Coon]], [[Ya-Chieh Hsu]]
+library-catalog:: ScienceDirect
+links:: [Local library](zotero://select/library/items/5D78G38R), [Web library](https://www.zotero.org/users/6106196/items/5D78G38R)
+
+- [[Abstract]]
+	- Some mammalian tissues can replace lost cells within one lineage, but organ-level regeneration—restoring diverse cell types across lineages—remains rare. Here, we show that late embryonic full-thickness skin injuries heal by regenerating epithelial, mesenchymal, neuronal, and vascular tissues with proper connectivity. However, this ability is lost soon after birth, resulting in failure to restore most cell types and hyperinnervation within the wound bed. Single-cell sequencing identified a postnatal wound-specific fibroblast (PWF) population absent after embryonic wounding. Through an in vivo screen, we discovered that three PWF-enriched genes—Timp1, Cxcl12, and Ccl7—inhibit organ-level regeneration and cause hyperinnervation when overexpressed in embryonic wounds. Reducing hyperinnervation in postnatal wounds through the depletion of Cxcl12 in fibroblasts or nerve ablation enables regeneration of diverse lineages after injury. Our study identifies mechanisms that transition an organ from regenerative to non-regenerative, discovers fibroblast-driven hyperinnervation as a key barrier, and demonstrates that removing this barrier unlocks organ-level regeneration.
+- Attachments
+	- [ScienceDirect Full Text PDF](https://pdf.sciencedirectassets.com/272196/1-s2.0-S0092867425X0012X/1-s2.0-S0092867426002345/main.pdf?X-Amz-Security-Token=IQoJb3JpZ2luX2VjEHkaCXVzLWVhc3QtMSJHMEUCIQCNDBmUt0ZvQDJkJ5reKiQdXNLYt7ydS1iShXXJV4eHMAIgTYbDgIb0BpMbj7ZFRSrdAhP9XRui1quOien5MlXTz%2BcqswUIQhAFGgwwNTkwMDM1NDY4NjUiDBv9I7i8n9eVku8YTSqQBZzxkXrSYNBNPg6omC2JhdIdTLQ%2FX3TzZ%2B8KQOUl0VpXaoSWQpYW2SkheFEQbOhOrC%2F%2FeBJke4fSQOI9YKZ4iLAqlujeiZn798swq6vGWYYtQoSGFk6LBbvxiK8%2BcORrV1bQNBmbQz4uz5TdbNfh657lSkZrBxquZqPJpijSJFEIO7Y1sb9ZNhGcciPM3X%2F2Vh%2BFBcddXTvCdKpIsh%2FfqapL6sTWUjeOEV5ysUVglDFSSXUOUzGkqMgNt5I6i5ZWduBxcxjr3AWh6gQOD%2BpXs%2Fk6kjwQd75wJ0KoUtS6iuze7EP6QbDk1rmWFoKGoZEpjKd%2BiijD%2F0iF2NBHZhXnnVsg%2By19PsryT0qtr64SCYca1LmbtPKQJ8B24KbPH%2BHPdHB7Pd1ydZPUDMn5bhqI5hIYtGo9WRo8DNAuHEEhJ7FoRnQhy322rR%2FfhpEUlu0Durdh%2BqdTES1TwsrUNAQnlbFTjrEam%2BeIOJLy3TVsVRy678GBbWtU%2BKED2nd7oLCoKzRAlORpRcEp9LgCl10wEttfMMNIufWr8P1i4AEYyFA3u0%2BkYPnzB8gOXL9Gm8JoSb54jJ2f7ab%2FoRiBuKZIM47snkcv4gxfHfLgfhGnKd%2Bi75tHDzAn20jq1h%2B9589tyMwsvVlU0%2Fdce4SqlXahGtd0qCB%2B84qU5dkvI%2FLINkqeNCYepbX0xj1mMtwpDUKRaQUjLlRIx85pWp3dwWB5fUAi0gPJhxoFg1m%2BV3ADVIAp7ObDAu9vEOygk5hldM7NbsGd%2FtJUCEdraOavbaVI58d1Kixupgc5%2FkpNcZ5l5hC60x%2F0UNjNukCVc%2BxWZDjjxS9ZrmmjvHI9ytTy2TqwO9IaSoV4eRpPzstpf%2FLzoZx8MLusgdEGOrEBZaaWalt%2FPG5Ic40clsal06K2ZdQWKg3fsxI%2FYJiEsLL5RFMM83psZ%2Fl1xtZz7TKIEYmV3D0OTf%2BpvgEeA0VgmoyO%2BegqGMsoyz96vSxLDDVMVTYVcLgLZI%2Bx%2BMXOCIaV7XxhD9FrBrVEYrmSs3y7vfjjMqU3tKp1tn7tFzHOXithdX5kcXLSswoub7wZB6yuc9j8qfrv6Pdz7p9nrhDFz5kVLFL0Jv15Fxcy7rO6aIBZ&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20260603T172908Z&X-Amz-SignedHeaders=host&X-Amz-Expires=300&X-Amz-Credential=ASIAQ3PHCVTY3KTVEPKX%2F20260603%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Signature=dfde5f7661a9cd8fe904657e8d0c740ad4feb76b2a23727947f2bea6550e4684&hash=ffcc796e81407997c354ad599585f21900142abb2f689289bca1181e54ba2b23&host=68042c943591013ac2b2430a89b270f6af2c76d8dfd086a07176afe7c76c2c61&pii=S0092867426002345&tid=spdf-23470a4c-6eab-4145-abef-9b83f89439d9&sid=eaab588b20f0c44bb7299054d2b157185b63gxrqa&type=client&tsoh=d3d3LXNjaWVuY2VkaXJlY3QtY29tLmV6cHJveHkucHJpbmNldG9uLmVkdQ%3D%3D&rh=d3d3LXNjaWVuY2VkaXJlY3QtY29tLmV6cHJveHkucHJpbmNldG9uLmVkdQ%3D%3D&ua=0f15005f5453500753505e&rr=a0606b148f29a504&cc=us) {{zotero-imported-file S5267YYQ, "Tam et al. - 2026 - Hyperinnervation inhibits organ-level regeneration in mammalian skin.pdf"}}
+	- [ScienceDirect Snapshot](https://www.sciencedirect.com/science/article/pii/S0092867426002345) {{zotero-imported-file 7KLZY2YM, "S0092867426002345.html"}}

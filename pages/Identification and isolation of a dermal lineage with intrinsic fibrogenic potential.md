@@ -122,5 +122,7 @@ links:: [Local library](zotero://select/library/items/VB7HJSWH), [Web library](h
 - Inhibition of CD26 (supposedly lowered activation of this population) makes healing take longer
 	- But makes it better - less scar
 - Lots of fibroblasts don't express PDGFRa on their surface? surprising
+- There isn't really massive transcriptional difference yet but there's already functional difference
+	- [[Hyperinnervation inhibits organ-level regeneration in mammalian skin]]
 -
 -

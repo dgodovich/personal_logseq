@@ -1,4 +1,13 @@
 - ((6a46fc69-6e8c-41cb-af71-eafe94ad3b33))
 	- Wnt1 Cre could be good for stromal labeling in ear
 		- neural crest derived
-	-
+	- collagen is gigantic so secretion is hard
+		- collagen trimer bundle forms in the golgi and it's basically the entire size of the golgi
+		- How does it go through the cisternae
+		- There's so much membrane that has to go with the secretory vesicle that it picks up some mGFP tag I guess
+		- But that doesn't last that long in the extracellular space
+	- pre-established difference in fibroblasts in proximal vs distal ear could bias towards healing or scarring
+	- transplants are commonly used
+		- potential to transplant / reconstitute proximal area into distal area
+	- Changing labeling strategy for collagen
+		-
