@@ -21,3 +21,10 @@
 		- plus various CreERs
 	- corellate epidermal closure time to functional readout
 	- design multiple ways of doing a perturbation because you really can't tell what's going to work or not
+	- can the difference seen in our model be explained by something already known or is it some other combination of factors
+		- Is there a baseline difference that's predictive
+	- regen seems to be all or nothing and also stereotyped
+		- how does a small change in starting condition lead to a bimodal outcome
+		- where is the point of decision making
+			- are these perturbations changing the environment in the same way in the first 48h, for example
+	- perturbation sooner rather than later in my experiments
