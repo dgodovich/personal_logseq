@@ -29,4 +29,4 @@ links:: [Local library](zotero://select/library/items/YLBF64RK), [Web library](h
 	- I guess it's what's doing the first deposition or placement of new matrix in the wound bed
 - NHS esters is a good tool because you can use whatever color you want for labeling
 	- some residue affinities but generally extracellular protein labeling
--
+- Mixing of fibroblast compartments could be relevant in the ear even if there's no fascia

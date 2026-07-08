@@ -10,4 +10,12 @@
 	- transplants are commonly used
 		- potential to transplant / reconstitute proximal area into distal area
 	- Changing labeling strategy for collagen
-		-
+		- not just SHG
+		- collagen monomers with NHS ester
+			- can't see this with SHG
+		- could be useful for degradation and deposition
+		- non-fiber
+	- Can use PDGFRa-H2BGFP CreER with lowish dose of tamoxifen
+		- single cell tracking through layers
+	- PGFRaH2BGFP MacFred mKate2
+		- plus various CreERs
