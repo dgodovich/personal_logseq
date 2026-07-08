@@ -168,4 +168,13 @@ links:: [Local library](zotero://select/library/items/9ZWCKGTH), [Web library](h
 	- pEPFs weren't seen outside the dermis
 	- fairly high confidence that reticular fibroblasts were the ones making pEPFs
 		- based on flow data Dlk1+ Sca1-
+- important point is that it's very hard to control these kinds of experiments
+- pre-treating tissue to activate
+	- apparently ablating a ton of cells helps
+- There's a lot of ways to get hair follicle regeneration
+	- yap block and en-1 ablation phenocopies but is it actually phenocopy
+- Yap inhibitor was used only at D0 and it was a substantial difference
+	- could be worth trying
+- Yap activated fibroblasts produce CSF1
+	- work from ruslan medzhitov
 -

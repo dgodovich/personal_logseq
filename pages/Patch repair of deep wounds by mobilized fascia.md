@@ -25,8 +25,10 @@ links:: [Local library](zotero://select/library/items/YLBF64RK), [Web library](h
 - They leave but they don't die?
 	- where do they go
 	- 10 weeks after injury is a long time for them to be extruded or something
+	- 5% are dying at every time point so they're gradually being lost
 - Not entirely sure what matrix steering is
 	- I guess it's what's doing the first deposition or placement of new matrix in the wound bed
 - NHS esters is a good tool because you can use whatever color you want for labeling
 	- some residue affinities but generally extracellular protein labeling
 - Mixing of fibroblast compartments could be relevant in the ear even if there's no fascia
+- could separate cartilage from the dermis
