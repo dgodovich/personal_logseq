@@ -11,3 +11,13 @@ file-path:: file://C:/Users/David/Zotero/storage/6SUAHS9D/Nishiguchi et al. - 20
   hl-page:: 5
   hl-color:: green
   id:: 6a4e9300-b91c-46e0-9d86-19813f6e1b88
+- ndeed, overexpression of SDF1 speeds up skin re-epithelializatio
+  ls-type:: annotation
+  hl-page:: 7
+  hl-color:: yellow
+  id:: 6a4e941d-5e28-4401-8552-5ea424c839f4
+- speculate that, from an evolution perspective, a young injured animal favors fast and imperfect wound repair over slow and perfect tissue regeneratio
+  ls-type:: annotation
+  hl-page:: 7
+  hl-color:: blue
+  id:: 6a4e9427-9942-4916-a065-e787a4e159e2

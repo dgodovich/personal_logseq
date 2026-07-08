@@ -59,6 +59,7 @@
 - Regeneration
 	- [[Comparative analysis of ear-hole closure identifies epimorphic regeneration as a discrete trait in mammals]]
 	- [[The Wound Healing: A Mystery Still to Be Solved—What Is the Future?]]
+	- [[Wnt-dependent de novo hair follicle regeneration in adult mouse skin after wounding]]
 - Kai Journal Club
 	- Reviews
 		- [[Fibroblast-macrophage reciprocal interactions in health, fibrosis, and cancer]]
