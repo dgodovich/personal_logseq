@@ -61,6 +61,7 @@
 	- [[The Wound Healing: A Mystery Still to Be Solved—What Is the Future?]]
 	- [[Wnt-dependent de novo hair follicle regeneration in adult mouse skin after wounding]]
 - Kai Journal Club
+  id:: 6a46fc69-6e8c-41cb-af71-eafe94ad3b33
 	- Reviews
 		- [[Fibroblast-macrophage reciprocal interactions in health, fibrosis, and cancer]]
 		- [[Spatiotemporal dynamics of mammalian wound healing]]

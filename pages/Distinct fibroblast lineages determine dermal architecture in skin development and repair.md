@@ -31,12 +31,16 @@ links:: [Local library](zotero://select/library/items/F9FG5LY2), [Web library](h
 		- most of the wound healing fibroblast activation comes from here
 - Fibroblast populations
 	- [[draws/2026-07-03-08-10-48.excalidraw]]
-- Dlk1 gone by P16 so it's a transient intermediate population
+- Dlk1 gone by E16 so it's a transient intermediate population
 - ((6a47accc-d3cf-40ae-b18f-12fe437b09d1))
 - Blimp1 is super restricted to just below the epidermis
 	- lineage labeled cells do not contribute to wound healing
 - Fucking me up that tdTomato is green in their figures
 - Wounding during anagen has more hair follicle regrowth
 	- probably because there's an extension of the papillary dermis?
+	- maybe not actually much difference from a different paper
 - ((6a47af03-02e6-44f5-bb39-e7c68b17db00))
 	- extended data 10 is way more convincing than their main figure imo
+- niche specific fibroblast potential
+	- Move it - cell intrinsic behavior
+- wnt / beta catenin overexpression in epidermis can lead to stromal wnt
