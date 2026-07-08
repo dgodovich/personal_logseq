@@ -37,6 +37,14 @@ links:: [Local library](zotero://select/library/items/3XH47YFN), [Web library](h
 	- Progenitor mesenchymal cell marker CD201 marks fibroblasts in fascia as well
 - Injured specific clusters
 	- Pdpn, Ccl2, Cxcl1 - proinflammatory fibroblasts during inflammation phase
-	- Proliferation phase clusters are myofibroblasts, \alpha\SMA
-	-
-	-
+	- Proliferation phase clusters are myofibroblasts, \alpha\SMA, Postn, Lrrc15, Runx2
+	- Acta low cluster in proliferation is high for Tnc, Stat3, Pcsk5
+		- proto-myofibroblast
+	- these are probably all derived from the fascia EPF
+		- ((6a4dc97d-22ea-4f5e-8c9f-17559e07fb4c))
+- They use PDGFRa expression to identify fibroblasts, but didn't the previous paper say that not all the EPFs express PDGFR?
+	- or maybe this was just that not all of them had it on the cell surface? not sure why that would be the case
+- bottom up distribution
+	- fibroblasts start immature at the bottom (fascia) and then move up as they differentiate
+- These guys are allergic to putting tdTomato in red
+-
