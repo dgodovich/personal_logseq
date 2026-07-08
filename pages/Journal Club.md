@@ -19,3 +19,5 @@
 		- single cell tracking through layers
 	- PGFRaH2BGFP MacFred mKate2
 		- plus various CreERs
+	- corellate epidermal closure time to functional readout
+	- design multiple ways of doing a perturbation because you really can't tell what's going to work or not
