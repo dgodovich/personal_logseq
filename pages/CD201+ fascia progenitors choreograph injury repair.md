@@ -28,3 +28,4 @@ links:: [Local library](zotero://select/library/items/3XH47YFN), [Web library](h
 	                progenitor differentiation impaired the spatiotemporal appearances of fibroblasts and chronically delayed wound healing. The discovery of proinflammatory and myofibroblast progenitors and their differentiation pathways provide a new roadmap to understand and clinically treat impaired wound healing.
 - Attachments
 	- [PDF](zotero://select/library/items/YMV34UCY) {{zotero-imported-file YMV34UCY, "Correa-Gallegos et al. - 2023 - CD201+ fascia progenitors choreograph injury repair.pdf"}}
+-
