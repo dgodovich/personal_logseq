@@ -63,3 +63,33 @@ file-path:: file://C:/Users/David/Zotero/storage/YMV34UCY/Correa-Gallegos et al.
   hl-page:: 4
   hl-color:: green
   id:: 6a4dca7d-29b2-4e19-b6cf-5cfa1c2e9529
+- ermore, co-expression of PDPN, pSTAT3 and RUNX2 markers in GFP+ cells at relevant times after injury further indicate that proinflammatory fibroblasts follow the same sequential trajectory into mature myofibroblas
+  ls-type:: annotation
+  hl-page:: 4
+  hl-color:: yellow
+  id:: 6a4dcac9-ab73-41d5-86f9-539920cc8210
+- ted wounds in control mice (Pdpn creER R26 WT and PdpncreER R26mTmG) showed a clear wound closure between 7 and 14 dpi, whereas the ablation of proinflammatory fibroblasts caused a significant delay in wound closure and contraction in PdpncreER R26 DTA mic
+  ls-type:: annotation
+  hl-page:: 4
+  hl-color:: yellow
+  id:: 6a4dcb31-c6b8-4230-b082-b656105978c8
+- he expression of retinoic acid (RA) pathway genes peaked in the transition from CD201+ progenitors to proinflammatory fibroblast
+  ls-type:: annotation
+  hl-page:: 4
+  hl-color:: yellow
+  id:: 6a4dcbd0-a505-48b2-b3fe-b548f142e24c
+- atial link between RA synthesis and degradation, and fibroblast differentiation suggests that a RA gradient, originating within the wound bed and decreasing in the upper wound regions, enables the differentiation of progenitor fibroblasts to myofibroblasts
+  ls-type:: annotation
+  hl-page:: 4
+  hl-color:: blue
+  id:: 6a4dcbed-b51b-4f28-a17d-7063093069e9
+- observations confirm that in vivo RA activity has a role in the proinflammatory fibroblast state and its overactivation limits the subsequent transition to myofibroblasts, reducing scar formation as re
+  ls-type:: annotation
+  hl-page:: 7
+  hl-color:: yellow
+  id:: 6a4dcc43-8600-422e-af72-3f2c0bf62ff2
+- her, our results indicate that RA has a supporting role during the inflammatory phase of wound healing by promoting a monocyte and macrophage recruiting phenotype in the fascia-derived proinflammatory fibroblasts via expression of the monocyte-chemoattractant CCL
+  ls-type:: annotation
+  hl-page:: 7
+  hl-color:: yellow
+  id:: 6a4dcc64-431e-438f-a18e-4fd79056da3d

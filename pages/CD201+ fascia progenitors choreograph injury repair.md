@@ -47,4 +47,9 @@ links:: [Local library](zotero://select/library/items/3XH47YFN), [Web library](h
 - bottom up distribution
 	- fibroblasts start immature at the bottom (fascia) and then move up as they differentiate
 - These guys are allergic to putting tdTomato in red
+- blocking transition from proinflammatory down stops healing
+- Retinoic acid is initial regulator of fibroblast differentiation
+	- inhibitor treatment or over activation leads to failure to make myofibroblasts and contract the wound
+	- causes expression of Ccl2
+	-
 -
