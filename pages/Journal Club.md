@@ -28,3 +28,9 @@
 		- where is the point of decision making
 			- are these perturbations changing the environment in the same way in the first 48h, for example
 	- perturbation sooner rather than later in my experiments
+	- lysM CreER
+		- maximum labeling 3 days before, day of, every other day
+		- image control region at end
+			- other ear or distal region for proximal wound
+		- distal + proximal mTmG
+		- show where are monocytes coming in
