@@ -1,0 +1,39 @@
+- Mouse: Two mice! M6 and M7
+	- Genotype: LysM CreER het ; mTmG het
+	- DOB: 5/24/2026
+	- Cage number: 203064
+	- Notes
+		- Katie's cage
+		- These mice previously had 1:1000 tamoxifen injections at p20 (6/15 ish)
+			- basically no labeling remaining from that
+			  collapsed:: true
+				- if there even was any to begin with
+		- M6 and M7 are as identical as possible
+			- M6 has proximal hole in left ear
+			- M7 has distal hole in left ear
+- Goals:
+	- Daily revisit of hole healing progress for both proximal and distal wound
+	- mTmG full resolution time course
+	- LysM CreER gives monocyte / neutrophil recruitment information at every point
+		- little to no tissue resident contribution to labeling
+	- Imaging a control area outside of the wound
+		- Control for potential baseline increased immune activity
+- Tamoxifen injection plan
+	- 3 days before punch
+	- Day of punch
+	- Every other day following
+	- At every time point
+		- 150uL of undiluted tamoxifen
+		- Alternating side of injection
+- Time course:
+	- D-3 [[Jul 10th, 2026]]
+		- Tamoxifen injection
+			- no dilution - get as full labeling as possible
+	- D0 [[Jul 13th, 2026]]
+		- 1.5mm proximal and distal hole punches
+		- Anesthesia Parameters
+			-
+		- Imaging Parameters
+			-
+- Relevant Project
+	-

@@ -124,7 +124,7 @@ alias:: [[Third Rotation/Deepika Project]]
 				- maybe dextran? 70kd rhodamine dextran
 			- Learn how to do the scraping dissociation protocol
 			  id:: 69f3bec5-9697-4897-80a7-0a71023223d5
-		- TODO Talk to Emily about going off protocol
+		- DONE Talk to Emily about going off protocol
 			- Thoughts abouts using the LNPs
 				- This is tricky because if we want to wait 4 days to image they have to go back to the colony
 			- I did not do this and then she went on vacation but it's probably fiiinneeeeee
