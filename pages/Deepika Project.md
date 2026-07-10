@@ -10,7 +10,43 @@ alias:: [[Third Rotation/Deepika Project]]
 		- protocol for Phan paper (Lef1)
 -
 - Imaging
+	- [[Jul 7th, 2026]] mKate2 first try
+	  id:: 6a51404c-8f21-4ef0-ac8e-a03ab8c36b2d
+	  collapsed:: true
+		- Mouse:
+			- Genotype: mKate2 homo
+			- DOB: 4/24/2026
+			- Cage number: 200949
+			- Notes
+				- intradermal injection 1mg optoEGFR LNP into each ear
+		- Goals:
+			- Try fluorescent light stimulation
+			- Use mKate2 for the first time
+		- Time course:
+			- Nair and intradermal injection was done yesterday
+			- Imaging day
+				- Anesthesia Parameters
+					- 150 uL ketamine 2:30
+					- isofluorane
+				- Imaging Parameters
+					- copied from Kai mKate2 lif file
+					- 1200 laser, 20 - 30% laser power to begin
+						- Bumped laser power up to 25 - 35% after bleaching
+					- 2x2 region, 4um \Delta\z
+					- min time interval 3min45 seconds, \Delta\t=4min
+				- Blue light stimulation
+					- 30 minutes movie no stim
+					- 30 minutes continuous stim with fluorescent bulb
+						- 10% power
+					- image, 5 minutes stim repeat 8 times
+		- Notes
+			- Bleaching evident after 30 minutes fluorescent exposure
+			- Unclear if cells moved, need to do more analysis for that
+			- Tried to keep curtain closed during stimulation but this wasn't 100% successful
+				- Chunyan had to use the iso induction chamber so it was open for some time
+				- Shouldn't be a big deal
 	- [[Apr 29th, 2026]] Imaging Back skin on the 2 photon
+	  collapsed:: true
 		- mTmG / Macgreen 12wk old
 		- shoulder was tough
 			- Lots of movement from both breathing and heartbeat
@@ -25,15 +61,20 @@ alias:: [[Third Rotation/Deepika Project]]
 		- Made some movies for Deepika to show in lab meeting
 -
 - Sorts
-	-
+	- Next sort try with the mKate2 mouse from ((6a51404c-8f21-4ef0-ac8e-a03ab8c36b2d))
+		- I'm curious what the cell recovery will look like in the ear
+		- Flow booked for 11am [[Jul 14th, 2026]]
 -
 - Current main task
-	- See ((69f3bc88-138d-4616-b1e3-9cb813736006))
+	- Full thickness ear wounds testing on [[Jul 13th, 2026]]
+	- Meeting with Jared and Danelle soon to actually do the single cell experiment
 	- Done
 	  collapsed:: true
+		- See ((69f3bc88-138d-4616-b1e3-9cb813736006))
 		- Read protocols of these single cell papers and other papers from Elaine Fuchs' lab and find some common threads to try this soon (next week?)
 			- Starting with adult skins that don't mean much / not useful
 - To dos
+	- TODO Get the flow data from the Toettcher sorter
 	- DONE Get a list / suggestions for cell strainers
 	- DONE Re-read epidermis dissociation protocols because that didn't work very well
 	  collapsed:: true

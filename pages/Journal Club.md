@@ -8,7 +8,7 @@
 		- But that doesn't last that long in the extracellular space
 	- pre-established difference in fibroblasts in proximal vs distal ear could bias towards healing or scarring
 	- transplants are commonly used
-		- potential to transplant / reconstitute proximal area into distal area
+		- potential to transplant / reghconstitute proximal area into distal area
 	- Changing labeling strategy for collagen
 		- not just SHG
 		- collagen monomers with NHS ester
