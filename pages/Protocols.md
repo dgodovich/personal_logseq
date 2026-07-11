@@ -1,0 +1,23 @@
+- Tamoxifen injection
+	- Tamoxifen blocks estrogen effectiveness so it's dangerous for people - wear gloves when handling
+	- Tamoxifen aliquots stored in hallway -20
+		- 500uL aliquots, 20 mg/mL
+	- Thaw in eppendorf heated shaker at 37C, max rpm (2000)
+	- If there is a precipitate
+		- Can raise temp to 42C
+		- Vortex
+		- Try a different tube /shrug
+	- Injection
+		- Katie / Kai method
+			- Large bore needle to initially suck tamoxifen into syringe
+			- Switch to smaller bore for injection
+		- I think you can just start from the smaller gauge (I think it's 23)
+			- take up more than you need and you will get air bubble
+			- Be careful to fully expel air bubbles
+		- Need to scruff the mouse very steadily
+		- Take your time doing the injection
+			- Slowly expel (10 seconds or more)
+			- Hold the end of the plunger to fully expel
+	- As much as I can tell the 500 uL aliquot is only good for two injections?
+		- 100uL lost in the needle? Feels like a lot
+			- test with water maybe?

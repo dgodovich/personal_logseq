@@ -302,7 +302,7 @@
  ;;  :charge-range    600}   ; Default value: 600
 
  ;; Favorites to list on the left sidebar
- :favorites ["Kai Meetings" "Reading" "Lab Meetings"]
+ :favorites ["kai meetings" "lab meetings" "reading" "recipes" "protocols"]
 
  ;; Set flashcards interval.
  ;; Expected value:

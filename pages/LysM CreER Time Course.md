@@ -29,6 +29,7 @@
 	- D-3 [[Jul 10th, 2026]]
 		- Tamoxifen injection
 			- no dilution - get as full labeling as possible
+		- Aimed for 150uL injection
 	- D0 [[Jul 13th, 2026]]
 		- 1.5mm proximal and distal hole punches
 		- Anesthesia Parameters
