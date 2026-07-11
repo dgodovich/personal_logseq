@@ -16,3 +16,11 @@ links:: [Local library](zotero://select/library/items/ID4GQLNZ), [Web library](h
 
 - Attachments
 	- [PDF](zotero://select/library/items/M68BRIK4) {{zotero-imported-file M68BRIK4, "Rudloff et al. - 2026 - Cytokine multimerization when more is more and sometimes less.pdf"}}
+- Cytokines are extremely pleiotropic
+	- shared receptors, concentration dependence, local concentration of other cytokines, etc
+	- for similar reasons cytokines are redundant
+- Lung inflammation is driven by type 2 immunity
+- Immune activities are modulated by the others, even if they seemingly should cooperate
+- Targets and sources are both exceedingly complicated
+- IL34 interaction with CSF1R is through homodimer and bringing together two receptors
+-
