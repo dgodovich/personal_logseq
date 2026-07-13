@@ -30,9 +30,12 @@
 		- Tamoxifen injection
 			- no dilution - get as full labeling as possible
 		- Aimed for 150uL injection
+		- on mouse left
 	- D0 [[Jul 13th, 2026]]
 		- Tamoxifen injection
-		-
+			- ~100uL for each of M6 and M7
+				- M7 got a bit more
+			- injected on mouse right
 		- 1.5mm proximal and distal hole punches
 		- Anesthesia Parameters
 			-
