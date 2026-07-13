@@ -1,5 +1,10 @@
 - #[[Kai Mesa]] #meetings
 - Notes for next meeting
+- [[Jul 13th, 2026]]
+	- better to get some analysis done rather than waiting for the right dataset
+	- get more macgreen? or fred? generally more immune cell recruitement
+	- set up trio breed with macfred male
+	-
 - [[Jun 29th, 2026]]
 	- Xenium updates
 		- Meeting with Abhishek on friday went pretty well, got environment set up for Char and got a DE notebook
