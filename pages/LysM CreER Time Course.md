@@ -31,10 +31,11 @@
 			- no dilution - get as full labeling as possible
 		- Aimed for 150uL injection
 	- D0 [[Jul 13th, 2026]]
+		- Tamoxifen injection
+		-
 		- 1.5mm proximal and distal hole punches
 		- Anesthesia Parameters
 			-
 		- Imaging Parameters
-			-
-- Relevant Project
-	-
+		- Relevant Project
+-
