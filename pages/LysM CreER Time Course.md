@@ -57,9 +57,12 @@
 	- D1
 		- Anesthesia Parameters
 			- M6
+				- 190uL ketamine 8:40am
+				- mouse weight is 27g so gave it the normal dose
 			- M7
 				- 180uL ketamine 7:27am
 				- mouse weight is 25g so normal dose is 175uL, not sure why it woke up so fast yesterday
+				- Woke up around 8:45 so still not that long
 		- Imaging Parameters
 			- MP 1040 2-4%
 			- MP3 940 4 - 7.5%
