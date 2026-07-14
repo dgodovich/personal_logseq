@@ -45,6 +45,8 @@
 				- bro completely woke up by 8
 			- M7
 				- 160 uL ketamine at 7:58
+				- also 100% fully awake by 9:20
+				- definitely not ideal
 		- Imaging Parameters
 			- MP 1040 2-4%
 			- MP3 940 4 - 7.8%
