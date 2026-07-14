@@ -38,7 +38,93 @@
 			- injected on mouse right
 		- 1.5mm proximal and distal hole punches
 		- Anesthesia Parameters
-			-
+			- M6
+				- 160 uL ketamine at around 7:10
+				- this didn't seem like quite enough
+				- By weight it should be 175 so this is a full dose
+				- bro completely woke up by 8
+			- M7
+				- 160 7:58
 		- Imaging Parameters
-		- Relevant Project
+			- MP 1040 2-4%
+			- MP3 940 4 - 7.5%
+			- 8x8 tile
+			- two lasers slows it down fairly considerably
+		- Notes
+			- definitely have some labeling which is cool
+			- I think it's just from homeostatic monocyte contribution
+		-
+	- D1
+	  collapsed:: true
+		- Anesthesia Parameters
+			- M6
+			- M7
+		- Imaging Parameters
+			- MP 1040 2-4%
+			- MP3 940 4 - 7.5%
+			- 8x8 tile
+			- two lasers slows it down fairly considerably
+	- D2
+	  collapsed:: true
+		- Tamoxifen injection
+		- Anesthesia Parameters
+			- M6
+			- M7
+		- Imaging Parameters
+			- MP 1040 2-4%
+			- MP3 940 4 - 7.5%
+			- 8x8 tile
+			- two lasers slows it down fairly considerably
+	- D3
+	  collapsed:: true
+		- Anesthesia Parameters
+			- M6
+			- M7
+		- Imaging Parameters
+			- MP 1040 2-4%
+			- MP3 940 4 - 7.5%
+			- 8x8 tile
+			- two lasers slows it down fairly considerably
+	- D4
+	  collapsed:: true
+		- Tamoxifen injection
+		- Anesthesia Parameters
+			- M6
+			- M7
+		- Imaging Parameters
+			- MP 1040 2-4%
+			- MP3 940 4 - 7.5%
+			- 8x8 tile
+			- two lasers slows it down fairly considerably
+	- D5
+	  collapsed:: true
+		- Anesthesia Parameters
+			- M6
+			- M7
+		- Imaging Parameters
+			- MP 1040 2-4%
+			- MP3 940 4 - 7.5%
+			- 8x8 tile
+			- two lasers slows it down fairly considerably
+	- D6
+	  collapsed:: true
+		- Tamoxifen injection
+		- Anesthesia Parameters
+			- M6
+			- M7
+		- Imaging Parameters
+			- MP 1040 2-4%
+			- MP3 940 4 - 7.5%
+			- 8x8 tile
+			- two lasers slows it down fairly considerably
+	- D7
+	  collapsed:: true
+		- Anesthesia Parameters
+			- M6
+			- M7
+		- Imaging Parameters
+			- MP 1040 2-4%
+			- MP3 940 4 - 7.5%
+			- 8x8 tile
+			- two lasers slows it down fairly considerably
 -
