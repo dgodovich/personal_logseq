@@ -55,15 +55,19 @@
 			- definitely have some labeling which is cool
 			- I think it's just from homeostatic monocyte contribution
 	- D1
-	  collapsed:: true
 		- Anesthesia Parameters
 			- M6
 			- M7
+				- 180uL ketamine 7:27am
+				- mouse weight is 25g so normal dose is 175uL, not sure why it woke up so fast yesterday
 		- Imaging Parameters
 			- MP 1040 2-4%
 			- MP3 940 4 - 7.5%
 			- 8x8 tile
 			- two lasers slows it down fairly considerably
+			- M6
+			- M7
+				- 10um step for 160um total Z
 	- D2
 	  collapsed:: true
 		- Tamoxifen injection
