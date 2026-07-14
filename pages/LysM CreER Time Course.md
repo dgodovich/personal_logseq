@@ -44,16 +44,14 @@
 				- By weight it should be 175 so this is a full dose
 				- bro completely woke up by 8
 			- M7
-				- 160 7:58
+				- 160 uL ketamine at 7:58
 		- Imaging Parameters
 			- MP 1040 2-4%
-			- MP3 940 4 - 7.5%
+			- MP3 940 4 - 7.8%
 			- 8x8 tile
-			- two lasers slows it down fairly considerably
 		- Notes
 			- definitely have some labeling which is cool
 			- I think it's just from homeostatic monocyte contribution
-		-
 	- D1
 	  collapsed:: true
 		- Anesthesia Parameters
