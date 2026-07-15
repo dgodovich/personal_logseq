@@ -55,6 +55,7 @@
 			- definitely have some labeling which is cool
 			- I think it's just from homeostatic monocyte contribution
 	- D1 [[Jul 14th, 2026]]
+	  collapsed:: true
 		- Anesthesia Parameters
 			- M6
 				- 190uL ketamine 8:40am
@@ -72,8 +73,11 @@
 			- M7
 				- 10um step for 160um total Z
 	- D2 [[Jul 15th, 2026]]
+	  collapsed:: true
 		- Tamoxifen injection
 			- this time it's gonna have to happen after imaging because I forgot I'm doing that today
+			- both get around 160
+			- mouse left
 		- Anesthesia Parameters
 			- this sucks I'm losing imaging space because they keep waking up
 			- and it's not even a little they're fully fully up when I take them off
@@ -87,8 +91,8 @@
 			- 8x8 tile
 			- two lasers slows it down fairly considerably
 	- D3
-	  collapsed:: true
 		- Anesthesia Parameters
+			- do way more this time, 250uL for each
 			- M6
 			- M7
 		- Imaging Parameters
