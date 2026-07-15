@@ -54,7 +54,7 @@
 		- Notes
 			- definitely have some labeling which is cool
 			- I think it's just from homeostatic monocyte contribution
-	- D1
+	- D1 [[Jul 14th, 2026]]
 		- Anesthesia Parameters
 			- M6
 				- 190uL ketamine 8:40am
@@ -71,12 +71,13 @@
 			- M6
 			- M7
 				- 10um step for 160um total Z
-	- D2
-	  collapsed:: true
+	- D2 [[Jul 15th, 2026]]
 		- Tamoxifen injection
+			- this time it's gonna have to happen after imaging because I forgot I'm doing that today
 		- Anesthesia Parameters
 			- M6
 			- M7
+				- 185uL ketamine 1134am
 		- Imaging Parameters
 			- MP 1040 2-4%
 			- MP3 940 4 - 7.5%
