@@ -75,7 +75,10 @@
 		- Tamoxifen injection
 			- this time it's gonna have to happen after imaging because I forgot I'm doing that today
 		- Anesthesia Parameters
+			- this sucks I'm losing imaging space because they keep waking up
+			- and it's not even a little they're fully fully up when I take them off
 			- M6
+				- 200uL and it still wasn't enough
 			- M7
 				- 185uL ketamine 1134am
 		- Imaging Parameters
