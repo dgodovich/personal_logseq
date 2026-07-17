@@ -32,6 +32,7 @@
 		- Aimed for 150uL injection
 		- on mouse left
 	- D0 [[Jul 13th, 2026]]
+	  collapsed:: true
 		- Tamoxifen injection
 			- ~100uL for each of M6 and M7
 				- M7 got a bit more
@@ -73,7 +74,6 @@
 			- M7
 				- 10um step for 160um total Z
 	- D2 [[Jul 15th, 2026]]
-	  collapsed:: true
 		- Tamoxifen injection
 			- this time it's gonna have to happen after imaging because I forgot I'm doing that today
 			- both get around 160
@@ -90,22 +90,27 @@
 			- MP3 940 4 - 7.5%
 			- 8x8 tile
 			- two lasers slows it down fairly considerably
-	- D3
+	- D3 [[Jul 16th, 2026]]
+	  collapsed:: true
 		- Anesthesia Parameters
 			- do way more this time, 250uL for each
 			- M6
+				- still woke up a bit
 			- M7
 		- Imaging Parameters
 			- MP 1040 2-4%
 			- MP3 940 4 - 7.5%
 			- 8x8 tile
 			- two lasers slows it down fairly considerably
-	- D4
-	  collapsed:: true
+	- D4 [[Jul 17th, 2026]]
 		- Tamoxifen injection
+			- mouse right
 		- Anesthesia Parameters
 			- M6
+				- 270uL
 			- M7
+				- 250uL at 2:30
+				- seemed to work well yesterday
 		- Imaging Parameters
 			- MP 1040 2-4%
 			- MP3 940 4 - 7.5%
