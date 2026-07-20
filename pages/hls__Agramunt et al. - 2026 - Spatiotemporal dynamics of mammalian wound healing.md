@@ -26,3 +26,18 @@ file-path:: file://C:/Users/David/Zotero/storage/Y7JV4ZKL/Agramunt et al. - 2026
   hl-page:: 1
   hl-color:: yellow
   id:: 6a5e9275-6f2d-4b03-80ec-175e3e629720
+- patially organized architecture of cells and regions is intrinsically important for the wound healing proce
+  ls-type:: annotation
+  hl-page:: 2
+  hl-color:: yellow
+  id:: 6a5e93de-39dc-40e0-a85d-0bd3a9f50340
+- iology and wound healing, spatiotemporal oscillators are emerging as critical regulators of skin repair and wound healing. For example, ERK waves function as such oscillators by propagating across epithelial sheets to coordinate the direction and timing of collective cell migratio
+  ls-type:: annotation
+  hl-page:: 3
+  hl-color:: yellow
+  id:: 6a5e95d8-d774-4b1f-95df-5ccfca7db545
+- ample, TGF-β signaling exhibits peak activity during the inﬂammatory phase within the M1 macrophage niche. When activated in conjunction with IL-10, it triggers the transition from M1 to M2 macrophages, which subsequently recruits ﬁbroblasts to initiate the proliferative p
+  ls-type:: annotation
+  hl-page:: 3
+  hl-color:: yellow
+  id:: 6a5e95fa-ba89-4f54-8a12-7ae6729ca899

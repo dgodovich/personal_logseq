@@ -32,10 +32,14 @@ links:: [Local library](zotero://select/library/items/49JL6722), [Web library](h
 	- lasts for weeks or more
 	- Mast cells release histamine, amines, enzymes
 	- M1 macrophages dominant
+		- activated by TNF\alpha, IL6 and IL12
 - Shift from M1 to M2 (inflammatory to reparative) subtypes
 	- IL4 and 10 are anti-inflammatory cytokines
 - Proliferative phase
 	- myofibroblast differentiation
 	- Re-epithelialization
 		- migrating keratinocytes at the wound edge
-	-
+			- Stimulated by P2Y2 receptors from Ca gradient made by Lrig+ cells
+- They suggest that Yap is more relevant for fibroblasts in remodeling stage, but I think stuff that they reference seems to suggest importance earlier
+- Molecular pathways have some time resolution that dictates their spatial distribution, I guess?
+-
