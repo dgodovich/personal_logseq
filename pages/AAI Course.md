@@ -231,4 +231,22 @@
 				- migrate to lymph node to get adaptive immunity help
 			- NK look for downregulated MHC class 1
 	- Antigen presenting cells
+		- MHC class 1 is on all nucleated cells
+			- presentation of cytoplasmic protein fragments
+		- MHC class 2 expressed on APC
+			- presentation of external antigen, binds to TCR
+			- cross dressing
+		- HLA locus is the most polymorphic locus in humans
+			- alleles have differential pathogenic protection
+	- T cell activation
+		- MHC 2, co stimulation, cytokines
+		- dependent on the integration of these things you get different kinds of effector T cell
+			- ![image.png](../assets/image_1785097563042_0.png)
+			- CD4 t cells can also directly kill (EOMES positive)
+		- CD8 is the fr CTL
+	- B cells
+		- there's different Fc
+			- that bind to different Fc receptors
+				- CD64, CD32(a/b/c), CD16(a/b)
+			- avidity, affinity, functions can all be different
 		-
