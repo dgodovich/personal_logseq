@@ -172,13 +172,63 @@
 			- RNA sensing
 				- dsRNA intermediates
 					- RIG-I
+					- PKR
+						- eIF2a downstream that shuts down translation
+					- OAS3
+						- activates RNase L to degrade all RNA in the cell
+						- makes a 5mer of adenosine that makes a dimer of RNase L
 				- 5' end
 					- tri phosphate is not the same as 5' guanine capping for normal RNA
 				- Stem loops
 			- DNA sensing
 				- Cytosolic DNA
 					- Trex1 exonuclease is constitutively expressed at low levels to suppress normal DNA leakage
+					- cGAS
+						- DNA sensor (no sequence specificity)
+						- makes cGAMP that binds to STING
 				- Rolling circle amplification / other replication intermediates
+			- cGAS and OAS are in the same family and there's other members
+				- highly conserved
 	- Toll like receptors do both
 		- Glycoproteins
 		- large family (13?)
+	- Self non-self recognition
+		- There's physiological PAMPs that are normal
+		- ncRNA has weird caps, can be double stranded (ribosome)
+		- retro elements
+			- ADAR1 tries to minimize double stranded Alu elements
+	- Interferon is epic at starting anti-viral response
+		- Jak/STAT signaling through IFNAR activating ISGS
+		- increase MHC1 expression
+		- Strengthen NK to kill viral infected cells
+		- Classic effectors
+			- PKR, OAS, and Mx proteins
+		- ISGS
+			- different ones targeting every step of virus life cycle
+	- Many types of interferon
+		- all work through Jak / stat signaling but not the same ones
+		- faster interferon response is better at clearing infection
+		- Type 1
+			- 13 genes in human, \alpha, \beta, \kappa, \delta, \tau
+			- made by any cell
+			- systemic
+		- Type 2
+			- IFN\gamma
+			- lymphocytes and myeloid cells
+		- Type 3
+			- barrier tissues
+				- epithelial, endothelial, placenta, skin, lung
+				- very important in GI
+			- \lambda, 3 types
+			- Less toxic, not as elevated immune response
+			- local
+	- Initial response
+		- barrier epithelial tissues start secreting cytokines like IFN, PAMPs, DAMPs
+		- innate immune cells
+			- Macrophages express the PRRs to get to the site of infection
+				- go into M1 phenotype and do all the pro-inflammatory stuff
+			- plasmacytoid dendritic cells are type 1 IFN factories
+				- migrate to lymph node to get adaptive immunity help
+			- NK look for downregulated MHC class 1
+	- Antigen presenting cells
+		-
