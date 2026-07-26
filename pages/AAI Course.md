@@ -11,6 +11,7 @@
 	- Nothing ever leaves from the arteries or capillaries, it's all from the veins
 		- Ashley Moseman video of LysM GFP mouse showing neutrophils only at the venule
 		- Different endothelial cells
+		- DARC expressing venules
 	- Almost universally true
 		- Except in places where blood flow is weird like the liver, lung, spleen, kidney glomerulus
 	- Extravasation happens by chance for first meeting
@@ -96,4 +97,36 @@
 			- T cell area in the medulla
 				- activated T cell that becomes a follicular helper cell upregulates CXCR5
 		- How do cells leave a lymph node?
-			- Sphingosine 1-phosphate
+			- Sphingosine 1-phosphate build up functions as a timer
+			- Build up of S1P leads to exit into efferent lymphatic
+	- Antigen presentation in lymph node
+		- Migratory DC
+		- Three phases of antigen presentation
+			- brief serial encounters
+				- highly motile, sampling many DCs
+				- activation factors are being upregulated
+				- During of this is dependent on the amount of antigen presented by the DC
+			- stable contacts
+				- find your partner
+				- start making cytokine (IL2 / IFN\gamma)
+				- required for memory
+					- continued exposure to antigen
+			- brief serial encounters
+				- proliferation starts
+	- Tregs can make TGB\beta to suppress immune response of Cytotoxic T Lymphocyte
+	- Solid tumors do not have functional venules
+		- vasculature is basically just pipes, there's no functional thing for the T cells to attach to
+	- Memory cells
+		- There's several subsets that have different migratory properties and different lifespans
+		- Guidelines for T cell nomenclature nature reviews immunology
+		- CX3CR1 (fractalkine receptor)
+			- this is normally a monocyte / macrophage marker, but CD3+ T cells get it later in infection
+			- naive T cells are negative, only starts turning on day 6 post exposure
+		- Spectrum of activation
+			- Negative cells are proliferative - progenitor
+				- central memory pool
+			- Middle do some homeostatic proliferation
+				- kind of a stem cell population? asymmetric division
+				- can hone into lymphoid and non-lymphoid tissue
+			- Positive are effectors
+				- intravascular patrolling
