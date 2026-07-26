@@ -1,4 +1,5 @@
-- Lecture 1 Ulrich von Adrian
+- Lecture 1 Anatomy of the Immune System
+	- Ulrich von Adrian
 	- Microcirculation never has turbulent flow
 		- this feels important actually
 	- Neutrophils and other immune cells in microcirculation have crazy high wall shear stress
@@ -130,3 +131,18 @@
 				- can hone into lymphoid and non-lymphoid tissue
 			- Positive are effectors
 				- intravascular patrolling
+				- This is weird
+				- go upstream
+				- TCR driven red actin co-expressing CX3CR1 so it looks like a non-classical monocyte but it's a T cell
+					- OT-1 CD8 T cells
+		- Shape immune memory of activation with imprinting
+		- Tissue resident memory cells can turn on CXCL9 to recruit CXCR3 which is on all T cells
+	- B cells
+		- B cells are in the cortex where they interact with macrophages
+		- CD169+ macrophages take up virus coming in from lymphatics and hold them on their surface
+			- Basically just hold up the virus (antigen) to the B cells
+		- After activation from the macrophage
+			- upregulate CCR7 to go to the other side of the lymph node and find CD4 Th
+	- As soon as the animal dies physiology stops
+		- The cells aren't dead but hypoxia makes them completely change shape and motility
+		- Keeping at 37C is very important too
