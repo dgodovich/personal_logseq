@@ -1,5 +1,5 @@
-- Lecture 1 Anatomy of the Immune System
-	- Ulrich von Adrian
+- Lecture 1 Anatomy of the Immune System - Ulrich von Andrian
+  collapsed:: true
 	- Microcirculation never has turbulent flow
 		- this feels important actually
 	- Neutrophils and other immune cells in microcirculation have crazy high wall shear stress
@@ -146,3 +146,39 @@
 	- As soon as the animal dies physiology stops
 		- The cells aren't dead but hypoxia makes them completely change shape and motility
 		- Keeping at 37C is very important too
+- Lecture 2 Immune Response to Viruses - Sara Cherry
+	- Every organism has an innate immune system
+		- genetically encoded
+		- Pattern recognition (PAMP/DAMP/TLR)
+	- "Higher" organisms have an acquired immune system
+		- RAG dependent
+	- Barriers in each anatomical location
+		- Distinct barriers have specializations and there's specific pathogens that are able to go through each
+	- Pattern Recognition Receptors
+		- TLR
+		- NLR
+		- cGAS
+		- RIG-I
+		- Pathogen Associated Molecular Patterns
+			- LPS
+			- viral nucleic acids, glycoproteins
+			- combinatorial effectors to be a pathogen
+				- LPS on commensals is nbd
+	- Viruses are obligate intracellular pathogens
+		- Virions are extracellular but the genomic compartments are cytoplasmic
+		- Compartmentalization of functions throughout replication cycle
+		- Mostly sensed by recognition of nucleic acids
+			- viral RNA and DNA are very different than mammalian
+			- RNA sensing
+				- dsRNA intermediates
+					- RIG-I
+				- 5' end
+					- tri phosphate is not the same as 5' guanine capping for normal RNA
+				- Stem loops
+			- DNA sensing
+				- Cytosolic DNA
+					- Trex1 exonuclease is constitutively expressed at low levels to suppress normal DNA leakage
+				- Rolling circle amplification / other replication intermediates
+	- Toll like receptors do both
+		- Glycoproteins
+		- large family (13?)
