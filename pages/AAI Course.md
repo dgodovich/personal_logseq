@@ -1,0 +1,39 @@
+- Lecture 1 Ulrich von Adrian
+	- Microcirculation never has turbulent flow
+		- this feels important actually
+	- Neutrophils and other immune cells in microcirculation have crazy high wall shear stress
+		- 0.5-40 dyn/cm^2
+		- They're moving around at 2mm/s
+			- That's equivalent to moving at like 350 times your radius every second
+			- Crazy fast
+	- They have to stop not only very quickly but also stop under a crazy flow
+	- interactions happen on the order of milliseconds and have to be strong enough
+	- Nothing ever leaves from the arteries or capillaries, it's all from the veins
+		- Ashley Moseman video of LysM GFP mouse showing neutrophils only at the venule
+		- Different endothelial cells
+	- Almost universally true
+		- Except in places where blood flow is weird like the liver, lung, spleen, kidney glomerulus
+	- Extravasation happens by chance for first meeting
+		- Starts rolling with soft-ish attachment
+		- Activation signal leads to actual exit
+			- chemokine receptor or other things but usually GPCR
+		- Main factors
+			- Selectins on both ends
+				- L on leukocyte (CD62L)
+				- P (platelet) and E (endothelial) on endothelial
+				- Recognize sialomucins
+					- glycosylated sugar display
+				- This does the tethering
+					- rolling interaction that binds but can let go
+					- always active
+			- Integrins on leukocytes
+				- \alpha4\beta7 and other ones
+				- Bing to IgSF on endothelial
+					- immunoglobulin superfamily
+					- MadCAM
+					- VCAM
+				- \beta2 binds to ICAMs
+				- integrins change their conformation following activation signal
+					- activation dependent to do the arrest
+					- not always active and very strong
+	- IL1 and other
