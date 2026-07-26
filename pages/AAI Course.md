@@ -33,7 +33,67 @@
 					- MadCAM
 					- VCAM
 				- \beta2 binds to ICAMs
+					- this is important for arrest
+					- CD18
 				- integrins change their conformation following activation signal
 					- activation dependent to do the arrest
 					- not always active and very strong
-	- IL1 and other
+		- Multi step cascade
+			- Primary adhesion receptor (Endothelial ligand)
+				- 8 pathways
+			- Chemoattractant receptor (Activating signal)
+				- \>50 pathways
+				- There's a lot of ways of doing this
+			- Secondary activation dependent receptor (Endothelial ligand)
+				- 5 pathways
+	- IL1 and other inflammatory signals upregulate P and E selectins
+	- arachanoid acid metabolite LTB4 is a potent chemoattractant
+	- How do you have a segmented environmental signal that determines what is a venule?
+	- Distinct expression profiles in different organs to have a homing
+		- vascular addressins in the multi step adhesion cascade
+	- Tissues have specific combinations of surface markers
+		- Antigen presentation in secondary lymphoid organ does imprinting
+		- get a roadmap
+	- Each antigenic protein gets fragmented into many peptides
+		- Can get many clones for each protein
+		- Large pool of TCR to start with
+	- Each T cell variant has only around 6000 copies - how does it find it's antigen? same for B cell
+	- Secondary lymphoid organs are lymphoid parties
+		- Spleen is blood borne antigens
+		- Peyer's patches in small intestine
+			- hand antigen over to DC that goes and presents
+		- Peripheral lymph nodes to meet and greet
+			- T and B cells hone here and then go and sample a lot of APCs
+	- Lymph nodes
+		- functional at steady state
+			- DCs take up material and present in MHC
+				- but at steady state don't have cytokines and don't have costimulatory factors
+			- This sets up tolerance
+				- "normal" antigens
+		- Lymphocytes hone to lymph nodes
+			- High endothelial venules (HEV) except spleen
+				- PNAd (MECA-79 antigen) Peripheral node addresin
+					- O-linked silomucin
+					- ligand for CD62L
+				- very specific to the cortex of the node
+			- L-selectin (CD62L) to bind to PNAd and start rolling
+			- Activation signal is CCL21 interacting with CCR7
+				- Neutrophils don't have this so they don't enter lymph nodes
+			- LFA-1 (CD11a/CD18) integrin to exit
+		- During inflammation
+			- DCs mature so there's more of them and they have costim and cytokines
+			- Once DC finds the corresponding T cell it does clonal proliferation
+		- Activated T cell leaves lymph nodes and goes to inflammatory venule
+			- does the multi-step adhesion cascade there
+				- Effector T cells lose L-selectin and CCR7 so they no longer hone to lymph nodes
+			- short lived
+		- memory cells
+			- tissue resident and central
+		- Separation of B and T cell areas
+			- B cells go to outer cortex
+				- They express CXCR5 (CXCL13 ligand)
+					- ligand made by stromal cells in the B cell follicle
+			- T cell area in the medulla
+				- activated T cell that becomes a follicular helper cell upregulates CXCR5
+		- How do cells leave a lymph node?
+			- Sphingosine 1-phosphate
