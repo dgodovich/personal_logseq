@@ -734,5 +734,29 @@
 	- Allelic exclusion
 		- make sure that recombination doesn't continue after you get a hit
 		- Topologically associated domains
-	-
+	- B cell maturation in germinal center of lymph node
+		- switching to secreted antibodies (IgM) is an RNA slicing event
+			- changing where you do the polyadenylation to remove the transmembrane domain
+		- cluster of constant regions for each antibody isotype
+			- switch is dictated by cytokines from T follicular helper cells
+		- IgD doesn't have super clear function
+			- coexpressed with IgM in naive B cells
+		- class switch is dependent on cytokine exposure and CD40 ligand
+			- IL4 -> G1 or E
+			- IFN -> G3 or G2a
+			- TGF -> G2b or A
+			- cytokine responsive promoter in switch regions upstream of each constant region cluster
+			- AID enzyme is the class switch recombinase
+				- C-> U transition which makes a mismatch
+				- the recombination works because the repetitive switch regions hold on to the RNA
+				- this happens in both IgM region and the new switch
+				- The single strand exposed by the held on RNA gets C->U switched
+				- And then the two mismatches in the different locations get paired
+	- Somatic hypermutation
+		- 1 per 1000 bp per cell division
+		- mostly in the variable regions
+			- even more focused in the CDR1 / 2 / 3 regions
+		- clustered evolution
+		- evolve towards tightest fit
+		- Uses the same AID enzyme
 	- very Tom like lecture
