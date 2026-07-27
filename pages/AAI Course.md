@@ -334,5 +334,33 @@
 			- function is mostly the same
 		- T cells have one receptor for their antigen but NK express multiple
 			- and there's subsets of NK cells that express different ones
-	-
+	- NK receptor polymorphism
+		- Two major groups of haplotypes in humans
+		- diseases associated with haplotype mismatch
+		- NK dependent mechanism is unclear
+	- Tolerance
+		- MHC 1 deficient mice do not have overactive NK cells
+			- actually it's the opposite
+			- don't make IFN\gamma if no MHC
+		- NK cells can reject bone marrow grafts with matched HLA (hybrid resistance)
+		- need licensing to get any killing activity
+			- pre filter? Kind of like an activation? not sure I understand
+	- memory NK cells
+		- expansion of cells during infection and some of them stay
+		- There's some degree of clonal expansion here, so you have some receptor enrichment
+		- pre-disposed to respond
+	- tissue resident NK
+		- different subsets of cells
+		- CD49a+ DX5- cells in the liver
+			- don't move to the other liver in a parabiosis experiment
+		- Gata3+ goes into the thymus
+		- these seem to be Eomes independent
+			- closer to ILC? some kind of spectrum
+			- but actually probably more like they're derived from regular NK cells
+				- after TGF\beta stim
+	- Adoptive immunotherapy
+		- NK can kill the tumors
+			- transplanted NK might be more effective?
+		- lots of medical interest in this
+		- engineered NK with TCR or CAR or other weird things
 -
