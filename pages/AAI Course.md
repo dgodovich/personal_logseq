@@ -381,4 +381,39 @@
 		- Macs grind up antigen, DCs save it
 			- DCs are specialized for antigen presentation in lymph nodes
 			- Macs can also do this, but not as directly optimized for this
-		-
+		- CD47 (SIRP\alpha receptor) and CD24 (Siglec-10 receptor)
+			- don't eat me signals
+			- clearance of RBC happening in red pulp of spleen by macrophage
+			- Siglec-10 is not specific to CD24
+				- more general sialoglycan receptor? something something glycocalyx?
+	- clodronate is a very harsh way of getting rid of things
+		- cleaner ways exist (what are they? DTA genetics?)
+	- Macrophage ontogeny
+		- Need of macrophages during development
+		- monocytes are 5-10% of pbmc, 20ish hour half life
+		- some macrophages are not ever replenished by monocytes
+		- selective TFs per organ
+		- peritoneal macs express factor V to latch onto things
+			- because they're normally zipping around crazy fast
+			- extravascular clotting factors
+	- Monocytes in steady state
+		- circadian rhythm
+		- only occupies a niche if it's open?
+			- inflammatory state is different because it's actively recruited
+		- Can't detect postnatal vs embryonic epigenetic signature?
+			- I'm not sure that I believe this?
+	- CD206 CD163 for alveolar
+	- alveolar macs have large families
+		- division of labor within each one
+		- tight ratio of cell type numbers
+		- gotta look into this with xenium
+	- Interstitial macs
+		- in basically all tissues, wrap around neurons, blood vessels, lymphatics
+		- heavily embedded so they're hard to look at ex vivo
+	- Mrc1 = CD206
+		- high and low populations
+		- unique clusters have different chemokines rather than growth factors
+		- recruited macs have different growth factors
+			- differences in Ocm
+			-
+	- this lady is a crazy lecturer
