@@ -436,6 +436,7 @@
 	- this lady is a crazy lecturer
 		- why would you put a claude figure that you say is bad
 - Lecture 5 Innate Immunity - Jenny Ting
+  collapsed:: true
 	- they should change the order of these lectures
 		- why are you talking about general innate immunity after the myeloid lecture
 	- auto-inflammatory disease is dysregulation of the innate immunity
@@ -560,7 +561,14 @@
 		- gp130 receptor scaffold with JAK IL6R
 		- Soluble IL6 works differently
 		- IL6 autocrine signaling?
-		-
-		-
+- Lecture 6 Molecular and Cellular Regulation of Inflammation - Ivan Zanoni
+	- Inflammation evolved to restore tissue homeostasis
+		- alteration of the vascular network to deliver blood components to site of infection and injury
+		- triggers involve infection, injury, stress
+	- Calor, Rubor, Tumor, Dolor
+	- Process of inflammation
+		- inducers
+			- exogenous - microbial derived, host derived
 		-
 -
+- Lecture 7
