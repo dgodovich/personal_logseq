@@ -147,6 +147,7 @@
 		- The cells aren't dead but hypoxia makes them completely change shape and motility
 		- Keeping at 37C is very important too
 - Lecture 2 Immune Response to Viruses - Sara Cherry
+  collapsed:: true
 	- Every organism has an innate immune system
 		- genetically encoded
 		- Pattern recognition (PAMP/DAMP/TLR)
@@ -249,4 +250,56 @@
 			- that bind to different Fc receptors
 				- CD64, CD32(a/b/c), CD16(a/b)
 			- avidity, affinity, functions can all be different
-		-
+- Lecture 3 ILC and NK cells Wayne Yokoyama
+	- ILC is mostly the equivalent of Th cells that do not require antigen presentation to mature
+		- derived from common lymphoid progenitor
+		- No RAG dependence
+	- NK is CTL equivalent
+	- Cytokine responsive to get specific subsets (expand to get figure)
+	  collapsed:: true
+		- ![image.png](../assets/image_1785153939182_0.png)
+	- ILC progenitors are kind of complicated
+		- HSC -> Common Lymphoid Progenitor
+		- NK cells diverge from the next step which is EILP
+			- early innate lymphocyte progenitor
+				- TCF-1 positive, \alpha4\beta7 integrin
+			- requires EOMES
+		- ILCs are plastic
+			- T and B cells are fixed because they're typified by their T or B cell receptors
+			- But ILC doesn't have that so they can switch types
+				- NK -> ILC1 (cytotoxic to not cytotoxic)
+				- ILC3 -> ILC1 (IL22 -> IFN\gamma switch)
+				- in tumor environment, parasite infection, etc
+	- Functions
+		- lots of things going on in the lung and intestine
+		- extremely busy slide to the point of useless
+		- Tissue resident
+			- for the most part do not circulate
+			- tissue specific distribution
+		- Particularly important for mucosal areas
+	- NK basic biology and functions
+		- Part of the ILC family
+		- Do not use VDJ recombination
+		- Important for viral defense, named for "natural killing" of tumors
+		- Been hard to find a marker or single defining feature
+			- NK1.1+, CD3\epsilon- in B6
+				- there's also NK1.1+ CD3\epsilon+ cells that are T cells (NKT cells)
+			- No functional marker
+				- KO of NK1.1 still has functional NK cells
+		- Circulate
+		- NK deficiencies
+			- IL15 KO mouse
+				- this is sensitive, any of the three chains being absent is bad (\alpha \beta \gamma)
+				- Also if downstream JAK1/3 STAT5 -> no NK
+			- Eomes KO
+			- Ncr1 Cre mouse is a cre driver for NK cells
+		- Cell Responses and Effector mechanisms
+			- cytotoxic
+				- Spontaneous killing by degranulation
+				- very similar to CTL lysis mechanism
+					- no role for Fas/FasL
+					- They can also use Fas later, but first steps are independent
+			- responsive to IL12, 15, 18 to produce IFN\gamma
+				- also chemokines like MIP-1\alpha
+			- YAC-1 target stimulates to kill
+			-
