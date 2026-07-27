@@ -299,7 +299,40 @@
 				- very similar to CTL lysis mechanism
 					- no role for Fas/FasL
 					- They can also use Fas later, but first steps are independent
+					- same mechanism of granule exocytosis
+				- Detection of degranulation with CD107a assay
 			- responsive to IL12, 15, 18 to produce IFN\gamma
 				- also chemokines like MIP-1\alpha
 			- YAC-1 target stimulates to kill
-			-
+		- Antibody dependent cellular cytotoxicity ADCC
+			- NK constitutively express CD16 (Fc\gamma\R3)
+			- binds to antibody to stimulate degranulation
+			- there's also reverse ADCC
+				- Target expresses Fc receptor that binds antibody binding to NK cell
+				- You bind to something that sees me? You die
+	- Missing-self and Target Recognition
+		- NK attacks cells that are missing MHC class 1 because of virus downregulation
+			- CTLs require MHC class 1 viral protein demonstration
+			- T cell detects non-self
+			- NK detects lack of self
+		- works through inhibitory and activation receptors
+			- Ly49A recognizes H2D^d
+				- inhibitory receptors have ITIMs (immunoreceptor Tyr-based inhibitory motifs)
+			- MCMV infection downregulates MHC, but can also display m157
+				- this binds with Ly49H which triggers degranulation
+				- activation receptors don't have
+					- dimerize for activity
+					- associate with ITAM containing partner
+			- Ig like receptors in human
+				- expressed on some other cells
+				- some complicated stuff here, as always
+			- C type lectin receptors in mouse
+				- disulfide linked homodimer
+		- mouse and human are close but they have different receptors
+			- convergent evolution
+			- Ly49 in mouse, KIR in human
+			- function is mostly the same
+		- T cells have one receptor for their antigen but NK express multiple
+			- and there's subsets of NK cells that express different ones
+	-
+-
