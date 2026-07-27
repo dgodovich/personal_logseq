@@ -412,8 +412,25 @@
 		- heavily embedded so they're hard to look at ex vivo
 	- Mrc1 = CD206
 		- high and low populations
-		- unique clusters have different chemokines rather than growth factors
+		- unique clusters in interstitial macs have different chemokines rather than growth factors
+			- ccl and cxcl differences
 		- recruited macs have different growth factors
 			- differences in Ocm
-			-
+			- mac dreived oncostatinM repairs the lung epithelial barrier during inflammatory damage paper
+	- Generally macs are always doing something to recruit different immune cells
+		- mirror T cell variety
+		- recruit B cells to tertiary lymphoid organs
+	- Cre sensitivity really matters
+		- tdTomato is super sensitive, apparently EYFP lsl is less sensitive
+	- Macs have different mmp expression profiles
+	- Monocytes can differentiate into DC
+	- tlr adjuvants
+	- M1 and M2 come from M0
+		- recruited cells can change / plastic fate
+	- Hidalgo for neutrophils
+		- context dependent function, longer lived than expected
+	- Myeloid suppressor cells?
+		- cell states of monocytes and neutrophils
+	-
 	- this lady is a crazy lecturer
+		- why would you put a claude figure that you say is bad
