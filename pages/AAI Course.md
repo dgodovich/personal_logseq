@@ -683,4 +683,56 @@
 			- coding joint has 1/3 in frame
 		- Can also get inversions between gene segments
 			- everything has to come together but some of them are pointed the wrong way
+	- Very classical genetics methods to find RAG1 and 2
+		- bit lucky too
+	- RAG1 is an endonuclease and does the nonamer binding
+	- RAG2 gets degraded after phosphorylation by Cdkn2 to avoid doing spurious recombination
+	- VDJ uses regular NHEJ to restore function
+		- Ku70 and Ku86 for end binding with DNA-PKcs
+		- Artemis opens the hairpins
+			- dependent on DNA-PKcs kinase activity
+	- TCR
+		- 100 V\alpha + 50 J\alpha so ~5000 TCR\alpha
+		- 540 TCR\beta
+		- that only gives a few
+		- Junctional diversity gives the rest
+	- Process of junctional diversity
+		- RAG1 makes a single stranded nick
+			- strand invasion to get clean ds break with a hairpin
+		- Artemis cleaves the hairpin
+			- it's an endonuclease and can cleave either at the hairpin or in the ds part
+			- makes either a blunt end or a palindromic end
+			- Artemis also has exonuclease activity so it randomly cleaves some nucleotides
+		- TdT comes in and randomly adds a bit to the ends
+		- Joining happens with microhomology plus error allowable ligation
+		- Junctional diversity also means that only 1/3 maintain a valid reading frame
+			- since it's totally random
+			- 40% of precursors are able to mature since so many don't make a functional protein
+	- Region spanning the Diversity region is what most closely interacts with the antigen
+	- RAG1 and RAG2 can also act as a transposase
+		- probably a capture from a transposon to make the first VDJ regions
+		- and then RAG became static
+	- Developmental Reguluation
+		- T cell development
+			- TCR\beta rearranges first
+				- D-J first, then V-DJ
+			- TCR\beta gets expressed and partners with pseudo-TCR\alpha
+			- After this proliferation happens, and then TCR\alpha chain happens with double positive T cells
+				- double positive as in CD4 & CD8
+		- B cell development
+			- H locus goes first
+				- h for heavy
+				- D-J, then V-DJ
+			- try twice for light
+				- \kappa and \lambda
+		- Common recombinase that has no discrimination - how does it target?
+			- chromatin accessibility
+			- IgH locus is inaccessible in pre-T cells
+			- Early pre-T cells also have no accessibility in V regions
+			- Super enhancer E\alpha required for TCR\alpha accessibility
+			- RAG2 binds really tightly to H3K4me3
+	- Allelic exclusion
+		- make sure that recombination doesn't continue after you get a hit
+		- Topologically associated domains
 	-
+	- very Tom like lecture
