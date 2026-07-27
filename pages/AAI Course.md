@@ -562,6 +562,7 @@
 		- Soluble IL6 works differently
 		- IL6 autocrine signaling?
 - Lecture 6 Molecular and Cellular Regulation of Inflammation - Ivan Zanoni
+  collapsed:: true
 	- Inflammation evolved to restore tissue homeostasis
 		- alteration of the vascular network to deliver blood components to site of infection and injury
 		- triggers involve infection, injury, stress
@@ -633,10 +634,19 @@
 		- No pyroptosis after inflammasome
 	- Inflammatory cells have altered metabolism
 		- with just LPS: glycolysis up, oxphos down
-		- both LPS and oxPAPC: glycolysis up, oxphos also up
+		- both LPS and oxPAPC: glycolysis up (?), oxphos also up
 			- functional TCA cycle to accumulate oxaloacetate
 		- Increase HIF1\alpha and get to pro IL1\beta
 	- combinatorial DAMP and PAMP maintains a lowered IL10 expression
-		-
--
-- Lecture 7
+		- anti IL10 autoantibodies is consistent with maintained inflammation
+	- oxPAPC shuts down glycolysis
+		- failure to change metabolism to upregulate protein production
+	- glycolysis inhibition by itself does not stop IL10 but Akt block does
+		- this is confusing
+		- Ezh2 modulation downstream of purine methionine cycle
+			- Me available for H3K27me3 for activation of genes
+			- Akt phosphorylates Ezh2 to deactivate it, and allow transcription
+		- So blocking Akt keeps Ezh2 active which deposits H3K27me3
+			- stops IL10 expression
+- Lecture 7 Generation and Modification of Lymphocyte Antigen Receptor Genes - Eugene Oltz
+	-
