@@ -649,4 +649,38 @@
 		- So blocking Akt keeps Ezh2 active which deposits H3K27me3
 			- stops IL10 expression
 - Lecture 7 Generation and Modification of Lymphocyte Antigen Receptor Genes - Eugene Oltz
+	- V(D)J recombination happens during T and B cell development
+		- V for Variable
+			- each variable has a leader exon to have a methionine start
+		- D for Diversity
+		- J for Joining
+		- C for constant
+		- Light and heavy chains both have recombination
+			- Light chain is V + J + C
+			- heavy has additional D (V + D + J + C)
+				- and also multiple constant regions
+		- step wise recombination
+	- B cells also do
+		- Class switch recombination
+			- Change Fc region, keeping variable region
+			- IgG, E, M, A
+		- Somatic hypermutation
+			- optimize antigen binding by random point mutations
+			- clonal selection
+	- V D and J have flanking signal sequences
+		- palindromic hexamer
+		- spacer
+			- 12bp for V
+			- 23bp for J
+			- The length matters and determines the order that RAG does the recombination
+		- AT rich nonamer
+	- Recombination reaction
+		- synapsis
+		- cleavage
+			- two products
+		- joining
+			- signal joint also gets joined and usually gets degraded later
+			- coding joint has 1/3 in frame
+		- Can also get inversions between gene segments
+			- everything has to come together but some of them are pointed the wrong way
 	-
