@@ -610,7 +610,33 @@
 	- Guard theory
 		- effector triggered immunity
 		- Virulence associated activity
-			- not direct sensing
+			- not direct sensing of viral / pathogenic components, but rather of "virulence factor"
 		- Can help to limit PRR to pathogenic threats rather than commensals
+	- Coincident recognition of PAMP and DAMP
+		- ways to limit immune response and put on the brakes
+		- Simultaneously do pro-inflammatory and anti-inflammatory signaling
+			- TNF, IL1, IL6 pro
+			- IL10, TGF anti
+	- oxPAPC is a potent DAMP
+		- normal membrane lipid
+			- phosphatidylcoline head
+			- palmitate and arachidonic acid tails
+		- arachidonic acid is a very strong inflammatory molecule downstream
+			- COX mediated prostaglandin formation
+			- leukotrienes also downstream through 5-lipoxygenase
+		- non-enzymatic oxidation (ROS) of PAPC arachidonic acid tail forms oxPAPC
+			- but this is actually a broad class
+			- since it's non-enzymatic it's random oxidation at different levels and in different locations
+		- signals through CD14 to activate inflammasome in combination with TLR4
+			- non-canonical inflammasome (caspase11)
+			- release of IL1 and IL18 which changes T cell activation
+		- No pyroptosis after inflammasome
+	- Inflammatory cells have altered metabolism
+		- with just LPS: glycolysis up, oxphos down
+		- both LPS and oxPAPC: glycolysis up, oxphos also up
+			- functional TCA cycle to accumulate oxaloacetate
+		- Increase HIF1\alpha and get to pro IL1\beta
+	- combinatorial DAMP and PAMP maintains a lowered IL10 expression
+		-
 -
 - Lecture 7
