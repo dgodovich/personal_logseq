@@ -568,7 +568,49 @@
 	- Calor, Rubor, Tumor, Dolor
 	- Process of inflammation
 		- inducers
-			- exogenous - microbial derived, host derived
-		-
+			- exogenous - microbial derived,
+			- endogenous - host derived
+		- sensors
+			- tissue resident sentinels
+		- mediators
+			- vasoactive amines / peptides
+			- complement
+			- lipids (leukotrienes)
+			- cytokines
+			- chemokines
+			- Act within seconds
+		- effectors
+			- edema
+			- plasma mediator systems
+				- Triggered by endothelial damage
+					- activates Hageman factor
+				- kinin
+					- Prekallirein -> kalikrein -> convert kininogen to bradykinin
+						- smooth muscle contraction
+						- Drives pain
+				- clotting
+					- Hageman factor activates clotting cascade
+					- Thrombin cleaves fibrinogen to make fibrin and clot
+				- fibrinolytic
+					- Plasmin starts degrading the clot to eventually clear
+				- complement
+					- Self amplifying cascade that gets to a C3 convertase
+						- C4aC2a and C3b2B
+						- Alternative pathway is always happening but gets shut down on our own cells by factor H
+					- C3a and C5a are peptide mediators of inflammation
+						- chemoattractant for phagocytes
+					- C3b is an opsonizing agent
+						- supports recognition of pathogens by phagocytes
+					- Downstream C5 convertase and C6 7 8 9 to form membrane attack complex
+			- leukocyte recruitment
+	- Local vasodilation to increase blood flow and decrease speed - calor and rubor
+	- Vascular permeability starts edema (swelling); tumor
+	- migration and extravasation of immune cells (neutrophils first)
+	- S100a8 specific neutrophil Cre driver
+	- Guard theory
+		- effector triggered immunity
+		- Virulence associated activity
+			- not direct sensing
+		- Can help to limit PRR to pathogenic threats rather than commensals
 -
 - Lecture 7
