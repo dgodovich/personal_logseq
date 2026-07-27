@@ -365,6 +365,7 @@
 		- lots of medical interest in this
 		- engineered NK with TCR or CAR or other weird things
 - Lecture 4 Myeloid Cells in Immune Responses - Claudia Jakubzick
+  collapsed:: true
 	- Cell types and cell identities and cell states
 		- becoming fuzzier as you go down
 	- Myeloid cells generally are bridges between innate and adaptive
@@ -434,3 +435,44 @@
 	-
 	- this lady is a crazy lecturer
 		- why would you put a claude figure that you say is bad
+- Lecture 5 Innate Immunity - Jenny Ting
+	- they should change the order of these lectures
+		- why are you talking about general innate immunity after the myeloid lecture
+	- auto-inflammatory disease is dysregulation of the innate immunity
+		- opposed to autoimmunity which is usually adaptive
+	- Receptor families
+		- Membrane
+			- Toll like
+			- C-type lectin receptors
+		- Intracellular
+			- RIG-I like
+			- NOD like receptors
+				- nucleotide binding leucine rich repeat
+			- Aim2 like
+			- cGAS-STING
+	- PRR pattern recognition receptors
+		- PAMP/MAMP/DAMP
+		- Pretty broad expression
+			- highest on myeloid lineages, but also on epi/endothelial, T/B
+		- Sentinels
+	- Toll Like Receptors
+		- leucine rich repeats in extracellular component
+		- intracellular domain is the same TIR domain as in IL-1R
+		- Two main groups
+			- Membrane - TLR1, 2, 4, 5, 6
+				- lipids, lipoproteins, proteins
+				- Leucine rich domain, TIR domain intracellular
+				- can be homo or hetero dimers (mostly TLR2 hets)
+					- TLR1 and 2 hetero
+					- TLR2 and 6 hetero
+			- Intracellular
+				- intracellular membrane vesicles, ER, endosomes, lysosomes
+				- homodimers
+				- TLR3, 7, 8, 9 nucleic acids
+				- TLR10 orphan receptors
+				- TLR11-13 don't have functions in humans
+		- TIR signaling domain dimerizes for activity
+			- downstream adapters Myd88+TIRAP, TRIF+TRAM
+			- MAPK pathway going towards NF-\kappa\B or IFN
+		-
+-
