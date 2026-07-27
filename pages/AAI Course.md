@@ -474,5 +474,47 @@
 		- TIR signaling domain dimerizes for activity
 			- downstream adapters Myd88+TIRAP, TRIF+TRAM
 			- MAPK pathway going towards NF-\kappa\B or IFN
-		-
+		- Oxidative response can also be measured by TLR 2, 4, 6
+		- Dead and dying cells release nucleic acids that are normally contained
+			- Activate TLR7/9 in lysosomes
+		- TLR7 has multiple binding sites
+	- C-type lectin receptor CLR
+		- Ca dependent carbohydrate binding
+		- CRD domain (carbohydrate (calcium?) recognition domain)
+			- but not all actually require carb or calcium
+		- Types of CLR
+			- Type 1
+				- membrane bound
+				- multiple CRD domains or CTLD
+			- Type 2
+				- membrane bound
+				- single CRD domain
+			- Type 3
+				- soluble oligomeric with lots and lots of domains
+			- all clustered on mouse chromosome 6
+		- important for cell adhesion, platelets, etc
+		- signal through cytoplasmic tail
+		- activating and inactivating
+	- RIG-I
+		- recognizes dsRNA: virus
+		- DEAD helicase domain
+			- autoinhibitory
+			- I guess it destroys the dsRNA so it can't continue activating
+		- CARD domain
+			- caspase activation and recruitment domain
+		- interacts with IPS-1 / MAVS
+			- CARD-CARD interactions to activate complex
+			- forms filaments / multimers
+			- Sun Hur paper
+		- MDA5 is related? somehow a bit different
+		- LGP-2
+			- no CARD domain, works a bit differently
+	- NLR Nod-like Receptors
+		- NBD-LRR nucleotide binding domain-leucine rich domain
+		- large family, 30 in mice 23 in human
+		- regulators and checkpoints of immunity
+			- Expression of MHC class 1
+			- Inflammasome
+		- Plants have toooonns of NLRs
+			- convergent evolution? or just really old
 -
