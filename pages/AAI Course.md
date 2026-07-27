@@ -250,7 +250,8 @@
 			- that bind to different Fc receptors
 				- CD64, CD32(a/b/c), CD16(a/b)
 			- avidity, affinity, functions can all be different
-- Lecture 3 ILC and NK cells Wayne Yokoyama
+- Lecture 3 ILC and NK cells - Wayne Yokoyama
+  collapsed:: true
 	- ILC is mostly the equivalent of Th cells that do not require antigen presentation to mature
 		- derived from common lymphoid progenitor
 		- No RAG dependence
@@ -363,4 +364,21 @@
 			- transplanted NK might be more effective?
 		- lots of medical interest in this
 		- engineered NK with TCR or CAR or other weird things
--
+- Lecture 4 Myeloid Cells in Immune Responses - Claudia Jakubzick
+	- Cell types and cell identities and cell states
+		- becoming fuzzier as you go down
+	- Myeloid cells generally are bridges between innate and adaptive
+		- DCs are specifically doing this
+	- Markers
+		- Macrophage: CD88+ CD26-
+			- DC vs macrophage (inverse)
+		- CD64+ F4/80+
+		- monocytes need CCR2 for migration into tissue
+			- other cells express but it's not as necessary
+		- DCs turn on CCR7 after activation
+			- during migration to lymph node
+	- Macrophages and Dendritic cells
+		- Macs grind up antigen, DCs save it
+			- DCs are specialized for antigen presentation in lymph nodes
+			- Macs can also do this, but not as directly optimized for this
+		-
