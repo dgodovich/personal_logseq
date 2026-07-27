@@ -517,4 +517,50 @@
 			- Inflammasome
 		- Plants have toooonns of NLRs
 			- convergent evolution? or just really old
+		- Peptidoglycan specificity
+			- Nod1 specific to DAP
+			- Nod2 specific to MDP muramyl dipeptide
+		- NLR inflammasome
+			- lots of NLR proteins that regulate this
+			- NLRP3 activated by like everything
+			- two stage pathway
+				- NF-\kappa\B pathway starts it
+					- expression of TNF, IL6, IL12
+					- also proIL2, proIL18
+				- NLRP3 associates with adaptor molecules
+					- recruits and activates pro-caspase1
+				- Gasdermin D cleavage
+					- pyroptosis
+		- Inflammasome
+			- IL1\beta and IL18 pro inflammatory cytokines
+				- fever, inflammation, influencing IFN\gamma and TH1 function
+			- Caspase 1 cleaves the pro forms of the cytokines
+				- and cleaves gasdermin D to cause death (pyroptosis) with pore
+	- Aim2 like receptors
+		- non NLR protein relevant to inflammasome
+		- DNA binding receptor that can also make the inflammasome
+			- same pro-caspase1 recruitment
+			- CARD domain
+		- basically the same theme as NLR
+	- cGAS STING
+		- cyclic GMP-AMP synthase
+		- dsDNA receptor, non sequence specific
+		- cGAMP activates STING to make IFN\beta
+			- makes a STING dimer
+		- Type 1 interferon secretion
+	- multiple coalescing pathways to make sure that you copy everything
+	- TNF is both soluble and membrane
+		- TNFR1 and 2 have different functions
+		- 1 goes to cell death
+			- TRADD (death domain)
+		- 2 is TRAF activation for NK-\kappa\B signaling
+			- defense against infection
+			- cell survival
+	- IL6 signaling
+		- gp130 receptor scaffold with JAK IL6R
+		- Soluble IL6 works differently
+		- IL6 autocrine signaling?
+		-
+		-
+		-
 -
