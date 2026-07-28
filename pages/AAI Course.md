@@ -762,6 +762,7 @@
 		- Uses the same AID enzyme
 	- very Tom like lecture
 - Lecture 8 B Cell Development - Ali Ellebedy
+  collapsed:: true
 	- ~10% of pbmc in humans
 		- other animals have way more
 	- Self tolerance is acquired
@@ -783,4 +784,41 @@
 			- But not by changing production or survival from selection
 		- Change happens in the periphery survival rate
 			- competitive niches to survive
+	- BAFF B cell activation factor
+		- transitional success depends on this receptor
+	- Immune cells compete for resources in the periphery
+		- and during maturation
+	- 10 commandments of B cell development
+		- Stepwise progression
+			- Stem cell -> ProB -> PreB -> Immature B -> Transitional B -> Mature B
+			- pre BCR checkpoint at ProB
+			- BCR checkpoint at immature B
+			- peripheral checkpoint
+				- BAFF competition
+		- Regulated Immunoglobulin Gene Rearrangement
+			- VDJ joining gets testing because you need to have a functional BCR
+			- Heavy chain first, then light
+		- Checkpoints driven by BCR signaling
+		- Generation of Diversity
+			- from yesterday
+		- Central Tolerance
+			- Clonal deletion
+			- Anergy
+				- weakly reactive are functionally silent
+		- Competition for Survival Signals
+			- BAFF
+			- Tonic BCR signal
+		- Massive Overproduction and Massive Attrition
+			- 20-50 million made per day
+			- 10% leave as transitional
+			- 1-3% mature
+		- Developmental Timing
+			- fetal liver transitioning into continuous bone marrow
+			- Other organisms only make B cells in early life
+		- Repertoire Generation != Antigen Response
+			- Bone marrow development is antigen independent
+		- Self / non-self is learned
+- Lecture 9 Dendritic Cells, Related Cells, and Initiation of Adaptive Immunity - Stephanie Eisenbarth
 	-
+-
+- Lecture 10
