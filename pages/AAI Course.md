@@ -649,6 +649,7 @@
 		- So blocking Akt keeps Ezh2 active which deposits H3K27me3
 			- stops IL10 expression
 - Lecture 7 Generation and Modification of Lymphocyte Antigen Receptor Genes - Eugene Oltz
+  collapsed:: true
 	- V(D)J recombination happens during T and B cell development
 		- V for Variable
 			- each variable has a leader exon to have a methionine start
@@ -760,3 +761,15 @@
 		- evolve towards tightest fit
 		- Uses the same AID enzyme
 	- very Tom like lecture
+- Lecture 8 B Cell Development - Ali Ellebedy
+	- ~10% of pbmc in humans
+		- other animals have way more
+	- Self tolerance is acquired
+		- shown by dizygotic twins in cattle that have shared placental circulation
+	- Development starts in fetal liver and then happens in bone marrow
+		- B1 cells are a subtype that sticks around from fetal development
+	- Hardy fractions to subset B cell development
+		- pro into pre into maturing B cells
+		- ![image.png](../assets/image_1785241460448_0.png)
+	- EBF is a B cell lineage specification transcription factor
+	- Pax5 is a lineage commitment factor
