@@ -1010,4 +1010,36 @@
 	- oh man I'm sleepy
 	- TCR looks like MHC class 1
 		- peptide binding cleft that looks very similar
+		- MHC variability is in the binding cleft, not in the TCR binding region
+			- change the peptide, don't change the main structure
+	- MHC restriction
+		- T cells develop in thymus but have to respond to MHC peptides
+		- So they have to look at peptides that are presented on an MHC
+		- But not respond to self
+		- presented by thymic epithelial cells
+		- Doubly restricted to MHC and to peptide
+	- Thymic epithelia
+		- cortical vs medullary are different but both express self proteins
+		- thymus expresses some proteins from everything in the body
+			- modulated by AIRE and FEZF2 transcription factors
+			- turn on expression of tissue specific proteins in medullary cells
+		- positive and negative selection
+		- Cortical
+			- mostly do positive selection on the DP thymocytes in the cortex
+			- so these work with slightly matured T cells to make them continue differentiation
+			- Make IL7 and Notch ligands (DLL4)
+			- chemokines like CCL25 antd Cxcl12
+			- Express MHC 1 and 2 to do positive selection (MHC restriction)
+			- determine CD4 or 8 based on which MHC molecule the TCR reacts to
+			- I think this is basically does it work for anything
+		- Medulla
+			- Negative selection after single positive
+				- ensure that it's not too strong
+			- Maturation of non-standard T cell subtypes
+			- CCL19 and CCL21
+			- Self protein expressed by AIRE - ectopic gene expression on purpose
+		- kind of a huge diversity of cells
+			- slightly more specific ones that make other tissue specific proteins
+	- How do you get CD4 / CD8 specification?
+		- receptors have different interaction strengths
 		-
