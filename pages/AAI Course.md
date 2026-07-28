@@ -981,4 +981,33 @@
 		- More likely to bind specific peptides? I guess? that feels really complicated
 		- Particular mutation that causes diabetes because insulin binds
 - Lecture 11 T cell Development - Avery August
-	-
+	- Cells leave bone marrow as early lymphoid progenitors and then arrive in the thymus to become T cells
+	- TCR rearrangement happens in the thymus
+	- Dependent on interactions with thymus stromal cells
+	- Start out as "double negative"
+		- no CD8 or CD4
+	- become double positive DP for a bit (CD8+ CD4+)
+	- end up as single positive
+	- CD44 and CD25 are earlier stages
+		- can distinguish DP populations
+	- Early lymphoid population
+		- DN1 first population is CD44+ CD25- CD8- CD4-
+		- do the normal thing of leaving from venule in the thymus
+	- Aging has a substantial drop of new T cell generation
+	- Early thymic progenitor comes from Early lymphoid progenitor
+	- \gamma\delta and \alpha\beta T cell develop in waves
+		- A lot of \gamma\delta are in the embryo
+		- TCR\beta selection happens after DN3a population
+		- T lineage commitment happens a bit earlier at DN2a phase
+			- CD25 turn on at this time
+	- ThPOK and Runx3 are mutually exclusive in CD4/8 maturation
+	- IL7R important early
+	- Notch signaling
+		- coming from thymic cells
+		- secreted ligand
+		- causes proliferation
+		- pretty high until single positive cells
+	- oh man I'm sleepy
+	- TCR looks like MHC class 1
+		- peptide binding cleft that looks very similar
+		-
