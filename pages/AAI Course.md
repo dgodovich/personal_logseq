@@ -773,3 +773,14 @@
 		- ![image.png](../assets/image_1785241460448_0.png)
 	- EBF is a B cell lineage specification transcription factor
 	- Pax5 is a lineage commitment factor
+	- Bajillion markers for all of the substeps
+	- Two selection points
+		- For each branch of the recombination of the antibody / BCR
+		- check for functional protein after recombination on either allele
+			- and for self-reactivity
+	- Cell lifespan is regulated by biological size
+		- parabiosis increases numbers of b cells
+			- But not by changing production or survival from selection
+		- Change happens in the periphery survival rate
+			- competitive niches to survive
+	-
