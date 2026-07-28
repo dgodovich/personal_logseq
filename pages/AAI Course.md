@@ -1098,4 +1098,5 @@
 		- ![image.png](../assets/image_1785272343559_0.png)
 		- CD4/8 carries Lck with it but importantly not every CD4/8 has it
 			- so the thought is that only a strong interaction gives enough time for a CD4/8 + Lck combo to come in and do the phosphorylation activity
+	- CD45 phosphatase gets excluded from the LAT based signalosome / condensate
 	-
