@@ -903,6 +903,25 @@
 		- not as good at antigen presentation
 		- Very good at nucleic acid detection
 		- type 1 IFN production
+	- DC can also induce Tregs
+		- different cell state that can do tolerance
+		- ROR\gamma\T TF
+			- Th17 transcription factor
+	- Things that aren't DCs
+		- follicular dendritic cells
+			- not hematopoetic in origin, doesn't migrate
+			- stromal cell that holds antigen for B cells
+		- BMDC (bone marrow derived dendritic cells)
+			- grown in a dish
+			- important differences (duh)
+	- DCs instruct the immune response
+		- cytokine milieu matters a lot but it's not 100% determined
+		- ![image.png](../assets/image_1785251360608_0.png)
+		- lymph node microenvironment really matters
+			- e.g. Tfh cell differentiation requires DC and B cell signals
+	- DCs can also recognize DAMPs and organize adaptive immune response
+		- Clec9a is a CLR that recognizes filamentous actin
+		- necrotic cells
 	-
 	-
 -
