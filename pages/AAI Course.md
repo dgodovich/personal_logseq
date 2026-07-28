@@ -819,6 +819,11 @@
 			- Bone marrow development is antigen independent
 		- Self / non-self is learned
 - Lecture 9 Dendritic Cells, Related Cells, and Initiation of Adaptive Immunity - Stephanie Eisenbarth
-	-
+	- Antigen presenting cells have to function as gatekeepers
+	- Myeloid cells
+		- granulocytes, macrophages and dendritic cells
+		- Macs and DCs are APC
+		- all phagocytes
+		-
 -
 - Lecture 10
