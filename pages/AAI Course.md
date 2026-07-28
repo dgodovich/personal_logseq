@@ -924,6 +924,7 @@
 		- Clec9a is a CLR that recognizes filamentous actin
 		- necrotic cells
 - Lecture 10 MHC-restricted Antigen Presentation to T cells - Kai Wucherpfennig
+  collapsed:: true
 	- Intense selection pressure from pathogens which has made the HLA locus very polymorphic
 	- Complement and TNF are in the same place
 		- Class III HLA
@@ -979,7 +980,5 @@
 	- MHC mutations can predispose disease
 		- More likely to bind specific peptides? I guess? that feels really complicated
 		- Particular mutation that causes diabetes because insulin binds
-		-
--
--
-- Lecture 11
+- Lecture 11 T cell Development - Avery August
+	-
