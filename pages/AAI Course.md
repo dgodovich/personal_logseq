@@ -880,7 +880,30 @@
 		- Macs do antigen presenting to T cells in the tissue
 		- DC lifespan is 1-2 days
 			- stays in one lymph node
-		-
+	- DC could die in the lymph node and be represented by other phagocytes
+		- But this isn't super common because it's apoptotic so it's "clean"
+	- Not really proliferative after leaving bone marrow
+	- gradient of chemokines and chemoattractants in the lymph nodes to get subdomains
+	- DC subtypes
+		- cDC1 are mainly type 1 response
+			- IL12, CD8 T cell activation, TLR3
+		- cDC2 to type 2 ish
+			- Th, IL23, TLR7
+			- one million subsets of these guy
+		- plasmacytoid looks different
+			- IFN, TLR7 8 9
+	- Skin DC
+		- dermis has cDC1 and 2
+		- epidermis has langerhans cells which are macrophage but also DC?
+		- They can leave so they're kind of a half way population
+		- Embryonic origin and they are proliferative
+	- Resident DCs in the lymph nodes
+		- they do some weird things but generally it's a DC that doesn't have to migrate very far
+	- pDCs
+		- not as good at antigen presentation
+		- Very good at nucleic acid detection
+		- type 1 IFN production
+	-
 	-
 -
 - Lecture 10
