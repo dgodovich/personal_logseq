@@ -981,6 +981,7 @@
 		- More likely to bind specific peptides? I guess? that feels really complicated
 		- Particular mutation that causes diabetes because insulin binds
 - Lecture 11 T cell Development - Avery August
+  collapsed:: true
 	- Cells leave bone marrow as early lymphoid progenitors and then arrive in the thymus to become T cells
 	- TCR rearrangement happens in the thymus
 	- Dependent on interactions with thymus stromal cells
@@ -1063,4 +1064,15 @@
 		- goldilocks zone of becoming a Treg
 		- IL2 and IL15 expression
 		- Recognize self antigen enough to suppress immune response
+- Lecture 12 Antigen Receptor Signaling - Larry Kane
+	- Everything is always controlled by signaling
+	- I think a pretty fundamentally interesting thing in biology is pleiotropy
+	- APC has a whole bunch of MHC and T cell is trying to sample all of them
+	- T cell receptor complex
+		- CD3 \eta heterodimers
+		- \zeta homodimer in the cytoplasm underneath the receptor
+		- held together by pretty strong charge interactions
+		- Need assembly of the whole complex to get cell surface expression
+			- dependent on CD3 and TCR
+	- Immunoreceptor Tyrosine-based Activation Motif ITAM
 	-
