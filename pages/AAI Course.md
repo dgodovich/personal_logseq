@@ -1075,4 +1075,27 @@
 		- Need assembly of the whole complex to get cell surface expression
 			- dependent on CD3 and TCR
 	- Immunoreceptor Tyrosine-based Activation Motif ITAM
+	- Intracellular signaling pathways aren't super accessible
+		- TCR has no kinase domain built in, unlike RTKs
+		- ITAM has two tyrosines in the motif
+			- 3 motifs in \zeta protein
+			- 1 in CD3
+			- also in Ig\beta and Ig\alpha
+	- Signaling cascade
+		- Lck is a Src family kinase that phosphorylates ITAMs
+			- associated with CD4 and CD8 coreceptor
+			- kind of does the MHC class restriction
+		- Zap70 tyrosine kinase gets recruited
+		- Then it basically looks like any other tyrosine kinase downstream stuff
+			- GRB2 scaffolding, SOS, PLC\gamma, Cdc42, rac, etc etc
+		- Src vs Syk family
+			- Zap70 is a Syk kinase
+			- Syk is more important for B cells but who cares
+		- Lck is controlled by CD45
+	- T cell ligand sensitivity
+		- TCR and complex and MHC/ligand are all membrane bound which makes things tricky
+		- affinity in solution is pretty low
+		- ![image.png](../assets/image_1785272343559_0.png)
+		- CD4/8 carries Lck with it but importantly not every CD4/8 has it
+			- so the thought is that only a strong interaction gives enough time for a CD4/8 + Lck combo to come in and do the phosphorylation activity
 	-
