@@ -824,6 +824,63 @@
 		- granulocytes, macrophages and dendritic cells
 		- Macs and DCs are APC
 		- all phagocytes
+		- lots of metabolic functions and general tissue homeostasis
+	- DC is the professional APC
+		- translators between innate and adaptive
+		- Phagocytose and then present bits of antigen
+		- Tell T cells what to do
+		- CD11c (integrin)
+	- Antigen Presentation is a multi signal event
+		- Signal 1 is antigen being presented to the TCR through MHC
+		- Signal 2 is costimulatory / licensing signal
+		- 1 without 2 leads to anergy
+			- This is basically presentation of self
+			- Lack of 2 means you should not respond to this
+			- important for peripheral tolerance
+				- food, environment, general outside stuff
+		- Signal 3 is something else that tells T cell what type it should be
+	- MHC
+		- HLA class I and II are different (human leukocyte antigen)
+		- Class 1
+			- antigen presentation to CD8 T cell (CTL)
+			- one transmembrane domain
+			- lacking MHC class 1 means you get no CD8 T cells at all
+			- presents proteins from cytoplasmic components
+				- viral
+			- Smaller protein fragments (8-10mer)
+		- Class 2
+			- CD4 T cell (Th)
+			- two transmembrane domain
+			- presents external proteins from phagocytosed things
+			- Larger protein fragments (13-25mer)
+		- Cross presentation
+			- antigen gets phagocytosed and then gets into MHC1 pathway
+	- B cells don't need antigen presentation in the same way as T cells
+		- because antibodies/BCR are better at recognition than TCR
+		- But still need signal 2
+			- CR2 receptor CD21 ligand
+			- PRR (TLR)
+	- Signal 2 for T cells
+		- CD28
+			- B7 family members
+			- CD80, CD86
+		- ICOS receptor, ICOSL(ligand)
+		- OX40 receptor OX40L (ligand)
+		- CD137 receptor 4-1BBL ligand
+	- PRR stimulation activates DC to present antigen
+		- This is why adjuvants work
+			- Add antigen and also something that triggers DC activation
+	- DCs are the most efficient primers of naive T cells
+		- Expression of most PRRs at high levels
+		- Expression of costimulatory molecules
+		- But the real reason is that DCs can migrate to the lymphoid organs
+			- macs / monocytes / neutrophils can be tissue sentinels but they do not leave after
+			- DC takes up antigen and then turns on CCR7 and books it out of there
+				- driven by CCL19 or CCL21
+		- Macs do antigen presenting to T cells in the tissue
+		- DC lifespan is 1-2 days
+			- stays in one lymph node
 		-
+	-
 -
 - Lecture 10
