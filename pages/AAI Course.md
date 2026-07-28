@@ -948,6 +948,38 @@
 					- HLA-A2 has L/M at 2 (cannot be charged) and 9 is V/L
 			- Deep pockets around the peptide binding groove allow side chains to float around
 			- Longer peptides bulge out (13mer possible)
+	- Antigens getting into MHC class 1
+		- surveillance of antigens in the cytosol
+			- Part of this is viral defense, but this is also important for regular proteolytic stuff
+		- Proteolytic degradation leads to peptide formation
+		- Goes to ER where it assembles with MHC class 1 and is then secreted to surface
+			- TAP transporter into the ER
+		- Peptide transport and MHC assembly is integrated
+			- TAP binds to Tapasin which does the MHC assembly
+			- ERAP (ER associated protease) cuts peptides down to the appropriate length
+			- Calreticulin stabilizing assembly
+	- Cross presentation
+		- Dendritic cells take up apoptotic / necrotic stuff from dying cells with Clec9a (DNGR-1)
+			- binds to exposed f-actin
+		- Clec9a signals for phagosome to exit into the cytosol for regular MHC class 1
+			- recruit NADPH oxidase that generates ROS to break phagosome membrane
+	- MHC Class 2
+		- groove is open on both ends, so they're usually longer
+			- peptide is not tethered on the ends
+			- H bonding between flanking helices
+		- assemble in ER with help from invariant chain protein
+			- go into peptide binding groove to stabilize
+		- HLA DM binds to class 2 and helps to remove the invariant chain and prep for antigen
+		- Antigen comes from endosomal pathway and merges with ER vesicle
+		- DA is the major component but DM is support
+			- when peptide binds DM gets kicked out
+				- DM tries to take the pocket and peptide has to outcompete it
+				- Ensure that there is long stable binding in the groove
+			- bunch of structure data that shows conformational change
+	- MHC mutations can predispose disease
+		- More likely to bind specific peptides? I guess? that feels really complicated
+		- Particular mutation that causes diabetes because insulin binds
+		-
 -
 -
 - Lecture 11
