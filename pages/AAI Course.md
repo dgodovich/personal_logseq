@@ -819,6 +819,7 @@
 			- Bone marrow development is antigen independent
 		- Self / non-self is learned
 - Lecture 9 Dendritic Cells, Related Cells, and Initiation of Adaptive Immunity - Stephanie Eisenbarth
+  collapsed:: true
 	- Antigen presenting cells have to function as gatekeepers
 	- Myeloid cells
 		- granulocytes, macrophages and dendritic cells
@@ -922,7 +923,31 @@
 	- DCs can also recognize DAMPs and organize adaptive immune response
 		- Clec9a is a CLR that recognizes filamentous actin
 		- necrotic cells
-	-
-	-
+- Lecture 10 MHC-restricted Antigen Presentation to T cells - Kai Wucherpfennig
+	- Intense selection pressure from pathogens which has made the HLA locus very polymorphic
+	- Complement and TNF are in the same place
+		- Class III HLA
+	- Class 1 is mostly HLA-A and HLA-B
+		- thousands of unique alleles among people
+	- Class 2 is slightly less polymorphic
+		- but because it's combinatorial there's a lot of diversity
+	- These do not recombine!
+		- Different people have different HLA
+		- Evolutionarily beneficial for species level survival
+	- MHC Class 1
+		- domains
+			- \beta2 microglobulin side chain that doesn't go through the membrane
+			- \alpha 1 2 chains do the peptide binding
+			- \alpha 3 is closer to transmembrane domain
+		- Peptide
+			- 8-10aa in length
+			- N and C termini sit in A and F pockets of the peptide binding groove
+				- Some degree of sequence specificity of this?
+				- polymorphism makes this variable person to person
+					- e.g. HLA-B27 has R at 2 and L/K at 9
+					- HLA-A2 has L/M at 2 (cannot be charged) and 9 is V/L
+			- Deep pockets around the peptide binding groove allow side chains to float around
+			- Longer peptides bulge out (13mer possible)
 -
-- Lecture 10
+-
+- Lecture 11
