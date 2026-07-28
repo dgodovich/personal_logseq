@@ -1042,4 +1042,25 @@
 			- slightly more specific ones that make other tissue specific proteins
 	- How do you get CD4 / CD8 specification?
 		- receptors have different interaction strengths
-		-
+		- this part made no sense
+	- Thymic exit governed by S1P expression
+		- CD69 is responsive to T cell activation
+			- But it also regulates S1P which is a GPCR
+		- upregulation of Foxo1 and chemokine receptors to get it out of there and traffic to lymph nodes
+	- iNKT cells
+		- NK cells markers and also TCR
+		- restricted TCR that recognizes glycolipids
+		- interact with CD1d that shows a glycolipid
+			- positive selection of TCR that specifically binds to that
+		- PLZF transcription factor
+		- go into the various subsets basically as normal
+	- Tregs
+		- regular \alpha\beta but pivot towards the end
+		- TGF\beta signaling and some other receptor interaction in the medulla?
+			- TNFR?
+		- Stronger than normal but not too strong self antigen selection
+			- this feels very wishy washy
+		- goldilocks zone of becoming a Treg
+		- IL2 and IL15 expression
+		- Recognize self antigen enough to suppress immune response
+	-
