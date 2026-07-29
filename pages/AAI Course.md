@@ -1065,6 +1065,7 @@
 		- IL2 and IL15 expression
 		- Recognize self antigen enough to suppress immune response
 - Lecture 12 Antigen Receptor Signaling - Larry Kane
+  collapsed:: true
 	- Everything is always controlled by signaling
 	- I think a pretty fundamentally interesting thing in biology is pleiotropy
 	- APC has a whole bunch of MHC and T cell is trying to sample all of them
@@ -1100,3 +1101,4 @@
 			- so the thought is that only a strong interaction gives enough time for a CD4/8 + Lck combo to come in and do the phosphorylation activity
 	- CD45 phosphatase gets excluded from the LAT based signalosome / condensate
 	-
+- Lecture 13 B Cell
