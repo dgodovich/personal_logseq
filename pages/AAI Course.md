@@ -1216,12 +1216,33 @@
 		- Central vs Effector memory cells
 		- central is more proliferative
 			- retain potential to differentiate into the other subsets
+			- "police station"
 		- effector is better at functioning
 			- most present in blood
+			- "patrollers"
 		- Resident memory T cells
 			- both central and effector memory circulate through secondary lymph organs
 			- residents do not exchange
-	-
+			- "street cops"
+			- CD69, CD103 markers
+			- produce cytokines to recruit other immune cells
+				- more of an innate function
+		- Potentially there's stem cell memory t cells? unclear
+	- Keep in mind that flow can vastly under estimate numbers of cells because of digestion
+	- CD69 is involved with S1PR1 signaling that promotes thymic exit and lymph node cycling
+		- If you have high CD69 then you don't get S1PR1 and you can't do the leaving behavior
+		- In resting T cells you have high levels of S1PR1 which prevents membrane CD69
+		- readout rather than function
+	- Ontogeny
+		- there is some memory precursor cells that are already visible early in the response
+			- KLRG- CD127+ (IL7R)
+		- Asymmetric cell division during T cell maturation
+			- cue from APC - divide along that axis?
+			- There are definitely early asymmetric divisions following antigen presentation
+		- Multiple rounds of TCR stim could also change the outcome of asymmetric divisions
+		- Cytokine signaling is important as usual
+			- unsurprisingly it's complicated
+		-
 - Lecture 16 T Cell Tolerance
 - Lecture 17 Allergic Responses
 - Lecture 18 Immune metabolism
