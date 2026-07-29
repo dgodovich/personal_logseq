@@ -1242,6 +1242,41 @@
 		- Multiple rounds of TCR stim could also change the outcome of asymmetric divisions
 		- Cytokine signaling is important as usual
 			- unsurprisingly it's complicated
+		- Becoming a memory t cell
+			- TCR activation degree and number of activations
+			- IL-2 and other inflammatory cytokines push towards effector
+			- regulatory cytokines push a bit more to memory
+				- Il7, 21, 10, 15
+	- CD4 is different than CD8 and most of the things he's talked about are for CD8
+	- Persistence
+		- half life of CD4 & 8 T cell memory is 8-15 years
+			- this is from blood data, no clue (probably some clue but not well known) for resident
+		- more important for things that rapidly mutate like flu
+		- IL7 and 15 important for survival and basal level of proliferation
+			- Requirements are a bit different for CD4 and 8
+			- 15 maybe a bit more important for proliferation, 7 for survival
+			- not every subset of tissue resident needs IL15
+				- but it seems that all need at least one of 7 or 15 (or both)
+		- CD8 might live longer than CD4?
+		- Don't need active TCR signaling to stay following acute infection, only need it to reactivate
+			- do need in chronic - antigen addiction
+				- exhaustion
+	- sometimes you just make memory cells for fun?
+		- idgi but sure
+		- lymphopenia makes some "homeostatic" memory state
+		- self peptide memory T cell?
+	- Dysfunctional memory T cells
+		- CD8 needs help from CD4 to make a memory population
+			- IL2 production
+			- unable to do homeostatic proliferation
+		- Exhaustion
+			- chronic antigen gives too strong of a response so T cells fade out and die
+			- functional capacity can be eroded in some mechanism that I'm not too sure about
+			- Sometimes latent infections could be good
+				- CMV has a gap between antigen encounters so memory cells do get made
+				- More like a secondary immune response
+			- Real problem is true consistent antigen exposure
+			- Never able to make memory cells
 		-
 - Lecture 16 T Cell Tolerance
 - Lecture 17 Allergic Responses
