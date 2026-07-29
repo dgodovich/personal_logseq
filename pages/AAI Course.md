@@ -1277,6 +1277,7 @@
 				- More like a secondary immune response
 			- Real problem is true consistent antigen exposure
 			- Never able to make memory cells
+			- Exhaustion is important to not have overactive immune system and to properly respond to chronic illness
 		-
 - Lecture 16 T Cell Tolerance
 - Lecture 17 Allergic Responses
