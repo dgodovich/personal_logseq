@@ -1356,6 +1356,8 @@
 	- Quality of barrier to environment is a big factor for allergies
 		- Flg Filagrin is a component of epidermal differentiation pathway which is very relevant to atopic dermatitis
 	- Early exposure to allergen likely leads to tolerance and development of Tregs for allergen
+	- Models of allergies
+		- multiple timelines and methods
 	-
 - Lecture 18 Immune metabolism
 - Lecture 19 Neuroimmunology
