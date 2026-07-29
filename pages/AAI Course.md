@@ -1191,6 +1191,7 @@
 			- Klinefelters disease (XXY) is 14 fold more likely to have lupus
 	- Xist could be an autoantigen with a TLR7 stimulatory possibility
 - Lecture 15 T Cell Memory - Steve Jameson
+  collapsed:: true
 	- Immunological memory is the productive response to have an enhanced response to subsequent exposures to an antigen
 	- memory T cells compared to naive have
 		- increased cell number
@@ -1279,6 +1280,7 @@
 			- Never able to make memory cells
 			- Exhaustion is important to not have overactive immune system and to properly respond to chronic illness
 - Lecture 16 T Cell Tolerance Kristi Kuhn
+  collapsed:: true
 	- Central tolerance happens in the thymus
 		- AIRE mediated expression of broad self proteins
 		- Low signal to self antigen makes a naive T cell
@@ -1324,8 +1326,37 @@
 		- NR4A1 is higher in tolerogenic T cells
 			- blocks AP-1
 	- Deletional tolerance mediated by Bim
+- Lecture 17 Allergic Responses - Mark Kaplan
+	- Types of allergic diseases
+		- allergic rhinitis is the most common
+			- seasonal allergies but generally anything airborne
+		- Eosinophilic esophagitis EoE
+		- asthma
+			- in the airways resulting in bronchoconstriction
+			- results in long term fibrosis
+			- muscle hyperplasia
+		- food allergies
+			- big variability here
+		- atopic dermatitis
+	- Common mediators
+		- histamine
+		- PAF (platelet activation factor)
+		- cysteino leukotrienes
+		- Mast cells
+		- resultant symptoms
+			- vasodilators
+			- muscle constriction
+			- mucus production
+	- IgE is the major allergic response antibody
+		- can test serum for IgE but this isnt super reliable
+		- Presence of IgE does not mean that someone will react
+	- The atopic march
+		- things kind of present in order from dermatitis -> food allergy -> asthma -> rhinitis
+	- Genetic causes for allergic diseases have a lot of overlaps
+	- Quality of barrier to environment is a big factor for allergies
+		- Flg Filagrin is a component of epidermal differentiation pathway which is very relevant to atopic dermatitis
+	- Early exposure to allergen likely leads to tolerance and development of Tregs for allergen
 	-
-- Lecture 17 Allergic Responses
 - Lecture 18 Immune metabolism
 - Lecture 19 Neuroimmunology
 - Lecture 20
