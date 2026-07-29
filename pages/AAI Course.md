@@ -1299,7 +1299,32 @@
 		- food and commensal antigen responsive
 	- Central Tregs (thymic) are self antigen responsive
 	- Peripheral tolerance mechanisms
-		-
+		- Quiescence
+			- metabolically less active
+				- smaller mitochondria, less potential
+			- regulated by TGF\beta
+				- naive T cells have high levels of TGF\beta acting as an autocrine signal
+				- Activate IL2 when you have TCR stimulation as a new autocrine signal
+		- Ignorance
+			- Antigen not expressed in the thymus and/or T cell didn't see it
+			- tissue specific IL17 expression?
+			- promoter dependent levels of response
+			- I don't really get this
+			- What do you mean by ignorance?
+		- Suppression
+	- ROR\gamma\T for Th17
+	- Foxp3 for Treg
+	- Tbet for Th1
+	- Bcl6 for Tfh
+	- Anergy happens with TCR signaling with no signal 2
+		- no IL2, no proliferation
+		- at any point, even with restim
+		- dependent on NFAT only, no AP-1 TFs
+			- AP-1 activation is dependent on signal 2 signaling going through PI3K -> Akt -> cJun
+		- NR4A1 is higher in tolerogenic T cells
+			- blocks AP-1
+	- Deletional tolerance mediated by Bim
+	-
 - Lecture 17 Allergic Responses
 - Lecture 18 Immune metabolism
 - Lecture 19 Neuroimmunology
