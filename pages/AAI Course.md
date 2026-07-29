@@ -1101,4 +1101,50 @@
 			- so the thought is that only a strong interaction gives enough time for a CD4/8 + Lck combo to come in and do the phosphorylation activity
 	- CD45 phosphatase gets excluded from the LAT based signalosome / condensate
 	-
-- Lecture 13 B Cell
+- Lecture 13 B Cell Memory - Deepta Bhattacharya
+	- Apparently I missed the best one
+- Lecture 14 B Cell Tolerance and Autoimmunity - Julie Zikherman
+	- Central tolerance is selection against self antigen during maturation
+		- clonal deletion
+		- receptor editing
+	- Peripheral tolerance is another defense mechanism
+		- anergy
+	- Two checkpoints in B cell development
+		- first is before they leave the bone marrow
+		- second is before they express IgD in the lymph node
+	- BCR transgenic mice
+		- pre-recombined transgenic BCR
+		- can program the specificity of BCR
+			- allelic exclusion
+			- no RAG activity because the B cell already has a functioning BCR
+		- first ones made were the anti-hen egg lysozyme (HEL) BCR
+	- Low affinity but high avidity self reactivity leads to deletion
+		- this was the prevailing view but it's not entirely correct
+	- Receptor Editing is more important than clonal deletion
+		- RAG can change out the V locus to make a different BCR if you get a self-reactive one
+		- clonal deletion is only a back up
+			- primary method is receptor editing
+	- Knock in tells you something different than the transgenic
+		- Transgene can't be edited because it's somewhere else
+		- Knock in can do the regular editing with RAG mediated recombination
+	- Bone marrow exit control
+		- If you aren't self reactive you turn on PI3K
+			- turn off RAG
+			- get CD19
+			- mature and leave
+		- If self reactive
+			- turn off CD19, turn on RAG
+			- receptor editing over several rounds if you need
+			- once you get one that isn't self reactive do the normal maturation stuff
+	- Negative selection against self antigen means that you have holes in the antigen repertoire
+		- viruses that look like self aren't detected
+		- So you kinda want to have some self reactivity
+		- Positive selection has to happen at some point to protect against self-mimicking virus
+	- Distinguish between membrane (high avidity) antigen and soluble (high affinity) antigen
+		- Change IgD and IgM proportions
+			- IgM goes down for self reactive antigens
+		- IgD has a flexible hinge
+			- can't really signal for monovalent soluble antigen
+			- too flexible
+		- both can signal for multivalent membrane
+	-
