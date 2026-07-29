@@ -1278,8 +1278,28 @@
 			- Real problem is true consistent antigen exposure
 			- Never able to make memory cells
 			- Exhaustion is important to not have overactive immune system and to properly respond to chronic illness
+- Lecture 16 T Cell Tolerance Kristi Kuhn
+	- Central tolerance happens in the thymus
+		- AIRE mediated expression of broad self proteins
+		- Low signal to self antigen makes a naive T cell
+		- intermediate gets Treg
+		- Too strong gets apoptosed
+		- Main methods
+			- thymic selection
+			- Tregs
+	- This is a repeat of yesterday in the beginning
+	- Tregs
+		- soak up IL2 with high expression of CD25 (IL2R)
+		- CTLA-4 to block T cell activation
+		- CD73 catalyzes AMP to adenosine
+		- IL10, IL35 cytokine production
+	- Peripheral Tregs
+		- mucosal tolerance
+		- limit allergy and intestinal inflammation
+		- food and commensal antigen responsive
+	- Central Tregs (thymic) are self antigen responsive
+	- Peripheral tolerance mechanisms
 		-
-- Lecture 16 T Cell Tolerance
 - Lecture 17 Allergic Responses
 - Lecture 18 Immune metabolism
 - Lecture 19 Neuroimmunology
