@@ -1104,6 +1104,7 @@
 - Lecture 13 B Cell Memory - Deepta Bhattacharya
 	- Apparently I missed the best one
 - Lecture 14 B Cell Tolerance and Autoimmunity - Julie Zikherman
+  collapsed:: true
 	- Central tolerance is selection against self antigen during maturation
 		- clonal deletion
 		- receptor editing
@@ -1189,4 +1190,40 @@
 			- incomplete X inactivation
 			- Klinefelters disease (XXY) is 14 fold more likely to have lupus
 	- Xist could be an autoantigen with a TLR7 stimulatory possibility
+- Lecture 15 T Cell Memory - Steve Jameson
+	- Immunological memory is the productive response to have an enhanced response to subsequent exposures to an antigen
+	- memory T cells compared to naive have
+		- increased cell number
+			- Incomplete contraction of the responsive population
+			- Naive cells are very limited and vastly proliferate during infection
+			- Stable memory population is larger than the naive one which can respond faster
+		- Enhanced function
+			- Faster kinetics for effector functions like inflammatory cytokine production (IFN\gamma)
+			- Naive cells have to differentiate and change chromatin structure to change gene expression
+			- Open chromatin around GZMB sticks around forever, it's just not expressed
+			- Functional avidity
+				- TCR becomes more sensitive over time?
+		- Altered trafficking and localization
+			- tissue resident memory cells
+			- can surveil barrier sites
+	- Not amazing markers
+		- in mouse high CD44, CD122, LFA-1 (CD11a)
+		- potentially chromatin accessibility is better but that's hard
+		- Distinguishment between effector memory and central memory
+			- CCR7, CD62L
+			- phenotype
+	- Subsets
+		- Central vs Effector memory cells
+		- central is more proliferative
+			- retain potential to differentiate into the other subsets
+		- effector is better at functioning
+			- most present in blood
+		- Resident memory T cells
+			- both central and effector memory circulate through secondary lymph organs
+			- residents do not exchange
 	-
+- Lecture 16 T Cell Tolerance
+- Lecture 17 Allergic Responses
+- Lecture 18 Immune metabolism
+- Lecture 19 Neuroimmunology
+- Lecture 20
