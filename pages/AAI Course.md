@@ -1174,4 +1174,19 @@
 				- break through with stronger signal
 	- Breaking tolerance
 		- Promiscuous T cell help
-		-
+		- TLR signaling overcoming lack of signal 2
+	- Virus tumor and autoimmune generation could be mostly B cell mediated
+		- Explains why you get lymphomas from HCV infection
+		- IgG coated viral particles form immune complexes
+		- Immune complex can be strongly reactive to a self antigen B cell
+			- and then the viral DNA at the center triggers TLR 7 or 9
+		- Then you get autoantibody
+	- autoimmune diseases are more common in women
+		- Partly hormonal
+			- more likely to happen during pregnancy
+		- gene dosage
+			- TLRs are on the X
+			- incomplete X inactivation
+			- Klinefelters disease (XXY) is 14 fold more likely to have lupus
+	- Xist could be an autoantigen with a TLR7 stimulatory possibility
+	-
