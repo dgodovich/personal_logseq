@@ -1358,7 +1358,21 @@
 	- Early exposure to allergen likely leads to tolerance and development of Tregs for allergen
 	- Models of allergies
 		- multiple timelines and methods
-	-
+	- stopped taking notes for a bit
+	- Supposedly IgE plasma cells are short lived and don't stick around in memory pool
+		- memory pool is in IgG4 b cells that switch to IgE during response
+		- But how does that happen quickly?
+		- How do you get sensitization over sequential reactions?
+	- Anaphylaxis
+		- Mast cell degranulation can lead to systemic response through CNS stimulation
+		- transmission of allergen into circulation matters a lot
+		- multiple populations of mast cells in the gut that seemingly respond to different things
+			- epithelial vs connective tissue mast cells
+	- allergies exist for parasitic defenses
+		- upregulation of clearing responses at barrier tissues
+			- coughing, mucus, etc
+		- aversion
+		-
 - Lecture 18 Immune metabolism
 - Lecture 19 Neuroimmunology
 - Lecture 20
