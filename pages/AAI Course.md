@@ -1147,4 +1147,31 @@
 			- can't really signal for monovalent soluble antigen
 			- too flexible
 		- both can signal for multivalent membrane
-	-
+	- Calcium signaling is important
+		- NFAT is extremely Ca sensitive even at low fluctuations
+		- NF-\kappa\B needs a lot more signaling
+		- Low calcium levels drive anergy
+			- this is conserved between T and B cells
+	- Generally the signaling between T and B cells is pretty conserved
+		- CD19 coreceptor instead of CD4/8/28
+		- Negative signaling control of PIP3 matters a lot to keep the self antigen response in anergy
+			- PTEN phosphatase
+	- Somehow B cells are really good at recognizing particulate antibodies
+		- Probably this is related to IgD/IgM differences
+		- Anergic cells mostly have IgD so they suck at responding to soluble antigen
+			- But as mentioned before IgD is still plenty good at signaling in response to membrane antigen
+	- Clonal redemption in the germinal center
+		- B cell antigen maturation continues after maturation
+		- you get mutations that change affinity for self and for self mimicking antigen
+	- Two signal model
+		- Signal 1 is antigen
+		- Signal 2 is classically T cell help
+			- absence of signal 2 leads to anergy (tolerance)
+			- receipt of signal 2 within some time window leads to activation and immune response
+		- But there's other signal 2 options
+			- innate stimuli e.g. TLR
+			- multivalent antigen
+				- break through with stronger signal
+	- Breaking tolerance
+		- Promiscuous T cell help
+		-
