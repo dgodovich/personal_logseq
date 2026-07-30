@@ -1389,11 +1389,29 @@
 		- Participate in cell signaling and transcription
 			- posttranslational modifications
 			- regulate epigenetics
-		- Navigating metabolism - Chandel book
+		- Navigating metabolism - Navdeep Chandel book
 	- Metabolic reprogramming during immune activation
 		- IL2 signaling allows membrane expression of Glut1 transporter
 		- Balance matters along the trajectory of activation
 			- example of TRAF6 KO T cells that become so glycolytic that they can't make TCA intermediates
-	-
+	- Memory T cells need to engage fatty acid oxidation to survive and complete differentiation into memory
+	- Tregs without functional oxphos (no complex III) still exist but do not have suppressive function
+		- Normally they do a lot of fatty acid oxidation
+		- demethylases need \alpha-ketoglutarate to function
+			- but lactate dehydrogenase can make 2HG which blocks activity
+		- altered gene expression because of global failure to demethylate
+	- Polyamine synthesis
+		- mM concentrations but most are bound to nucleic acids
+		- can be synthesized, or acquired from diet, or by microbiota
+		- rate limiting step is ornithine decarboxylase (ODC)
+		- blocking this pathway fully messes up Th lineage commitment
+		- hypusination of eIF5A
+			- PTM of a lysine in this protein for function
+			- specific pathway that does only this one thing
+		- Very broad accessibility / acetylation / methylation changes
+			- removing histone acetylase has a partial rescue
+			- Can't get epigenetic changes unless you have availability of the substrate - from TCA cycle!
+		- Citrate -> Acetyl-CoA by AclY matters
+		-
 - Lecture 19 Neuroimmunology
 - Lecture 20
