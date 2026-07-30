@@ -1374,6 +1374,7 @@
 			- coughing, mucus, etc
 		- aversion
 - Lecture 18 Immune metabolism - Erika Pearce
+  collapsed:: true
 	- Warburg effect
 		- cancer cells don't use oxphos, mostly glycolysis
 		- activated immune cells follow the same principle
@@ -1420,9 +1421,10 @@
 	- Flux and concentration both matter
 	- Apparently Princeton is a big deal in immunometabolism
 		- Lydia and Josh Rabinowitz mentioned
-		-
 	- Do we think that immune metabolism changes are sensitive to different levels of response?
 		- Like the activation is kind of the same for if you have one thing or another but is the metabolism different
 		- I mean seems like yes because of the evidence for different Th subset preference
-- Lecture 19 Neuroimmunology
+- Lecture 19 Neuroimmunology - Jonathan Kipnis
+	- microglia and oligodendricytes
+	-
 - Lecture 20
