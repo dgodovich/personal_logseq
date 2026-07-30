@@ -1327,6 +1327,7 @@
 			- blocks AP-1
 	- Deletional tolerance mediated by Bim
 - Lecture 17 Allergic Responses - Mark Kaplan
+  collapsed:: true
 	- Types of allergic diseases
 		- allergic rhinitis is the most common
 			- seasonal allergies but generally anything airborne
@@ -1372,7 +1373,27 @@
 		- upregulation of clearing responses at barrier tissues
 			- coughing, mucus, etc
 		- aversion
-		-
-- Lecture 18 Immune metabolism
+- Lecture 18 Immune metabolism - Erika Pearce
+	- Warburg effect
+		- cancer cells don't use oxphos, mostly glycolysis
+		- activated immune cells follow the same principle
+		- importantly not at the expense of mitochondrial products
+			- less focus on oxphos but you still need krebs/tca cycle for metabolites
+	- Glycolysis and oxphos are of course for energy metabolism
+		- but really critically it's not only that
+		- and even most of the time cells choose one or the other for other metabolites rather than energy
+	- Functions of metabolism
+		- Provides energy by generating ATP
+		- Converts fats, protein, sugars into simple structures (catabolism, generate energy)
+		- Convert simple structures into macromolecules (anabolism, consume energy)
+		- Participate in cell signaling and transcription
+			- posttranslational modifications
+			- regulate epigenetics
+		- Navigating metabolism - Chandel book
+	- Metabolic reprogramming during immune activation
+		- IL2 signaling allows membrane expression of Glut1 transporter
+		- Balance matters along the trajectory of activation
+			- example of TRAF6 KO T cells that become so glycolytic that they can't make TCA intermediates
+	-
 - Lecture 19 Neuroimmunology
 - Lecture 20
