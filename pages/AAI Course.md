@@ -1442,7 +1442,12 @@
 		- They're just on the outside in sinuses
 - Lecture 20 Tumor Immunology - Gavin Dunn
 - Lecture 21 Engineering T cell Immunity - Nathan Singh
+	- more of a conversational talk, not much to take notes on
 - Lecture 22 Effect of the Microbiome on Immunity - Cathryn Nagler
+	- hair follicles have an anaerobic component with bacteria
+	- Anatomic sites have different bacterial phyla composition
+		- but shared metabolic profiles
+	-
 - Lecture 23
 - Lecture 24
 - Lecture 25
