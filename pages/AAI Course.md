@@ -1426,5 +1426,16 @@
 		- I mean seems like yes because of the evidence for different Th subset preference
 - Lecture 19 Neuroimmunology - Jonathan Kipnis
 	- microglia and oligodendricytes
+	- microglia move a ton
+		- they do a lot of process extension
+	- removing Csf1r does not fully remove mac / microglia population
+		- IL34?
+	- Sall1 is microglia unique marker
+	- Monocyte derived macs can enter the brain
+		- but they do not ever express Sall1 and retain some differences
+	- meninges and periphery is not an immunoprivileged place
+		- defend the border of the spot that has little / no immune system
+	- MS is mainly immune caused
+		- invasion of immune cells into the brain
 	-
 - Lecture 20
