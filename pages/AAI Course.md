@@ -1412,6 +1412,17 @@
 			- removing histone acetylase has a partial rescue
 			- Can't get epigenetic changes unless you have availability of the substrate - from TCA cycle!
 		- Citrate -> Acetyl-CoA by AclY matters
+	- activated macrophages make huge amounts of itaconate
+		- from aconitate intermediate in TCA cycle
+		- catalyzed by Irg1 which is an IFN stimulated gene
+		- this antagonizes succinate dehydrogenase which also drives up Hif1a expression and IL1\beta
+		- make the mitochondria kinda leaky
+	- Flux and concentration both matter
+	- Apparently Princeton is a big deal in immunometabolism
+		- Lydia and Josh Rabinowitz mentioned
 		-
+	- Do we think that immune metabolism changes are sensitive to different levels of response?
+		- Like the activation is kind of the same for if you have one thing or another but is the metabolism different
+		- I mean seems like yes because of the evidence for different Th subset preference
 - Lecture 19 Neuroimmunology
 - Lecture 20
