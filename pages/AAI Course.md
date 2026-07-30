@@ -1437,5 +1437,6 @@
 		- defend the border of the spot that has little / no immune system
 	- MS is mainly immune caused
 		- invasion of immune cells into the brain
-	-
+	- Brain does have lymphatics
+		- They're just on the outside in sinuses
 - Lecture 20
