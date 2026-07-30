@@ -1425,6 +1425,7 @@
 		- Like the activation is kind of the same for if you have one thing or another but is the metabolism different
 		- I mean seems like yes because of the evidence for different Th subset preference
 - Lecture 19 Neuroimmunology - Jonathan Kipnis
+  collapsed:: true
 	- microglia and oligodendricytes
 	- microglia move a ton
 		- they do a lot of process extension
@@ -1439,4 +1440,10 @@
 		- invasion of immune cells into the brain
 	- Brain does have lymphatics
 		- They're just on the outside in sinuses
-- Lecture 20
+- Lecture 20 Tumor Immunology - Gavin Dunn
+- Lecture 21 Engineering T cell Immunity - Nathan Singh
+- Lecture 22 Effect of the Microbiome on Immunity - Cathryn Nagler
+- Lecture 23
+- Lecture 24
+- Lecture 25
+-
