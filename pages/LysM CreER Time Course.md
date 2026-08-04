@@ -32,7 +32,6 @@
 		- Aimed for 150uL injection
 		- on mouse left
 	- D0 [[Jul 13th, 2026]]
-	  collapsed:: true
 		- Tamoxifen injection
 			- ~100uL for each of M6 and M7
 				- M7 got a bit more
@@ -91,7 +90,6 @@
 			- 8x8 tile
 			- two lasers slows it down fairly considerably
 	- D3 [[Jul 16th, 2026]]
-	  collapsed:: true
 		- Anesthesia Parameters
 			- do way more this time, 250uL for each
 			- M6
@@ -103,6 +101,7 @@
 			- 8x8 tile
 			- two lasers slows it down fairly considerably
 	- D4 [[Jul 17th, 2026]]
+	  collapsed:: true
 		- Tamoxifen injection
 			- mouse right
 		- Anesthesia Parameters
