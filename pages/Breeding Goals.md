@@ -1,0 +1,7 @@
+- Genotypes I want to get to
+	- tdTomato homo
+	- Cre + nGFP
+	- Cx3cr1-DTR
+-
+- nGFP potentially replaces PDGFR\alpha-H2BGFP by labeling all stromal cells
+	- Generally labels everything, so double positives would be cells of interest
