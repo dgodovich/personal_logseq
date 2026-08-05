@@ -27,11 +27,13 @@
 		- Alternating side of injection
 - Time course:
 	- D-3 [[Jul 10th, 2026]]
+	  collapsed:: true
 		- Tamoxifen injection
 			- no dilution - get as full labeling as possible
 		- Aimed for 150uL injection
 		- on mouse left
 	- D0 [[Jul 13th, 2026]]
+	  collapsed:: true
 		- Tamoxifen injection
 			- ~100uL for each of M6 and M7
 				- M7 got a bit more
@@ -73,6 +75,7 @@
 			- M7
 				- 10um step for 160um total Z
 	- D2 [[Jul 15th, 2026]]
+	  collapsed:: true
 		- Tamoxifen injection
 			- this time it's gonna have to happen after imaging because I forgot I'm doing that today
 			- both get around 160
@@ -90,6 +93,7 @@
 			- 8x8 tile
 			- two lasers slows it down fairly considerably
 	- D3 [[Jul 16th, 2026]]
+	  collapsed:: true
 		- Anesthesia Parameters
 			- do way more this time, 250uL for each
 			- M6
@@ -115,7 +119,7 @@
 			- MP3 940 4 - 7.5%
 			- 8x8 tile
 			- two lasers slows it down fairly considerably
-	- D5
+	- D5 [[Jul 18th, 2026]] from this point it's repeating from previous days
 	  collapsed:: true
 		- Anesthesia Parameters
 			- M6
@@ -125,7 +129,7 @@
 			- MP3 940 4 - 7.5%
 			- 8x8 tile
 			- two lasers slows it down fairly considerably
-	- D6
+	- D6 [[Jul 19th, 2026]]
 	  collapsed:: true
 		- Tamoxifen injection
 		- Anesthesia Parameters
@@ -136,7 +140,7 @@
 			- MP3 940 4 - 7.5%
 			- 8x8 tile
 			- two lasers slows it down fairly considerably
-	- D7
+	- D7 [[Jul 20th, 2026]]
 	  collapsed:: true
 		- Anesthesia Parameters
 			- M6
