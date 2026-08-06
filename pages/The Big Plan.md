@@ -1,0 +1,38 @@
+- Experiments
+	- [[LysM CreER Time Course More N]]  [[Aug 16th, 2026]] - [[Sep 7th, 2026]]
+		- Do in batches
+			- First batch injection [[Aug 16th, 2026]], image from [[Aug 18th, 2026]]
+		- Notes
+			- Equivalent tamoxifen injections as [[LysM CreER Time Course]]
+			- Targeting imaging at D0, 1, 2, 7
+	- [[nGFP Pilot]] [[Aug 17th, 2026]] - [[Aug 21st, 2026]]
+		- Notes
+			- Use a not important mouse from Ravi
+			- Just trying to see what it looks like in the wound
+				- Can I resolve nuclei in the degradation band?
+				- Is it a functional replacement to PDGFR\alpha-H2BGFP?
+			- Image at D0 and D2, proximal 1.5mm punch
+	- Kaede Adoptive Transfer Pilot [[Aug 31st, 2026]] - [[Sep 4th, 2026]]
+		- Notes
+			-
+- Analyses
+	- [[LysM CreER Time Course]]
+		- [[Aug 17th, 2026]] - [[Aug 21st, 2026]]
+		- Hair follicle spacing
+		- Hole size
+		- SHG?
+	- [[Xenium]]
+		- INSERT PLANS HERE + in the offshoot page
+- Figures
+	- TBD
+- Collaborations
+	- [[Deepika Project]]
+		- Not up to date
+		- Next things are ERK-KTR mouse and cells
+		- Ear explant?
+	- Alex
+		- Up to them to figure out how to improve targeted delivery to patagium
+- [[Breeding Goals]]
+	- {{embed ((6a73785d-7d57-4561-93ce-7c0d8f183631))}}
+	- Set up Cx3cr1-DTR x wt breeding cage [[Aug 6th, 2026]]
+	-
