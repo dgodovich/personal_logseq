@@ -1,0 +1,80 @@
+- Mouse:
+	- Genotype: LysM CreER; mTmG
+	- DOB: 6/12/2026
+	- Cage number: 205341 & 205342
+		- siblings all from one litter
+	- Notes
+		- Using 8 mice total over the course of this experimental series
+- Goals:
+	- Bulk up number of mice for proximal and distal wound closure dynamics
+- Time course:
+	- Batch 1
+		- D -2
+			- Tamoxifen injection
+				-
+		- D0
+			- Tamoxifen injection
+				-
+			- Anesthesia Parameters
+				-
+			- Imaging Parameters
+				-
+		- D1
+			- Anesthesia Parameters
+				-
+			- Imaging Parameters
+				-
+		- D2
+			- Tamoxifen injection
+				-
+			- Anesthesia Parameters
+				-
+			- Imaging Parameters
+				-
+		- D7
+			- Anesthesia Parameters
+				-
+			- Imaging Parameters
+				-
+	- Batch 2
+	  collapsed:: true
+		- D -2
+			- Tamoxifen injection
+		- D0
+			- Anesthesia Parameters
+				-
+			- Imaging Parameters
+		- D1
+			- Anesthesia Parameters
+				-
+			- Imaging Parameters
+		- D2
+			- Anesthesia Parameters
+				-
+			- Imaging Parameters
+		- D7
+			- Anesthesia Parameters
+				-
+			- Imaging Parameters
+	- Batch 3
+	  collapsed:: true
+		- D -2
+			- Tamoxifen injection
+		- D0
+			- Anesthesia Parameters
+				-
+			- Imaging Parameters
+		- D1
+			- Anesthesia Parameters
+				-
+			- Imaging Parameters
+		- D2
+			- Anesthesia Parameters
+				-
+			- Imaging Parameters
+		- D7
+			- Anesthesia Parameters
+				-
+			- Imaging Parameters
+- Relevant Project
+	-

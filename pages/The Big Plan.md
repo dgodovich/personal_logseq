@@ -12,9 +12,9 @@
 				- Can I resolve nuclei in the degradation band?
 				- Is it a functional replacement to PDGFR\alpha-H2BGFP?
 			- Image at D0 and D2, proximal 1.5mm punch
-	- Kaede Adoptive Transfer Pilot [[Aug 31st, 2026]] - [[Sep 4th, 2026]]
+	- [[Kaede Adoptive Transfer Pilot]] [[Aug 31st, 2026]] - [[Sep 4th, 2026]]
 		- Notes
-			-
+			- Kaede adoptive transfer into mTmG
 - Analyses
 	- [[LysM CreER Time Course]]
 		- [[Aug 17th, 2026]] - [[Aug 21st, 2026]]
@@ -26,6 +26,7 @@
 - Figures
 	- TBD
 - Collaborations
+  collapsed:: true
 	- [[Deepika Project]]
 		- Not up to date
 		- Next things are ERK-KTR mouse and cells
@@ -35,4 +36,4 @@
 - [[Breeding Goals]]
 	- {{embed ((6a73785d-7d57-4561-93ce-7c0d8f183631))}}
 	- Set up Cx3cr1-DTR x wt breeding cage [[Aug 6th, 2026]]
-	-
+-

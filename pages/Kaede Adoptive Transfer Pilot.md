@@ -1,0 +1,15 @@
+- Mouse:
+	- Genotype:
+	- DOB:
+	- Cage number:
+	- Notes
+- Goals:
+	-
+- Time course:
+	- D0
+		- Anesthesia Parameters
+			-
+		- Imaging Parameters
+			-
+- Relevant Project
+	-
