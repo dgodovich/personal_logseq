@@ -10,6 +10,20 @@ alias:: [[Third Rotation/Deepika Project]]
 		- protocol for Phan paper (Lef1)
 -
 - Imaging
+	- [[Aug 6th, 2026]] Erk KTR agouti mouse
+		- No Cre reporter, trying to see if stim is visible
+		- Stim setup
+			- Fluo bulb for 30 minutes
+		- Results
+			- Bleached tf out of the circle
+			- But! FusionRed signal is probably visible for the first time ever which is awesome
+		- Thoughts and notes
+			- ERK-KTR looks great in the epidermis but not so great in the dermis
+				- Hard to tell nuclear / cytoplasmic ratio or spread
+			- Agouti doesn't seem to matter that much for melanin heating
+				- Even pushing to ~10% laser power on MP3 was ok
+				- But does seem to be generally dimmer? Not sure what's up with that
+				- mClover might also just be a bit dim
 	- [[Jul 7th, 2026]] mKate2 first try
 	  id:: 6a51404c-8f21-4ef0-ac8e-a03ab8c36b2d
 	  collapsed:: true

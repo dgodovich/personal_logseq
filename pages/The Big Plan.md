@@ -26,7 +26,6 @@
 - Figures
 	- TBD
 - Collaborations
-  collapsed:: true
 	- [[Deepika Project]]
 		- Not up to date
 		- Next things are ERK-KTR mouse and cells
