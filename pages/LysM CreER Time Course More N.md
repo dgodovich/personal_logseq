@@ -9,7 +9,9 @@
 	- Bulk up number of mice for proximal and distal wound closure dynamics
 - Time course:
 	- Batch 1
-		- D -2
+		- Mice
+		-
+		- D -2 [[Aug 16th, 2026]]
 			- Tamoxifen injection
 				-
 		- D0
