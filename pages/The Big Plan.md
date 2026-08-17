@@ -15,6 +15,10 @@
 	- [[Kaede Adoptive Transfer Pilot]] [[Aug 31st, 2026]] - [[Sep 4th, 2026]]
 		- Notes
 			- Kaede adoptive transfer into mTmG
+			- Transfer at time of wounding
+				- .5 - 1x10^6
+			- See how many are visible at the wound
+				- D2
 - Analyses
 	- [[LysM CreER Time Course]]
 		- [[Aug 17th, 2026]] - [[Aug 21st, 2026]]
