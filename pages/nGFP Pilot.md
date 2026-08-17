@@ -1,12 +1,14 @@
 - Mouse:
-	- Genotype:
-	- DOB:
-	- Cage number:
-	- Notes
+	- Genotype: nGFP het Female
+	- DOB: 12/9/2025
+	- Cage number: 193828
+	- Notes:
+		- Older mouse from Ravi
+		- In a breeding cage, taking the female
 - Goals:
-	-
+	- See what nGFP looks like in a wound
 - Time course:
-	- D0
+	- D0 [[Aug 17th, 2026]]
 		- Anesthesia Parameters
 			-
 		- Imaging Parameters

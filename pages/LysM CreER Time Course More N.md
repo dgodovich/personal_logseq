@@ -10,11 +10,12 @@
 - Time course:
 	- Batch 1
 		- Mice
-		-
+			- M6 and M9
 		- D -2 [[Aug 16th, 2026]]
 			- Tamoxifen injection
-				-
-		- D0
+				- 150uL undiluted
+				- mouse left side
+		- D0 [[Aug 18th, 2026]]
 			- Tamoxifen injection
 				-
 			- Anesthesia Parameters
