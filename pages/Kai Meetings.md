@@ -1,10 +1,11 @@
 - #[[Kai Mesa]] #meetings
 - Notes for next meeting
+- [[Aug 17th, 2026]]
+	-
 - [[Jul 13th, 2026]]
 	- better to get some analysis done rather than waiting for the right dataset
 	- get more macgreen? or fred? generally more immune cell recruitement
 	- set up trio breed with macfred male
-	-
 - [[Jun 29th, 2026]]
 	- Xenium updates
 		- Meeting with Abhishek on friday went pretty well, got environment set up for Char and got a DE notebook
@@ -42,7 +43,6 @@
 		- MacFred PDGFRa will probably be the big replacement long term, breeding for that soon
 	- stromal activation of Cxcr4
 		- broad marker of blastema population - fibroblasts moving and differentiating
-	-
 - [[May 4th, 2026]]
 	- Immunology course seems to be the move over conference
 		- Conference might be too much at this point
