@@ -15,10 +15,12 @@
 	- [[Kaede Adoptive Transfer Pilot]] [[Aug 31st, 2026]] - [[Sep 4th, 2026]]
 		- Notes
 			- Kaede adoptive transfer into mTmG
-			- Transfer at time of wounding
+				- Use 2 Kaede mice into 4 mTmG mice (paired distal proximal)
+			- Transfer at time of wounding (D0)
 				- .5 - 1x10^6
 			- See how many are visible at the wound
-				- D2
+				- Image D1 and D2
+		- Goal is to see monocyte recruiement kinetics + separate from neutrophils
 - Analyses
 	- [[LysM CreER Time Course]]
 		- [[Aug 17th, 2026]] - [[Aug 21st, 2026]]
