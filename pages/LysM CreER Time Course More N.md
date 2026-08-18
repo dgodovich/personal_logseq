@@ -25,11 +25,16 @@
 					- 150ul 2:18
 				- M6
 					- 150uL 3:17
+				- both woke up fully about 1h15minutes later, so should use a bit more tomorrow
+					- 175 is appropriate dosage for body weight and it seems reasonable
 			- Imaging Parameters
 				- MP1 not working today, so had to use slightly weird parameters
 				- MP2 940 8-15%
 				- MP3 1050 2-4%
 				- looks ok /shrug
+				- M6 proximal image sucked, I couldn't get good positioning
+					- and was also running out of time
+					- so did 8x7 and 25um z step just for gross overview
 		- D1
 			- Anesthesia Parameters
 				-
