@@ -10,7 +10,8 @@
 - Time course:
 	- Batch 1
 		- Mice
-			- M6 and M9
+			- M6 - proximal
+			- M9 - distal
 		- D -2 [[Aug 16th, 2026]]
 			- Tamoxifen injection
 				- 150uL undiluted
@@ -22,8 +23,13 @@
 			- Anesthesia Parameters
 				- M9
 					- 150ul 2:18
+				- M6
+					- 150uL 3:17
 			- Imaging Parameters
-				-
+				- MP1 not working today, so had to use slightly weird parameters
+				- MP2 940 8-15%
+				- MP3 1050 2-4%
+				- looks ok /shrug
 		- D1
 			- Anesthesia Parameters
 				-
