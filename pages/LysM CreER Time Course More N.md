@@ -17,9 +17,11 @@
 				- mouse left side
 		- D0 [[Aug 18th, 2026]]
 			- Tamoxifen injection
-				-
+				- 140ul mouse right
+				- before imaging
 			- Anesthesia Parameters
-				-
+				- M9
+					- 150ul 2:18
 			- Imaging Parameters
 				-
 		- D1
