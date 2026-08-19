@@ -36,8 +36,10 @@
 		- Not up to date
 		- Next things are ERK-KTR mouse and cells
 		- Ear explant?
-	- Alex
+	- [[Alex Joey Collab]]
 		- Up to them to figure out how to improve targeted delivery to patagium
+		- [[Aug 21st, 2026]] Next imaging
+			- N
 - [[Breeding Goals]]
 	- {{embed ((6a73785d-7d57-4561-93ce-7c0d8f183631))}}
 	- Set up Cx3cr1-DTR x wt breeding cage [[Aug 6th, 2026]]

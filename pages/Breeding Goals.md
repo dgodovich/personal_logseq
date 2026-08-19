@@ -1,8 +1,20 @@
 - Genotypes I want to get to
   id:: 6a73785d-7d57-4561-93ce-7c0d8f183631
 	- tdTomato homo
+		- is this dsRed?
 	- Cre + nGFP
+		- Ms4a3 Cre
+			- Must come from the mother!
+		- CD64 Cre
 	- Cx3cr1-DTR
 -
 - nGFP potentially replaces PDGFR\alpha-H2BGFP by labeling all stromal cells
 	- Generally labels everything, so double positives would be cells of interest
+-
+- Katie has Ms4a3 and CD64 Cres
+-
+- H2B720 getting to 7X
+	- 6X cross is not getting pregnant
+	- Potential collab with Eszter?
+		- Setting up cross with H2B720 and Macgreen mouse
+-
