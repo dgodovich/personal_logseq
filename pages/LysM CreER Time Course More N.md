@@ -42,7 +42,14 @@
 				- M6
 					- 175ul
 			- Imaging Parameters
-				-
+				- 8x8 tile
+				- M9
+					- 170um Z, 10um \Delta\Z
+					- MP 2-3%
+					- MP3 940 4-7%
+				- M6
+					- MP 2-3%
+					- MP3 4-7%
 		- D2 [[Aug 20th, 2026]]
 			- Tamoxifen injection
 				-
