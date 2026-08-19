@@ -26,6 +26,12 @@
 			- Upper dermis fibroblasts and vasculature are very visible which is more important
 	- D2 [[Aug 19th, 2026]]
 		- Anesthesia Parameters
-			- probably iso again
+			- iso again, 2.1% the whole time
+			- She's a big girl
 		- Imaging Parameters
-			-
+			- MP3 940 4-6%
+				- lower because scab is stupid bright
+			- 10um z step
+- Notes
+	- I'm not sure that nGFP is that good...
+	- Degradation area and scab are crazy bright and there's a ton of autofluorescence

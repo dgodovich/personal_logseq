@@ -37,7 +37,10 @@
 					- so did 8x7 and 25um z step just for gross overview
 		- D1 [[Aug 19th, 2026]]
 			- Anesthesia Parameters
-				-
+				- M9
+					- 175ul 6:35ish
+				- M6
+					- 175ul
 			- Imaging Parameters
 				-
 		- D2 [[Aug 20th, 2026]]
