@@ -47,3 +47,4 @@
 	- Set up Cx3cr1-DTR x wt breeding cage [[Aug 6th, 2026]]
 - Mentorship
 	- Kelly
+		- email her with some project details and review + 1 primary paper
