@@ -1,0 +1,8 @@
+- Design a better mount for the joey
+	- modification from the paw mount
+	- [Here's the cad link](https://cad.onshape.com/documents/7e60943a933d8ec54a74ddf0/w/69095d87ecc65c1da81c9797/e/748443384852565fb9b45a8c)
+	- 3d print these at some point
+- Imaging
+	- [[Aug 21st, 2026]]
+-
+-

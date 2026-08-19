@@ -7,11 +7,25 @@
 		- In a breeding cage, taking the female
 - Goals:
 	- See what nGFP looks like in a wound
+	- Idea is to potentially use nGFP to replace PDGFRa-H2BGFP
+		- See if I can get an understanding of stromal cell behaviors with pan nuclear marker
 - Time course:
 	- D0 [[Aug 17th, 2026]]
 		- Anesthesia Parameters
-			-
+			- this mouse is sooooo fat
+			- 57g! Scared to give ketamine because of overdose so I used iso
+			- Iso the whole time worked ok but it's kind of a pain for hole punching
+		- Imaging Parameters
+			- MP3 940 4-7%
+			- 8x8 coarse hole overview
+			- 1 frame 2um high res z slice through the entire tissue
+				- trying to go deep
+				- Pushed laser to 15% at bottom
+		- Notes
+			- Doesn't look amazing at deeper tissue levels but maybe that's ok
+			- Upper dermis fibroblasts and vasculature are very visible which is more important
+	- D2 [[Aug 19th, 2026]]
+		- Anesthesia Parameters
+			- probably iso again
 		- Imaging Parameters
 			-
-- Relevant Project
-	-

@@ -12,9 +12,15 @@
 	- Generally labels everything, so double positives would be cells of interest
 -
 - Katie has Ms4a3 and CD64 Cres
+	- Use her mice to set up breeding cages
 -
-- H2B720 getting to 7X
+- H2B720
+	- getting to 7X
 	- 6X cross is not getting pregnant
 	- Potential collab with Eszter?
 		- Setting up cross with H2B720 and Macgreen mouse
+- Kaede
+	- maintenance
+	- potential use for adoptive transfer
+	- also a source of wt mice which is nice
 -

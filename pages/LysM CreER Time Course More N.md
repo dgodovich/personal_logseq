@@ -35,19 +35,19 @@
 				- M6 proximal image sucked, I couldn't get good positioning
 					- and was also running out of time
 					- so did 8x7 and 25um z step just for gross overview
-		- D1
+		- D1 [[Aug 19th, 2026]]
 			- Anesthesia Parameters
 				-
 			- Imaging Parameters
 				-
-		- D2
+		- D2 [[Aug 20th, 2026]]
 			- Tamoxifen injection
 				-
 			- Anesthesia Parameters
 				-
 			- Imaging Parameters
 				-
-		- D7
+		- D7 [[Aug 25th, 2026]]
 			- Anesthesia Parameters
 				-
 			- Imaging Parameters
