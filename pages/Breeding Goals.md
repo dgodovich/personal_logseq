@@ -1,7 +1,6 @@
 - Genotypes I want to get to
   id:: 6a73785d-7d57-4561-93ce-7c0d8f183631
 	- tdTomato homo
-		- is this dsRed?
 	- Cre + nGFP
 		- Ms4a3 Cre
 			- Must come from the mother!
