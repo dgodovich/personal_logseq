@@ -39,8 +39,9 @@
 			- Anesthesia Parameters
 				- M9
 					- 175ul 6:35ish
+					- up at
 				- M6
-					- 175ul
+					- 175ul 8:17pm
 			- Imaging Parameters
 				- 8x8 tile
 				- M9
