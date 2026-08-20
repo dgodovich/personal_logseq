@@ -53,11 +53,20 @@
 					- MP3 4-7%
 		- D2 [[Aug 20th, 2026]]
 			- Tamoxifen injection
-				-
+				- 150uL M6, M9 got a bit less because I accidentally expelled a little
 			- Anesthesia Parameters
-				-
+				- M9
+					- 175uL 7:22pm
+				- M6
+					- 175uL
 			- Imaging Parameters
-				-
+				- 8x8 tile
+				- MP 1040 2-3%
+				- MP3 940 4-7%
+				- M9
+					- 140um Z, 10um \Delta\Z
+				- M6
+					-
 		- D7 [[Aug 25th, 2026]]
 			- Anesthesia Parameters
 				-
