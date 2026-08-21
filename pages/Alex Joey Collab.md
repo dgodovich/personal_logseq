@@ -4,5 +4,11 @@
 	- 3d print these at some point
 - Imaging
 	- [[Aug 21st, 2026]]
--
+		- Anesthesia
+			- Ketamine injection is difficult but possible
+			- It does take some time for the joey to go under, it does not completely stop moving but pretty good
+			- Inject just below first line on 31 gauge needle
+		- Imaging
+			- Same parameters as last time, not sure what they are
+		-
 -
