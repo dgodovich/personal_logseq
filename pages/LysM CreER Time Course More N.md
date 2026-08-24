@@ -17,6 +17,7 @@
 				- 150uL undiluted
 				- mouse left side
 		- D0 [[Aug 18th, 2026]]
+		  collapsed:: true
 			- Tamoxifen injection
 				- 140ul mouse right
 				- before imaging
@@ -36,6 +37,7 @@
 					- and was also running out of time
 					- so did 8x7 and 25um z step just for gross overview
 		- D1 [[Aug 19th, 2026]]
+		  collapsed:: true
 			- Anesthesia Parameters
 				- M9
 					- 175ul 6:35ish
@@ -52,6 +54,7 @@
 					- MP 2-3%
 					- MP3 4-7%
 		- D2 [[Aug 20th, 2026]]
+		  collapsed:: true
 			- Tamoxifen injection
 				- 150uL M6, M9 got a bit less because I accidentally expelled a little
 			- Anesthesia Parameters
