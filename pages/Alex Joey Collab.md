@@ -10,5 +10,11 @@
 			- Inject just below first line on 31 gauge needle
 		- Imaging
 			- Same parameters as last time, not sure what they are
-		-
+			- Set up 4x3 region to image overnight
+			- Min time was 21ish minutes, 30 minute \Delta\t for the movie
+			- 5um Z step
+		- Results
+			- pretty little Z drift which is great
+			- Unfortunately I forgot to use gel instead of water so it dried out after about 6h
+			- TODO Crop movie to remove black part at later time points and send tiff to Alex
 -

@@ -2,16 +2,10 @@
 	- [[LysM CreER Time Course More N]]  [[Aug 16th, 2026]] - [[Sep 7th, 2026]]
 		- Do in batches
 			- First batch injection [[Aug 16th, 2026]], image from [[Aug 18th, 2026]]
+			- Batch 2 and 3 [[Aug 31st, 2026]] - [[Sep 4th, 2026]]?
 		- Notes
 			- Equivalent tamoxifen injections as [[LysM CreER Time Course]]
 			- Targeting imaging at D0, 1, 2, 7
-	- [[nGFP Pilot]] [[Aug 17th, 2026]] - [[Aug 21st, 2026]]
-		- Notes
-			- Use a not important mouse from Ravi
-			- Just trying to see what it looks like in the wound
-				- Can I resolve nuclei in the degradation band?
-				- Is it a functional replacement to PDGFR\alpha-H2BGFP?
-			- Image at D0 and D2, proximal 1.5mm punch
 	- [[Kaede Adoptive Transfer Pilot]] [[Aug 31st, 2026]] - [[Sep 4th, 2026]]
 		- Notes
 			- Kaede adoptive transfer into mTmG
@@ -20,13 +14,25 @@
 				- .5 - 1x10^6
 			- See how many are visible at the wound
 				- Image D1 and D2
-		- Goal is to see monocyte recruiement kinetics + separate from neutrophils
+		- Goal is to see monocyte recruitment kinetics + separate from neutrophils
+	- [[Ms4a3 Cre Pilot]]
+		- mouse from Char
+		- Chunyan used for toe cut, available after [[Aug 25th, 2026]]
+	- [[CD64 Cre Pilot]]
+		- mouse from Char
 - Analyses
 	- [[LysM CreER Time Course]]
 		- [[Aug 17th, 2026]] - [[Aug 21st, 2026]]
 		- Hair follicle spacing
 		- Hole size
 		- SHG?
+	- [[nGFP Pilot]] [[Aug 17th, 2026]] - [[Aug 21st, 2026]]
+		- Notes
+			- Use a not important mouse from Ravi
+			- Just trying to see what it looks like in the wound
+				- Can I resolve nuclei in the degradation band?
+				- Is it a functional replacement to PDGFR\alpha-H2BGFP?
+			- Image at D0 and D2, proximal 1.5mm punch
 	- [[Xenium]]
 		- INSERT PLANS HERE + in the offshoot page
 - Figures
@@ -36,6 +42,7 @@
 		- Not up to date
 		- Next things are ERK-KTR mouse and cells
 		- Ear explant?
+		- Single cell analysis
 	- [[Alex Joey Collab]]
 		- Up to them to figure out how to improve targeted delivery to patagium
 		- [[Aug 21st, 2026]] Next imaging
