@@ -22,12 +22,15 @@
 		- mouse from Char
 - Analyses
 	- [[LysM CreER Time Course]]
-		- [[Aug 17th, 2026]] - [[Aug 21st, 2026]]
+		- [[Aug 17th, 2026]] - [[Aug 28th, 2026]]
 		- Hair follicle spacing
 		- Hole size
 		- SHG?
-	- [[nGFP Pilot]] [[Aug 17th, 2026]] - [[Aug 21st, 2026]]
+	- [[nGFP Pilot]]
+		- Experiment done [[Aug 17th, 2026]] - [[Aug 21st, 2026]]
+		- Not sure how much analysis needs to be done here
 		- Notes
+		  collapsed:: true
 			- Use a not important mouse from Ravi
 			- Just trying to see what it looks like in the wound
 				- Can I resolve nuclei in the degradation band?
