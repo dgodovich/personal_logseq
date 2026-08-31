@@ -14,6 +14,7 @@
 			- M6 - proximal
 			- M9 - distal
 		- D -2 [[Aug 16th, 2026]]
+		  collapsed:: true
 			- Tamoxifen injection
 				- 150uL undiluted
 				- mouse left side
@@ -72,10 +73,11 @@
 				- M6
 					-
 		- D7 [[Aug 25th, 2026]]
+		  collapsed:: true
 			- Anesthesia Parameters
-				-
+				- 175 uL each
 			- Imaging Parameters
-				-
+				- same as last time
 	- Batch 2
 		- Mice
 			- M3
@@ -112,22 +114,23 @@
 		- D -2 [[Sep 1st, 2026]]
 			- Tamoxifen injection
 				-
-		- D0
+		- D0 [[Sep 3rd, 2026]]
 			- Tamoxifen Injection
 				-
 			- Anesthesia Parameters
 				-
 			- Imaging Parameters
-		- D1
+		- D1 [[Sep 4th, 2026]]
 			- Anesthesia Parameters
 				-
 			- Imaging Parameters
-		- D2
-			-
+		- D2 [[Sep 5th, 2026]]
+			- Tamoxifen Injection
+				-
 			- Anesthesia Parameters
 				-
 			- Imaging Parameters
-		- D7
+		- D7 [[Sep 10th, 2026]]
 			- Anesthesia Parameters
 				-
 			- Imaging Parameters
