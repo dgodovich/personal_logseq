@@ -9,6 +9,7 @@
 	- Bulk up number of mice for proximal and distal wound closure dynamics
 - Time course:
 	- Batch 1
+	  collapsed:: true
 		- Mice
 			- M6 - proximal
 			- M9 - distal
@@ -76,30 +77,44 @@
 			- Imaging Parameters
 				-
 	- Batch 2
-	  collapsed:: true
-		- D -2
+		- Mice
+			- M3
+			- M4
+		- D -2 [[Aug 29th, 2026]]
 			- Tamoxifen injection
-		- D0
+				- 150 uL each mouse
+				- mouse left
+		- D0 [[Aug 31st, 2026]]
+			- Tamoxifen injection
+				-
 			- Anesthesia Parameters
 				-
 			- Imaging Parameters
-		- D1
+				-
+		- D1 [[Sep 1st, 2026]]
 			- Anesthesia Parameters
 				-
 			- Imaging Parameters
-		- D2
+		- D2 [[Sep 2nd, 2026]]
+			- Tamoxifen Injection
+				-
 			- Anesthesia Parameters
 				-
 			- Imaging Parameters
-		- D7
+		- D7 [[Sep 7th, 2026]]
 			- Anesthesia Parameters
 				-
 			- Imaging Parameters
 	- Batch 3
-	  collapsed:: true
-		- D -2
+		- Mice
+			- M5
+			- F_
+		- D -2 [[Sep 1st, 2026]]
 			- Tamoxifen injection
+				-
 		- D0
+			- Tamoxifen Injection
+				-
 			- Anesthesia Parameters
 				-
 			- Imaging Parameters
@@ -108,6 +123,7 @@
 				-
 			- Imaging Parameters
 		- D2
+			-
 			- Anesthesia Parameters
 				-
 			- Imaging Parameters

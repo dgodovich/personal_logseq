@@ -2,11 +2,12 @@
 	- [[LysM CreER Time Course More N]]  [[Aug 16th, 2026]] - [[Sep 7th, 2026]]
 		- Do in batches
 			- First batch injection [[Aug 16th, 2026]], image from [[Aug 18th, 2026]]
-			- Batch 2 and 3 [[Aug 31st, 2026]] - [[Sep 4th, 2026]]?
+			- Batch 2 and 3 [[Aug 31st, 2026]] - [[Sep 4th, 2026]]
+			- Batch 4
 		- Notes
 			- Equivalent tamoxifen injections as [[LysM CreER Time Course]]
 			- Targeting imaging at D0, 1, 2, 7
-	- [[Kaede Adoptive Transfer Pilot]] [[Aug 31st, 2026]] - [[Sep 4th, 2026]]
+	- [[Kaede Adoptive Transfer Pilot]] [[Sep 7th, 2026]] - [[Sep 11th, 2026]]
 		- Notes
 			- Kaede adoptive transfer into mTmG
 				- Use 2 Kaede mice into 4 mTmG mice (paired distal proximal)
@@ -27,6 +28,7 @@
 		- Hole size
 		- SHG?
 	- [[nGFP Pilot]]
+	  collapsed:: true
 		- Experiment done [[Aug 17th, 2026]] - [[Aug 21st, 2026]]
 		- Not sure how much analysis needs to be done here
 		- Notes
@@ -50,6 +52,9 @@
 		- Up to them to figure out how to improve targeted delivery to patagium
 		- [[Aug 21st, 2026]] Next imaging
 			- Nothing really changing on my end, trying to get good positioning and take a long movie
+	- [[Ellen Tubing collab]]
+		- Helping out with imaging a little
+		- Taking over for Emily after she leaves
 	- Potential Eszter mouse collab
 		- at some point setting up breeding between H2B720 and Macgreen
 - [[Breeding Goals]]
@@ -58,3 +63,6 @@
 - Mentorship
 	- Kelly
 		- email her with some project details and review + 1 primary paper
+-
+- Done
+	-
