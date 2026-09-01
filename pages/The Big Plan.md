@@ -11,6 +11,7 @@
 		- Notes
 			- Kaede adoptive transfer into mTmG
 				- Use 2 Kaede mice into 4 mTmG mice (paired distal proximal)
+				- mG transfer into mTmG maybe? From Char
 			- Transfer at time of wounding (D0)
 				- .5 - 1x10^6
 			- See how many are visible at the wound
