@@ -19,6 +19,7 @@
 		- Goal is to see monocyte recruitment kinetics + separate from neutrophils
 	- [[Ms4a3 Cre Pilot]]
 		- mouse from Char
+		- Lets try for this week
 		- Chunyan used for toe cut, available after [[Aug 25th, 2026]]
 	- [[CD64 Cre Pilot]]
 		- mouse from Char
