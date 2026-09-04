@@ -9,7 +9,6 @@
 	- Bulk up number of mice for proximal and distal wound closure dynamics
 - Time course:
 	- Batch 1
-	  collapsed:: true
 		- Mice
 			- M6 - proximal
 			- M9 - distal
@@ -80,24 +79,30 @@
 				- same as last time
 	- Batch 2
 		- Mice
-			- M3
+			- M3 - distal
 			- M4
+				- this mouse turned out to not be mTmG, did not image
 		- D -2 [[Aug 29th, 2026]]
+		  collapsed:: true
 			- Tamoxifen injection
 				- 150 uL each mouse
 				- mouse left
 		- D0 [[Aug 31st, 2026]]
+		  collapsed:: true
 			- Tamoxifen injection
+			  collapsed:: true
 				-
 			- Anesthesia Parameters
+			  collapsed:: true
 				-
 			- Imaging Parameters
-				-
 		- D1 [[Sep 1st, 2026]]
+		  collapsed:: true
 			- Anesthesia Parameters
 				-
 			- Imaging Parameters
 		- D2 [[Sep 2nd, 2026]]
+		  collapsed:: true
 			- Tamoxifen Injection
 				-
 			- Anesthesia Parameters
@@ -109,20 +114,24 @@
 			- Imaging Parameters
 	- Batch 3
 		- Mice
-			- M5
-			- F_
+			- M5 - proximal
+			- F8 - distal
 		- D -2 [[Sep 1st, 2026]]
 			- Tamoxifen injection
 				-
 		- D0 [[Sep 3rd, 2026]]
 			- Tamoxifen Injection
-				-
+				- did not do
 			- Anesthesia Parameters
-				-
 			- Imaging Parameters
+				- M5 just kinda sucked for some reason
+				- F8 also had a ton of drift so image is in two parts
+					- distal and proximal halves of wound
 		- D1 [[Sep 4th, 2026]]
+			- Tamoxifen injection
+				- make up for yesterday
 			- Anesthesia Parameters
-				-
+				- F8 130 uL
 			- Imaging Parameters
 		- D2 [[Sep 5th, 2026]]
 			- Tamoxifen Injection
