@@ -118,10 +118,10 @@
 			- F8 - distal
 		- D -2 [[Sep 1st, 2026]]
 			- Tamoxifen injection
-				-
+				- mouse left
 		- D0 [[Sep 3rd, 2026]]
 			- Tamoxifen Injection
-				- did not do
+				- did not do (forgor)
 			- Anesthesia Parameters
 			- Imaging Parameters
 				- M5 just kinda sucked for some reason
@@ -130,12 +130,15 @@
 		- D1 [[Sep 4th, 2026]]
 			- Tamoxifen injection
 				- make up for yesterday
+				- 150uL mouse right
 			- Anesthesia Parameters
 				- F8 130 uL
+				- M5
 			- Imaging Parameters
+				-
 		- D2 [[Sep 5th, 2026]]
 			- Tamoxifen Injection
-				-
+				- 150uL mouse left
 			- Anesthesia Parameters
 				-
 			- Imaging Parameters

@@ -1,15 +1,22 @@
-- Mouse:
-	- Genotype:
-	- DOB:
-	- Cage number:
+- Mouse donor:
+	- Genotype: mG from Char
+	- DOB: not sure
+	- Cage number: not sure
 	- Notes
+		- Two mice used for adoptive transfer
+		- 40 million monocytes recovered total
 - Goals:
-	-
+	- Try out adoptive transfer
+	- See how many cells are recruited to site of injury
 - Time course:
-	- D0
+	- D0 [[Sep 3rd, 2026]]
 		- Anesthesia Parameters
-			-
-		- Imaging Parameters
-			-
+			- 80uL ketamine for quick nair, punch, and injection
+		- Adoptive Transfer
+			- 100uL retro-orbital injection targeting 1 million cells per mouse (100uL of 10million cells per mL suspension)
+	- D1 [[Sep 4th, 2026]]
+		-
+	- D2 [[Sep 5th, 2026]]
+		-
 - Relevant Project
 	-

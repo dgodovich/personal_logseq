@@ -1,0 +1,26 @@
+- Mouse:
+	- M1 distal
+	- M5 proximal
+	- Genotype: Ms4a3 Cre; tdTomato; MacGreen (hemi)
+	- DOB:
+	- Cage number:
+	- Notes
+		- Mice donated from Char
+- Goals:
+	- Visualize Ms4a3 Cre expression in the ear at steady state and following injury
+- Time course:
+	- D0 [[Sep 1st, 2026]]
+		- Anesthesia Parameters
+		- Imaging Parameters
+			- MP1 1040 2-3%
+			- MP3 940 4-7%
+			- Had to switch to MP2 for everything because of an issue for one image
+	- D2 [[Sep 3rd, 2026]]
+		- M1 distal
+			- MP1 1040; MP3 940 usual settings
+			- Imaged along DP axis of wound edge
+		- did not get to image both mice because of other stuff going on
+	- D3 [[Sep 4th, 2026]]
+		- Imaging the other one
+- Relevant Project
+	-
