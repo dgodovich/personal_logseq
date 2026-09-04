@@ -5,6 +5,14 @@
 	- Notes
 		- Two mice used for adoptive transfer
 		- 40 million monocytes recovered total
+- recipient
+	- 205397 mTmG males
+		- M1 -
+		- M2 - prox
+		- M3 -
+		- M4 -
+	- Adoptive Transfer
+		- 100uL retro-orbital injection targeting 1 million cells per mouse (100uL of 10million cells per mL suspension)
 - Goals:
 	- Try out adoptive transfer
 	- See how many cells are recruited to site of injury
@@ -12,10 +20,8 @@
 	- D0 [[Sep 3rd, 2026]]
 		- Anesthesia Parameters
 			- 80uL ketamine for quick nair, punch, and injection
-		- Adoptive Transfer
-			- 100uL retro-orbital injection targeting 1 million cells per mouse (100uL of 10million cells per mL suspension)
 	- D1 [[Sep 4th, 2026]]
-		-
+		- 120uL ket
 	- D2 [[Sep 5th, 2026]]
 		-
 - Relevant Project
