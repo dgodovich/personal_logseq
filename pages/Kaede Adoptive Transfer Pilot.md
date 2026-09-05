@@ -10,6 +10,9 @@
 		- M1 - dist
 		- M2 - prox
 		- M3 - prox
+			- is PDGFRaH2BGFP whoops
+			- don't continue imaging this one, very difficult to tell what the mG cells are
+			- theoretically possible but hard and not worth
 		- M4 - dist
 	- Adoptive Transfer
 		- 100uL retro-orbital injection targeting 1 million cells per mouse (100uL of 10million cells per mL suspension)
@@ -26,12 +29,7 @@
 			- 1 z slice 7x7 of the entire hole of some average-ish position
 				- It's not flat so as good as I can get
 			- Full section 2x3 of a selected region at the edge with 5um resolution
-		- M1
-			- 2x3 at hole bottom (proximal edge)
-		- M2
-			- 2x3 at hole bottom (proximal edge)
-		- M3
-		- M4
+				- did bottom for each for consistency
 	- D2 [[Sep 5th, 2026]]
 		-
 - Relevant Project
