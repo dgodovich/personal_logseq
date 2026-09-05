@@ -31,6 +31,9 @@
 			- Full section 2x3 of a selected region at the edge with 5um resolution
 				- did bottom for each for consistency
 	- D2 [[Sep 5th, 2026]]
-		-
+		- 120uL ket for all
+		- Equivalent imaging as yesterday
+			- 1 z slice of whole, close up of same region from yesterday
+	-
 - Relevant Project
 	-
