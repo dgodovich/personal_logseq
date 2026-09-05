@@ -9,8 +9,8 @@
 	- 205397 mTmG males
 		- M1 - dist
 		- M2 - prox
-		- M3 -
-		- M4 -
+		- M3 - prox
+		- M4 - dist
 	- Adoptive Transfer
 		- 100uL retro-orbital injection targeting 1 million cells per mouse (100uL of 10million cells per mL suspension)
 - Goals:
@@ -21,7 +21,17 @@
 		- Anesthesia Parameters
 			- 80uL ketamine for quick nair, punch, and injection
 	- D1 [[Sep 4th, 2026]]
-		- 120uL ket
+		- 120uL ket for all
+		- Imaging parameters are about the same for all
+			- 1 z slice 7x7 of the entire hole of some average-ish position
+				- It's not flat so as good as I can get
+			- Full section 2x3 of a selected region at the edge with 5um resolution
+		- M1
+			- 2x3 at hole bottom (proximal edge)
+		- M2
+			- 2x3 at hole bottom (proximal edge)
+		- M3
+		- M4
 	- D2 [[Sep 5th, 2026]]
 		-
 - Relevant Project
