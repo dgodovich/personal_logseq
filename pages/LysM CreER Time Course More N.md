@@ -78,6 +78,7 @@
 			- Imaging Parameters
 				- same as last time
 	- Batch 2
+	  collapsed:: true
 		- Mice
 			- M3 - distal
 			- M4
@@ -133,7 +134,7 @@
 				- 150uL mouse right
 			- Anesthesia Parameters
 				- F8 130 uL
-				- M5
+				- M5 175 uL
 			- Imaging Parameters
 				-
 		- D2 [[Sep 5th, 2026]]
