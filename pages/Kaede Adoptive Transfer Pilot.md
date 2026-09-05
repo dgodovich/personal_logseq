@@ -7,7 +7,7 @@
 		- 40 million monocytes recovered total
 - recipient
 	- 205397 mTmG males
-		- M1 -
+		- M1 - dist
 		- M2 - prox
 		- M3 -
 		- M4 -
