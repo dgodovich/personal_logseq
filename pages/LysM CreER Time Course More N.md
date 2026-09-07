@@ -78,7 +78,6 @@
 			- Imaging Parameters
 				- same as last time
 	- Batch 2
-	  collapsed:: true
 		- Mice
 			- M3 - distal
 			- M4
