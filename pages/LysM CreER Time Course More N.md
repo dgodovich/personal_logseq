@@ -78,6 +78,7 @@
 			- Imaging Parameters
 				- same as last time
 	- Batch 2
+	  collapsed:: true
 		- Mice
 			- M3 - distal
 			- M4
@@ -146,5 +147,22 @@
 			- Anesthesia Parameters
 				-
 			- Imaging Parameters
+	- Batch 4
+		- Mice
+			- F1 distal
+			- F2 proximal
+		- D -2 [[Sep 7th, 2026]]
+			- Tamoxifen injection
+		- D0 [[Sep 9th, 2026]]
+			- Tamoxifen injection
+				- mouse left
+			- Imaging Parameters
+				- Used 20um \Delta\z because it was pretty crappy mounts
+				- Also expanded the tdtomato detector because why not
+		- D1 [[Sep 10th, 2026]]
+			-
+		- D2 [[Sep 11th, 2026]]
+			- tamoxifen injection
+				- mouse right
 - Relevant Project
 	-
