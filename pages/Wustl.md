@@ -17,7 +17,6 @@
 	- 2/20 - 22 is the onsite visit
 		- 18 offers (I think, based on the email that was sent out)
 - Faculty:
-  collapsed:: true
 	- Need 5 to 10 ranked list for onsite visit
 	- [Duygu Özpolat](https://bduyguozpolat.org/)
 		- germ cell regeneration

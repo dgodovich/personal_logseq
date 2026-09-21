@@ -23,7 +23,6 @@
 			-
 		-
 - Faculty:
-  collapsed:: true
 	- Application only asks for two faculty members
 	- Labs
 		- [Jessica Whited](https://www.whitedlab.com/)

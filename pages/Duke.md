@@ -97,7 +97,6 @@
 		- at least one of these people (sydney crump) was also interviewing at WashU
 - Faculty:
   id:: e9f502cf-9f62-41b4-9019-86e028201760
-  collapsed:: true
 	- [check out these faculty members in the duke regeneration center](https://sites.duke.edu/dukeregenerationcenter/affiliated-faculty/)
 		- none of them have primary appointments in dev bio which is interesting
 			- Oh it's because no one has a primary appointment in dev bio lmao
