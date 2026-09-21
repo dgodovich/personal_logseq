@@ -1,12 +1,10 @@
 - Experiments
-	- [[LysM CreER Time Course More N]]  [[Aug 16th, 2026]] - [[Sep 7th, 2026]]
-		- Do in batches
-			- First batch injection [[Aug 16th, 2026]], image from [[Aug 18th, 2026]]
-			- Batch 2 and 3 [[Aug 31st, 2026]] - [[Sep 4th, 2026]]
-			- Batch 4
-		- Notes
-			- Equivalent tamoxifen injections as [[LysM CreER Time Course]]
-			- Targeting imaging at D0, 1, 2, 7
+	- Adoptive Transfer Macgreen into mTmG
+		- Bulk up numbers for adoptive transfer in proximal and in distal wounds
+		- imaging at D1
+	- [[CD64 Cre Pilot]]
+		- mouse from Char
+- Analyses
 	- [[Kaede Adoptive Transfer Pilot]] [[Sep 7th, 2026]] - [[Sep 11th, 2026]]
 		- Notes
 			- Kaede adoptive transfer into mTmG
@@ -17,34 +15,25 @@
 			- See how many are visible at the wound
 				- Image D1 and D2
 		- Goal is to see monocyte recruitment kinetics + separate from neutrophils
-	- [[Ms4a3 Cre Pilot]]
-		- mouse from Char
-		- Lets try for this week
-		- Chunyan used for toe cut, available after [[Aug 25th, 2026]]
-	- [[CD64 Cre Pilot]]
-		- mouse from Char
-- Analyses
+	- [[LysM CreER Time Course More N]]  [[Aug 16th, 2026]] - [[Sep 7th, 2026]]
+		- Do in batches
+			- First batch injection [[Aug 16th, 2026]], image from [[Aug 18th, 2026]]
+			- Batch 2 and 3 [[Aug 31st, 2026]] - [[Sep 4th, 2026]]
+			- Batch 4
+		- Notes
+			- Equivalent tamoxifen injections as [[LysM CreER Time Course]]
+			- Targeting imaging at D0, 1, 2, 7
 	- [[LysM CreER Time Course]]
 		- [[Aug 17th, 2026]] - [[Aug 28th, 2026]]
 		- Hair follicle spacing
 		- Hole size
 		- SHG?
-	- [[nGFP Pilot]]
-	  collapsed:: true
-		- Experiment done [[Aug 17th, 2026]] - [[Aug 21st, 2026]]
-		- Not sure how much analysis needs to be done here
-		- Notes
-		  collapsed:: true
-			- Use a not important mouse from Ravi
-			- Just trying to see what it looks like in the wound
-				- Can I resolve nuclei in the degradation band?
-				- Is it a functional replacement to PDGFR\alpha-H2BGFP?
-			- Image at D0 and D2, proximal 1.5mm punch
 	- [[Xenium]]
 		- INSERT PLANS HERE + in the offshoot page
 - Figures
 	- TBD
 - Collaborations
+  collapsed:: true
 	- [[Deepika Project]]
 		- Not up to date
 		- Next things are ERK-KTR mouse and cells
@@ -60,6 +49,7 @@
 	- Potential Eszter mouse collab
 		- at some point setting up breeding between H2B720 and Macgreen
 - [[Breeding Goals]]
+  collapsed:: true
 	- {{embed ((6a73785d-7d57-4561-93ce-7c0d8f183631))}}
 	- Set up Cx3cr1-DTR x wt breeding cage [[Aug 6th, 2026]]
 - Mentorship
@@ -67,4 +57,20 @@
 		- email her with some project details and review + 1 primary paper
 -
 - Done
+	- [[Ms4a3 Cre Pilot]]
+	  collapsed:: true
+		- mouse from Char
+		- Lets try for this week
+		- Chunyan used for toe cut, available after [[Aug 25th, 2026]]
+	- [[nGFP Pilot]]
+	  collapsed:: true
+		- Experiment done [[Aug 17th, 2026]] - [[Aug 21st, 2026]]
+		- Not sure how much analysis needs to be done here
+		- Notes
+		  collapsed:: true
+			- Use a not important mouse from Ravi
+			- Just trying to see what it looks like in the wound
+				- Can I resolve nuclei in the degradation band?
+				- Is it a functional replacement to PDGFR\alpha-H2BGFP?
+			- Image at D0 and D2, proximal 1.5mm punch
 	-
