@@ -1,0 +1,28 @@
+- Mouse:
+	- Genotype:
+		- Donor: mTmG Macgreen
+		- Recipient: mTmG
+	- DOB: 8/10/2026
+	- Cage number:
+		- 208094
+			- DOUBLE CHECK TOES WRITTEN ON CAGE CARD
+				- Two F2's on my sheet and one is mTmG, one is mTmG Macgreen - NOT THE SAME
+			- mTmG and mTmG Macgreen females
+			- F2, F8, F4 mTmG
+			- F6
+		- 208096
+			- mTmG males M3 and M6
+	- Notes
+- Goals:
+	-
+- Time course:
+	- D0 [[Sep 24th, 2026]]
+		- Punches
+			-
+		- Anesthesia Parameters
+			-
+		- Imaging Parameters
+			- no imaging
+		- Adoptive transfer
+- Relevant Project
+	-

@@ -1,12 +1,13 @@
 - Experiments
-	- Adoptive Transfer Macgreen into mTmG
+	- [[Adoptive Transfer 2 - Macgreen into mTmG]]
 		- Bulk up numbers for adoptive transfer in proximal and in distal wounds
 		- imaging at D1
 	- [[CD64 Cre Pilot]]
 		- mouse from Char
 - Analyses
-	- [[Kaede Adoptive Transfer Pilot]] [[Sep 7th, 2026]] - [[Sep 11th, 2026]]
+	- [[Adoptive Transfer Pilot]] [[Sep 7th, 2026]] - [[Sep 11th, 2026]]
 		- Notes
+		  collapsed:: true
 			- Kaede adoptive transfer into mTmG
 				- Use 2 Kaede mice into 4 mTmG mice (paired distal proximal)
 				- mG transfer into mTmG maybe? From Char
@@ -15,6 +16,7 @@
 			- See how many are visible at the wound
 				- Image D1 and D2
 		- Goal is to see monocyte recruitment kinetics + separate from neutrophils
+		- Count mG cells in the wound
 	- [[LysM CreER Time Course More N]]  [[Aug 16th, 2026]] - [[Sep 7th, 2026]]
 		- Do in batches
 			- First batch injection [[Aug 16th, 2026]], image from [[Aug 18th, 2026]]
