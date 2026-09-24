@@ -1,12 +1,13 @@
 - Mouse:
 	- Genotype:
 		- Donor: mTmG Macgreen
+			- 208094 F6
 		- Recipient: mTmG
 	- DOB: 8/10/2026
 	- Cage number:
 		- 208094
-			- DOUBLE CHECK TOES WRITTEN ON CAGE CARD
-				- Two F2's on my sheet and one is mTmG, one is mTmG Macgreen - NOT THE SAME
+			- Two F2's on my sheet and one is mTmG, one is mTmG Macgreen
+				- treat them identically and use only one
 			- mTmG and mTmG Macgreen females
 			- F2, F8, F4 mTmG
 			- F6
@@ -14,15 +15,28 @@
 			- mTmG males M3 and M6
 	- Notes
 - Goals:
-	-
+	- Bulk up D1 monocyte recruitment numbers
 - Time course:
 	- D0 [[Sep 24th, 2026]]
 		- Punches
-			-
-		- Anesthesia Parameters
-			-
-		- Imaging Parameters
-			- no imaging
+			- Proximal
+				- F2
+				- F2
+				- F8
+				- F4
+			- Distal
+				- M3
+				- M6
 		- Adoptive transfer
+			- 10 million cells recovery
+				- one mouse
+				- two bones broke
+				- One of the tubes the pcr tube fell in
+			- 100 uL retroorbital injection
+	- D1 [[Sep 25th, 2026]]
+		- Anesthesia
+			-
+		- Imaging
+			-
 - Relevant Project
 	-
