@@ -35,8 +35,12 @@
 			- 100 uL retroorbital injection
 	- D1 [[Sep 25th, 2026]]
 		- Anesthesia
-			-
+			- Roughly 150 for the males and 120 for the females
 		- Imaging
-			-
+			- M3 and M6 distal were pretty normal, had drift as per usual
+			- F4 I think imaged the distal side
+			- F8 imaged upside down from the usual orientation
+				- i.e. proximal up
+			- F2 that has macgreen I cut the first toe so now it's F1+2
 - Relevant Project
 	-
