@@ -43,4 +43,5 @@
 				- i.e. proximal up
 			- F2 that has macgreen I cut the first toe so now it's F1+2
 - Relevant Project
+- Analysis Notes
 	-

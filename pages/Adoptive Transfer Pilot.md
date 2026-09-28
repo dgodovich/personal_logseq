@@ -35,5 +35,8 @@
 		- Equivalent imaging as yesterday
 			- 1 z slice of whole, close up of same region from yesterday
 	-
-- Relevant Project
-	-
+- Analysis Notes
+	- D1
+		- M1 distal 63 cells
+		- M2 proximal 27 cells
+		-
