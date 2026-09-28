@@ -55,7 +55,7 @@
 	- {{embed ((6a73785d-7d57-4561-93ce-7c0d8f183631))}}
 	- Set up Cx3cr1-DTR x wt breeding cage [[Aug 6th, 2026]]
 - Mentorship
-	- Kelly
+	- [[Kelly Project]]
 		- email her with some project details and review + 1 primary paper
 -
 - Done
