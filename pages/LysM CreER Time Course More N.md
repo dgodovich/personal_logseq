@@ -166,6 +166,7 @@
 			- tamoxifen injection
 				- mouse right
 - Analysis Notes
+	- batch1 M9 distal looks pretty
 	- batch3 D2 M5_proximal is in two parts, top and bottom but it's not worth restitching
 		- mouse woke up and I think there is a section missing in the middle (only 6 tiles tall total)
 	- batch4 D1 F2 proximal
