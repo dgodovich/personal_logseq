@@ -161,9 +161,12 @@
 				- Used 20um \Delta\z because it was pretty crappy mounts
 				- Also expanded the tdtomato detector because why not
 		- D1 [[Sep 10th, 2026]]
-			-
+			- F1 distal punch died
 		- D2 [[Sep 11th, 2026]]
 			- tamoxifen injection
 				- mouse right
-- Relevant Project
-	-
+- Analysis Notes
+	- batch3 D2 M5_proximal is in two parts, top and bottom but it's not worth restitching
+		- mouse woke up and I think there is a section missing in the middle (only 6 tiles tall total)
+	- batch4 D1 F2 proximal
+		- two halves as many others, but I decided to skip sections in the bottom half. It's just the hole so no actual data there, but may make stitching hard
