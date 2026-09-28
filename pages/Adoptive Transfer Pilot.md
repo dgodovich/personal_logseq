@@ -39,4 +39,6 @@
 	- D1
 		- M1 distal 63 cells
 		- M2 proximal 27 cells
-		-
+		- M4 distal
+			- this one is missing two FOV because the mouse woke up - report as cells per area?
+			- 38 cells

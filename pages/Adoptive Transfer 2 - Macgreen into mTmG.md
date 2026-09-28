@@ -41,7 +41,8 @@
 			- F4 I think imaged the distal side
 			- F8 imaged upside down from the usual orientation
 				- i.e. proximal up
-			- F2 that has macgreen I cut the first toe so now it's F1+2
+			- Did 4x6 area for most of them
+		- F2 that has macgreen I cut the first toe so now it's F1+2
 - Relevant Project
 - Analysis Notes
 	-
