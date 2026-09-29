@@ -7,10 +7,11 @@
 	- Me
 		- M2
 			- left ear 28G, right ear 31G
-		- F8
+		- ~~F8~~
+		  collapsed:: true
 			- 31G
 		- M7
-			- 31G
+			- 28G
 	- Kelly
 		- All tattoos were with 31G needle
 		- M9
