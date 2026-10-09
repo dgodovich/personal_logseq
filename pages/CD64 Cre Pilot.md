@@ -1,0 +1,20 @@
+- Mouse:
+	- Genotype: CD64 Cre; R26-dsRed; nTnG
+		- dsRed is way dimmer than nT so it's functionally invisible
+		- From Char
+	- DOB: 7/13/2026
+		- 13ish weeks old, but older than I  would like but that's ok
+	- Cage number: 206802 / ____
+	- Notes
+- Goals:
+	- See what CD64 looks like in a wound
+		- proximal and distal
+	- Kelly practice imaging
+- Time course:
+	- D0 [[Oct 9th, 2026]]
+		- Anesthesia Parameters
+			-
+		- Imaging Parameters
+			-
+- Relevant Project
+	-

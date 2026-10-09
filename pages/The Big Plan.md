@@ -1,10 +1,17 @@
 - Experiments
+	- [[AAV Testing]]
+	- Depletion
+		- Cx3cr1-CreER; R26-DTA ?
+		- Cx3cr1-DTR ?
+		- gross morphology? No imaging?
+			- imaging wound debridement?
+	- [[CD64 Cre Pilot]] [[Oct 9th, 2026]]
+		- mouse from Char
+		- Do with Kelly
+- Analyses
 	- [[Adoptive Transfer 2 - Macgreen into mTmG]]
 		- Bulk up numbers for adoptive transfer in proximal and in distal wounds
 		- imaging at D1
-	- [[CD64 Cre Pilot]]
-		- mouse from Char
-- Analyses
 	- [[Adoptive Transfer Pilot]] [[Sep 7th, 2026]] - [[Sep 11th, 2026]]
 		- Notes
 		  collapsed:: true
