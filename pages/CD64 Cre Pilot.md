@@ -4,7 +4,8 @@
 		- From Char
 	- DOB: 7/13/2026
 		- 13ish weeks old, but older than I  would like but that's ok
-	- Cage number: 206802 / ____
+	- Cage number: 206802 / 7357
+		- Other 2 F were naired for intradermal injection practice
 	- Notes
 - Goals:
 	- See what CD64 looks like in a wound
@@ -13,8 +14,13 @@
 - Time course:
 	- D0 [[Oct 9th, 2026]]
 		- Anesthesia Parameters
-			-
+			- 150 for F7, distal
+			- 100 for F4 proximal
 		- Imaging Parameters
-			-
-- Relevant Project
-	-
+			- MP1 2-3
+			- MP3 4-7
+			- 150um Z, 25um \Delta
+			- 23min for 7x8 area
+			- Did not image proximal for time reasons
+	- D3 [[Oct 12th, 2026]]
+		-
