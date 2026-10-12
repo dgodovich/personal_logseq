@@ -1,0 +1,16 @@
+- Mouse:
+	- Genotype:
+	- DOB:
+	- Cage number:
+	- Notes
+- Goals:
+	- Test AAV from the Mallarino lab
+	- GFP expression time course and expression profile
+- Time course:
+	- D0
+		- Anesthesia Parameters
+			-
+		- Imaging Parameters
+			-
+- Relevant Project
+	-
