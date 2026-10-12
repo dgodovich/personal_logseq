@@ -42,7 +42,6 @@
 - Figures
 	- TBD
 - Collaborations
-  collapsed:: true
 	- [[Deepika Project]]
 		- Not up to date
 		- Next things are ERK-KTR mouse and cells
@@ -55,6 +54,7 @@
 	- [[Ellen Tubing collab]]
 		- Helping out with imaging a little
 		- Taking over for Emily after she leaves
+		- this turned into more than a little but it's chill
 	- Potential Eszter mouse collab
 		- at some point setting up breeding between H2B720 and Macgreen
 - [[Breeding Goals]]

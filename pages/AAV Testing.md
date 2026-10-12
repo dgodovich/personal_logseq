@@ -1,5 +1,5 @@
 - Mouse:
-	- Genotype:
+	- Genotype: mTmG? nTnG? wt? just can't have red
 	- DOB:
 	- Cage number:
 	- Notes
@@ -12,5 +12,5 @@
 			-
 		- Imaging Parameters
 			-
-- Relevant Project
-	-
+- Intradermal injection of 5uL in control and in injured ear (proximal punch)
+- Image at D1 and D5?
