@@ -1,12 +1,14 @@
 - Mouse:
-	- Genotype: mTmG? nTnG? wt? just can't have red
-	- DOB:
-	- Cage number:
+	- Genotype: nTnG
+	- DOB: 8/3/26
+	- Cage number: 7355 / 208038
 	- Notes
+		- Mice tail marked because they aren't toed
 - Goals:
 	- Test AAV from the Mallarino lab
 	- GFP expression time course and expression profile
 - Time course:
+	- [[draws/2026-10-13-15-44-03.excalidraw]]
 	- D0
 		- Anesthesia Parameters
 			-
