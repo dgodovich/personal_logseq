@@ -1,6 +1,7 @@
 - Experiments
 	- [[AAV Testing]]
 	- Depletion
+		- [[Clodronate Pilot]]
 		- Cx3cr1-CreER; R26-DTA ?
 		- Cx3cr1-DTR ?
 		- gross morphology? No imaging?

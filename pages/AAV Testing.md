@@ -9,8 +9,17 @@
 	- GFP expression time course and expression profile
 - Time course:
 	- [[draws/2026-10-13-15-44-03.excalidraw]]
-	- [[Oct 13th, 2026]]
-	-
+	- [[Oct 13th, 2026]] D -1 / 0
+		- Punch mouse 3, inject 1 and 2
+	- [[Oct 14th, 2026]] D1 post injection 1/2, D0 3
+		- Image mouse 1 and 2
+		- punch 2
+		- inject 3
+	- [[Oct 15th, 2026]] D1 post injection 3
+		- image 3
+	- [[Oct 18th, 2026]] D5 post injection 1/2, D4 for 3
+		- image 1, 2, 3
+-
 -
 -
 - Intradermal injection of 5uL in control and in injured ear (proximal punch)

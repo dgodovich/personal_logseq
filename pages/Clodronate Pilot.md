@@ -1,0 +1,15 @@
+- Mouse:
+	- Genotype: doesn't matter, whatever
+	- DOB:
+	- Cage number:
+	- Notes
+- Goals:
+	- Replicate clodronate depletion of ear wounds from [[Tissue-resident macrophages contribute to ear hole regeneration of early postnatal mice]]
+- Time course:
+	- D0
+		- Anesthesia Parameters
+			-
+		- Imaging Parameters
+			-
+- Relevant Project
+	-
