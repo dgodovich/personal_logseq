@@ -9,10 +9,9 @@
 	- GFP expression time course and expression profile
 - Time course:
 	- [[draws/2026-10-13-15-44-03.excalidraw]]
-	- D0
-		- Anesthesia Parameters
-			-
-		- Imaging Parameters
-			-
+	- [[Oct 13th, 2026]]
+	-
+-
+-
 - Intradermal injection of 5uL in control and in injured ear (proximal punch)
 - Image at D1 and D5?
