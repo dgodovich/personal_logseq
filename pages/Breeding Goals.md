@@ -24,4 +24,14 @@
 	- maintenance
 	- potential use for adoptive transfer
 	- also a source of wt mice which is nice
+	- Macgreen problems
+		- Sent adult toes to transnetyx for genotyping
+		- Kaede Genotyping
+		  A F6 208082_1
+		  B F7 208082_2
+		  C F8 208082_3
+		  D M4 211371
+		  E F2 205373
+		  F M5 208083
+		  G M3 206786
 -
