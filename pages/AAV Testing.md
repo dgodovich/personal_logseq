@@ -13,8 +13,19 @@
 		- Punch mouse 3, inject 1 and 2
 	- [[Oct 14th, 2026]] D1 post injection 1/2, D0 3
 		- Image mouse 1 and 2
-		- punch 2
+			- mouse 1
+				- 120 uL ketamine
+				- imaging 6x6 area nearby injection site (as approximated by vasculature)
+			- mouse 2
+				- punch
+				- 120uL ketamine
+				- Image proximal and distal sides of wound
+				- Overview?
 		- inject 3
+			- this did not go well
+			- Needle poked through to wound and then I lost most of the virus through the hole
+			- Tried injecting another 5 uL but unclear where that went
+			- Partly skill issue
 	- [[Oct 15th, 2026]] D1 post injection 3
 		- image 3
 	- [[Oct 18th, 2026]] D5 post injection 1/2, D4 for 3
