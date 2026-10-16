@@ -6,6 +6,10 @@
 - Goals:
 	- Replicate clodronate depletion of ear wounds from [[Tissue-resident macrophages contribute to ear hole regeneration of early postnatal mice]]
 - Clodronate and Control liposomes in distal and proximal
+	- clodronate distal x2
+	- clodronate proximal x2
+	- control distal x2
+	- control proximal x2
 - Time course:
 	- Depletion
 		- D0, D2, D5

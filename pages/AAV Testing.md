@@ -28,8 +28,10 @@
 			- Partly skill issue
 	- [[Oct 15th, 2026]] D1 post injection 3
 		- image 3
+			- this was better than I expected, but entirely limited to the proximal side of the injury
 	- [[Oct 18th, 2026]] D5 post injection 1/2, D4 for 3
 		- image 1, 2, 3
+			- Find same areas for all to measure kinetics
 -
 -
 -
