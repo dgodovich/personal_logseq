@@ -1,8 +1,16 @@
 - Mouse:
 	- Genotype: doesn't matter, whatever
-	- DOB:
-	- Cage number:
+		- wt (non-fluorescent)
+		- 2 PDGFRa, 1 macfred
+	- DOB: 8/23 & 8/25
+	- Cage number: 7398 (wt / non-fluorescent); 7334 (pdgfra and fred)
+		- 7398 - F6, F7, F8, F9, F10
+		- 7334 - F2, F4 PDGFRa; F3 Macfred
 	- Notes
+		- toe cuts done on 7398
+			- substantial blood loss from some of these :/ sorry
+		- Probably won't look at fibroblasts or macs
+			- really only interested in degree of degradation from imaging
 - Goals:
 	- Replicate clodronate depletion of ear wounds from [[Tissue-resident macrophages contribute to ear hole regeneration of early postnatal mice]]
 - Clodronate and Control liposomes in distal and proximal
@@ -17,5 +25,21 @@
 		- D2 post punch to see degradation (or not)
 	- Gross morphology images
 		- D0, D2, D5, D10, D21 I guess?
+	- [[Oct 16th, 2026]] D0
+		- Punch and inject all of them
+		- Controls
+			- Proximal
+				- F8
+					- no D0 gross morphology picture for this one
+					- injection didn't go super well
+						-
+			- Distal
+				- F7, F4
+		- Clodronates
+			- Proximal
+				- F3, F10
+			- Distal
+				- F2, F6
+	- [[Oct 18th, 2026]]
 - Relevant Project
 	-

@@ -51,6 +51,12 @@
 				- I think it's a lot of macrophages which is similar to what Chunyan was seeing
 					- But for sure there's chondrocytes and muscle showing up green as well
 		- mouse 2
+			- 7x7 area
+				- covering whole wound
+				- But it's fully closed??? Maybe something about potentiating the immune response with the virus???
+			- MP3 940 7-14%
+			- 190um z stack, 10um \Delta\z
+			- loads of green expression on all sides of the wound
 -
 -
 -
