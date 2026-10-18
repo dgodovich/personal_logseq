@@ -32,14 +32,31 @@
 				- F8
 					- no D0 gross morphology picture for this one
 					- injection didn't go super well
-						-
+						- needle poked through wound lol
+				- F9
 			- Distal
-				- F7, F4
+				- F7
+				- F4
+					- pdgfra
 		- Clodronates
 			- Proximal
-				- F3, F10
+				- F3
+					- fred
+				- F10
 			- Distal
-				- F2, F6
-	- [[Oct 18th, 2026]]
-- Relevant Project
-	-
+				- F2
+					- pdgfra
+					- injection failure
+						- went through the bottom and then tried re-doing but it went out through the existing holes
+						- not great
+				- F6
+	- [[Oct 18th, 2026]] D2
+		- Imaging
+			-
+		- Gross morphology images of everything
+			-
+- Notes
+	- Intradermal injections are still kind of hard
+	- Injecting into a wound is not the easiest thing to do
+		- Normal proximal location is very close to where I wanted to intradermally inject, so I moved the wound up a bit to overlap with the blood vessel
+		- Not sure how this will effect healing
