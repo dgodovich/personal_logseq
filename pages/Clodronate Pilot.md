@@ -52,7 +52,11 @@
 				- F6
 	- [[Oct 18th, 2026]] D2
 		- Imaging
-			-
+			- F6 distal clodronate
+				- 7x7 area around wound
+				- MP3 1300nm 30-50%
+					- second and third harmonics
+				- 300um stack, 25um \Delta\z
 		- Gross morphology images of everything
 			-
 - Notes
