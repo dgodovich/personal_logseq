@@ -60,6 +60,10 @@
 				- injection comes out of the previous injection hole lol
 			- F7 distal control
 				- same imaging parameters
+				- no problems injecting this one
+			- F10 proximal clodronate
+				- same imaging parameters
+				-
 		- Gross morphology images of everything
 			-
 - Notes
