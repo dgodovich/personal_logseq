@@ -59,11 +59,24 @@
 				- 300um stack, 25um \Delta\z
 				- injection comes out of the previous injection hole lol
 			- F7 distal control
+			  collapsed:: true
 				- same imaging parameters
 				- no problems injecting this one
 			- F10 proximal clodronate
+			  collapsed:: true
 				- same imaging parameters
-				-
+			- F9 proximal control
+			  collapsed:: true
+				- same imaging parameters
+			- F2 distal clodronate
+				- same imaging parameters
+					- 275um stack
+				- ignoring pdgfra
+			- F3 proximal clodronate
+				- check macfred
+		- no imaging, just injection
+			- F8 proximal control
+			- F4 distal control
 		- Gross morphology images of everything
 			-
 - Notes
