@@ -32,6 +32,25 @@
 	- [[Oct 18th, 2026]] D5 post injection 1/2, D4 for 3
 		- image 1, 2, 3
 			- Find same areas for all to measure kinetics
+		- Mouse 3
+			- 4x6 proximal wound edge area
+			- MP3 940 7-15%
+			- 6um \Delta\z, 180ish total I think
+			- Expression area is limited to proximal and a bit of the side edges of the wound
+				- none on distal side
+		- mouse 1
+			- 6x6 area
+				- not quite the same as D1
+					- my mount today had half of the D1 area falling off a cliff, so I excluded that for ease of imaging
+					- Still covering a lot of the same area
+			- MP3 940 7-15%
+			- 130um z stack, 5um \Delta\z
+			- everything is green
+				- no epidermis
+				- very bright as well
+				- I think it's a lot of macrophages which is similar to what Chunyan was seeing
+					- But for sure there's chondrocytes and muscle showing up green as well
+		- mouse 2
 -
 -
 -
