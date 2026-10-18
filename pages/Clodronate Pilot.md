@@ -57,6 +57,9 @@
 				- MP3 1300nm 30-50%
 					- second and third harmonics
 				- 300um stack, 25um \Delta\z
+				- injection comes out of the previous injection hole lol
+			- F7 distal control
+				- same imaging parameters
 		- Gross morphology images of everything
 			-
 - Notes
