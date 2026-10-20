@@ -1,0 +1,28 @@
+- Mouse:
+	- Genotype: mTmG; MacGreen F
+	- DOB: 8/10/26
+	- Cage number: 7354
+	- Notes
+- Goals:
+	- From the first experiment it wasn't clear if clodronate depletion actually worked, so try with a macgreen mouse to really see death
+	- Another concern was too much recruitment following the depletion, so shorter time before imaging
+- Experimental Design
+	- Mouse 1 (F1)
+		- Punch, deplete, image on sequential days
+		- Deplete with topical application too
+			- Bolus of clodronate liposome on the ear hole
+	- Mouse 2 (F3)
+		- _, deplete, image on sequential days
+	- Proximal wounds
+		- look for change in degradation
+		- Imaging at D2 post injury but D1 post depletion
+- Time course:
+	- D0 [[Oct 19th, 2026]]
+		- Punch F1, nair F1 and F3
+	- D1 [[Oct 20th, 2026]]
+		- clodronate intradermal injection in both
+		- Topical application too
+	- D2 [[Oct 21st, 2026]]
+		- Imaging Parameters
+- Relevant Project
+	-

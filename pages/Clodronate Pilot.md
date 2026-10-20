@@ -26,6 +26,7 @@
 	- Gross morphology images
 		- D0, D2, D5, D10, D21 I guess?
 	- [[Oct 16th, 2026]] D0
+	  collapsed:: true
 		- Punch and inject all of them
 		- Controls
 			- Proximal
@@ -51,6 +52,7 @@
 						- not great
 				- F6
 	- [[Oct 18th, 2026]] D2
+	  collapsed:: true
 		- Imaging
 			- F6 distal clodronate
 				- 7x7 area around wound
@@ -79,6 +81,9 @@
 			- F4 distal control
 		- Gross morphology images of everything
 			-
+	- [[Oct 21st, 2026]] D5
+		- inject and gross morphology images
+		-
 - Notes
 	- Intradermal injections are still kind of hard
 	- Injecting into a wound is not the easiest thing to do
