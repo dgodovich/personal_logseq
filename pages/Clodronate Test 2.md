@@ -22,6 +22,13 @@
 	- D1 [[Oct 20th, 2026]]
 		- clodronate intradermal injection in both
 		- Topical application too
+		- F3
+			- nair right ear to inject control liposomes
+			- left ear injection of clodronate
+		- F1
+			- first try of injection went through wound again so injection just went out through the wound edge
+				- That counts for topical application
+			- Reinject more to the side and that appeared to stay in the dermis
 	- D2 [[Oct 21st, 2026]]
 		- Imaging Parameters
 - Relevant Project
