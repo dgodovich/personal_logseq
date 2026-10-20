@@ -28,6 +28,7 @@
 		- F1
 			- first try of injection went through wound again so injection just went out through the wound edge
 				- That counts for topical application
+				- Left on for 1h (the entire time the mouse was under)
 			- Reinject more to the side and that appeared to stay in the dermis
 	- D2 [[Oct 21st, 2026]]
 		- Imaging Parameters
